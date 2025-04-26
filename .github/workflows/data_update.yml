@@ -4,6 +4,8 @@ on:
     # Should run at 0:00 and then every 6 hours every day in UTC time.
     - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   run-python:
     runs-on: ubuntu-latest
