@@ -1,9 +1,11 @@
 name: Monthly Data Release
 on:
   schedule:
-    # Runs at 14:00 UTC on the first day of every month
-    - cron: '0 14 1 * *'
+    # Runs at minute 0 past every 6th hour
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   create-monthly-release:
     runs-on: ubuntu-latest
@@ -11,8 +13,8 @@ jobs:
       - name: Get previous month
         id: get-month
         run: |
-          prev_month=$(date -d "last month" '+%Y-%m')
-          echo "prev_month=$prev_month" >> $GITHUB_OUTPUT
+          current_month=$(date '+%Y-%m')
+          echo "current_month=$current_month" >> $GITHUB_OUTPUT
           
       - name: Sparse Checkout
         uses: actions/checkout@v3
@@ -26,7 +28,7 @@ jobs:
             pyproject.toml
             requirements.txt
             monthly_data_releases/
-            data/${{ steps.get-month.outputs.prev_month }}-*
+            data/${{ steps.get-month.outputs.current_month }}-*
           sparse-checkout-cone-mode: false
       
       - name: List root directory contents
@@ -51,5 +53,5 @@ jobs:
           git config --local user.email "noreply@github.com"
           git config --local user.name "GitHub Actions Bot"
           git add monthly_data_releases/*
-          git commit -m "Monthly data release from last month"
+          git commit -m "Daily update of monthly data release for ${{ steps.get-month.outputs.current_month }}" || echo "Nothing to commit"
           git push

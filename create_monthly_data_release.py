@@ -132,13 +132,20 @@ def main(month_year):
 
     current_month = datetime.strptime(month_year, "%Y-%m")
     prev_month_last_day = (current_month - pd.DateOffset(days=1)).strftime("%Y-%m-%d")
-    next_month_first_day = (current_month + pd.DateOffset(months=1)).strftime("%Y-%m-%d")
-
     date_folders = [data_dir / prev_month_last_day]
+
+    raw_next_month_first_day = current_month + pd.DateOffset(months=1)
+    today = pd.Timestamp.now()
+
+    if raw_next_month_first_day > today:
+        next_month_first_day = today.strftime("%Y-%m-%d")
+    else:
+        next_month_first_day = raw_next_month_first_day.strftime("%Y-%m-%d")
+        date_folders.append(data_dir / next_month_first_day)
+        
     date_folders.extend(
         [folder for folder in sorted(data_dir.iterdir()) if folder.name.startswith(month_year)]
     )
-    date_folders.append(data_dir / next_month_first_day)
     date_folders = [f for f in date_folders if f.is_dir()]
 
     plan_df = get_plan_db(date_folders, alternative_station_names)
