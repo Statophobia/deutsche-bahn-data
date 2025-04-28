@@ -54,4 +54,5 @@ jobs:
           git config --local user.name "GitHub Actions Bot"
           git add monthly_data_releases/*
           git commit -m "Daily update of monthly data release for ${{ steps.get-month.outputs.current_month }}" || echo "Nothing to commit"
+          git pull --rebase origin main
           git push
