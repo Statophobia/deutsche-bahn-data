@@ -46,7 +46,9 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run Monthly Data Release Script
-        run: python create_monthly_data_release.py
+        run: |
+          python create_monthly_data_release.py
+          python create_recent_data_release.py
       
       - name: Commit and Push
         run: |
