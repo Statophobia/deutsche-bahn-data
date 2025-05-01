@@ -28,6 +28,6 @@ def main():
 if __name__ == "__main__":
     now = datetime.now()
     data_dir = Path("monthly_data_releases")
-    trains_considered = ['ICE', 'IC', 'EC']
+    trains_considered = ['ICE', 'IC']
 
     main()
