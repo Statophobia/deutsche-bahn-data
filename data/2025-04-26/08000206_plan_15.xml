@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
 <timetable station="Koblenz Hbf">
-	<s id="7231307294301279921-2504261341-31">
-		<tl f="N" t="p" o="801512" c="RB" n="12129"/>
-		<ar pt="2504261536" pp="9" l="81" ppth="Trier Hbf|Pfalzel|Trier Hafenstraße|Ehrang Ort|Quint|Schweich(DB)|Föhren|Hetzerath|Sehlem(Kr Wittlich)|Salmtal|Wittlich Hbf|Ürzig(DB)|Bengel|Bullay(DB)|Neef|Ediger-Eller|Cochem(Mosel)|Klotten|Pommern(Mosel)|Treis-Karden|Müden(Mosel)|Moselkern|Hatzenport|Löf|Kattenes|Lehmen|Kobern-Gondorf|Winningen(Mosel)|Koblenz-Güls|Koblenz-Moselweiß"/>
-	</s>
 	<s id="8316179347804720136-2504261403-9">
 		<tl f="N" t="p" o="V6RE" c="RE" n="29660"/>
 		<ar pt="2504261553" pp="1" l="17" ppth="Kaiserslautern Hbf|Winnweiler|Rockenhausen|Bad Münster a Stein|Bad Kreuznach|Bingen(Rhein) Hbf|Oberwesel|Boppard Hbf"/>
+	</s>
+	<s id="7231307294301279921-2504261341-31">
+		<tl f="N" t="p" o="801512" c="RB" n="12129"/>
+		<ar pt="2504261536" pp="9" l="81" ppth="Trier Hbf|Pfalzel|Trier Hafenstraße|Ehrang Ort|Quint|Schweich(DB)|Föhren|Hetzerath|Sehlem(Kr Wittlich)|Salmtal|Wittlich Hbf|Ürzig(DB)|Bengel|Bullay(DB)|Neef|Ediger-Eller|Cochem(Mosel)|Klotten|Pommern(Mosel)|Treis-Karden|Müden(Mosel)|Moselkern|Hatzenport|Löf|Kattenes|Lehmen|Kobern-Gondorf|Winningen(Mosel)|Koblenz-Güls|Koblenz-Moselweiß"/>
 	</s>
 	<s id="7178216005417948194-2504261337-25">
 		<tl f="N" t="p" o="8003G2" c="RE" n="10821"/>
@@ -54,13 +54,13 @@
 		<tl f="D" t="p" o="R4RH" c="VIA" n="25016"/>
 		<ar pt="2504261506" pp="8" l="RB10" tra="7316090931133111655-2504261508-1" ppth="Frankfurt(Main)Hbf|Frankfurt-Höchst|Mainz-Kastel|Wiesbaden Hbf|Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)|Assmannshausen|Lorch(Rhein)|Lorchhausen|Kaub|St Goarshausen|Kestert|Kamp-Bornhofen|Filsen|Osterspai|Braubach|Oberlahnstein|Niederlahnstein"/>
 	</s>
-	<s id="-7512137449855996888-2504261504-1">
-		<tl f="N" t="p" o="800640" c="RE" n="28253"/>
-		<dp pt="2504261504" pp="1" l="2" ppth="Boppard Hbf|Oberwesel|Bacharach|Bingen(Rhein) Hbf"/>
-	</s>
 	<s id="7316090931133111655-2504261508-1">
 		<tl f="D" t="p" o="R4RH" c="VIA" n="63616"/>
 		<dp pt="2504261508" pp="8" l="RB10" tra="-7118426883477829136-2504261253-26" ppth="Koblenz Stadtmitte|Neuwied"/>
+	</s>
+	<s id="-7512137449855996888-2504261504-1">
+		<tl f="N" t="p" o="800640" c="RE" n="28253"/>
+		<dp pt="2504261504" pp="1" l="2" ppth="Boppard Hbf|Oberwesel|Bacharach|Bingen(Rhein) Hbf"/>
 	</s>
 	<s id="-2611510088143164215-2504261416-12">
 		<tl f="N" t="p" o="801526" c="RB" n="12621"/>

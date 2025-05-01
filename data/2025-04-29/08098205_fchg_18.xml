@@ -1,10 +1,20 @@
 <?xml version="1.0" ?><timetable station="Leipzig Hbf (tief)" eva="8098205">
 
-<s id="1122402687789202286-2504291950-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar ct="2504292032" l="3"/>
-    <dp ct="2504292034" l="3"/>
+<s id="3695606877415530477-2504291941-4" eva="8098205">
+    <ar ct="2504292007" l="5"/>
+    <dp ct="2504292009" l="5"/>
+</s>
+
+
+<s id="-4968422680064537229-2504291926-19" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar ct="2504292033" l="3">
+        <m id="r16995296" t="d" c="15" ts="2504291945" ts-tts="25-04-29 19:45:16.808"/>
+    </ar>
+    <dp ct="2504292035" l="3">
+        <m id="r16995296" t="d" c="15" ts="2504291945" ts-tts="25-04-29 19:45:16.808"/>
+    </dp>
 </s>
 
 
@@ -14,180 +24,17 @@
 </s>
 
 
-<s id="8049114065947319844-2504292015-4" eva="8098205">
-    <ar ct="2504292041" l="5X"/>
-    <dp ct="2504292043" l="5X"/>
-</s>
-
-
 <s id="1257914138301379393-2504291956-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar ct="2504292106" l="3">
-        <m id="r16996333" t="d" c="7" ts="2504292011" ts-tts="25-04-29 20:12:04.235"/>
-    </ar>
-    <dp ct="2504292108" l="3">
-        <m id="r16996333" t="d" c="7" ts="2504292011" ts-tts="25-04-29 20:12:04.235"/>
-    </dp>
-</s>
-
-
-<s id="-4479614616901474865-2504291904-14" eva="8098205">
-    <ar ct="2504292022" l="5X"/>
-    <dp ct="2504292024" l="5X"/>
-</s>
-
-
-<s id="3844788164741117879-2504292015-4" eva="8098205">
-    <ar ct="2504292024" l="6"/>
-    <dp ct="2504292026" l="6"/>
-</s>
-
-
-<s id="2288406596207180723-2504292053-11" eva="8098205">
-    <ar ct="2504292118" l="1"/>
-    <dp ct="2504292120" l="1"/>
-</s>
-
-
-<s id="1366200177507641211-2504291953-11" eva="8098205">
-    <ar ct="2504292019" l="1"/>
-    <dp ct="2504292022" l="1"/>
-</s>
-
-
-<s id="5936059660341221683-2504292004-14" eva="8098205">
-    <ar ct="2504292122" l="5X"/>
-    <dp ct="2504292123" l="5X"/>
-</s>
-
-
-<s id="-3558806909298505377-2504292050-14" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.549" pr="1"/>
-    <ar cpth="Borsdorf(Sachs)|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504292131" l="3">
-        <m id="r16996151" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:37.725"/>
-    </ar>
-    <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf|Halle Rosengarten|Halle-Silberhöhe|Halle Südstadt|Halle Zscherbener Straße|Halle-Neustadt|Halle-Nietleben" ct="2504292133" l="3">
-        <m id="r16996151" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:37.725"/>
-    </dp>
-</s>
-
-
-<s id="2084127574476700090-2504292049-6" eva="8098205">
-    <ar ct="2504292103" l="4"/>
-    <dp ct="2504292104" l="4"/>
-</s>
-
-
-<s id="718001071925548001-2504291856-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar cpth="Halle-Nietleben|Halle-Neustadt|Halle Zscherbener Straße|Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten|Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504292017" l="3">
-        <m id="r16993762" t="d" c="48" ts="2504291911" ts-tts="25-04-29 19:11:36.918"/>
-        <m id="r16994401" t="d" c="38" ts="2504291924" ts-tts="25-04-29 19:24:26.700"/>
-        <m id="r16995881" t="d" c="7" ts="2504291957" ts-tts="25-04-29 19:57:56.995"/>
-        <m id="r16996143" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:22.116"/>
-    </ar>
-    <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)" ct="2504292018" l="3">
-        <m id="r16993762" t="d" c="48" ts="2504291911" ts-tts="25-04-29 19:11:36.918"/>
-        <m id="r16994401" t="d" c="38" ts="2504291924" ts-tts="25-04-29 19:24:26.700"/>
-        <m id="r16995881" t="d" c="7" ts="2504291957" ts-tts="25-04-29 19:57:56.995"/>
-        <m id="r16996143" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:22.116"/>
-    </dp>
-</s>
-
-
-<s id="-1696774583035553554-2504292004-7" eva="8098205">
-    <ar ct="2504292016" l="2"/>
-    <dp ct="2504292018" l="2"/>
-</s>
-
-
-<s id="-4968422680064537229-2504291926-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar ct="2504292032" l="3">
-        <m id="r16995296" t="d" c="15" ts="2504291945" ts-tts="25-04-29 19:45:24.076"/>
-    </ar>
-    <dp ct="2504292034" l="3">
-        <m id="r16995296" t="d" c="15" ts="2504291945" ts-tts="25-04-29 19:45:24.076"/>
-    </dp>
-</s>
-
-
-<s id="-1492750054861603349-2504291920-16" eva="8098205">
-    <ar ct="2504292013" l="2"/>
-    <dp ct="2504292015" l="2"/>
-</s>
-
-
-<s id="-7087995866119987801-2504292045-4" eva="8098205">
-    <ar ct="2504292053" l="6"/>
-    <dp ct="2504292055" l="6"/>
-</s>
-
-
-<s id="7882948881957948592-2504292056-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar cpth="Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten|Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" l="3">
-        <m id="r16996431" t="d" c="23" ts="2504292013" ts-tts="25-04-29 20:13:54.018"/>
-    </ar>
-    <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" l="3">
-        <m id="r16996431" t="d" c="23" ts="2504292013" ts-tts="25-04-29 20:13:54.018"/>
-    </dp>
-</s>
-
-
-<s id="-4750005226566666538-2504291833-18" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar cpth="Oschatz|Dahlen(Sachs)|Kühren|Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291932" l="3"/>
-    <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf|Halle Rosengarten|Halle-Silberhöhe|Halle Südstadt" ct="2504291934" l="3"/>
-</s>
-
-
-<s id="3815644310487149908-2504292004-16" eva="8098205">
-    <ar ct="2504292114" l="2">
-        <m id="r16995535" t="f" c="0" ts="2504291949" ts-tts="25-04-29 19:49:35.463"/>
-    </ar>
-    <dp ct="2504292115" l="2">
-        <m id="r16995535" t="f" c="0" ts="2504291949" ts-tts="25-04-29 19:49:35.463"/>
-    </dp>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar ct="2504292059" l="3"/>
+    <dp ct="2504292101" l="3"/>
 </s>
 
 
 <s id="-2135700492443994530-2504291959-7" eva="8098205">
-    <ar ct="2504292011" l="1"/>
-    <dp ct="2504292012" l="1"/>
-</s>
-
-
-<s id="6212843818882248593-2504291920-23" eva="8098205">
-    <ar ct="2504292051" l="5">
-        <m id="r16995421" t="d" c="43" ts="2504291947" ts-tts="25-04-29 19:47:29.802"/>
-    </ar>
-    <dp ct="2504292053" l="5">
-        <m id="r16995421" t="d" c="43" ts="2504291947" ts-tts="25-04-29 19:47:29.802"/>
-    </dp>
-</s>
-
-
-<s id="-4420593028545906551-2504292041-4" eva="8098205">
-    <ar ct="2504292107" l="5"/>
-    <dp ct="2504292109" l="5"/>
-</s>
-
-
-<s id="6382920149912072246-2504292041-13" eva="8098205">
-    <ar ct="2504292133" l="4"/>
-    <dp ct="2504292134" l="4"/>
-</s>
-
-
-<s id="3695606877415530477-2504291941-4" eva="8098205">
-    <ar ct="2504292007" l="5"/>
-    <dp ct="2504292009" l="5"/>
+    <ar ct="2504292012" l="1"/>
+    <dp ct="2504292014" l="1"/>
 </s>
 
 
@@ -200,6 +47,51 @@
 <s id="-6749506701418156885-2504292037-10" eva="8098205">
     <ar ct="2504292056" l="4"/>
     <dp ct="2504292058" l="4"/>
+</s>
+
+
+<s id="-3558806909298505377-2504292050-14" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.592" pr="1"/>
+    <ar cpth="Borsdorf(Sachs)|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" l="3">
+        <m id="r16996151" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:26.557"/>
+    </ar>
+    <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf|Halle Rosengarten|Halle-Silberhöhe|Halle Südstadt|Halle Zscherbener Straße|Halle-Neustadt|Halle-Nietleben" l="3">
+        <m id="r16996151" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:26.557"/>
+    </dp>
+</s>
+
+
+<s id="718001071925548001-2504291856-19" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
+    <ar cpth="Halle-Nietleben|Halle-Neustadt|Halle Zscherbener Straße|Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten|Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504292017" l="3">
+        <m id="r16993762" t="d" c="48" ts="2504291911" ts-tts="25-04-29 19:11:35.930"/>
+        <m id="r16994401" t="d" c="38" ts="2504291924" ts-tts="25-04-29 19:24:23.456"/>
+        <m id="r16995881" t="d" c="7" ts="2504291957" ts-tts="25-04-29 19:57:47.730"/>
+        <m id="r16996143" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:10.924"/>
+    </ar>
+    <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)" ct="2504292019" l="3">
+        <m id="r16993762" t="d" c="48" ts="2504291911" ts-tts="25-04-29 19:11:35.930"/>
+        <m id="r16994401" t="d" c="38" ts="2504291924" ts-tts="25-04-29 19:24:23.456"/>
+        <m id="r16995881" t="d" c="7" ts="2504291957" ts-tts="25-04-29 19:57:47.730"/>
+        <m id="r16996143" t="d" c="23" ts="2504292007" ts-tts="25-04-29 20:07:10.924"/>
+    </dp>
+</s>
+
+
+<s id="3815644310487149908-2504292004-16" eva="8098205">
+    <ar ct="2504292113" l="2">
+        <m id="r16995535" t="f" c="0" ts="2504291949" ts-tts="25-04-29 19:49:26.994"/>
+    </ar>
+    <dp ct="2504292115" l="2">
+        <m id="r16995535" t="f" c="0" ts="2504291949" ts-tts="25-04-29 19:49:26.994"/>
+    </dp>
+</s>
+
+
+<s id="-4479614616901474865-2504291904-14" eva="8098205">
+    <ar ct="2504292024" l="5X"/>
+    <dp ct="2504292025" l="5X"/>
 </s>
 
 
@@ -216,10 +108,20 @@
 
 
 <s id="8125734979194624852-2504291920-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar ct="2504292001" l="3"/>
     <dp ct="2504292003" l="3"/>
+</s>
+
+
+<s id="6212843818882248593-2504291920-23" eva="8098205">
+    <ar ct="2504292052" l="5">
+        <m id="r16995421" t="d" c="43" ts="2504291947" ts-tts="25-04-29 19:47:37.692"/>
+    </ar>
+    <dp ct="2504292054" l="5">
+        <m id="r16995421" t="d" c="43" ts="2504291947" ts-tts="25-04-29 19:47:37.692"/>
+    </dp>
 </s>
 
 
@@ -235,17 +137,17 @@
 </s>
 
 
-<s id="-3596946764658775541-2504292026-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar ct="2504292128" l="3"/>
-    <dp ct="2504292130" l="3"/>
-</s>
-
-
 <s id="1308946817803007521-2504291945-4" eva="8098205">
     <ar ct="2504291953" l="6"/>
     <dp ct="2504291955" l="6"/>
+</s>
+
+
+<s id="-3596946764658775541-2504292026-19" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar ct="2504292128" l="3"/>
+    <dp ct="2504292130" l="3"/>
 </s>
 
 
@@ -274,8 +176,8 @@
 
 
 <s id="-8993194562982441237-2504292020-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar ct="2504292101" l="3"/>
     <dp ct="2504292103" l="3"/>
 </s>
@@ -287,9 +189,21 @@
 </s>
 
 
+<s id="8049114065947319844-2504292015-4" eva="8098205">
+    <ar ct="2504292038" l="5X"/>
+    <dp ct="2504292040" l="5X"/>
+</s>
+
+
 <s id="1352799375854064732-2504291912-9" eva="8098205">
     <ar ct="2504291943" l="2"/>
     <dp ct="2504291945" l="2"/>
+</s>
+
+
+<s id="3844788164741117879-2504292015-4" eva="8098205">
+    <ar ct="2504292023" l="6"/>
+    <dp ct="2504292025" l="6"/>
 </s>
 
 
@@ -323,9 +237,29 @@
 </s>
 
 
+<s id="5936059660341221683-2504292004-14" eva="8098205">
+    <ar ct="2504292121" l="5X"/>
+    <dp ct="2504292123" l="5X"/>
+</s>
+
+
+<s id="-4750005226566666538-2504291833-18" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar ct="2504291932" l="3"/>
+    <dp ct="2504291934" l="3"/>
+</s>
+
+
+<s id="-1696774583035553554-2504292004-7" eva="8098205">
+    <ar ct="2504292016" l="2"/>
+    <dp ct="2504292018" l="2"/>
+</s>
+
+
 <s id="4668699799501531161-2504291826-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar ct="2504291929" l="3"/>
     <dp ct="2504291931" l="3"/>
 </s>
@@ -345,11 +279,17 @@
 
 <s id="-7692719076697887604-2504291915-4" eva="8098205">
     <ar ct="2504291924" l="6">
-        <m id="r16943826" t="f" c="0" ts="2504282040" ts-tts="25-04-28 20:40:59.466"/>
+        <m id="r16943826" t="f" c="0" ts="2504282040" ts-tts="25-04-28 20:40:56.013"/>
     </ar>
     <dp ct="2504291925" l="6">
-        <m id="r16943826" t="f" c="0" ts="2504282040" ts-tts="25-04-28 20:40:59.466"/>
+        <m id="r16943826" t="f" c="0" ts="2504282040" ts-tts="25-04-28 20:40:56.013"/>
     </dp>
+</s>
+
+
+<s id="1366200177507641211-2504291953-11" eva="8098205">
+    <ar ct="2504292018" l="1"/>
+    <dp ct="2504292020" l="1"/>
 </s>
 
 
@@ -362,6 +302,14 @@
 <s id="-5934609770455069-2504291853-11" eva="8098205">
     <ar ct="2504291920" l="1"/>
     <dp ct="2504291921" l="1"/>
+</s>
+
+
+<s id="1122402687789202286-2504291950-15" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar ct="2504292031" l="3"/>
+    <dp ct="2504292033" l="3"/>
 </s>
 
 
@@ -402,21 +350,21 @@
 
 
 <s id="-7309274292948791079-2504291820-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar ct="2504291901" l="3"/>
     <dp ct="2504291903" l="3"/>
 </s>
 
 
 <s id="-6537540058432147815-2504291756-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten|Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291900" l="3">
-        <m id="r16984415" t="d" c="15" ts="2504291636" ts-tts="25-04-29 16:36:56.341"/>
+        <m id="r16984415" t="d" c="15" ts="2504291636" ts-tts="25-04-29 16:36:56.930"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291902" l="3">
-        <m id="r16984415" t="d" c="15" ts="2504291636" ts-tts="25-04-29 16:36:56.341"/>
+        <m id="r16984415" t="d" c="15" ts="2504291636" ts-tts="25-04-29 16:36:56.931"/>
     </dp>
 </s>
 
@@ -451,6 +399,12 @@
 </s>
 
 
+<s id="-1492750054861603349-2504291920-16" eva="8098205">
+    <ar ct="2504292013" l="2"/>
+    <dp ct="2504292015" l="2"/>
+</s>
+
+
 <s id="-467932620958215679-2504291834-7" eva="8098205">
     <ar ct="2504291847" l="2"/>
     <dp ct="2504291848" l="2"/>
@@ -482,21 +436,21 @@
 
 
 <s id="-5858744841935100189-2504291733-18" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar ct="2504291832" l="3"/>
     <dp ct="2504291833" l="3"/>
 </s>
 
 
 <s id="-8828163429081497959-2504291726-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291828" l="3">
-        <m id="r16984559" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:39:02.409"/>
+        <m id="r16984559" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:39:03.002"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291830" l="3">
-        <m id="r16984559" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:39:02.409"/>
+        <m id="r16984559" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:39:03.002"/>
     </dp>
 </s>
 
@@ -539,10 +493,10 @@
 
 <s id="-6333855490610049504-2504291720-16" eva="8098205">
     <ar ct="2504291814" l="2">
-        <m id="r16987960" t="d" c="67" ts="2504291736" ts-tts="25-04-29 17:36:20.658"/>
+        <m id="r16987960" t="d" c="67" ts="2504291736" ts-tts="25-04-29 17:36:31.626"/>
     </ar>
     <dp ct="2504291815" l="2">
-        <m id="r16987960" t="d" c="67" ts="2504291736" ts-tts="25-04-29 17:36:20.658"/>
+        <m id="r16987960" t="d" c="67" ts="2504291736" ts-tts="25-04-29 17:36:31.626"/>
     </dp>
 </s>
 
@@ -560,8 +514,8 @@
 
 
 <s id="4251767917745632155-2504291720-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar ct="2504291806" l="3"/>
     <dp ct="2504291807" l="3"/>
 </s>
@@ -574,13 +528,13 @@
 
 
 <s id="-5435568112216648591-2504291656-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291800" l="3">
-        <m id="r16962557" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:40:00.257"/>
+        <m id="r16962557" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:55.336"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291801" l="3">
-        <m id="r16962557" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:40:00.257"/>
+        <m id="r16962557" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:55.336"/>
     </dp>
 </s>
 
@@ -598,13 +552,13 @@
 
 
 <s id="-8209344190089015746-2504291633-18" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar ct="2504291753" l="3">
-        <m id="r16986087" t="d" c="43" ts="2504291703" ts-tts="25-04-29 17:03:59.566"/>
+        <m id="r16986087" t="d" c="43" ts="2504291703" ts-tts="25-04-29 17:03:58.892"/>
     </ar>
     <dp ct="2504291754" l="3">
-        <m id="r16986087" t="d" c="43" ts="2504291703" ts-tts="25-04-29 17:03:59.566"/>
+        <m id="r16986087" t="d" c="43" ts="2504291703" ts-tts="25-04-29 17:03:58.892"/>
     </dp>
 </s>
 
@@ -652,13 +606,13 @@
 
 
 <s id="-3834557582268900396-2504291626-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291732" l="3">
-        <m id="r16962521" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:13.283"/>
+        <m id="r16962521" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:08.559"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291735" l="3">
-        <m id="r16962521" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:13.283"/>
+        <m id="r16962521" t="d" c="15" ts="2504290939" ts-tts="25-04-29 09:39:08.559"/>
     </dp>
 </s>
 
@@ -730,25 +684,25 @@
 
 
 <s id="-3626211335821691704-2504291620-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291705" l="3">
-        <m id="r16984535" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:38:15.190"/>
+        <m id="r16984535" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:38:15.662"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291706" l="3">
-        <m id="r16984535" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:38:15.190"/>
+        <m id="r16984535" t="d" c="15" ts="2504291638" ts-tts="25-04-29 16:38:15.662"/>
     </dp>
 </s>
 
 
 <s id="7808238092324743448-2504291556-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291702" l="3">
-        <m id="r16962495" t="d" c="15" ts="2504290938" ts-tts="25-04-29 09:38:42.109"/>
+        <m id="r16962495" t="d" c="15" ts="2504290938" ts-tts="25-04-29 09:38:37.409"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen|Kühren|Dahlen(Sachs)|Oschatz" ct="2504291705" l="3">
-        <m id="r16962495" t="d" c="15" ts="2504290938" ts-tts="25-04-29 09:38:42.109"/>
+        <m id="r16962495" t="d" c="15" ts="2504290938" ts-tts="25-04-29 09:38:37.409"/>
     </dp>
 </s>
 
@@ -761,7 +715,7 @@
 
 <s id="8862901691292322223-2504291655-1" eva="8098205">
     <dp ct="2504291700" l="6">
-        <m id="r16980296" t="f" c="0" ts="2504291528" ts-tts="25-04-29 15:28:56.445"/>
+        <m id="r16980296" t="f" c="0" ts="2504291528" ts-tts="25-04-29 15:29:03.725"/>
     </dp>
 </s>
 
@@ -809,13 +763,13 @@
 
 
 <s id="-2301040708951074849-2504291533-18" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Oschatz|Dahlen(Sachs)|Kühren|Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291638" l="3">
-        <m id="r16962202" t="d" c="15" ts="2504290933" ts-tts="25-04-29 09:33:14.830"/>
+        <m id="r16962202" t="d" c="15" ts="2504290933" ts-tts="25-04-29 09:33:10.495"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291639" l="3">
-        <m id="r16962202" t="d" c="15" ts="2504290933" ts-tts="25-04-29 09:33:14.830"/>
+        <m id="r16962202" t="d" c="15" ts="2504290933" ts-tts="25-04-29 09:33:10.495"/>
     </dp>
 </s>
 
@@ -833,13 +787,13 @@
 
 
 <s id="1329754750402387794-2504291526-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291631" l="3">
-        <m id="r16962462" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:55.304"/>
+        <m id="r16962462" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:38:06.200"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291633" l="3">
-        <m id="r16962462" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:55.304"/>
+        <m id="r16962462" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:38:06.200"/>
     </dp>
 </s>
 
@@ -870,9 +824,9 @@
 
 <s id="-6982339740356872924-2504291508-20" eva="8098205">
     <ar ct="2504291619" l="6">
-        <m id="r16977563" t="d" c="48" ts="2504291439" ts-tts="25-04-29 14:39:40.094"/>
-        <m id="r16979989" t="d" c="48" ts="2504291524" ts-tts="25-04-29 15:24:43.899"/>
-        <m id="r16980238" t="f" c="0" ts="2504291528" ts-tts="25-04-29 15:28:24.877"/>
+        <m id="r16977563" t="d" c="48" ts="2504291439" ts-tts="25-04-29 14:39:39.027"/>
+        <m id="r16979989" t="d" c="48" ts="2504291524" ts-tts="25-04-29 15:24:36.075"/>
+        <m id="r16980238" t="f" c="0" ts="2504291528" ts-tts="25-04-29 15:28:32.316"/>
     </ar>
 </s>
 
@@ -902,25 +856,25 @@
 
 
 <s id="-6750908868316716542-2504291520-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291604" l="3">
-        <m id="r16962155" t="d" c="15" ts="2504290932" ts-tts="25-04-29 09:32:27.881"/>
+        <m id="r16962155" t="d" c="15" ts="2504290932" ts-tts="25-04-29 09:32:23.838"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291606" l="3">
-        <m id="r16962155" t="d" c="15" ts="2504290932" ts-tts="25-04-29 09:32:27.881"/>
+        <m id="r16962155" t="d" c="15" ts="2504290932" ts-tts="25-04-29 09:32:23.838"/>
     </dp>
 </s>
 
 
 <s id="9103298541179966454-2504291456-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291602" l="3">
-        <m id="r16962439" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:08.725"/>
+        <m id="r16962439" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:19.497"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen|Kühren|Dahlen(Sachs)|Oschatz" ct="2504291605" l="3">
-        <m id="r16962439" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:08.725"/>
+        <m id="r16962439" t="d" c="15" ts="2504290937" ts-tts="25-04-29 09:37:19.497"/>
     </dp>
 </s>
 
@@ -974,7 +928,7 @@
 <s id="3288967049647759939-2504291515-4" eva="8098205">
     <ar ct="2504291541" l="5X"/>
     <dp ct="2504291543" l="5X">
-        <m id="r16979166" t="f" c="0" ts="2504291510" ts-tts="25-04-29 15:10:49.385"/>
+        <m id="r16979166" t="f" c="0" ts="2504291510" ts-tts="25-04-29 15:10:58.432"/>
     </dp>
 </s>
 
@@ -992,25 +946,25 @@
 
 
 <s id="1018369802015716701-2504291450-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291533" l="3">
-        <m id="r16962113" t="d" c="15" ts="2504290931" ts-tts="25-04-29 09:31:25.652"/>
+        <m id="r16962113" t="d" c="15" ts="2504290931" ts-tts="25-04-29 09:31:21.755"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291536" l="3">
-        <m id="r16962113" t="d" c="15" ts="2504290931" ts-tts="25-04-29 09:31:25.652"/>
+        <m id="r16962113" t="d" c="15" ts="2504290931" ts-tts="25-04-29 09:31:21.755"/>
     </dp>
 </s>
 
 
 <s id="795667783496884859-2504291426-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291533" l="3">
-        <m id="r16962412" t="d" c="15" ts="2504290936" ts-tts="25-04-29 09:36:37.495"/>
+        <m id="r16962412" t="d" c="15" ts="2504290936" ts-tts="25-04-29 09:36:48.463"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291535" l="3">
-        <m id="r16962412" t="d" c="15" ts="2504290936" ts-tts="25-04-29 09:36:37.495"/>
+        <m id="r16962412" t="d" c="15" ts="2504290936" ts-tts="25-04-29 09:36:48.463"/>
     </dp>
 </s>
 
@@ -1029,14 +983,14 @@
 
 <s id="8679745449387838329-2504291634-7" eva="8098205">
     <ar cpth="" cs="c" clt="2504291528" l="3">
-        <m id="r16980298" t="d" c="23" ts="2504291528" ts-tts="25-04-29 15:28:56.445"/>
+        <m id="r16980298" t="d" c="23" ts="2504291528" ts-tts="25-04-29 15:29:03.725"/>
     </ar>
 </s>
 
 
 <s id="-5321599675442118075-2504291608-1" eva="8098205">
     <dp cpth="" cs="c" clt="2504291528" l="3">
-        <m id="r16980239" t="d" c="23" ts="2504291528" ts-tts="25-04-29 15:28:24.878"/>
+        <m id="r16980239" t="d" c="23" ts="2504291528" ts-tts="25-04-29 15:28:32.316"/>
     </dp>
 </s>
 
@@ -1094,25 +1048,25 @@
 
 
 <s id="6839004328158060963-2504291420-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291503" l="3">
-        <m id="r16962037" t="d" c="15" ts="2504290929" ts-tts="25-04-29 09:29:21.270"/>
+        <m id="r16962037" t="d" c="15" ts="2504290929" ts-tts="25-04-29 09:29:17.455"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291504" l="3">
-        <m id="r16962037" t="d" c="15" ts="2504290929" ts-tts="25-04-29 09:29:21.270"/>
+        <m id="r16962037" t="d" c="15" ts="2504290929" ts-tts="25-04-29 09:29:17.455"/>
     </dp>
 </s>
 
 
 <s id="7884681870135836614-2504291356-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291500" l="3">
-        <m id="r16962349" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:36:06.228"/>
+        <m id="r16962349" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:36:01.853"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen|Kühren|Dahlen(Sachs)|Oschatz" ct="2504291502" l="3">
-        <m id="r16962349" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:36:06.228"/>
+        <m id="r16962349" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:36:01.853"/>
     </dp>
 </s>
 
@@ -1153,10 +1107,10 @@
 
 <s id="-6822827428980406754-2504291412-9" eva="8098205">
     <ar ct="2504291446" l="2">
-        <m id="r16974042" t="f" c="0" ts="2504291336" ts-tts="25-04-29 13:36:35.052"/>
+        <m id="r16974042" t="f" c="0" ts="2504291336" ts-tts="25-04-29 13:36:29.532"/>
     </ar>
     <dp ct="2504291449" l="2">
-        <m id="r16974042" t="f" c="0" ts="2504291336" ts-tts="25-04-29 13:36:35.052"/>
+        <m id="r16974042" t="f" c="0" ts="2504291336" ts-tts="25-04-29 13:36:29.532"/>
     </dp>
 </s>
 
@@ -1164,10 +1118,10 @@
 <s id="-1528490793314823834-2504291415-4" eva="8098205">
     <ar ct="2504291442" l="5X"/>
     <dp ct="2504291444" l="5X">
-        <m id="r16973258" t="f" c="0" ts="2504291320" ts-tts="25-04-29 13:20:37.866"/>
-        <m id="r16973264" t="f" c="0" ts="2504291320" ts-tts="25-04-29 13:20:37.866"/>
-        <m id="r16974389" t="f" c="0" ts="2504291342" ts-tts="25-04-29 13:42:20.353"/>
-        <m id="r16974392" t="f" c="0" ts="2504291342" ts-tts="25-04-29 13:42:20.353"/>
+        <m id="r16973258" t="f" c="0" ts="2504291320" ts-tts="25-04-29 13:20:34.898"/>
+        <m id="r16973264" t="f" c="0" ts="2504291320" ts-tts="25-04-29 13:20:34.898"/>
+        <m id="r16974389" t="f" c="0" ts="2504291342" ts-tts="25-04-29 13:42:29.874"/>
+        <m id="r16974392" t="f" c="0" ts="2504291342" ts-tts="25-04-29 13:42:29.874"/>
     </dp>
 </s>
 
@@ -1191,25 +1145,25 @@
 
 
 <s id="-4983287614390003004-2504291350-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291432" l="3">
-        <m id="r16962004" t="d" c="15" ts="2504290928" ts-tts="25-04-29 09:28:50.127"/>
+        <m id="r16962004" t="d" c="15" ts="2504290928" ts-tts="25-04-29 09:28:46.285"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291433" l="3">
-        <m id="r16962004" t="d" c="15" ts="2504290928" ts-tts="25-04-29 09:28:50.127"/>
+        <m id="r16962004" t="d" c="15" ts="2504290928" ts-tts="25-04-29 09:28:46.285"/>
     </dp>
 </s>
 
 
 <s id="6818523337865309515-2504291326-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.359" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291431" l="3">
-        <m id="r16962332" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:35:35.039"/>
+        <m id="r16962332" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:35:30.475"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291433" l="3">
-        <m id="r16962332" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:35:35.039"/>
+        <m id="r16962332" t="d" c="15" ts="2504290935" ts-tts="25-04-29 09:35:30.475"/>
     </dp>
 </s>
 
@@ -1228,8 +1182,8 @@
 
 <s id="5999393903235967957-2504291355-1" eva="8098205">
     <dp ppth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig-Connewitz|Markkleeberg Nord|Markkleeberg|Markkleeberg-Großstädteln|Markkleeberg-Gaschwitz|Großdeuben|Böhlen(Leipzig)|Böhlen Werke|Neukieritzsch|Lobstädt|Borna(Leipzig)|Petergrube|Neukirchen-Wyhra|Frohburg|Geithain" pp="1" ct="2504291425" pt="2504291355" tra="7661462846008601991-2504291334-7" l="6">
-        <m id="r16972885" t="d" c="48" ts="2504291314" ts-tts="25-04-29 13:14:06.375"/>
-        <m id="r16973984" t="d" c="48" ts="2504291335" ts-tts="25-04-29 13:35:32.406"/>
+        <m id="r16972885" t="d" c="48" ts="2504291314" ts-tts="25-04-29 13:14:04.141"/>
+        <m id="r16973984" t="d" c="48" ts="2504291335" ts-tts="25-04-29 13:35:27.038"/>
     </dp>
     <tl f="S" t="p" o="800486" c="S" n="37637"/>
 </s>
@@ -1243,9 +1197,9 @@
 
 <s id="7661462846008601991-2504291334-7" eva="8098205">
     <ar ct="2504291422" l="3">
-        <m id="r16972812" t="d" c="48" ts="2504291312" ts-tts="25-04-29 13:12:16.863"/>
-        <m id="r16972815" t="d" c="48" ts="2504291312" ts-tts="25-04-29 13:12:16.863"/>
-        <m id="r16973956" t="d" c="48" ts="2504291334" ts-tts="25-04-29 13:35:00.996"/>
+        <m id="r16972812" t="d" c="48" ts="2504291312" ts-tts="25-04-29 13:12:14.597"/>
+        <m id="r16972815" t="d" c="48" ts="2504291312" ts-tts="25-04-29 13:12:14.597"/>
+        <m id="r16973956" t="d" c="48" ts="2504291334" ts-tts="25-04-29 13:34:55.597"/>
     </ar>
 </s>
 
@@ -1290,21 +1244,21 @@
 </s>
 
 
-<s id="-2598470992369300137-2504291257-16" eva="8098205">
-    <ar ct="2504291405" l="4"/>
-    <dp ct="2504291407" l="4"/>
+<s id="2646309227162258077-2504291320-15" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+    <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291405" l="3">
+        <m id="r16961963" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:59.592"/>
+    </ar>
+    <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291407" l="3">
+        <m id="r16961963" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:59.592"/>
+    </dp>
 </s>
 
 
-<s id="2646309227162258077-2504291320-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
-    <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291405" l="3">
-        <m id="r16961963" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:28:03.305"/>
-    </ar>
-    <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291407" l="3">
-        <m id="r16961963" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:28:03.305"/>
-    </dp>
+<s id="-2598470992369300137-2504291257-16" eva="8098205">
+    <ar ct="2504291405" l="4"/>
+    <dp ct="2504291407" l="4"/>
 </s>
 
 
@@ -1315,13 +1269,13 @@
 
 
 <s id="-6555934871490058441-2504291256-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291358" l="3">
-        <m id="r16962311" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:48.368"/>
+        <m id="r16962311" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:59.298"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen|Kühren|Dahlen(Sachs)|Oschatz" ct="2504291400" l="3">
-        <m id="r16962311" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:48.368"/>
+        <m id="r16962311" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:59.298"/>
     </dp>
 </s>
 
@@ -1376,9 +1330,9 @@
 
 <s id="641139393332396573-2504291308-1" eva="8098205">
     <dp ppth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz" pp="2" ct="2504291339" pt="2504291308" tra="-5021889306727087029-2504291208-20" l="3">
-        <m id="r16969432" t="d" c="48" ts="2504291159" ts-tts="25-04-29 11:59:45.963"/>
-        <m id="r16972758" t="d" c="48" ts="2504291311" ts-tts="25-04-29 13:11:13.257"/>
-        <m id="r16973931" t="d" c="48" ts="2504291334" ts-tts="25-04-29 13:34:29.089"/>
+        <m id="r16969432" t="d" c="48" ts="2504291159" ts-tts="25-04-29 11:59:54.189"/>
+        <m id="r16972758" t="d" c="48" ts="2504291311" ts-tts="25-04-29 13:11:12.197"/>
+        <m id="r16973931" t="d" c="48" ts="2504291334" ts-tts="25-04-29 13:34:24.322"/>
     </dp>
     <tl f="S" t="p" o="800486" c="S" n="37692"/>
 </s>
@@ -1386,7 +1340,7 @@
 
 <s id="-5021889306727087029-2504291208-20" eva="8098205">
     <ar ppth="Geithain|Frohburg|Neukirchen-Wyhra|Petergrube|Borna(Leipzig)|Lobstädt|Neukieritzsch|Böhlen Werke|Böhlen(Leipzig)|Großdeuben|Markkleeberg-Gaschwitz|Markkleeberg-Großstädteln|Markkleeberg|Markkleeberg Nord|Leipzig-Connewitz|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" pp="2" ct="2504291337" pt="2504291306" tra="641139393332396573-2504291308-1" l="6">
-        <m id="r16969414" t="d" c="48" ts="2504291159" ts-tts="25-04-29 11:59:14.761"/>
+        <m id="r16969414" t="d" c="48" ts="2504291159" ts-tts="25-04-29 11:59:07.270"/>
     </ar>
     <tl f="S" t="p" o="800486" c="S" n="37632"/>
 </s>
@@ -1399,25 +1353,25 @@
 
 
 <s id="885601677039402107-2504291250-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291332" l="3">
-        <m id="r16961940" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:16.404"/>
+        <m id="r16961940" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:28.469"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291333" l="3">
-        <m id="r16961940" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:16.404"/>
+        <m id="r16961940" t="d" c="15" ts="2504290927" ts-tts="25-04-29 09:27:28.469"/>
     </dp>
 </s>
 
 
 <s id="8754600092885970795-2504291226-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291328" l="3">
-        <m id="r16962270" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:17.246"/>
+        <m id="r16962270" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:28.215"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291330" l="3">
-        <m id="r16962270" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:17.246"/>
+        <m id="r16962270" t="d" c="15" ts="2504290934" ts-tts="25-04-29 09:34:28.215"/>
     </dp>
 </s>
 
@@ -1448,10 +1402,10 @@
 
 <s id="1748655130216585683-2504291204-16" eva="8098205">
     <ar ct="2504291315" l="2">
-        <m id="r16969480" t="f" c="0" ts="2504291200" ts-tts="25-04-29 12:00:48.436"/>
+        <m id="r16969480" t="f" c="0" ts="2504291200" ts-tts="25-04-29 12:00:40.850"/>
     </ar>
     <dp ct="2504291316" l="2">
-        <m id="r16969480" t="f" c="0" ts="2504291200" ts-tts="25-04-29 12:00:48.436"/>
+        <m id="r16969480" t="f" c="0" ts="2504291200" ts-tts="25-04-29 12:00:40.850"/>
     </dp>
 </s>
 
@@ -1470,10 +1424,10 @@
 
 <s id="-3343465516595004466-2504292115-4" eva="8098205">
     <ar cpth="Leipzig Messe|Leipzig Essener Straße|Leipzig Nord|Leipzig Hbf" cs="c" clt="2504291309" l="6">
-        <m id="r16972686" t="d" c="36" ts="2504291309" ts-tts="25-04-29 13:09:38.926"/>
+        <m id="r16972686" t="d" c="36" ts="2504291309" ts-tts="25-04-29 13:09:38.503"/>
     </ar>
     <dp cpth="" cs="c" clt="2504291309" l="6">
-        <m id="r16972686" t="d" c="36" ts="2504291309" ts-tts="25-04-29 13:09:38.926"/>
+        <m id="r16972686" t="d" c="36" ts="2504291309" ts-tts="25-04-29 13:09:38.503"/>
     </dp>
 </s>
 
@@ -1485,25 +1439,25 @@
 
 
 <s id="-4161078299491121009-2504291220-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.592" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291302" l="3">
-        <m id="r16961846" t="d" c="15" ts="2504290925" ts-tts="25-04-29 09:25:11.588"/>
+        <m id="r16961846" t="d" c="15" ts="2504290925" ts-tts="25-04-29 09:25:08.517"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291304" l="3">
-        <m id="r16961846" t="d" c="15" ts="2504290925" ts-tts="25-04-29 09:25:11.588"/>
+        <m id="r16961846" t="d" c="15" ts="2504290925" ts-tts="25-04-29 09:25:08.517"/>
     </dp>
 </s>
 
 
 <s id="-25513481716377038-2504291156-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291258" l="3">
-        <m id="r16942292" t="d" c="15" ts="2504282001" ts-tts="25-04-28 20:01:59.519"/>
+        <m id="r16942292" t="d" c="15" ts="2504282001" ts-tts="25-04-28 20:01:46.746"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291300" l="3">
-        <m id="r16942292" t="d" c="15" ts="2504282001" ts-tts="25-04-28 20:01:59.519"/>
+        <m id="r16942292" t="d" c="15" ts="2504282001" ts-tts="25-04-28 20:01:46.746"/>
     </dp>
 </s>
 
@@ -1551,13 +1505,13 @@
 
 
 <s id="-4902960035268284018-2504291150-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.593" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291233" l="3">
-        <m id="r16961790" t="d" c="15" ts="2504290924" ts-tts="25-04-29 09:24:24.731"/>
+        <m id="r16961790" t="d" c="15" ts="2504290924" ts-tts="25-04-29 09:24:21.878"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291235" l="3">
-        <m id="r16961790" t="d" c="15" ts="2504290924" ts-tts="25-04-29 09:24:24.731"/>
+        <m id="r16961790" t="d" c="15" ts="2504290924" ts-tts="25-04-29 09:24:21.878"/>
     </dp>
 </s>
 
@@ -1569,13 +1523,13 @@
 
 
 <s id="-4147429252337227661-2504291126-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Halle(Saale)Hbf|Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz|Leipzig-Lützschena|Leipzig-Wahren|Leipzig Slevogtstraße|Leipzig Olbrichtstraße|Leipzig-Gohlis" ct="2504291229" l="3">
-        <m id="r16942032" t="d" c="15" ts="2504281956" ts-tts="25-04-28 19:56:31.717"/>
+        <m id="r16942032" t="d" c="15" ts="2504281956" ts-tts="25-04-28 19:56:35.235"/>
     </ar>
     <dp cpth="Leipzig Markt|Leipzig Wilhelm-Leuschner-Platz|Leipzig Bayerischer Bahnhof|Leipzig MDR|Leipzig Völkerschlachtdenkmal|Leipzig-Stötteritz|Leipzig Anger-Crottendorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Gerichshain|Machern(Sachs)|Altenbach|Bennewitz|Wurzen" ct="2504291230" l="3">
-        <m id="r16942032" t="d" c="15" ts="2504281956" ts-tts="25-04-28 19:56:31.717"/>
+        <m id="r16942032" t="d" c="15" ts="2504281956" ts-tts="25-04-28 19:56:35.235"/>
     </dp>
 </s>
 
@@ -1587,13 +1541,13 @@
 
 
 <s id="-2143494693639001802-2504291120-15" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.550" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.592" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" ct="2504291205" l="3">
-        <m id="r16961767" t="d" c="15" ts="2504290923" ts-tts="25-04-29 09:23:53.484"/>
+        <m id="r16961767" t="d" c="15" ts="2504290923" ts-tts="25-04-29 09:23:50.743"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" ct="2504291207" l="3">
-        <m id="r16961767" t="d" c="15" ts="2504290923" ts-tts="25-04-29 09:23:53.484"/>
+        <m id="r16961767" t="d" c="15" ts="2504290923" ts-tts="25-04-29 09:23:50.743"/>
     </dp>
 </s>
 
@@ -1605,68 +1559,74 @@
 
 
 <s id="8526149886960600053-2504292120-14" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.549" pr="1"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-29 10:16:01.592" pr="1"/>
 </s>
 
 
 <s id="6617202312624250944-2504292107-10" eva="8098205">
     <ar cpth="" cs="c" clt="2504291000" l="4">
-        <m id="r16963587" t="d" c="49" ts="2504291000" ts-tts="25-04-29 10:00:47.687"/>
+        <m id="r16963587" t="d" c="49" ts="2504291000" ts-tts="25-04-29 10:00:40.189"/>
     </ar>
     <dp cpth="Leipzig Hbf|Leipzig Nord|Leipzig Mockauer Straße|Leipzig-Thekla|Leipzig-Heiterblick|Taucha(Leipzig)|Pönitz(Leipzig)|Jesewitz(Leipzig)|Eilenburg|Eilenburg Ost|Doberschütz|Mockrehna|Torgau" cs="c" clt="2504291000" l="4">
-        <m id="r16963587" t="d" c="49" ts="2504291000" ts-tts="25-04-29 10:00:47.687"/>
+        <m id="r16963587" t="d" c="49" ts="2504291000" ts-tts="25-04-29 10:00:40.189"/>
     </dp>
 </s>
 
 
 <s id="8699118445629072142-2504291941-13" eva="8098205">
     <ar cpth="Torgau|Mockrehna|Doberschütz|Eilenburg Ost|Eilenburg|Jesewitz(Leipzig)|Pönitz(Leipzig)|Taucha(Leipzig)|Leipzig-Heiterblick|Leipzig-Thekla|Leipzig Mockauer Straße|Leipzig Nord|Leipzig Hbf" cs="c" clt="2504290948" l="4">
-        <m id="r16962980" t="d" c="49" ts="2504290948" ts-tts="25-04-29 09:48:35.227"/>
+        <m id="r16962980" t="d" c="49" ts="2504290948" ts-tts="25-04-29 09:48:28.724"/>
     </ar>
     <dp cpth="" cs="c" clt="2504290948" l="4">
-        <m id="r16962980" t="d" c="49" ts="2504290948" ts-tts="25-04-29 09:48:35.227"/>
+        <m id="r16962980" t="d" c="49" ts="2504290948" ts-tts="25-04-29 09:48:28.724"/>
     </dp>
 </s>
 
 
 <s id="-5923978546089713865-2504291145-4" eva="8098205">
     <ar ct="2504291153" l="6">
-        <m id="r16961479" t="d" c="36" ts="2504290917" ts-tts="25-04-29 09:17:55.185"/>
+        <m id="r16961479" t="d" c="36" ts="2504290917" ts-tts="25-04-29 09:17:52.777"/>
     </ar>
     <dp ct="2504291158" l="6">
-        <m id="r16961479" t="d" c="36" ts="2504290917" ts-tts="25-04-29 09:17:55.185"/>
+        <m id="r16961479" t="d" c="36" ts="2504290917" ts-tts="25-04-29 09:17:52.777"/>
     </dp>
 </s>
 
 
 <s id="-3443192279489987600-2504292318-14" eva="8098205">
     <ar cpth="Wurzen|Bennewitz|Altenbach|Machern(Sachs)|Gerichshain|Borsdorf(Sachs)|Leipzig Anger-Crottendorf|Leipzig-Stötteritz|Leipzig Völkerschlachtdenkmal|Leipzig MDR|Leipzig Bayerischer Bahnhof|Leipzig Wilhelm-Leuschner-Platz|Leipzig Markt" l="3">
-        <m id="r16926897" t="d" c="15" ts="2504281454" ts-tts="25-04-28 14:55:09.487"/>
+        <m id="r16926897" t="d" c="15" ts="2504281454" ts-tts="25-04-28 14:55:04.737"/>
     </ar>
     <dp cpth="Leipzig-Gohlis|Leipzig Olbrichtstraße|Leipzig Slevogtstraße|Leipzig-Wahren|Leipzig-Lützschena|Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe|Halle(Saale)Hbf" l="3">
-        <m id="r16926897" t="d" c="15" ts="2504281454" ts-tts="25-04-28 14:55:09.487"/>
+        <m id="r16926897" t="d" c="15" ts="2504281454" ts-tts="25-04-28 14:55:04.737"/>
     </dp>
 </s>
 
 
 <s id="8847647897684583519-2504292325-13" eva="8098205">
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
 </s>
 
 
 <s id="-7908346854888851526-2504292226-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
 </s>
 
 
 <s id="1740325798930266549-2504292126-19" eva="8098205">
-    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.727" pr="1"/>
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
 </s>
 
 
 <s id="4942767098514136744-2504292223-13" eva="8098205">
-    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.304" pr="3"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
+</s>
+
+
+<s id="7882948881957948592-2504292056-19" eva="8098205">
+    <m id="r2411147" t="h" from="2504280949" to="2504292330" cat="Störung" ts="2504280952" ts-tts="25-04-28 23:16:04.690" pr="1"/>
+    <m id="r2375826" t="h" from="2504070000" to="2505102359" cat="Information" ts="2504062302" ts-tts="25-04-28 23:16:04.358" pr="3"/>
 </s>
 
 </timetable>

@@ -1,105 +1,5 @@
 <?xml version="1.0" ?><timetable station="Berlin-Wannsee (S)" eva="8089190">
 
-<s id="4458818504883963240-2504261950-13" eva="8089190">
-    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504262022" pt="2504262022" l="7"/>
-    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504262023" pt="2504262023" l="7"/>
-    <tl f="S" t="e" o="08" c="S" n="70600"/>
-    <ref>
-        <tl f="S" t="p" o="08" c="S" n="7600"/>
-    </ref>
-</s>
-
-
-<s id="6774407849114627801-2504262034-1" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <dp ct="2504262034" l="1"/>
-</s>
-
-
-<s id="-7622265634181581428-2504262031-4" eva="8089190">
-    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.103" pr="2"/>
-    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504262042" l="7"/>
-    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504262042" l="7"/>
-</s>
-
-
-<s id="-1184218297991174552-2504261938-30" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <ar ct="2504262042" l="1"/>
-</s>
-
-
-<s id="3117008083328267644-2504262031-35" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <ar ct="2504262151" l="1"/>
-</s>
-
-
-<s id="-7452157393363984533-2504262014-1" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <dp ct="2504262015" l="1"/>
-</s>
-
-
-<s id="7377239016122915719-2504262001-4" eva="8089190">
-    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
-    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504262014" l="7"/>
-    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504262015" l="7"/>
-</s>
-
-
-<s id="2782476971788494661-2504262030-13" eva="8089190">
-    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504262102" pt="2504262102" l="7"/>
-    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504262103" pt="2504262103" l="7"/>
-    <tl f="S" t="e" o="08" c="S" n="70604"/>
-    <ref>
-        <tl f="S" t="p" o="08" c="S" n="7604"/>
-    </ref>
-</s>
-
-
-<s id="2353399563548339555-2504262201-4" eva="8089190">
-    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
-    <ar cpth="" cs="c" clt="2504262014" l="7"/>
-    <dp cpth="" cs="c" clt="2504262014" l="7"/>
-</s>
-
-
-<s id="-8864533500878163492-2504261940-13" eva="8089190">
-    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504262012" pt="2504262012" l="7"/>
-    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504262014" pt="2504262013" l="7"/>
-    <tl f="S" t="e" o="08" c="S" n="70132"/>
-    <ref>
-        <tl f="S" t="p" o="08" c="S" n="7132"/>
-    </ref>
-</s>
-
-
-<s id="114510517836031692-2504261851-35" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <ar ct="2504262012" l="1"/>
-</s>
-
-
-<s id="-7866613208668656304-2504262024-1" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <dp ct="2504262024" l="1"/>
-</s>
-
-
-<s id="7384209982483102897-2504261918-30" eva="8089190">
-    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
-    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
-    <ar ct="2504262024" l="1"/>
-</s>
-
-
 <s id="-8753921327242565113-2504262021-4" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504262032" l="7"/>
@@ -114,6 +14,13 @@
     <ref>
         <tl f="S" t="p" o="08" c="S" n="7598"/>
     </ref>
+</s>
+
+
+<s id="7377239016122915719-2504262001-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504262014" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504262014" l="7"/>
 </s>
 
 
@@ -152,6 +59,13 @@
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
     <ar cp="1" ct="2504262002" l="1"/>
+</s>
+
+
+<s id="-7452157393363984533-2504262014-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <dp ct="2504262014" l="1"/>
 </s>
 
 
@@ -207,6 +121,13 @@
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
     <ar ct="2504261952" l="1"/>
+</s>
+
+
+<s id="7384209982483102897-2504261918-30" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar ct="2504262023" l="1"/>
 </s>
 
 
@@ -279,6 +200,16 @@
 </s>
 
 
+<s id="4458818504883963240-2504261950-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504262022" pt="2504262022" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504262023" pt="2504262023" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70600"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7600"/>
+    </ref>
+</s>
+
+
 <s id="-5133951772136224178-2504261900-13" eva="8089190">
     <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261932" pt="2504261932" l="7"/>
     <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261934" pt="2504261933" l="7"/>
@@ -293,6 +224,16 @@
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
     <ar ct="2504261933" l="1"/>
+</s>
+
+
+<s id="-8864533500878163492-2504261940-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504262012" pt="2504262012" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504262013" pt="2504262013" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70132"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7132"/>
+    </ref>
 </s>
 
 
@@ -327,6 +268,13 @@
     <ref>
         <tl f="S" t="p" o="08" c="S" n="7594"/>
     </ref>
+</s>
+
+
+<s id="-1184218297991174552-2504261938-30" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar ct="2504262041" l="1"/>
 </s>
 
 
@@ -472,6 +420,13 @@
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
     <ar ct="2504261843" l="1"/>
+</s>
+
+
+<s id="114510517836031692-2504261851-35" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar ct="2504262011" l="1"/>
 </s>
 
 
@@ -1522,6 +1477,23 @@
 </s>
 
 
+<s id="8386957451650566363-2504261231-35" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar ct="2504261353" l="1"/>
+</s>
+
+
+<s id="5315749742508602100-2504261310-13" eva="8089190">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261346" pt="2504261342" l="7"/>
+    <dp cpth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261346" pt="2504261343" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70560"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7560"/>
+    </ref>
+</s>
+
+
 <s id="-8713033717530433151-2504261344-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
@@ -1536,6 +1508,13 @@
 </s>
 
 
+<s id="-488641983854128114-2504261238-30" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee" ct="2504261345" cs="p" clt="2504261021" l="1"/>
+</s>
+
+
 <s id="-2539046491551756367-2504261321-4" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261335" l="7"/>
@@ -1543,10 +1522,27 @@
 </s>
 
 
+<s id="227254169582008700-2504261300-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261332" pt="2504261332" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261335" pt="2504261333" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70092"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7092"/>
+    </ref>
+</s>
+
+
 <s id="5932952352152238438-2504261334-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2504261334" l="1"/>
+</s>
+
+
+<s id="1715603565170606474-2504261211-35" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar ct="2504261331" l="1"/>
 </s>
 
 
@@ -1564,10 +1560,37 @@
 </s>
 
 
+<s id="-8585836466054248308-2504261250-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261322" pt="2504261322" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261324" pt="2504261323" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70558"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7558"/>
+    </ref>
+</s>
+
+
 <s id="-3207641768684853403-2504261314-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" ct="2504261315" l="1"/>
+</s>
+
+
+<s id="2935678326466872694-2504261218-30" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee" ct="2504261322" cs="p" clt="2504251628" l="1"/>
+</s>
+
+
+<s id="7456566272529885338-2504261240-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261316" pt="2504261312" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261317" pt="2504261313" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70090"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7090"/>
+    </ref>
 </s>
 
 
@@ -1602,10 +1625,34 @@
 </s>
 
 
+<s id="-2911821122900541657-2504261151-35" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.620" pr="2"/>
+    <ar ct="2504261312" l="1"/>
+</s>
+
+
 <s id="8959880672393202337-2504261251-4" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
     <ar cpth="Potsdam Griebnitzsee (S)" ct="2504261306" l="7"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261307" l="7"/>
+</s>
+
+
+<s id="1222118297635749848-2504261230-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261303" pt="2504261302" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261306" pt="2504261303" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70556"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7556"/>
+    </ref>
+</s>
+
+
+<s id="-5495157724015109941-2504261158-30" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.620" pr="2"/>
+    <ar cpth="Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee" ct="2504261306" cs="p" clt="2504251628" l="1"/>
 </s>
 
 
@@ -1616,10 +1663,69 @@
 </s>
 
 
+<s id="-568011126037798616-2504261241-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261257" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261258" l="7"/>
+</s>
+
+
+<s id="-1382961946822069525-2504261220-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" ct="2504261252" pt="2504261252" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2504261257" pt="2504261253" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70088"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7088"/>
+    </ref>
+</s>
+
+
 <s id="-1353584245745207711-2504261254-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2504261254" l="1"/>
+</s>
+
+
+<s id="-3288450011563981619-2504261221-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261241" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" ct="2504261242" l="7"/>
+</s>
+
+
+<s id="8636196545285041752-2504261244-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2504261244" l="1"/>
+</s>
+
+
+<s id="8011655206424851534-2504261234-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2504261235" l="1"/>
+</s>
+
+
+<s id="-5515328877974528860-2504261231-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="" ct="2504261242" cs="c" clt="2504261233" l="7"/>
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261242" cs="c" clt="2504261233" l="7"/>
+</s>
+
+
+<s id="-4430232726620853257-2504261211-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261225" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261226" l="7"/>
+</s>
+
+
+<s id="-7181638878852047362-2504261224-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2504261225" l="1"/>
 </s>
 
 
@@ -1647,9 +1753,44 @@
 </s>
 
 
+<s id="1555138346406256057-2504261214-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2504261214" l="1"/>
+</s>
+
+
+<s id="-5822001986182524587-2504261201-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261213" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261214" l="7"/>
+</s>
+
+
+<s id="-6607739963333126454-2504261204-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.618" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2504261206" l="1"/>
+</s>
+
+
+<s id="-9093017592362016842-2504261151-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" ct="2504261205" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2504261206" l="7"/>
+</s>
+
+
 <s id="-972515457790911992-2504270341-4" eva="8089190">
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" l="7"/>
+</s>
+
+
+<s id="6527890210362704210-2504261154-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.620" pr="2"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2504261154" l="1"/>
 </s>
 
 
@@ -1728,6 +1869,12 @@
 <s id="-5333715920473248627-2504270241-4" eva="8089190">
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" l="7"/>
+</s>
+
+
+<s id="6774407849114627801-2504262034-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
 </s>
 
 
@@ -1839,6 +1986,12 @@
 </s>
 
 
+<s id="3117008083328267644-2504262031-35" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.793" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+</s>
+
+
 <s id="8531933039457734937-2504262054-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
@@ -1864,6 +2017,12 @@
 
 
 <s id="-3410422894194833524-2504262044-1" eva="8089190">
+    <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
+    <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
+</s>
+
+
+<s id="-7866613208668656304-2504262024-1" eva="8089190">
     <m id="r2409896" t="h" from="2504260300" to="2504270300" cat="Großstörung" ts="2504252304" ts-tts="25-04-25 23:04:57.792" pr="1"/>
     <m id="r2410121" t="h" from="2504260129" to="2504270000" cat="Störung" ts="2504260132" ts-tts="25-04-26 11:16:01.619" pr="2"/>
 </s>
@@ -2118,6 +2277,16 @@
     <tl f="S" t="e" o="08" c="S" n="70154"/>
     <ref>
         <tl f="S" t="p" o="08" c="S" n="7154"/>
+    </ref>
+</s>
+
+
+<s id="2782476971788494661-2504262030-13" eva="8089190">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee" pp="1" pt="2504262102" l="7"/>
+    <dp ppth="Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" pt="2504262103" l="7"/>
+    <tl f="S" t="e" o="08" c="S" n="70604"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="7604"/>
     </ref>
 </s>
 
@@ -2395,6 +2564,13 @@
 </s>
 
 
+<s id="2353399563548339555-2504262201-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" l="7"/>
+</s>
+
+
 <s id="-1290745452295198555-2504262221-4" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
@@ -2452,6 +2628,13 @@
 
 
 <s id="924515702605553277-2504262051-4" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.103" pr="2"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
+    <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" l="7"/>
+</s>
+
+
+<s id="-7622265634181581428-2504262031-4" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.103" pr="2"/>
     <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)" l="7"/>
     <dp cpth="Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" l="7"/>
@@ -2535,7 +2718,49 @@
 </s>
 
 
+<s id="8029852172210133810-2504261231-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260154" l="7"/>
+    <dp cpth="" cs="c" clt="2504260154" l="7"/>
+</s>
+
+
+<s id="541603875001060954-2504261211-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260152" l="7"/>
+    <dp cpth="" cs="c" clt="2504260152" l="7"/>
+</s>
+
+
+<s id="3640320234581697512-2504261151-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.106" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260152" l="7"/>
+    <dp cpth="" cs="c" clt="2504260152" l="7"/>
+</s>
+
+
+<s id="7402362491564041151-2504261241-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260027" l="7"/>
+    <dp cpth="" cs="c" clt="2504260027" l="7"/>
+</s>
+
+
+<s id="136066581004625975-2504261201-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260027" l="7"/>
+    <dp cpth="" cs="c" clt="2504260027" l="7"/>
+</s>
+
+
 <s id="-973692505930481870-2504261301-26" eva="8089190">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260027" l="7"/>
+    <dp cpth="" cs="c" clt="2504260027" l="7"/>
+</s>
+
+
+<s id="-943365739201207269-2504261221-26" eva="8089190">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:04.107" pr="2"/>
     <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2504260027" l="7"/>
     <dp cpth="" cs="c" clt="2504260027" l="7"/>

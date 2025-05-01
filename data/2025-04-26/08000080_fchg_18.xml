@@ -1,185 +1,5 @@
 <?xml version="1.0" ?><timetable station="Dortmund Hbf" eva="8000080">
 
-<s id="8205144232781928328-2504261513-17" eva="8000080">
-    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
-    <m id="r2410194" t="h" from="2504260030" to="2504292359" cat="Störung" ts="2504260643" ts-tts="25-04-26 06:43:39.310" pr="1"/>
-    <ar ct="2504270208">
-        <m id="r16859636" t="d" c="24" ts="2504261826" ts-tts="25-04-26 18:26:14.664"/>
-        <m id="r16861326" t="f" c="0" ts="2504261910" ts-tts="25-04-26 19:11:11.371"/>
-    </ar>
-</s>
-
-
-<s id="5837236304420711163-2504261751-21" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
-    <ar cpth="Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf" ct="2504262023" l="1">
-        <m id="r16854274" t="d" c="62" ts="2504261551" ts-tts="25-04-26 15:51:32.933"/>
-        <m id="r16861041" t="f" c="0" ts="2504261901" ts-tts="25-04-26 19:01:05.807"/>
-    </ar>
-    <dp cpth="Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Hamm(Westf)Hbf" ct="2504262024" l="1">
-        <m id="r16854274" t="d" c="62" ts="2504261551" ts-tts="25-04-26 15:51:32.933"/>
-        <m id="r16861041" t="f" c="0" ts="2504261901" ts-tts="25-04-26 19:01:05.807"/>
-    </dp>
-</s>
-
-
-<s id="-6813376667988938665-2504261821-24" eva="8000080">
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <ar ct="2504262120" l="4">
-        <m id="r16860394" t="d" c="2" ts="2504261848" ts-tts="25-04-26 18:48:58.167"/>
-        <m id="r16860758" t="d" c="61" ts="2504261857" ts-tts="25-04-26 18:57:44.748"/>
-        <m id="r16860787" t="d" c="63" ts="2504261858" ts-tts="25-04-26 18:59:02.165"/>
-        <m id="r16861192" t="d" c="2" ts="2504261906" ts-tts="25-04-26 19:06:46.900"/>
-    </ar>
-</s>
-
-
-<s id="8210477890964980741-2504261632-8" eva="8000080">
-    <m id="r2410151" t="h" from="2504260923" to="2504262137" cat="Information" ts="2504260406" ts-tts="25-04-26 04:07:00.378" pr="2"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
-    <ar ct="2504262010">
-        <m id="r16861442" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:17.235"/>
-    </ar>
-    <dp ct="2504262021">
-        <m id="r16861442" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:17.235"/>
-    </dp>
-</s>
-
-
-<s id="2227122890065625133-2504262003-20" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <ar ct="2504262207" l="51"/>
-</s>
-
-
-<s id="3736117015423388331-2504261751-12" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
-    <ar ct="2504262347">
-        <m id="r16861205" t="d" c="26" ts="2504261906" ts-tts="25-04-26 19:07:03.543"/>
-        <m id="r16861995" t="d" c="7" ts="2504261930" ts-tts="25-04-26 19:30:17.828"/>
-    </ar>
-</s>
-
-
-<s id="1617446402030798365-2504261952-8" eva="8000080">
-    <m id="r2392205" t="h" from="2504242100" to="2505050550" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504232303" ts-tts="25-04-25 23:16:03.597" pr="2"/>
-    <ar ct="2504262023" l="52"/>
-</s>
-
-
-<s id="-9010524317537371690-2504261948-13" eva="8000080">
-    <m id="r2410466" t="h" from="2504261837" to="2504262107" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261910" ts-tts="25-04-26 20:16:02.940" pr="1"/>
-    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
-    <ar ct="2504262157" l="6">
-        <m id="r16862808" t="d" c="3" ts="2504261954" ts-tts="25-04-26 19:54:31.355"/>
-    </ar>
-    <dp ct="2504262158" l="6">
-        <m id="r16862808" t="d" c="3" ts="2504261954" ts-tts="25-04-26 19:54:31.355"/>
-    </dp>
-</s>
-
-
-<s id="-187420451358667545-2504261555-9" eva="8000080">
-    <ar ct="2504262104">
-        <m id="r16829364" t="f" c="0" ts="2504252124" ts-tts="25-04-25 21:24:56.418"/>
-        <m id="r16829365" t="f" c="1000" ts="2504252124" ts-tts="25-04-25 21:24:56.418"/>
-        <m id="r16856723" t="f" c="0" ts="2504261700" ts-tts="25-04-26 17:00:46.269"/>
-        <m id="r16856724" t="f" c="1000" ts="2504261700" ts-tts="25-04-26 17:00:46.269"/>
-    </ar>
-</s>
-
-
-<s id="3778695356863398992-2504261932-6" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
-    <ar ct="2504262035">
-        <m id="r16862531" t="d" c="43" ts="2504261945" ts-tts="25-04-26 19:45:45.678"/>
-    </ar>
-    <dp ct="2504262038">
-        <m id="r16861464" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
-        <m id="r16862531" t="d" c="43" ts="2504261945" ts-tts="25-04-26 19:45:45.678"/>
-    </dp>
-</s>
-
-
-<s id="-2647418605895449248-2504261903-20" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <ar ct="2504262123" l="51">
-        <m id="r16862377" t="d" c="44" ts="2504261940" ts-tts="25-04-26 19:40:51.816"/>
-        <m id="r16862843" t="d" c="44" ts="2504261956" ts-tts="25-04-26 19:56:35.121"/>
-    </ar>
-</s>
-
-
-<s id="2942192777726528267-2504261851-21" eva="8000080">
-    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
-    <ar ct="2504262115" l="1">
-        <m id="r16862009" t="d" c="45" ts="2504261930" ts-tts="25-04-26 19:30:48.724"/>
-        <m id="r16862674" t="f" c="0" ts="2504261950" ts-tts="25-04-26 19:50:54.842"/>
-    </ar>
-    <dp ct="2504262116" l="1">
-        <m id="r16862009" t="d" c="45" ts="2504261930" ts-tts="25-04-26 19:30:48.724"/>
-        <m id="r16862674" t="f" c="0" ts="2504261950" ts-tts="25-04-26 19:50:54.842"/>
-    </dp>
-</s>
-
-
-<s id="2184049933202448469-2504262051-8" eva="8000080">
-    <m id="r2382319" t="h" from="2504120300" to="2504280300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504112303" ts-tts="25-04-25 23:16:03.422" pr="1"/>
-    <ar ct="2504262123" l="5"/>
-</s>
-
-
-<s id="-5387624129932720070-2504261113-20" eva="8000080">
-    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.267" pr="2"/>
-    <ar ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" pp="8" ct="2504262222" pt="2504262141">
-        <m id="r16849666" t="d" c="61" ts="2504261348" ts-tts="25-04-26 13:48:37.849"/>
-    </ar>
-    <tl f="F" t="p" o="81" c="ICE" n="26"/>
-</s>
-
-
-<s id="3742440961287674842-2504261832-8" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
-    <ar ct="2504262241">
-        <m id="r16858534" t="d" c="48" ts="2504261754" ts-tts="25-04-26 17:54:14.218"/>
-        <m id="r16861119" t="f" c="0" ts="2504261903" ts-tts="25-04-26 19:03:56.194"/>
-        <m id="r16861764" t="f" c="0" ts="2504261922" ts-tts="25-04-26 19:22:48.723"/>
-        <m id="r16861823" t="f" c="0" ts="2504261924" ts-tts="25-04-26 19:24:52.560"/>
-    </ar>
-    <dp ct="2504262243">
-        <m id="r16858534" t="d" c="48" ts="2504261754" ts-tts="25-04-26 17:54:14.218"/>
-        <m id="r16861119" t="f" c="0" ts="2504261903" ts-tts="25-04-26 19:03:56.194"/>
-        <m id="r16861764" t="f" c="0" ts="2504261922" ts-tts="25-04-26 19:22:48.723"/>
-        <m id="r16861823" t="f" c="0" ts="2504261924" ts-tts="25-04-26 19:24:52.560"/>
-    </dp>
-</s>
-
-
-<s id="-7751023330920970385-2504261803-20" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <ar cpth="Enschede|Enschede De Eschmarke|Glanerbrug|Gronau(Westf)|Epe(Westf)|Ahaus|Legden|Rosendahl-Holtwick|Coesfeld(Westf)|Lette(Kr Coesfeld)|Dülmen|Lüdinghausen|Selm|Selm-Beifang|Bork(Westf)|Lünen Hbf|Lünen-Preußen|Dortmund-Derne|Dortmund-Kirchderne" ct="2504262029" l="51">
-        <m id="r16859964" t="d" c="44" ts="2504261834" ts-tts="25-04-26 18:35:01.341"/>
-        <m id="r16862708" t="d" c="64" ts="2504261951" ts-tts="25-04-26 19:51:10.266"/>
-        <m id="r16863308" t="f" c="0" ts="2504262014" ts-tts="25-04-26 20:14:37.750"/>
-    </ar>
-</s>
-
-
-<s id="-4643636109608270559-2504262033-1" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
-    <dp ct="2504262049" l="32">
-        <m id="r16863317" t="d" c="48" ts="2504262014" ts-tts="25-04-26 20:14:53.193"/>
-        <m id="r16863462" t="d" c="48" ts="2504262020" ts-tts="25-04-26 20:21:04.582"/>
-    </dp>
-</s>
-
-
 <s id="4145934425369798006-2504261701-9" eva="8000080">
     <m id="r2390441" t="h" from="2503201359" to="2505022359" cat="Information" ts="2503201401" ts-tts="25-04-25 23:16:03.595" pr="2"/>
     <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.265" pr="2"/>
@@ -192,221 +12,9 @@
 </s>
 
 
-<s id="731501050016057361-2504262013-4" eva="8000080">
-    <ar cp="23" ct="2504262039" l="RE11"/>
-</s>
-
-
-<s id="-8395225554000413805-2504261934-12" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
-    <ar ct="2504262045" l="32">
-        <m id="r16863048" t="d" c="67" ts="2504262005" ts-tts="25-04-26 20:05:36.402"/>
-    </ar>
-</s>
-
-
-<s id="-7597581855357434688-2504261951-8" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2382319" t="h" from="2504120300" to="2504280300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504112303" ts-tts="25-04-25 23:16:03.422" pr="1"/>
-    <ar ct="2504262022" l="5"/>
-</s>
-
-
-<s id="-6381445446804035912-2504261848-13" eva="8000080">
-    <m id="r2410466" t="h" from="2504261837" to="2504262107" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261910" ts-tts="25-04-26 20:16:02.940" pr="1"/>
-    <ar ct="2504262104" l="6"/>
-    <dp ct="2504262105" l="6"/>
-</s>
-
-
-<s id="50770787591072936-2504261648-12" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
-    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" cp="18" ct="2504262242">
-        <m id="r16858341" t="d" c="21" ts="2504261747" ts-tts="25-04-26 17:47:31.406"/>
-    </ar>
-</s>
-
-
-<s id="3647811556346721539-2504262034-12" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
-    <ar ct="2504262138" l="32">
-        <m id="r16863310" t="d" c="48" ts="2504262014" ts-tts="25-04-26 20:14:53.193"/>
-    </ar>
-</s>
-
-
-<s id="-8509639898685052329-2504262020-6" eva="8000080">
-    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
-    <ar ct="2504262053" l="1">
-        <m id="r16863019" t="d" c="45" ts="2504262004" ts-tts="25-04-26 20:04:03.380"/>
-    </ar>
-    <dp ct="2504262054" l="1">
-        <m id="r16863019" t="d" c="45" ts="2504262004" ts-tts="25-04-26 20:04:03.380"/>
-    </dp>
-</s>
-
-
-<s id="-7704674212335689548-2504262035-1" eva="8000080">
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <dp ct="2504262040" l="50"/>
-</s>
-
-
-<s id="-6184702211926052018-2504261947-9" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
-    <ar ct="2504262348">
-        <m id="r16863413" t="d" c="43" ts="2504262018" ts-tts="25-04-26 20:19:00.788"/>
-    </ar>
-</s>
-
-
-<s id="-2142784246140329213-2504261447-13" eva="8000080">
-    <m id="r2410140" t="h" from="2504260538" to="2504262041" cat="Information" ts="2504260350" ts-tts="25-04-26 03:50:27.061" pr="2"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
-    <m id="r2410143" t="h" from="2504260849" to="2504262041" cat="Information" ts="2504260354" ts-tts="25-04-26 03:55:02.170" pr="2"/>
-    <ar ct="2504262109">
-        <m id="r16851994" t="d" c="7" ts="2504261452" ts-tts="25-04-26 14:53:11.878"/>
-        <m id="r16862409" t="d" c="55" ts="2504261942" ts-tts="25-04-26 19:42:24.588"/>
-    </ar>
-</s>
-
-
-<s id="-1188267942167451229-2504261550-15" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
-    <ar ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" pp="18" ct="2504262214" pt="2504262140">
-        <m id="r16849454" t="f" c="0" ts="2504261342" ts-tts="25-04-26 13:42:56.981"/>
-        <m id="r16849586" t="f" c="0" ts="2504261346" ts-tts="25-04-26 13:46:03.357"/>
-        <m id="r16853335" t="d" c="48" ts="2504261525" ts-tts="25-04-26 15:25:28.244"/>
-        <m id="r16853373" t="f" c="0" ts="2504261526" ts-tts="25-04-26 15:26:14.666"/>
-        <m id="r16853422" t="f" c="0" ts="2504261527" ts-tts="25-04-26 15:28:03.037"/>
-        <m id="r16853634" t="d" c="47" ts="2504261534" ts-tts="25-04-26 15:34:15.587"/>
-        <m id="r16855334" t="f" c="0" ts="2504261619" ts-tts="25-04-26 16:19:11.126"/>
-        <m id="r16855662" t="d" c="47" ts="2504261629" ts-tts="25-04-26 16:29:47.418"/>
-        <m id="r16855929" t="f" c="0" ts="2504261639" ts-tts="25-04-26 16:40:07.135"/>
-    </ar>
-    <tl f="F" t="p" o="80" c="ICE" n="620"/>
-</s>
-
-
-<s id="7071599343150290657-2504261527-16" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
-    <m id="r2410150" t="h" from="2504260737" to="2504262056" cat="Information" ts="2504260405" ts-tts="25-04-26 04:05:43.976" pr="2"/>
-    <ar ct="2504262058">
-        <m id="r16863431" t="d" c="43" ts="2504262019" ts-tts="25-04-26 20:20:02.579"/>
-    </ar>
-</s>
-
-
-<s id="306958347880731808-2504261853-1" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <dp cpth="Dortmund-Kirchderne|Dortmund-Derne|Lünen-Preußen|Lünen Hbf|Bork(Westf)|Selm-Beifang|Selm|Lüdinghausen|Dülmen|Lette(Kr Coesfeld)|Coesfeld(Westf)|Rosendahl-Holtwick|Legden|Ahaus|Epe(Westf)|Gronau(Westf)" ct="2504261854" l="51">
-        <m id="r16861449" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
-        <m id="r16861451" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
-    </dp>
-</s>
-
-
-<s id="1230247684863164995-2504262103-20" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <ar cpth="Gronau(Westf)|Epe(Westf)|Ahaus|Legden|Rosendahl-Holtwick|Coesfeld(Westf)|Lette(Kr Coesfeld)|Dülmen|Lüdinghausen|Selm|Selm-Beifang|Bork(Westf)|Lünen Hbf|Lünen-Preußen|Dortmund-Derne|Dortmund-Kirchderne" l="51">
-        <m id="r16863426" t="d" c="64" ts="2504262019" ts-tts="25-04-26 20:19:47.040"/>
-    </ar>
-</s>
-
-
-<s id="-220877954818304341-2504261947-8" eva="8000080">
-    <ar ct="2504262120" l="11"/>
-    <dp ct="2504262121" l="11"/>
-</s>
-
-
-<s id="-1687625518078930243-2504261945-11" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
-    <ar ct="2504262056" l="3">
-        <m id="r16862830" t="d" c="45" ts="2504261955" ts-tts="25-04-26 19:56:04.294"/>
-    </ar>
-</s>
-
-
-<s id="5834227800031408722-2504261934-11" eva="8000080">
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <ar ct="2504262035" l="50"/>
-</s>
-
-
-<s id="-5278635881615996857-2504262047-1" eva="8000080">
-    <dp ct="2504262058" l="2"/>
-</s>
-
-
-<s id="4265255517751828639-2504261653-8" eva="8000080">
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
-    <ar ct="2504262046"/>
-    <dp ct="2504262051"/>
-</s>
-
-
-<s id="-5939349292500084716-2504261956-14" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.832" pr="1"/>
-    <ar ct="2504262053" l="2"/>
-</s>
-
-
-<s id="4664744253760415538-2504261935-1" eva="8000080">
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <dp ct="2504261939" l="50">
-        <m id="r16861459" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
-        <m id="r16863386" t="d" c="43" ts="2504262017" ts-tts="25-04-26 20:17:58.876"/>
-    </dp>
-</s>
-
-
-<s id="-901490187036978098-2504261909-1" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <dp ppth="Witten Hbf|Wetter(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf|Mönchengladbach Hbf|Rheydt Hbf|Erkelenz|Hückelhoven-Baal|Lindern|Geilenkirchen|Übach-Palenberg|Herzogenrath|Aachen West|Aachen Hbf" pp="20" ct="2504261940" pt="2504261909" l="4">
-        <m id="r16860262" t="d" c="64" ts="2504261843" ts-tts="25-04-26 18:43:17.291"/>
-        <m id="r16860357" t="d" c="48" ts="2504261847" ts-tts="25-04-26 18:47:56.238"/>
-        <m id="r16863389" t="d" c="47" ts="2504262017" ts-tts="25-04-26 20:17:58.876"/>
-    </dp>
-    <tl f="N" t="p" o="NXRE" c="RE" n="26432"/>
-</s>
-
-
-<s id="3568907334647208213-2504262017-1" eva="8000080">
-    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.832" pr="1"/>
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <dp ct="2504262017" l="2"/>
-</s>
-
-
-<s id="9042085335717021075-2504262009-1" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <dp ct="2504262017" l="4"/>
-</s>
-
-
-<s id="-5040855886902453859-2504261326-11" eva="8000080">
-    <m id="r2297302" t="h" from="2412150000" to="2512132359" cat="Information" ts="2504111415" ts-tts="25-04-25 23:16:03.381" pr="2"/>
-    <m id="r2390441" t="h" from="2503201359" to="2505022359" cat="Information" ts="2503201401" ts-tts="25-04-25 23:16:03.595" pr="2"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
-    <ar ct="2504262124">
-        <m id="r16849195" t="f" c="0" ts="2504261334" ts-tts="25-04-26 13:34:41.479"/>
-        <m id="r16849926" t="f" c="0" ts="2504261356" ts-tts="25-04-26 13:56:07.007"/>
-    </ar>
-    <dp ct="2504262127">
-        <m id="r16849195" t="f" c="0" ts="2504261334" ts-tts="25-04-26 13:34:41.479"/>
-        <m id="r16849926" t="f" c="0" ts="2504261356" ts-tts="25-04-26 13:56:07.007"/>
-    </dp>
-</s>
-
-
 <s id="-9003314209526626901-2504261845-11" eva="8000080">
     <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
-    <ar cp="23" ct="2504262017" l="3">
+    <ar ct="2504262015" l="3">
         <m id="r16860008" t="q" c="82" ts="2504261836" ts-tts="25-04-26 18:36:34.453"/>
         <m id="r16860690" t="d" c="43" ts="2504261855" ts-tts="25-04-26 18:55:40.966"/>
         <m id="r16860743" t="d" c="45" ts="2504261857" ts-tts="25-04-26 18:57:13.805"/>
@@ -414,9 +22,8 @@
         <m id="r16861982" t="d" c="43" ts="2504261929" ts-tts="25-04-26 19:30:02.281"/>
         <m id="r16862514" t="d" c="38" ts="2504261945" ts-tts="25-04-26 19:45:14.756"/>
         <m id="r16862664" t="d" c="43" ts="2504261950" ts-tts="25-04-26 19:50:39.421"/>
-        <m id="r16863260" t="d" c="45" ts="2504262012" ts-tts="25-04-26 20:12:49.389"/>
     </ar>
-    <dp cp="23" ct="2504262020" l="3">
+    <dp ct="2504262018" l="3">
         <m id="r16860008" t="q" c="82" ts="2504261836" ts-tts="25-04-26 18:36:34.453"/>
         <m id="r16860690" t="d" c="43" ts="2504261855" ts-tts="25-04-26 18:55:40.966"/>
         <m id="r16860702" t="f" c="0" ts="2504261855" ts-tts="25-04-26 18:55:56.413"/>
@@ -425,176 +32,47 @@
         <m id="r16861982" t="d" c="43" ts="2504261929" ts-tts="25-04-26 19:30:02.281"/>
         <m id="r16862514" t="d" c="38" ts="2504261945" ts-tts="25-04-26 19:45:14.756"/>
         <m id="r16862664" t="d" c="43" ts="2504261950" ts-tts="25-04-26 19:50:39.421"/>
-        <m id="r16863260" t="d" c="45" ts="2504262012" ts-tts="25-04-26 20:12:49.389"/>
     </dp>
 </s>
 
 
-<s id="2444314634072177884-2504262048-13" eva="8000080">
-    <m id="r2410466" t="h" from="2504261837" to="2504262107" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261910" ts-tts="25-04-26 20:16:02.940" pr="1"/>
-    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
-    <ar cpth="Köln Messe/Deutz|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf" ct="2504262253" l="6">
-        <m id="r16862743" t="f" c="0" ts="2504261951" ts-tts="25-04-26 19:51:56.604"/>
+<s id="-8509639898685052329-2504262020-6" eva="8000080">
+    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
+    <ar ct="2504262052" l="1">
+        <m id="r16863019" t="d" c="45" ts="2504262004" ts-tts="25-04-26 20:04:03.380"/>
     </ar>
-</s>
-
-
-<s id="-7637141976648923664-2504262028-15" eva="8000080">
-    <m id="r2410466" t="h" from="2504261837" to="2504262107" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261910" ts-tts="25-04-26 20:16:02.940" pr="1"/>
-    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
-    <ar ct="2504262204" l="6"/>
-    <dp ct="2504262207" l="6"/>
-</s>
-
-
-<s id="-5125292636263010493-2504261928-15" eva="8000080">
-    <m id="r2410466" t="h" from="2504261837" to="2504262107" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261910" ts-tts="25-04-26 20:16:02.940" pr="1"/>
-    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
-    <ar ct="2504262105" l="6"/>
-    <dp ct="2504262107" l="6"/>
-</s>
-
-
-<s id="1068212982267214245-2504261721-24" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <ar ct="2504262000" l="4"/>
-</s>
-
-
-<s id="-2935693617252737777-2504261621-24" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <ar ppth="Aachen Hbf|Aachen Schanz|Aachen West|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Wetter(Ruhr)|Witten Hbf" pp="20" ct="2504261928" pt="2504261851" l="4">
-        <m id="r16860191" t="d" c="64" ts="2504261841" ts-tts="25-04-26 18:41:59.870"/>
-        <m id="r16860545" t="d" c="2" ts="2504261852" ts-tts="25-04-26 18:52:35.071"/>
-    </ar>
-    <tl f="N" t="p" o="NXRE" c="RE" n="26427"/>
-</s>
-
-
-<s id="8492881050679500082-2504261809-1" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <dp ct="2504261811" l="4"/>
-</s>
-
-
-<s id="7627542345548093565-2504261921-24" eva="8000080">
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <m id="r2410452" t="h" from="2504261800" to="2504262130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 20:16:02.939" pr="1"/>
-    <ar ct="2504262151" l="4"/>
-</s>
-
-
-<s id="-2095823447114868420-2504271236-8" eva="8000080">
-    <ar ct="2504271337" l="11"/>
-    <dp ct="2504271339" l="11"/>
-</s>
-
-
-<s id="8634841075307311040-2504262031-11" eva="8000080">
-    <m id="r2409965" t="h" from="2504251716" to="2504280200" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251720" ts-tts="25-04-25 23:16:03.838" pr="1"/>
-    <ar ct="2504262122" l="2">
-        <m id="r16863315" t="d" c="48" ts="2504262014" ts-tts="25-04-26 20:14:53.193"/>
-    </ar>
-</s>
-
-
-<s id="8062927344475119434-2504261953-1" eva="8000080">
-    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
-    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
-    <dp cpth="Dortmund-Kirchderne|Dortmund-Derne|Lünen-Preußen|Lünen Hbf|Bork(Westf)|Selm-Beifang|Selm|Lüdinghausen|Dülmen|Lette(Kr Coesfeld)|Coesfeld(Westf)|Rosendahl-Holtwick|Legden|Ahaus|Epe(Westf)|Gronau(Westf)|Glanerbrug|Enschede De Eschmarke|Enschede" ct="2504261959" l="51">
-        <m id="r16861452" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
-        <m id="r16861465" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
-        <m id="r16861467" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
-        <m id="r16862297" t="d" c="64" ts="2504261939" ts-tts="25-04-26 19:39:49.992"/>
-        <m id="r16862647" t="d" c="47" ts="2504261949" ts-tts="25-04-26 19:49:53.056"/>
+    <dp ct="2504262053" l="1">
+        <m id="r16863019" t="d" c="45" ts="2504262004" ts-tts="25-04-26 20:04:03.380"/>
     </dp>
+</s>
+
+
+<s id="-6184702211926052018-2504261947-9" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
+    <ar ct="2504262347"/>
+</s>
+
+
+<s id="-2142784246140329213-2504261447-13" eva="8000080">
+    <m id="r2410140" t="h" from="2504260538" to="2504262041" cat="Information" ts="2504260350" ts-tts="25-04-26 03:50:27.061" pr="2"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
+    <m id="r2410143" t="h" from="2504260849" to="2504262041" cat="Information" ts="2504260354" ts-tts="25-04-26 03:55:02.170" pr="2"/>
+    <ar ct="2504262106">
+        <m id="r16851994" t="d" c="7" ts="2504261452" ts-tts="25-04-26 14:53:11.878"/>
+        <m id="r16862409" t="d" c="55" ts="2504261942" ts-tts="25-04-26 19:42:24.588"/>
+    </ar>
 </s>
 
 
 <s id="6194893901306646476-2504261729-8" eva="8000080">
     <m id="r2390441" t="h" from="2503201359" to="2505022359" cat="Information" ts="2503201401" ts-tts="25-04-25 23:16:03.595" pr="2"/>
     <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.265" pr="2"/>
-    <ar ct="2504262038">
+    <ar ct="2504262034">
         <m id="r16858922" t="d" c="43" ts="2504261806" ts-tts="25-04-26 18:06:38.031"/>
-        <m id="r16863296" t="f" c="0" ts="2504262014" ts-tts="25-04-26 20:14:22.251"/>
     </ar>
-    <dp ct="2504262040">
+    <dp ct="2504262036">
         <m id="r16858922" t="d" c="43" ts="2504261806" ts-tts="25-04-26 18:06:38.031"/>
-        <m id="r16863296" t="f" c="0" ts="2504262014" ts-tts="25-04-26 20:14:22.251"/>
     </dp>
-</s>
-
-
-<s id="7784412642300263782-2504262043-39" eva="8000080">
-    <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
-    <ar ct="2504262237" l="1"/>
-</s>
-
-
-<s id="-5972514413000184209-2504262109-1" eva="8000080">
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <dp ct="2504262126" l="4">
-        <m id="r16861422" t="d" c="2" ts="2504261913" ts-tts="25-04-26 19:13:46.229"/>
-    </dp>
-</s>
-
-
-<s id="7566730591368236692-2504261933-11" eva="8000080">
-    <m id="r2409965" t="h" from="2504251716" to="2504280200" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251720" ts-tts="25-04-25 23:16:03.838" pr="1"/>
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <ar ct="2504262013" l="2">
-        <m id="r16860691" t="d" c="35" ts="2504261855" ts-tts="25-04-26 18:55:40.967"/>
-    </ar>
-</s>
-
-
-<s id="1532760698198516105-2504260913-20" eva="8000080">
-    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
-    <m id="r2410449" t="h" from="2504261831" to="2504262000" cat="Störung" ts="2504261835" ts-tts="25-04-26 18:35:32.290" pr="1"/>
-    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.267" pr="2"/>
-    <m id="r656902408alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
-    <m id="r656902409alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
-    <m id="r656902408" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
-    <m id="r656902409" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
-    <m id="r656902410alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
-    <m id="r656902410" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
-    <ar cpth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" cp="10" pp="8" ct="2504262013" pt="2504261937">
-        <m id="r16845923" t="d" c="43" ts="2504261155" ts-tts="25-04-26 11:55:36.900"/>
-        <m id="r16847408" t="f" c="0" ts="2504261238" ts-tts="25-04-26 12:38:11.121"/>
-        <m id="r16854721" t="f" c="0" ts="2504261603" ts-tts="25-04-26 16:03:40.601"/>
-        <m id="r16856395" t="d" c="40" ts="2504261653" ts-tts="25-04-26 16:54:03.911"/>
-        <m id="r16857459" t="f" c="0" ts="2504261721" ts-tts="25-04-26 17:21:41.938"/>
-        <m id="r16859337" t="d" c="40" ts="2504261818" ts-tts="25-04-26 18:18:14.597"/>
-        <m id="r16861462" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
-        <m id="r16861466" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
-    </ar>
-    <tl f="F" t="p" o="81" c="ICE" n="28"/>
-</s>
-
-
-<s id="-2351366154733574977-2504262209-1" eva="8000080">
-    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
-    <dp ct="2504262209" l="4"/>
-</s>
-
-
-<s id="-3646736515167545521-2504261828-15" eva="8000080">
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <ar ct="2504262007" l="6"/>
-    <dp ct="2504262009" l="6"/>
-</s>
-
-
-<s id="-2669855640721943736-2504261813-39" eva="8000080">
-    <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
-    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
-    <ar ct="2504262011" l="1"/>
 </s>
 
 
@@ -618,6 +96,56 @@
 </s>
 
 
+<s id="8634841075307311040-2504262031-11" eva="8000080">
+    <m id="r2409965" t="h" from="2504251716" to="2504280200" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251720" ts-tts="25-04-25 23:16:03.838" pr="1"/>
+    <ar ct="2504262122" l="2"/>
+</s>
+
+
+<s id="8210477890964980741-2504261632-8" eva="8000080">
+    <m id="r2410151" t="h" from="2504260923" to="2504262137" cat="Information" ts="2504260406" ts-tts="25-04-26 04:07:00.378" pr="2"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
+    <ar ct="2504262010">
+        <m id="r16861442" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:17.235"/>
+    </ar>
+    <dp ct="2504262014">
+        <m id="r16861442" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:17.235"/>
+    </dp>
+</s>
+
+
+<s id="5837236304420711163-2504261751-21" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
+    <ar cpth="Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf" ct="2504262023" l="1">
+        <m id="r16854274" t="d" c="62" ts="2504261551" ts-tts="25-04-26 15:51:32.933"/>
+        <m id="r16861041" t="f" c="0" ts="2504261901" ts-tts="25-04-26 19:01:05.807"/>
+    </ar>
+    <dp cpth="Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Hamm(Westf)Hbf" ct="2504262024" l="1">
+        <m id="r16854274" t="d" c="62" ts="2504261551" ts-tts="25-04-26 15:51:32.933"/>
+        <m id="r16861041" t="f" c="0" ts="2504261901" ts-tts="25-04-26 19:01:05.807"/>
+    </dp>
+</s>
+
+
+<s id="3778695356863398992-2504261932-6" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
+    <ar ct="2504262033">
+        <m id="r16862531" t="d" c="43" ts="2504261945" ts-tts="25-04-26 19:45:45.678"/>
+    </ar>
+    <dp ct="2504262035">
+        <m id="r16861464" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
+        <m id="r16862531" t="d" c="43" ts="2504261945" ts-tts="25-04-26 19:45:45.678"/>
+    </dp>
+</s>
+
+
+<s id="5834227800031408722-2504261934-11" eva="8000080">
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <ar ct="2504262034" l="50"/>
+</s>
+
+
 <s id="5385439516583052773-2504261947-1" eva="8000080">
     <m id="r2409965" t="h" from="2504251716" to="2504280200" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251720" ts-tts="25-04-25 23:16:03.838" pr="1"/>
     <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
@@ -627,15 +155,102 @@
 </s>
 
 
+<s id="50770787591072936-2504261648-12" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" cp="18" ct="2504262233">
+        <m id="r16858341" t="d" c="21" ts="2504261747" ts-tts="25-04-26 17:47:31.406"/>
+    </ar>
+</s>
+
+
 <s id="2553841041976246562-2504262003-1" eva="8000080">
     <m id="r2388791" t="h" from="2504250500" to="2505050300" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504242303" ts-tts="25-04-25 23:16:03.425" pr="2"/>
     <dp ct="2504262007" l="59"/>
 </s>
 
 
+<s id="-7704674212335689548-2504262035-1" eva="8000080">
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <dp ct="2504262039" l="50"/>
+</s>
+
+
+<s id="-6813376667988938665-2504261821-24" eva="8000080">
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <ar ppth="Aachen Hbf|Aachen Schanz|Aachen West|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Wetter(Ruhr)|Witten Hbf" pp="20" ct="2504262121" pt="2504262051" l="4">
+        <m id="r16860394" t="d" c="2" ts="2504261848" ts-tts="25-04-26 18:48:58.167"/>
+        <m id="r16860758" t="d" c="61" ts="2504261857" ts-tts="25-04-26 18:57:44.748"/>
+        <m id="r16860787" t="d" c="63" ts="2504261858" ts-tts="25-04-26 18:59:02.165"/>
+        <m id="r16861192" t="d" c="2" ts="2504261906" ts-tts="25-04-26 19:06:46.900"/>
+    </ar>
+    <tl f="N" t="p" o="NXRE" c="RE" n="26431"/>
+</s>
+
+
+<s id="-6381445446804035912-2504261848-13" eva="8000080">
+    <ar ct="2504262101" l="6"/>
+    <dp ct="2504262102" l="6"/>
+</s>
+
+
 <s id="-1350864422521760315-2504262037-1" eva="8000080">
     <m id="r2392205" t="h" from="2504242100" to="2505050550" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504232303" ts-tts="25-04-25 23:16:03.597" pr="2"/>
     <dp ct="2504262037" l="52"/>
+</s>
+
+
+<s id="1532760698198516105-2504260913-20" eva="8000080">
+    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
+    <m id="r2410449" t="h" from="2504261831" to="2504262000" cat="Störung" ts="2504261835" ts-tts="25-04-26 18:35:32.290" pr="1"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.267" pr="2"/>
+    <m id="r656902408alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
+    <m id="r656902409alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
+    <m id="r656902408" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
+    <m id="r656902409" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
+    <m id="r656902410alt" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.365"/>
+    <m id="r656902410" t="c" ts="2504261914" ts-tts="25-04-26 19:14:48.248"/>
+    <ar cpth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" pp="8" ct="2504262010" pt="2504261937">
+        <m id="r16845923" t="d" c="43" ts="2504261155" ts-tts="25-04-26 11:55:36.900"/>
+        <m id="r16847408" t="f" c="0" ts="2504261238" ts-tts="25-04-26 12:38:11.121"/>
+        <m id="r16854721" t="f" c="0" ts="2504261603" ts-tts="25-04-26 16:03:40.601"/>
+        <m id="r16856395" t="d" c="40" ts="2504261653" ts-tts="25-04-26 16:54:03.911"/>
+        <m id="r16857459" t="f" c="0" ts="2504261721" ts-tts="25-04-26 17:21:41.938"/>
+        <m id="r16859337" t="d" c="40" ts="2504261818" ts-tts="25-04-26 18:18:14.597"/>
+        <m id="r16861462" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
+        <m id="r16861466" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
+    </ar>
+    <tl f="F" t="p" o="81" c="ICE" n="28"/>
+</s>
+
+
+<s id="-187420451358667545-2504261555-9" eva="8000080">
+    <ar ct="2504262102">
+        <m id="r16829364" t="f" c="0" ts="2504252124" ts-tts="25-04-25 21:24:56.418"/>
+        <m id="r16829365" t="f" c="1000" ts="2504252124" ts-tts="25-04-25 21:24:56.418"/>
+        <m id="r16856723" t="f" c="0" ts="2504261700" ts-tts="25-04-26 17:00:46.269"/>
+        <m id="r16856724" t="f" c="1000" ts="2504261700" ts-tts="25-04-26 17:00:46.269"/>
+    </ar>
+</s>
+
+
+<s id="3647811556346721539-2504262034-12" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
+    <ar ct="2504262135" l="32"/>
+</s>
+
+
+<s id="-4643636109608270559-2504262033-1" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
+    <dp ct="2504262054" l="32"/>
+</s>
+
+
+<s id="-8395225554000413805-2504261934-12" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
+    <ar ct="2504262049" l="32">
+        <m id="r16863048" t="d" c="67" ts="2504262005" ts-tts="25-04-26 20:05:36.402"/>
+    </ar>
 </s>
 
 
@@ -646,6 +261,50 @@
 
 <s id="-3671920940063483050-2504262334-11" eva="8000080">
     <ar ct="2504270027" l="50"/>
+</s>
+
+
+<s id="-3646736515167545521-2504261828-15" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <ar ct="2504262007" l="6"/>
+    <dp ct="2504262007" l="6"/>
+</s>
+
+
+<s id="2942192777726528267-2504261851-21" eva="8000080">
+    <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.724" pr="3"/>
+    <ar ct="2504262116" l="1">
+        <m id="r16862009" t="d" c="45" ts="2504261930" ts-tts="25-04-26 19:30:48.724"/>
+        <m id="r16862674" t="f" c="0" ts="2504261950" ts-tts="25-04-26 19:50:54.842"/>
+    </ar>
+    <dp ct="2504262117" l="1">
+        <m id="r16862009" t="d" c="45" ts="2504261930" ts-tts="25-04-26 19:30:48.724"/>
+        <m id="r16862674" t="f" c="0" ts="2504261950" ts-tts="25-04-26 19:50:54.842"/>
+    </dp>
+</s>
+
+
+<s id="8205144232781928328-2504261513-17" eva="8000080">
+    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
+    <m id="r2410194" t="h" from="2504260030" to="2504292359" cat="Störung" ts="2504260643" ts-tts="25-04-26 06:43:39.310" pr="1"/>
+    <ar ct="2504270203">
+        <m id="r16859636" t="d" c="24" ts="2504261826" ts-tts="25-04-26 18:26:14.664"/>
+        <m id="r16861326" t="f" c="0" ts="2504261910" ts-tts="25-04-26 19:11:11.371"/>
+    </ar>
+</s>
+
+
+<s id="8062927344475119434-2504261953-1" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <dp cpth="Dortmund-Kirchderne|Dortmund-Derne|Lünen Hbf|Bork(Westf)|Selm-Beifang|Selm|Lüdinghausen|Dülmen|Lette(Kr Coesfeld)|Coesfeld(Westf)|Rosendahl-Holtwick|Legden|Ahaus|Epe(Westf)|Gronau(Westf)|Glanerbrug|Enschede De Eschmarke|Enschede" ct="2504261959" l="51">
+        <m id="r16861452" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
+        <m id="r16861465" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
+        <m id="r16861467" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:48.306"/>
+        <m id="r16862297" t="d" c="64" ts="2504261939" ts-tts="25-04-26 19:39:49.992"/>
+        <m id="r16862647" t="d" c="47" ts="2504261949" ts-tts="25-04-26 19:49:53.056"/>
+    </dp>
 </s>
 
 
@@ -660,9 +319,48 @@
 </s>
 
 
+<s id="2227122890065625133-2504262003-20" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
+    <ar ct="2504262206" l="51"/>
+</s>
+
+
+<s id="-5939349292500084716-2504261956-14" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.832" pr="1"/>
+    <ar ct="2504262045" l="2"/>
+</s>
+
+
 <s id="-4370342990839022853-2504261913-39" eva="8000080">
     <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
     <ar ct="2504262108" l="1"/>
+</s>
+
+
+<s id="-1188267942167451229-2504261550-15" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
+    <ar ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" pp="18" ct="2504262214" pt="2504262140">
+        <m id="r16849454" t="f" c="0" ts="2504261342" ts-tts="25-04-26 13:42:56.981"/>
+        <m id="r16849586" t="f" c="0" ts="2504261346" ts-tts="25-04-26 13:46:03.357"/>
+        <m id="r16853335" t="d" c="48" ts="2504261525" ts-tts="25-04-26 15:25:28.244"/>
+        <m id="r16853373" t="f" c="0" ts="2504261526" ts-tts="25-04-26 15:26:14.666"/>
+        <m id="r16853422" t="f" c="0" ts="2504261527" ts-tts="25-04-26 15:28:03.037"/>
+        <m id="r16853634" t="d" c="47" ts="2504261534" ts-tts="25-04-26 15:34:15.587"/>
+        <m id="r16855334" t="f" c="0" ts="2504261619" ts-tts="25-04-26 16:19:11.126"/>
+        <m id="r16855662" t="d" c="47" ts="2504261629" ts-tts="25-04-26 16:29:47.418"/>
+        <m id="r16855929" t="f" c="0" ts="2504261639" ts-tts="25-04-26 16:40:07.135"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="620"/>
+</s>
+
+
+<s id="-5387624129932720070-2504261113-20" eva="8000080">
+    <m id="r2371086" t="h" from="2503010000" to="2504302359" cat="Information" ts="2502282302" ts-tts="25-04-25 23:16:03.412" pr="1"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.267" pr="2"/>
+    <ar ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf" pp="8" ct="2504262218" pt="2504262141">
+        <m id="r16849666" t="d" c="61" ts="2504261348" ts-tts="25-04-26 13:48:37.849"/>
+    </ar>
+    <tl f="F" t="p" o="81" c="ICE" n="26"/>
 </s>
 
 
@@ -680,6 +378,14 @@
         <m id="r16859144" t="f" c="0" ts="2504261813" ts-tts="25-04-26 18:13:20.472"/>
         <m id="r16859191" t="d" c="7" ts="2504261814" ts-tts="25-04-26 18:14:37.811"/>
     </ar>
+</s>
+
+
+<s id="-5972514413000184209-2504262109-1" eva="8000080">
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <dp ct="2504262126" l="4">
+        <m id="r16861422" t="d" c="2" ts="2504261913" ts-tts="25-04-26 19:13:46.229"/>
+    </dp>
 </s>
 
 
@@ -738,6 +444,67 @@
 </s>
 
 
+<s id="1068212982267214245-2504261721-24" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <ar ct="2504262000" l="4"/>
+</s>
+
+
+<s id="3742440961287674842-2504261832-8" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
+    <ar ct="2504262241">
+        <m id="r16858534" t="d" c="48" ts="2504261754" ts-tts="25-04-26 17:54:14.218"/>
+        <m id="r16861119" t="f" c="0" ts="2504261903" ts-tts="25-04-26 19:03:56.194"/>
+        <m id="r16861764" t="f" c="0" ts="2504261922" ts-tts="25-04-26 19:22:48.723"/>
+        <m id="r16861823" t="f" c="0" ts="2504261924" ts-tts="25-04-26 19:24:52.560"/>
+    </ar>
+    <dp ct="2504262243">
+        <m id="r16858534" t="d" c="48" ts="2504261754" ts-tts="25-04-26 17:54:14.218"/>
+        <m id="r16861119" t="f" c="0" ts="2504261903" ts-tts="25-04-26 19:03:56.194"/>
+        <m id="r16861764" t="f" c="0" ts="2504261922" ts-tts="25-04-26 19:22:48.723"/>
+        <m id="r16861823" t="f" c="0" ts="2504261924" ts-tts="25-04-26 19:24:52.560"/>
+    </dp>
+</s>
+
+
+<s id="-2669855640721943736-2504261813-39" eva="8000080">
+    <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <ar ct="2504262010" l="1"/>
+</s>
+
+
+<s id="-2647418605895449248-2504261903-20" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <ar ct="2504262120" l="51">
+        <m id="r16862377" t="d" c="44" ts="2504261940" ts-tts="25-04-26 19:40:51.816"/>
+        <m id="r16862843" t="d" c="44" ts="2504261956" ts-tts="25-04-26 19:56:35.121"/>
+    </ar>
+</s>
+
+
+<s id="-9010524317537371690-2504261948-13" eva="8000080">
+    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
+    <ar ct="2504262215" l="6">
+        <m id="r16862808" t="d" c="3" ts="2504261954" ts-tts="25-04-26 19:54:31.355"/>
+    </ar>
+    <dp ct="2504262216" l="6">
+        <m id="r16862808" t="d" c="3" ts="2504261954" ts-tts="25-04-26 19:54:31.355"/>
+    </dp>
+</s>
+
+
+<s id="-1687625518078930243-2504261945-11" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
+    <ar ct="2504262056" l="3">
+        <m id="r16862830" t="d" c="45" ts="2504261955" ts-tts="25-04-26 19:56:04.294"/>
+    </ar>
+</s>
+
+
 <s id="7097885235335807494-2504261936-6" eva="8000080">
     <ar ct="2504261956" l="59"/>
 </s>
@@ -779,6 +546,16 @@
 </s>
 
 
+<s id="-7751023330920970385-2504261803-20" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <ar cpth="Enschede|Enschede De Eschmarke|Glanerbrug|Gronau(Westf)|Epe(Westf)|Ahaus|Legden|Rosendahl-Holtwick|Coesfeld(Westf)|Lette(Kr Coesfeld)|Dülmen|Lüdinghausen|Selm|Selm-Beifang|Bork(Westf)|Lünen Hbf|Dortmund-Derne|Dortmund-Kirchderne" ct="2504262016" l="51">
+        <m id="r16859964" t="d" c="44" ts="2504261834" ts-tts="25-04-26 18:35:01.341"/>
+        <m id="r16862708" t="d" c="64" ts="2504261951" ts-tts="25-04-26 19:51:10.266"/>
+    </ar>
+</s>
+
+
 <s id="4416554692216219451-2504262053-1" eva="8000080">
     <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
     <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
@@ -790,6 +567,14 @@
 
 <s id="6570455129723016346-2504262034-11" eva="8000080">
     <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+</s>
+
+
+<s id="4664744253760415538-2504261935-1" eva="8000080">
+    <m id="r2410492" t="h" from="2504261918" to="2504262148" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261953" ts-tts="25-04-26 19:53:44.779" pr="1"/>
+    <dp ct="2504261939" l="50">
+        <m id="r16861459" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
+    </dp>
 </s>
 
 
@@ -810,6 +595,14 @@
         <m id="r16861175" t="d" c="34" ts="2504261906" ts-tts="25-04-26 19:06:15.983"/>
     </dp>
     <tl f="N" t="p" o="NXRE" c="RE" n="26728"/>
+</s>
+
+
+<s id="2444314634072177884-2504262048-13" eva="8000080">
+    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
+    <ar cpth="Köln Messe/Deutz|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf" ct="2504262253" l="6">
+        <m id="r16862743" t="f" c="0" ts="2504261951" ts-tts="25-04-26 19:51:56.604"/>
+    </ar>
 </s>
 
 
@@ -864,6 +657,13 @@
 </s>
 
 
+<s id="3568907334647208213-2504262017-1" eva="8000080">
+    <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.832" pr="1"/>
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <dp ct="2504262017" l="2"/>
+</s>
+
+
 <s id="-6235789055676348186-2504261629-8" eva="8000080">
     <m id="r2410449" t="h" from="2504261831" to="2504262000" cat="Störung" ts="2504261835" ts-tts="25-04-26 18:35:32.290" pr="1"/>
     <m id="r2410425" t="h" from="2504261638" to="2504262259" cat="Information" ts="2504261635" ts-tts="25-04-26 16:35:28.308" pr="2"/>
@@ -902,6 +702,18 @@
 </s>
 
 
+<s id="-901490187036978098-2504261909-1" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <dp ppth="Witten Hbf|Wetter(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf|Mönchengladbach Hbf|Rheydt Hbf|Erkelenz|Hückelhoven-Baal|Lindern|Geilenkirchen|Übach-Palenberg|Herzogenrath|Aachen West|Aachen Hbf" pp="20" ct="2504261940" pt="2504261909" l="4">
+        <m id="r16860262" t="d" c="64" ts="2504261843" ts-tts="25-04-26 18:43:17.291"/>
+        <m id="r16860357" t="d" c="48" ts="2504261847" ts-tts="25-04-26 18:47:56.238"/>
+    </dp>
+    <tl f="N" t="p" o="NXRE" c="RE" n="26432"/>
+</s>
+
+
 <s id="-6763685261936760744-2504261834-12" eva="8000080">
     <m id="r2409864" t="h" from="2504251330" to="2504291400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251402" ts-tts="25-04-25 23:16:03.831" pr="1"/>
     <ar ct="2504261941" l="32">
@@ -931,6 +743,12 @@
 <s id="8922762459291761701-2504261933-1" eva="8000080">
     <m id="r2388791" t="h" from="2504250500" to="2505050300" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504242303" ts-tts="25-04-25 23:16:03.425" pr="2"/>
     <dp ct="2504261935" l="59"/>
+</s>
+
+
+<s id="7627542345548093565-2504261921-24" eva="8000080">
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <ar ct="2504262151" l="4"/>
 </s>
 
 
@@ -972,6 +790,15 @@
         <m id="r16850010" t="f" c="0" ts="2504261358" ts-tts="25-04-26 13:58:10.647"/>
         <m id="r16854649" t="q" c="90" ts="2504261601" ts-tts="25-04-26 16:01:21.132"/>
     </dp>
+</s>
+
+
+<s id="7566730591368236692-2504261933-11" eva="8000080">
+    <m id="r2409965" t="h" from="2504251716" to="2504280200" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504251720" ts-tts="25-04-25 23:16:03.838" pr="1"/>
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <ar ct="2504262013" l="2">
+        <m id="r16860691" t="d" c="35" ts="2504261855" ts-tts="25-04-26 18:55:40.967"/>
+    </ar>
 </s>
 
 
@@ -1035,6 +862,15 @@
 </s>
 
 
+<s id="3736117015423388331-2504261751-12" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
+    <ar ct="2504262337">
+        <m id="r16861205" t="d" c="26" ts="2504261906" ts-tts="25-04-26 19:07:03.543"/>
+        <m id="r16861995" t="d" c="7" ts="2504261930" ts-tts="25-04-26 19:30:17.828"/>
+    </ar>
+</s>
+
+
 <s id="7403205991679915736-2504261312-10" eva="8000080">
     <m id="r2410449" t="h" from="2504261831" to="2504262000" cat="Störung" ts="2504261835" ts-tts="25-04-26 18:35:32.290" pr="1"/>
     <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.267" pr="2"/>
@@ -1063,6 +899,18 @@
 
 <s id="-4135834998419570910-2504261906-6" eva="8000080">
     <ar ct="2504261928" l="59"/>
+</s>
+
+
+<s id="-2935693617252737777-2504261621-24" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <ar ppth="Aachen Hbf|Aachen Schanz|Aachen West|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Wetter(Ruhr)|Witten Hbf" pp="20" ct="2504261928" pt="2504261851" l="4">
+        <m id="r16860191" t="d" c="64" ts="2504261841" ts-tts="25-04-26 18:41:59.870"/>
+        <m id="r16860545" t="d" c="2" ts="2504261852" ts-tts="25-04-26 18:52:35.071"/>
+    </ar>
+    <tl f="N" t="p" o="NXRE" c="RE" n="26427"/>
 </s>
 
 
@@ -1107,6 +955,19 @@
 <s id="-2212301417557979328-2504261852-8" eva="8000080">
     <m id="r2392205" t="h" from="2504242100" to="2505050550" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504232303" ts-tts="25-04-25 23:16:03.597" pr="2"/>
     <ar ct="2504261924" l="52"/>
+</s>
+
+
+<s id="1617446402030798365-2504261952-8" eva="8000080">
+    <m id="r2392205" t="h" from="2504242100" to="2505050550" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504232303" ts-tts="25-04-25 23:16:03.597" pr="2"/>
+    <ar ct="2504262023" l="52"/>
+</s>
+
+
+<s id="-7597581855357434688-2504261951-8" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2382319" t="h" from="2504120300" to="2504280300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504112303" ts-tts="25-04-25 23:16:03.422" pr="1"/>
+    <ar ct="2504262023" l="5"/>
 </s>
 
 
@@ -1209,6 +1070,15 @@
 <s id="-3344312905885966617-2504271145-11" eva="8000080">
     <ar ct="2504271256" l="3"/>
     <dp ct="2504271259" l="3"/>
+</s>
+
+
+<s id="306958347880731808-2504261853-1" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
+    <dp ct="2504261854" l="51">
+        <m id="r16861449" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
+        <m id="r16861451" t="f" c="0" ts="2504261914" ts-tts="25-04-26 19:14:32.729"/>
+    </dp>
 </s>
 
 
@@ -1345,6 +1215,22 @@
         <m id="r16858830" t="d" c="43" ts="2504261803" ts-tts="25-04-26 18:03:47.332"/>
         <m id="r16859834" t="d" c="7" ts="2504261831" ts-tts="25-04-26 18:31:40.052"/>
     </ar>
+</s>
+
+
+<s id="8492881050679500082-2504261809-1" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <dp ct="2504261811" l="4"/>
+</s>
+
+
+<s id="9042085335717021075-2504262009-1" eva="8000080">
+    <m id="r2410448" t="h" from="2504261804" to="2504262019" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261828" ts-tts="25-04-26 18:29:05.045" pr="1"/>
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+    <m id="r2410452" t="h" from="2504261800" to="2504262045" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261849" ts-tts="25-04-26 18:49:13.592" pr="1"/>
+    <dp ct="2504262009" l="4"/>
 </s>
 
 
@@ -1525,6 +1411,13 @@
     <ar ct="2504261816" l="2">
         <m id="r16858509" t="d" c="43" ts="2504261753" ts-tts="25-04-26 17:53:43.215"/>
     </ar>
+</s>
+
+
+<s id="-7637141976648923664-2504262028-15" eva="8000080">
+    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
+    <ar ct="2504262204" l="6"/>
+    <dp ct="2504262207" l="6"/>
 </s>
 
 
@@ -1785,6 +1678,12 @@
         <m id="r16857605" t="f" c="0" ts="2504261727" ts-tts="25-04-26 17:27:54.005"/>
         <m id="r16857607" t="f" c="0" ts="2504261727" ts-tts="25-04-26 17:27:54.005"/>
     </dp>
+</s>
+
+
+<s id="-220877954818304341-2504261947-8" eva="8000080">
+    <ar ct="2504262119" l="11"/>
+    <dp ct="2504262121" l="11"/>
 </s>
 
 
@@ -2363,6 +2262,13 @@
 </s>
 
 
+<s id="4265255517751828639-2504261653-8" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.268" pr="2"/>
+    <ar ct="2504262046"/>
+    <dp ct="2504262050"/>
+</s>
+
+
 <s id="-3147256454550081390-2504261351-21" eva="8000080">
     <m id="r2406554" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.723" pr="3"/>
     <ar ct="2504261620" l="1">
@@ -2404,6 +2310,11 @@
     <dp ct="2504261605" l="3">
         <m id="r16855147" t="d" c="45" ts="2504261614" ts-tts="25-04-26 16:14:47.612"/>
     </dp>
+</s>
+
+
+<s id="731501050016057361-2504262013-4" eva="8000080">
+    <ar cp="23" ct="2504262036" l="RE11"/>
 </s>
 
 
@@ -2796,6 +2707,13 @@
 </s>
 
 
+<s id="7071599343150290657-2504261527-16" eva="8000080">
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.269" pr="2"/>
+    <m id="r2410150" t="h" from="2504260737" to="2504262056" cat="Information" ts="2504260405" ts-tts="25-04-26 04:05:43.976" pr="2"/>
+    <ar ct="2504262058"/>
+</s>
+
+
 <s id="5527125212689070504-2504261453-1" eva="8000080">
     <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
     <dp ct="2504261456" l="51"/>
@@ -3143,6 +3061,21 @@
 </s>
 
 
+<s id="-5040855886902453859-2504261326-11" eva="8000080">
+    <m id="r2297302" t="h" from="2412150000" to="2512132359" cat="Information" ts="2504111415" ts-tts="25-04-25 23:16:03.381" pr="2"/>
+    <m id="r2390441" t="h" from="2503201359" to="2505022359" cat="Information" ts="2503201401" ts-tts="25-04-25 23:16:03.595" pr="2"/>
+    <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 04:16:03.266" pr="2"/>
+    <ar ct="2504262123">
+        <m id="r16849195" t="f" c="0" ts="2504261334" ts-tts="25-04-26 13:34:41.479"/>
+        <m id="r16849926" t="f" c="0" ts="2504261356" ts-tts="25-04-26 13:56:07.007"/>
+    </ar>
+    <dp ct="2504262125">
+        <m id="r16849195" t="f" c="0" ts="2504261334" ts-tts="25-04-26 13:34:41.479"/>
+        <m id="r16849926" t="f" c="0" ts="2504261356" ts-tts="25-04-26 13:56:07.007"/>
+    </dp>
+</s>
+
+
 <s id="3425291868001412392-2504261336-6" eva="8000080">
     <ar ct="2504261356" l="59"/>
 </s>
@@ -3408,6 +3341,11 @@
     <dp ct="2504261315" l="4">
         <m id="r16848600" t="d" c="45" ts="2504261317" ts-tts="25-04-26 13:17:39.356"/>
     </dp>
+</s>
+
+
+<s id="1230247684863164995-2504262103-20" eva="8000080">
+    <m id="r2410305" t="h" from="2504261030" to="2504261400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504261053" ts-tts="25-04-26 13:16:01.917" pr="1"/>
 </s>
 
 
@@ -4330,6 +4268,11 @@
 </s>
 
 
+<s id="-2351366154733574977-2504262209-1" eva="8000080">
+    <m id="r2408818" t="h" from="2504260100" to="2509010059" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504252304" ts-tts="25-04-25 23:04:39.131" pr="1"/>
+</s>
+
+
 <s id="-8339038912184294017-2504262113-5" eva="8000080">
     <m id="r2410130" t="h" from="2504260310" to="2504292359" cat="Information" ts="2504260314" ts-tts="25-04-26 05:16:03.456" pr="2"/>
 </s>
@@ -4429,6 +4372,11 @@
 </s>
 
 
+<s id="7784412642300263782-2504262043-39" eva="8000080">
+    <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
+</s>
+
+
 <s id="-4130516540586102412-2504262053-1" eva="8000080">
     <m id="r2406560" t="h" from="2504250000" to="2505012359" cat="Information. (Quelle: zuginfo.nrw)" ts="2504242304" ts-tts="25-04-25 23:16:03.729" pr="3"/>
 </s>
@@ -4436,6 +4384,18 @@
 
 <s id="5974963258432924871-2504262052-8" eva="8000080">
     <m id="r2392205" t="h" from="2504242100" to="2505050550" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2504232303" ts-tts="25-04-25 23:16:03.597" pr="2"/>
+</s>
+
+
+<s id="2184049933202448469-2504262051-8" eva="8000080">
+    <m id="r2382319" t="h" from="2504120300" to="2504280300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2504112303" ts-tts="25-04-25 23:16:03.422" pr="1"/>
+</s>
+
+
+<s id="-5125292636263010493-2504261928-15" eva="8000080">
+    <m id="r2366818" t="h" from="2501022100" to="2509050900" cat="Störung. (Quelle: zuginfo.nrw)" ts="2502101425" ts-tts="25-04-25 23:16:03.400" pr="1"/>
+    <ar ct="2504262105" l="6"/>
+    <dp ct="2504262107" l="6"/>
 </s>
 
 

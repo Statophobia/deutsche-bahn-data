@@ -1,48 +1,7 @@
 <?xml version="1.0" ?><timetable station="Flughafen BER (S-Bahn)" eva="8089201">
 
-<s id="4910604758028295219-2504262037-1" eva="8089201">
-    <dp ct="2504262037" l="45"/>
-</s>
-
-
-<s id="-3306303817330666124-2504261959-12" eva="8089201">
-    <ar ppth="Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf" pp="5" ct="2504262036" pt="2504262036" l="9"/>
-    <tl f="S" t="e" o="08" c="S" n="90123"/>
-    <ref>
-        <tl f="S" t="p" o="08" c="S" n="9123"/>
-    </ref>
-</s>
-
-
-<s id="8970686012061115818-2504262017-1" eva="8089201">
-    <m id="r2400595" t="h" from="2504240000" to="2504262359" cat="Bauarbeiten" ts="2504232303" ts-tts="25-04-25 23:16:03.619" pr="1"/>
-    <dp ct="2504262017" l="45"/>
-</s>
-
-
-<s id="8996197276621512141-2504261939-12" eva="8089201">
-    <ar ppth="Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf" pp="5" ct="2504262017" pt="2504262016" l="9"/>
-    <tl f="S" t="e" o="08" c="S" n="90121"/>
-    <ref>
-        <tl f="S" t="p" o="08" c="S" n="9121"/>
-    </ref>
-</s>
-
-
-<s id="-5874207931311033574-2504262029-1" eva="8089201">
-    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
-    <dp cpth="Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße" ct="2504262029" l="9"/>
-</s>
-
-
 <s id="-8652958165005586316-2504261953-11" eva="8089201">
-    <ar ct="2504262026" l="45"/>
-</s>
-
-
-<s id="-4489258971327999510-2504262009-1" eva="8089201">
-    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
-    <dp cpth="Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße" ct="2504262010" l="9"/>
+    <ar ct="2504262027" l="45"/>
 </s>
 
 
@@ -57,6 +16,21 @@
     <ref>
         <tl f="S" t="p" o="08" c="S" n="9125"/>
     </ref>
+</s>
+
+
+<s id="8996197276621512141-2504261939-12" eva="8089201">
+    <ar ppth="Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf" pp="5" ct="2504262016" pt="2504262016" l="9"/>
+    <tl f="S" t="e" o="08" c="S" n="90121"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="9121"/>
+    </ref>
+</s>
+
+
+<s id="8970686012061115818-2504262017-1" eva="8089201">
+    <m id="r2400595" t="h" from="2504240000" to="2504262359" cat="Bauarbeiten" ts="2504232303" ts-tts="25-04-25 23:16:03.619" pr="1"/>
+    <dp ct="2504262017" l="45"/>
 </s>
 
 
@@ -89,6 +63,12 @@
 </s>
 
 
+<s id="-4489258971327999510-2504262009-1" eva="8089201">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
+    <dp cpth="Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße" ct="2504262009" l="9"/>
+</s>
+
+
 <s id="3377647720781430757-2504261949-1" eva="8089201">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
     <dp cpth="Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße" ct="2504261949" l="9"/>
@@ -97,6 +77,15 @@
 
 <s id="6732782628795851563-2504261913-11" eva="8089201">
     <ar ct="2504261946" l="45"/>
+</s>
+
+
+<s id="-3306303817330666124-2504261959-12" eva="8089201">
+    <ar ppth="Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf" pp="5" ct="2504262036" pt="2504262036" l="9"/>
+    <tl f="S" t="e" o="08" c="S" n="90123"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="9123"/>
+    </ref>
 </s>
 
 
@@ -1087,6 +1076,12 @@
 <s id="6467384888176702793-2504262037-30" eva="8089201">
     <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
     <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" cs="c" clt="2504260135" l="9"/>
+</s>
+
+
+<s id="-5874207931311033574-2504262029-1" eva="8089201">
+    <m id="r2408042" t="h" from="2504250300" to="2504270300" cat="Bauarbeiten" ts="2504242304" ts-tts="25-04-25 23:16:03.746" pr="2"/>
+    <dp cpth="Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße" l="9"/>
 </s>
 
 

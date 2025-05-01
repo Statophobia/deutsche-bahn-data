@@ -1,71 +1,5 @@
 <?xml version="1.0" ?><timetable station="Tübingen Hbf" eva="8000141">
 
-<s id="-8654587388021481161-2505010703-12" eva="8000141">
-    <m id="r2387618" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
-    <ar cpth="Aulendorf|Altshausen|Bad Saulgau|Herbertingen Ort|Herbertingen|Mengen|Sigmaringen|Albstadt-Ebingen|Balingen(Württ)|Hechingen|Mössingen" ct="2505010858" l="6">
-        <m id="r17071104" t="d" c="33" ts="2505010827" ts-tts="25-05-01 08:27:49.921"/>
-    </ar>
-    <dp cpth="" ct="2505010901" cs="c" clt="2505010827" l="6">
-        <m id="r17071104" t="d" c="33" ts="2505010827" ts-tts="25-05-01 08:27:49.921"/>
-    </dp>
-</s>
-
-
-<s id="-7569594639293726781-2505010709-17" eva="8000141">
-    <ar ct="2505010828" l="RB66"/>
-</s>
-
-
-<s id="2437818272226060264-2505010800-7" eva="8000141">
-    <ar cpth="Horb|Mühlen(b Horb)|Eyach" ct="2505010831" cs="c" clt="2505010824" l="74">
-        <m id="r17071025" t="d" c="36" ts="2505010824" ts-tts="25-05-01 08:24:10.711"/>
-    </ar>
-</s>
-
-
-<s id="3223334830782880551-2505010834-1" eva="8000141">
-    <dp ct="2505010834" l="74">
-        <m id="r17071024" t="f" c="0" ts="2505010824" ts-tts="25-05-01 08:24:10.711"/>
-    </dp>
-</s>
-
-
-<s id="6656782556908432405-2505010620-21" eva="8000141">
-    <m id="r669381889" t="c" ts="2505010824" ts-tts="25-05-01 08:24:10.643"/>
-    <ar cpth="Heilbronn Hbf|Nordheim(Württ)|Lauffen(Neckar)|Kirchheim(Neckar)|Walheim(Württ)|Besigheim|Bietigheim-Bissingen|Ludwigsburg|Stuttgart Hbf|Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen" ct="2505010846" cs="c" clt="2505010701" l="18">
-        <m id="r17068129" t="d" c="36" ts="2505010553" ts-tts="25-05-01 05:53:49.340"/>
-    </ar>
-</s>
-
-
-<s id="4607227058003366409-2505010852-8" eva="8000141">
-    <ar ct="2505010924" l="74"/>
-</s>
-
-
-<s id="-9076663722933973071-2505010815-3" eva="8000141">
-    <m id="r2412799" t="h" from="2505010600" to="2505010900" cat="Information" ts="2505010633" ts-tts="25-05-01 07:16:03.293" pr="1"/>
-    <m id="r2387618" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
-    <ar cpth="" ct="2505010901" cs="c" clt="2505010816" l="6">
-        <m id="r17070848" t="d" c="33" ts="2505010816" ts-tts="25-05-01 08:16:21.596"/>
-    </ar>
-    <dp cpth="Mössingen|Hechingen|Balingen(Württ)|Albstadt-Ebingen|Sigmaringen|Mengen|Herbertingen|Herbertingen Ort|Bad Saulgau|Altshausen|Aulendorf" ct="2505010900" l="6">
-        <m id="r17070848" t="d" c="33" ts="2505010816" ts-tts="25-05-01 08:16:21.596"/>
-    </dp>
-</s>
-
-
-<s id="2439377578942558136-2505010732-17" eva="8000141">
-    <m id="r2387615" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
-    <ar ct="2505010819" l="63"/>
-</s>
-
-
-<s id="-7637227845982857410-2505010846-3" eva="8000141">
-    <ar ct="2505010855" l="6"/>
-</s>
-
-
 <s id="4341136945124075352-2505010841-1" eva="8000141">
     <m id="r2408356" t="h" from="2504230541" to="2512120911" cat="Information" ts="2504230937" ts-tts="25-04-30 23:16:04.098" pr="3"/>
     <dp ct="2505010841" l="63">
@@ -77,6 +11,11 @@
 <s id="-1082875419415072490-2505010839-1" eva="8000141">
     <m id="r2387615" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
     <dp ct="2505010839" l="63"/>
+</s>
+
+
+<s id="2437818272226060264-2505010800-7" eva="8000141">
+    <ar ct="2505010831" l="74"/>
 </s>
 
 
@@ -94,6 +33,11 @@
 
 <s id="-5558203616838962211-2505011205-1" eva="8000141">
     <dp ct="2505011205" l="12"/>
+</s>
+
+
+<s id="3223334830782880551-2505010834-1" eva="8000141">
+    <dp ct="2505010834" l="74"/>
 </s>
 
 
@@ -148,6 +92,14 @@
 
 <s id="2066726437272328661-2505010911-5" eva="8000141">
     <ar cpth="Wendlingen(Neckar)|Nürtingen|Metzingen(Württ)|Reutlingen Hbf" ct="2505010958" l="6"/>
+</s>
+
+
+<s id="-9076663722933973071-2505010815-3" eva="8000141">
+    <m id="r2412799" t="h" from="2505010600" to="2505010900" cat="Information" ts="2505010633" ts-tts="25-05-01 07:16:03.293" pr="1"/>
+    <m id="r2387618" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
+    <ar ct="2505010901" l="6"/>
+    <dp ct="2505010903" l="6"/>
 </s>
 
 
@@ -324,8 +276,21 @@
 </s>
 
 
+<s id="2439377578942558136-2505010732-17" eva="8000141">
+    <m id="r2387615" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
+    <ar ct="2505010819" l="63"/>
+</s>
+
+
 <s id="3196709793421788469-2505010833-1" eva="8000141">
     <dp cpth="Plochingen|Esslingen(Neckar)|Stuttgart-Bad Cannstatt|Stuttgart Hbf|Ludwigsburg|Bietigheim-Bissingen|Besigheim|Walheim(Württ)|Kirchheim(Neckar)|Lauffen(Neckar)|Nordheim(Württ)|Heilbronn Hbf|Heilbronn Sülmertor|Neckarsulm|Bad Friedrichshall Hbf|Untergriesheim|Herbolzheim(Jagst)|Neudenau|Siglingen|Züttlingen|Möckmühl|Roigheim|Sennfeld|Adelsheim Ost|Osterburken" ct="2505010852" cs="c" clt="2505010701" l="18"/>
+</s>
+
+
+<s id="6656782556908432405-2505010620-21" eva="8000141">
+    <ar cpth="Heilbronn Hbf|Nordheim(Württ)|Lauffen(Neckar)|Kirchheim(Neckar)|Walheim(Württ)|Besigheim|Bietigheim-Bissingen|Ludwigsburg|Stuttgart Hbf|Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen" ct="2505010846" cs="c" clt="2505010701" l="18">
+        <m id="r17068129" t="d" c="36" ts="2505010553" ts-tts="25-05-01 05:53:49.340"/>
+    </ar>
 </s>
 
 
@@ -385,6 +350,13 @@
 </s>
 
 
+<s id="-8654587388021481161-2505010703-12" eva="8000141">
+    <m id="r2387618" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
+    <ar ct="2505010858" l="6"/>
+    <dp ct="2505010902" l="6"/>
+</s>
+
+
 <s id="4636036529075799544-2505011033-1" eva="8000141">
     <dp ct="2505011033" l="18"/>
 </s>
@@ -431,6 +403,11 @@
 
 <s id="-532836669655828922-2505010958-1" eva="8000141">
     <dp ct="2505010958" l="6"/>
+</s>
+
+
+<s id="-7569594639293726781-2505010709-17" eva="8000141">
+    <ar ct="2505010828" l="RB66"/>
 </s>
 
 
@@ -663,6 +640,12 @@
 </s>
 
 
+<s id="7160228248794927613-2504302230-19" eva="8000141">
+    <ar ppth="Heilbronn Hbf|Nordheim(Württ)|Lauffen(Neckar)|Kirchheim(Neckar)|Walheim(Württ)|Besigheim|Bietigheim-Bissingen|Ludwigsburg|Stuttgart Hbf|Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Wendlingen(Neckar)|Oberboihingen|Nürtingen|Bempflingen|Metzingen(Württ)|Reutlingen Hbf" pp="3" ct="2505010115" pt="2505010025" l="18"/>
+    <tl t="p" o="SBSMEX" c="MEX" n="19339"/>
+</s>
+
+
 <s id="8341229680159781952-2505011706-12" eva="8000141">
     <m id="r2387618" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
 </s>
@@ -680,6 +663,22 @@
 
 <s id="1717828780581612489-2505010104-1" eva="8000141">
     <dp ct="2505010104" l="12"/>
+</s>
+
+
+<s id="-7178566801938544932-2505010019-9" eva="8000141">
+    <ar ct="2505010049" l="63"/>
+    <dp ct="2505010050" l="63"/>
+</s>
+
+
+<s id="-6843082013550517126-2505010041-1" eva="8000141">
+    <dp ct="2505010041" l="63"/>
+</s>
+
+
+<s id="3420123565074017057-2505010033-1" eva="8000141">
+    <dp ct="2505010033" l="RB66"/>
 </s>
 
 
@@ -820,6 +819,11 @@
 
 <s id="-5425555783803201472-2505011132-17" eva="8000141">
     <m id="r2387615" t="h" from="2504250000" to="2505012359" cat="Bauarbeiten" ts="2504242303" ts-tts="25-04-30 23:16:03.781" pr="2"/>
+</s>
+
+
+<s id="4711551778671726903-2504302305-1" eva="8000141">
+    <dp ct="2504302305" l="12"/>
 </s>
 
 

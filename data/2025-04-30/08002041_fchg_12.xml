@@ -1,39 +1,80 @@
 <?xml version="1.0" ?><timetable station="Frankfurt(Main)Süd" eva="8002041">
 
+<s id="-2694404859293452811-2504301329-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301414" l="4"/>
+</s>
+
+
+<s id="607522038288083186-2504301442-2" eva="8002041">
+    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
+    <ar ct="2504301447" l="51"/>
+    <dp ct="2504301448" l="51"/>
+</s>
+
+
 <s id="5451072460524428141-2504301434-7" eva="8002041">
-    <ar ct="2504301454" l="6"/>
-    <dp ct="2504301455" l="6"/>
+    <ar ct="2504301452" l="6"/>
+    <dp ct="2504301453" l="6"/>
 </s>
 
 
 <s id="-96435162067290619-2504301358-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301454" l="5"/>
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301441" l="5"/>
 </s>
 
 
-<s id="-8533467443596493009-2504301430-2" eva="8002041">
-    <ar ct="2504301435" l="RB58"/>
-    <dp ct="2504301436" l="RB58"/>
+<s id="8363324323543152556-2504301354-3" eva="8002041">
+    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
+    <ar ct="2504301410" l="51"/>
+    <dp ct="2504301412" l="51"/>
 </s>
 
 
-<s id="8269551011228845646-2504301422-4" eva="8002041">
-    <ar ct="2504301438" l="RE59"/>
-    <dp ct="2504301439" l="RE59"/>
+<s id="3831966962086916248-2504301411-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301500" l="3"/>
 </s>
 
 
-<s id="6485499152239643161-2504301443-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301456" l="4">
-        <m id="r17028311" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:11:06.796"/>
+<s id="-1592692208099006397-2504301441-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301519" l="3"/>
+</s>
+
+
+<s id="-6095052605294619069-2504301405-12" eva="8002041">
+    <ar ct="2504301439" l="6"/>
+    <dp ct="2504301440" l="6"/>
+</s>
+
+
+<s id="-5449467009099159503-2504301320-22" eva="8002041">
+    <ar ct="2504301420" l="6">
+        <m id="r17031189" t="d" c="43" ts="2504301402" ts-tts="25-04-30 14:02:58.426"/>
+    </ar>
+    <dp ct="2504301421" l="6">
+        <m id="r17031189" t="d" c="43" ts="2504301402" ts-tts="25-04-30 14:02:58.426"/>
+    </dp>
+</s>
+
+
+<s id="5942443090161514105-2504301335-4" eva="8002041">
+    <m id="r2411257" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281254" ts-tts="25-04-29 23:16:04.712" pr="1"/>
+    <ar ct="2504301405" l="RB58">
+        <m id="r17031551" t="d" c="34" ts="2504301409" ts-tts="25-04-30 14:09:42.145"/>
+        <m id="r17031559" t="f" c="0" ts="2504301409" ts-tts="25-04-30 14:10:14.183"/>
+    </ar>
+    <dp ct="2504301406" l="RB58">
+        <m id="r17031551" t="d" c="34" ts="2504301409" ts-tts="25-04-30 14:09:42.145"/>
+        <m id="r17031559" t="f" c="0" ts="2504301409" ts-tts="25-04-30 14:10:14.183"/>
     </dp>
 </s>
 
 
 <s id="-5804428351779687327-2504301128-7" eva="8002041">
-    <ar ppth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Bad Hersfeld|Fulda" pp="7" ct="2504301627" pt="2504301533" l="10">
+    <ar ppth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Bad Hersfeld|Fulda" pp="7" ct="2504301624" pt="2504301533" l="10">
         <m id="r17002235" t="f" c="0" ts="2504292310" ts-tts="25-04-29 23:10:28.646"/>
         <m id="r17002236" t="f" c="1000" ts="2504292310" ts-tts="25-04-29 23:10:28.646"/>
         <m id="r17020957" t="d" c="47" ts="2504301039" ts-tts="25-04-30 10:39:55.489"/>
@@ -45,7 +86,7 @@
         <m id="r17030771" t="f" c="0" ts="2504301357" ts-tts="25-04-30 13:57:21.074"/>
         <m id="r17030772" t="f" c="1000" ts="2504301357" ts-tts="25-04-30 13:57:21.074"/>
     </ar>
-    <dp ppth="Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf" pp="7" ct="2504301631" pt="2504301537" l="10">
+    <dp ppth="Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf" pp="7" ct="2504301629" pt="2504301537" l="10">
         <m id="r17002235" t="f" c="0" ts="2504292310" ts-tts="25-04-29 23:10:28.646"/>
         <m id="r17002236" t="f" c="1000" ts="2504292310" ts-tts="25-04-29 23:10:28.646"/>
         <m id="r17020957" t="d" c="47" ts="2504301039" ts-tts="25-04-30 10:39:55.489"/>
@@ -61,141 +102,12 @@
 </s>
 
 
-<s id="-214091682486605617-2504301450-22" eva="8002041">
-    <ar ct="2504301543" l="6"/>
-    <dp ct="2504301545" l="6"/>
-</s>
-
-
-<s id="7357640505402611806-2504301420-8" eva="8002041">
-    <ar ct="2504301509" l="RE85"/>
-    <dp ct="2504301510" l="RE85"/>
-</s>
-
-
-<s id="6405323032494676085-2504301505-12" eva="8002041">
-    <ar ct="2504301533" l="6"/>
-    <dp ct="2504301534" l="6"/>
-</s>
-
-
-<s id="-5652178056885221620-2504301359-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301452" l="4"/>
-</s>
-
-
-<s id="1377803800466132894-2504301423-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301435" l="5">
-        <m id="r17028300" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:10:34.301"/>
-    </dp>
-</s>
-
-
-<s id="4868925780121483922-2504301835-4" eva="8002041">
-    <m id="r2411257" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281254" ts-tts="25-04-29 23:16:04.711" pr="1"/>
-    <ar ct="2504301900" l="RB58"/>
-    <dp ct="2504301901" l="RB58"/>
-</s>
-
-
-<s id="-9014976420586243653-2504301417-18" eva="8002041">
-    <ar cpth="Bad Vilbel|Bad Vilbel Süd|Frankfurt-Berkersheim|Frankfurt-Frankfurter Berg|Frankfurt-Eschersheim|Frankfurt-Ginnheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301505" l="6">
-        <m id="r17029808" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:17.355"/>
-        <m id="r17032569" t="d" c="43" ts="2504301427" ts-tts="25-04-30 14:27:44.507"/>
+<s id="4975866919665532518-2504301404-7" eva="8002041">
+    <ar cpth="" ct="2504301437" cs="c" clt="2504301338" l="6">
+        <m id="r17029784" t="d" c="33" ts="2504301338" ts-tts="25-04-30 13:38:28.608"/>
     </ar>
-    <dp cpth="Frankfurt(M)Stresemannallee|Frankfurt-Louisa|Neu-Isenburg|Dreieich-Buchschlag|Langen-Flugsicherung|Langen(Hess)|Egelsbach|Erzhausen|Darmstadt-Wixhausen|Darmstadt-Arheilgen|Darmstadt Hbf" ct="2504301506" l="6">
-        <m id="r17029808" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:17.355"/>
-        <m id="r17032569" t="d" c="43" ts="2504301427" ts-tts="25-04-30 14:27:44.507"/>
-    </dp>
-</s>
-
-
-<s id="-2362688987966357805-2504301504-7" eva="8002041">
-    <ar ct="2504301520" l="6"/>
-    <dp ct="2504301521" l="6"/>
-</s>
-
-
-<s id="7107907612405044785-2504301458-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301502" l="3">
-        <m id="r17028366" t="d" c="33" ts="2504301311" ts-tts="25-04-30 13:11:39.223"/>
-    </dp>
-</s>
-
-
-<s id="3831966962086916248-2504301411-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="Eschborn|Eschborn Süd|Frankfurt-Rödelheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301458" l="3">
-        <m id="r17032280" t="d" c="33" ts="2504301422" ts-tts="25-04-30 14:22:06.895"/>
-    </ar>
-</s>
-
-
-<s id="5864617948610885055-2504301429-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar ct="2504301505" l="4"/>
-</s>
-
-
-<s id="-3677627289054308362-2504301328-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cp="3" ct="2504301432" l="5"/>
-</s>
-
-
-<s id="-5113266305566085803-2504301350-22" eva="8002041">
-    <ar ct="2504301449" l="6">
-        <m id="r17031312" t="d" c="45" ts="2504301404" ts-tts="25-04-30 14:04:19.303"/>
-    </ar>
-    <dp ct="2504301450" l="6">
-        <m id="r17031312" t="d" c="45" ts="2504301404" ts-tts="25-04-30 14:04:19.303"/>
-    </dp>
-</s>
-
-
-<s id="-6015548354485926442-2504301830-2" eva="8002041">
-    <ar ct="2504301834" l="RB58"/>
-    <dp ct="2504301836" l="RB58"/>
-</s>
-
-
-<s id="3296970492882229083-2504301459-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar ct="2504301533" l="4"/>
-</s>
-
-
-<s id="-5565270939593440728-2504301347-18" eva="8002041">
-    <ar ct="2504301428" l="6"/>
-    <dp ct="2504301428" l="6"/>
-</s>
-
-
-<s id="-6288823494565802022-2504301458-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar ct="2504301538" l="5"/>
-</s>
-
-
-<s id="-6095052605294619069-2504301405-12" eva="8002041">
-    <ar ct="2504301443" l="6">
-        <m id="r17031747" t="d" c="43" ts="2504301414" ts-tts="25-04-30 14:14:16.842"/>
-    </ar>
-    <dp ct="2504301444" l="6">
-        <m id="r17031747" t="d" c="43" ts="2504301414" ts-tts="25-04-30 14:14:16.842"/>
-    </dp>
-</s>
-
-
-<s id="9191945868145213951-2504301126-26" eva="8002041">
-    <ar ct="2504301425" l="54">
-        <m id="r16997452" t="f" c="0" ts="2504292037" ts-tts="25-04-29 20:37:56.514"/>
-    </ar>
-    <dp ct="2504301427" l="54">
-        <m id="r16997452" t="f" c="0" ts="2504292037" ts-tts="25-04-29 20:37:56.514"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Frankfurt-Ginnheim|Frankfurt-Eschersheim|Frankfurt-Frankfurter Berg|Frankfurt-Berkersheim|Bad Vilbel Süd|Bad Vilbel|Dortelweil|Groß Karben|Okarben|Nieder Wöllstadt|Bruchenbrücken|Friedberg(Hess)" cp="3" ct="2504301418" l="6">
+        <m id="r17029784" t="d" c="33" ts="2504301338" ts-tts="25-04-30 13:38:28.608"/>
     </dp>
 </s>
 
@@ -203,551 +115,6 @@
 <s id="6680901143688292845-2504301438-2" eva="8002041">
     <ar ct="2504301444" l="RE85"/>
     <dp ct="2504301445" l="RE85"/>
-</s>
-
-
-<s id="3736903296590802325-2504301338-2" eva="8002041">
-    <ar ppth="Frankfurt(Main)Hbf" pp="6" ct="2504301422" pt="2504301342" pde="Erbach(Odenw)" l="RE85"/>
-    <dp ppth="Offenbach(Main)Hbf|Hanau Hbf|Hainburg Hainstadt|Seligenstadt(Hess)|Babenhausen(Hess)" pp="6" ct="2504301423" pt="2504301343" l="RE85"/>
-    <tl f="D" t="p" o="R4" c="VIA" n="25327"/>
-</s>
-
-
-<s id="-4592608150414261454-2504301454-3" eva="8002041">
-    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
-    <ar ct="2504301509" l="51"/>
-    <dp ct="2504301511" l="51"/>
-</s>
-
-
-<s id="892627828688988954-2504301453-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301453" l="5">
-        <m id="r17028353" t="d" c="33" ts="2504301311" ts-tts="25-04-30 13:11:23.005"/>
-    </dp>
-</s>
-
-
-<s id="-5449467009099159503-2504301320-22" eva="8002041">
-    <ar ct="2504301422" l="6">
-        <m id="r17031189" t="d" c="43" ts="2504301402" ts-tts="25-04-30 14:02:58.426"/>
-    </ar>
-    <dp ct="2504301422" l="6">
-        <m id="r17031189" t="d" c="43" ts="2504301402" ts-tts="25-04-30 14:02:58.426"/>
-    </dp>
-</s>
-
-
-<s id="-1592692208099006397-2504301441-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar ct="2504301518" l="3"/>
-</s>
-
-
-<s id="-6190868044575446165-2504301822-4" eva="8002041">
-    <ar ct="2504301838" l="RE59"/>
-    <dp ct="2504301839" l="RE59"/>
-</s>
-
-
-<s id="-2296620074524362066-2504301358-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn" ct="2504301400" l="3">
-        <m id="r17026758" t="d" c="33" ts="2504301240" ts-tts="25-04-30 12:40:52.426"/>
-    </dp>
-</s>
-
-
-<s id="3976401638956005472-2504301428-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar ct="2504301516" l="5"/>
-</s>
-
-
-<s id="3034687080554039995-2504301447-18" eva="8002041">
-    <ar ct="2504301529" l="6"/>
-    <dp ct="2504301529" l="6"/>
-</s>
-
-
-<s id="5942443090161514105-2504301335-4" eva="8002041">
-    <m id="r2411257" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281254" ts-tts="25-04-29 23:16:04.712" pr="1"/>
-    <ar ct="2504301405" l="RB58">
-        <m id="r17031551" t="d" c="34" ts="2504301409" ts-tts="25-04-30 14:09:42.145"/>
-        <m id="r17031559" t="f" c="0" ts="2504301409" ts-tts="25-04-30 14:10:14.183"/>
-        <m id="r17032215" t="d" c="38" ts="2504301420" ts-tts="25-04-30 14:21:01.955"/>
-    </ar>
-    <dp ct="2504301406" l="RB58">
-        <m id="r17031551" t="d" c="34" ts="2504301409" ts-tts="25-04-30 14:09:42.145"/>
-        <m id="r17031559" t="f" c="0" ts="2504301409" ts-tts="25-04-30 14:10:14.183"/>
-        <m id="r17032215" t="d" c="38" ts="2504301420" ts-tts="25-04-30 14:21:01.955"/>
-    </dp>
-</s>
-
-
-<s id="4975866919665532518-2504301404-7" eva="8002041">
-    <ar cpth="" ct="2504301437" cs="c" clt="2504301338" l="6">
-        <m id="r17029784" t="d" c="33" ts="2504301338" ts-tts="25-04-30 13:38:28.608"/>
-    </ar>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Frankfurt-Ginnheim|Frankfurt-Eschersheim|Frankfurt-Frankfurter Berg|Frankfurt-Berkersheim|Bad Vilbel Süd|Bad Vilbel|Dortelweil|Groß Karben|Okarben|Nieder Wöllstadt|Bruchenbrücken|Friedberg(Hess)" cp="3" ct="2504301419" l="6">
-        <m id="r17029784" t="d" c="33" ts="2504301338" ts-tts="25-04-30 13:38:28.608"/>
-    </dp>
-</s>
-
-
-<s id="7323261806067538391-2504301413-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301416" l="4">
-        <m id="r17028170" t="d" c="33" ts="2504301308" ts-tts="25-04-30 13:08:56.986"/>
-    </dp>
-</s>
-
-
-<s id="-3962683424805510726-2504301243-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301245" l="4">
-        <m id="r17026414" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:30.730"/>
-    </dp>
-</s>
-
-
-<s id="-9106075322407608176-2504301311-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cpth="Niederhöchstadt|Eschborn|Eschborn Süd|Frankfurt-Rödelheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301352" l="3">
-        <m id="r17027586" t="d" c="33" ts="2504301257" ts-tts="25-04-30 12:58:13.555"/>
-    </ar>
-</s>
-
-
-<s id="2383556496147333591-2504301158-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cp="3" ct="2504301250" l="5"/>
-</s>
-
-
-<s id="8171834787443352189-2504301343-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301346" l="4">
-        <m id="r17026723" t="d" c="33" ts="2504301240" ts-tts="25-04-30 12:40:20.389"/>
-    </dp>
-</s>
-
-
-<s id="-4931407184931839202-2504301249-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cpth="" ct="2504301322" cs="c" clt="2504301235" l="5">
-        <m id="r17026444" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:36:03.170"/>
-    </ar>
-</s>
-
-
-<s id="-2776754231954251748-2504301323-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301336" l="5">
-        <m id="r17026621" t="d" c="33" ts="2504301238" ts-tts="25-04-30 12:38:11.775"/>
-    </dp>
-</s>
-
-
-<s id="-2431352790427983230-2504301258-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cp="3" ct="2504301356" l="5"/>
-</s>
-
-
-<s id="4710328057350224324-2504301228-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt" ct="2504301238" l="3">
-        <m id="r17026188" t="d" c="33" ts="2504301230" ts-tts="25-04-30 12:30:26.067"/>
-    </dp>
-</s>
-
-
-<s id="-4849132630681960906-2504301313-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301330" l="4">
-        <m id="r17026434" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:46.955"/>
-    </dp>
-</s>
-
-
-<s id="-615429865737457135-2504301449-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026493" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:51.542"/>
-    </ar>
-</s>
-
-
-<s id="7444313483010476752-2504301438-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026499" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:51.542"/>
-    </dp>
-</s>
-
-
-<s id="4092009418443293251-2504301511-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301323" l="3">
-        <m id="r17028957" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:27.223"/>
-    </ar>
-</s>
-
-
-<s id="5518310354368200399-2504301508-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301324" l="5">
-        <m id="r17028988" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
-    </dp>
-</s>
-
-
-<s id="-8476511814695172829-2504301253-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.371" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301253" l="5">
-        <m id="r17026557" t="d" c="33" ts="2504301237" ts-tts="25-04-30 12:37:39.548"/>
-    </dp>
-</s>
-
-
-<s id="-3464237495104984558-2504301223-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301233" l="5"/>
-</s>
-
-
-<s id="-2963006576649586483-2504301353-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301358" l="5">
-        <m id="r17025649" t="d" c="33" ts="2504301218" ts-tts="25-04-30 12:18:26.697"/>
-    </dp>
-</s>
-
-
-<s id="-7046577021043116012-2504301349-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026476" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
-    </ar>
-</s>
-
-
-<s id="-7656080976820686628-2504301308-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026469" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.262"/>
-    </dp>
-</s>
-
-
-<s id="-3737766918841584184-2504301419-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026483" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
-    </ar>
-</s>
-
-
-<s id="-2353029717416412718-2504301428-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301323" l="3">
-        <m id="r17028303" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:10:50.599"/>
-        <m id="r17028954" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:10.880"/>
-    </dp>
-</s>
-
-
-<s id="132426117679085225-2504301408-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026491" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.390"/>
-    </dp>
-</s>
-
-
-<s id="-2694404859293452811-2504301329-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301414" l="4"/>
-</s>
-
-
-<s id="698792311793007252-2504301228-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cp="3" ct="2504301334" l="5"/>
-</s>
-
-
-<s id="4236925992470762839-2504301341-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" ct="2504301418" cs="c" clt="2504301323" l="3">
-        <m id="r17028925" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:10.880"/>
-    </ar>
-</s>
-
-
-<s id="-4788299272875416425-2504301338-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026478" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
-    </dp>
-</s>
-
-
-<s id="-8994436080065852315-2504301158-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301200" l="3"/>
-</s>
-
-
-<s id="-7237285152527979670-2504301258-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" ct="2504301258" cs="c" clt="2504301243" l="3">
-        <m id="r17026429" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:46.955"/>
-        <m id="r17026928" t="d" c="33" ts="2504301243" ts-tts="25-04-30 12:43:32.864"/>
-        <m id="r17029827" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:49.255"/>
-    </dp>
-</s>
-
-
-<s id="-164605995580602153-2504301241-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301336" l="3"/>
-</s>
-
-
-<s id="2578003267704472125-2504301319-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026462" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.261"/>
-    </ar>
-</s>
-
-
-<s id="-4721747686446843050-2504301211-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" ct="2504301248" cs="c" clt="2504301242" l="3">
-        <m id="r17026848" t="d" c="33" ts="2504301242" ts-tts="25-04-30 12:42:44.521"/>
-    </ar>
-</s>
-
-
-<s id="-8712460153468110918-2504301259-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301343" l="4"/>
-</s>
-
-
-<s id="-9110610265370628461-2504301328-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301339" l="3">
-        <m id="r17026699" t="d" c="33" ts="2504301239" ts-tts="25-04-30 12:40:04.086"/>
-    </dp>
-</s>
-
-
-<s id="1471035024547127282-2504301238-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" ct="2504301238" cs="c" clt="2504301236" l="5">
-        <m id="r17026450" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.261"/>
-    </dp>
-</s>
-
-
-<s id="6618246812689902388-2504301558-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-</s>
-
-
-<s id="6146532856612776074-2504301549-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301324" l="5">
-        <m id="r17028999" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
-    </ar>
-</s>
-
-
-<s id="-562568322365528091-2504301543-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" l="4">
-        <m id="r17029674" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:51.827"/>
-    </dp>
-</s>
-
-
-<s id="-6230463738932910518-2504301541-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-</s>
-
-
-<s id="5828851014064755490-2504301538-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" cs="c" clt="2504301324" l="5">
-        <m id="r17028996" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
-    </dp>
-</s>
-
-
-<s id="6776951685345067056-2504301529-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-</s>
-
-
-<s id="-6330552151315423003-2504301528-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-</s>
-
-
-<s id="-1601627368235637222-2504301528-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" l="3">
-        <m id="r17028390" t="d" c="33" ts="2504301312" ts-tts="25-04-30 13:12:11.417"/>
-    </dp>
-</s>
-
-
-<s id="7135437374391910891-2504301523-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" l="5">
-        <m id="r17029640" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:35.787"/>
-    </dp>
-</s>
-
-
-<s id="1195246206192445164-2504301519-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="" cs="c" clt="2504301236" l="5">
-        <m id="r17026506" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:37:07.588"/>
-    </ar>
-</s>
-
-
-<s id="-2619234733874848348-2504301513-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" l="4">
-        <m id="r17029633" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:19.560"/>
-    </dp>
-</s>
-
-
-<s id="-6465004971931098128-2504301229-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="Bad Vilbel|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301327" l="4">
-        <m id="r17025578" t="d" c="33" ts="2504301216" ts-tts="25-04-30 12:17:06.597"/>
-    </ar>
-</s>
-
-
-<s id="-7932090841461336339-2504301219-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cpth="Bad Vilbel|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301316" l="5">
-        <m id="r17025481" t="d" c="33" ts="2504301214" ts-tts="25-04-30 12:14:43.016"/>
-    </ar>
-</s>
-
-
-<s id="-1717510115047402604-2504301213-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301218" l="4"/>
-</s>
-
-
-<s id="7275398232650949655-2504301208-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="" ct="2504301208" cs="c" clt="2504301211" l="5">
-        <m id="r17025336" t="d" c="33" ts="2504301211" ts-tts="25-04-30 12:11:46.997"/>
-    </dp>
-</s>
-
-
-<s id="7040455118809130029-2504301159-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301240" l="4"/>
-</s>
-
-
-<s id="-4759106218052251713-2504301153-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301153" l="5"/>
-</s>
-
-
-<s id="6911951775535526893-2504301149-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301234" l="5"/>
-</s>
-
-
-<s id="189554746487613670-2504301143-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Bad Vilbel" ct="2504301143" l="4"/>
-</s>
-
-
-<s id="10827027024855783-2504301141-18" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301230" l="3"/>
-</s>
-
-
-<s id="-3455836033801338559-2504301138-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Bad Vilbel" ct="2504301138" l="5"/>
-</s>
-
-
-<s id="1397085704227391815-2504301129-16" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301214" l="4">
-        <m id="r17024696" t="d" c="33" ts="2504301156" ts-tts="25-04-30 11:56:52.600"/>
-    </ar>
-</s>
-
-
-<s id="3360702848475519132-2504301128-17" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar cp="3" ct="2504301217" l="5">
-        <m id="r17024974" t="d" c="43" ts="2504301204" ts-tts="25-04-30 12:04:18.417"/>
-    </ar>
-</s>
-
-
-<s id="-1423620563505051869-2504301128-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Frankfurt-Rödelheim" ct="2504301128" l="3"/>
-</s>
-
-
-<s id="-1296229120930729016-2504301123-1" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <dp ct="2504301123" l="5"/>
-</s>
-
-
-<s id="-3151694044864909391-2504301119-15" eva="8002041">
-    <m id="r2412349" t="h" from="2504301130" to="2504301600" cat="Störung" ts="2504301220" ts-tts="25-04-30 14:16:03.370" pr="1"/>
-    <ar ct="2504301153" l="5"/>
-</s>
-
-
-<s id="4658744729256617089-2504301814-14" eva="8002041">
-    <m id="r2411255" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281251" ts-tts="25-04-29 23:16:04.711" pr="1"/>
-    <ar ct="2504301857" l="RB58"/>
-    <dp ct="2504301858" l="RB58"/>
-</s>
-
-
-<s id="607522038288083186-2504301442-2" eva="8002041">
-    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
-    <ar ct="2504301447" l="51"/>
-    <dp ct="2504301448" l="51"/>
-</s>
-
-
-<s id="8363324323543152556-2504301354-3" eva="8002041">
-    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
-    <ar ct="2504301410" l="51"/>
-    <dp ct="2504301412" l="51"/>
 </s>
 
 
@@ -773,6 +140,22 @@
 </s>
 
 
+<s id="-3677627289054308362-2504301328-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301427" l="5"/>
+</s>
+
+
+<s id="-5113266305566085803-2504301350-22" eva="8002041">
+    <ar ct="2504301446" l="6">
+        <m id="r17031312" t="d" c="45" ts="2504301404" ts-tts="25-04-30 14:04:19.303"/>
+    </ar>
+    <dp ct="2504301447" l="6">
+        <m id="r17031312" t="d" c="45" ts="2504301404" ts-tts="25-04-30 14:04:19.303"/>
+    </dp>
+</s>
+
+
 <s id="-8751844154142849954-2504301435-12" eva="8002041">
     <ar ct="2504301503" l="6"/>
     <dp ct="2504301504" l="6"/>
@@ -782,6 +165,20 @@
 <s id="1151106407339648712-2504301434-2" eva="8002041">
     <ar ct="2504301439" l="55"/>
     <dp ct="2504301440" l="55"/>
+</s>
+
+
+<s id="-5652178056885221620-2504301359-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301445" l="4"/>
+</s>
+
+
+<s id="7323261806067538391-2504301413-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301417" l="4">
+        <m id="r17028170" t="d" c="33" ts="2504301308" ts-tts="25-04-30 13:08:56.986"/>
+    </dp>
 </s>
 
 
@@ -802,6 +199,51 @@
 </s>
 
 
+<s id="-2296620074524362066-2504301358-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301400" l="3">
+        <m id="r17026758" t="d" c="33" ts="2504301240" ts-tts="25-04-30 12:40:52.426"/>
+    </dp>
+</s>
+
+
+<s id="5864617948610885055-2504301429-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301503" l="4"/>
+</s>
+
+
+<s id="3736903296590802325-2504301338-2" eva="8002041">
+    <ar ppth="Frankfurt(Main)Hbf" pp="6" ct="2504301417" pt="2504301342" pde="Erbach(Odenw)" l="RE85"/>
+    <dp ppth="Offenbach(Main)Hbf|Hanau Hbf|Hainburg Hainstadt|Seligenstadt(Hess)|Babenhausen(Hess)" pp="6" ct="2504301418" pt="2504301343" l="RE85"/>
+    <tl f="D" t="p" o="R4" c="VIA" n="25327"/>
+</s>
+
+
+<s id="-2963006576649586483-2504301353-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301358" l="5">
+        <m id="r17025649" t="d" c="33" ts="2504301218" ts-tts="25-04-30 12:18:26.697"/>
+    </dp>
+</s>
+
+
+<s id="3976401638956005472-2504301428-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301508" l="5"/>
+</s>
+
+
+<s id="9191945868145213951-2504301126-26" eva="8002041">
+    <ar ct="2504301425" l="54">
+        <m id="r16997452" t="f" c="0" ts="2504292037" ts-tts="25-04-29 20:37:56.514"/>
+    </ar>
+    <dp ct="2504301427" l="54">
+        <m id="r16997452" t="f" c="0" ts="2504292037" ts-tts="25-04-29 20:37:56.514"/>
+    </dp>
+</s>
+
+
 <s id="-292177938903102238-2504301342-2" eva="8002041">
     <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
     <ar ct="2504301348" l="51">
@@ -813,15 +255,49 @@
 </s>
 
 
+<s id="-2431352790427983230-2504301258-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cp="3" ct="2504301356" l="5"/>
+</s>
+
+
 <s id="7368404533619018762-2504301330-2" eva="8002041">
     <ar cp="8" ct="2504301353" l="54"/>
     <dp cp="8" ct="2504301355" l="54"/>
 </s>
 
 
+<s id="1377803800466132894-2504301423-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301423" l="5">
+        <m id="r17028300" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:10:34.301"/>
+    </dp>
+</s>
+
+
 <s id="4194304295834939266-2504301334-7" eva="8002041">
     <ar ct="2504301350" l="6"/>
     <dp ct="2504301352" l="6"/>
+</s>
+
+
+<s id="-5565270939593440728-2504301347-18" eva="8002041">
+    <ar ct="2504301427" l="6"/>
+    <dp ct="2504301429" l="6"/>
+</s>
+
+
+<s id="-9106075322407608176-2504301311-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="Niederhöchstadt|Eschborn|Eschborn Süd|Frankfurt-Rödelheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301352" l="3">
+        <m id="r17027586" t="d" c="33" ts="2504301257" ts-tts="25-04-30 12:58:13.555"/>
+    </ar>
+</s>
+
+
+<s id="7357640505402611806-2504301420-8" eva="8002041">
+    <ar ct="2504301505" l="RE85"/>
+    <dp ct="2504301506" l="RE85"/>
 </s>
 
 
@@ -848,6 +324,24 @@
 </s>
 
 
+<s id="-2776754231954251748-2504301323-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301336" l="5">
+        <m id="r17026621" t="d" c="33" ts="2504301238" ts-tts="25-04-30 12:38:11.775"/>
+    </dp>
+</s>
+
+
+<s id="-9014976420586243653-2504301417-18" eva="8002041">
+    <ar cpth="Bad Vilbel|Bad Vilbel Süd|Frankfurt-Berkersheim|Frankfurt-Frankfurter Berg|Frankfurt-Eschersheim|Frankfurt-Ginnheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301457" l="6">
+        <m id="r17029808" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:17.355"/>
+    </ar>
+    <dp cpth="Frankfurt(M)Stresemannallee|Frankfurt-Louisa|Neu-Isenburg|Dreieich-Buchschlag|Langen-Flugsicherung|Langen(Hess)|Egelsbach|Erzhausen|Darmstadt-Wixhausen|Darmstadt-Arheilgen|Darmstadt Hbf" ct="2504301459" l="6">
+        <m id="r17029808" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:17.355"/>
+    </dp>
+</s>
+
+
 <s id="-4759163217747163166-2504301304-2" eva="8002041">
     <ar cp="9" ct="2504301336" l="RE59">
         <m id="r17028864" t="d" c="43" ts="2504301321" ts-tts="25-04-30 13:21:50.664"/>
@@ -858,6 +352,14 @@
         <m id="r17028864" t="d" c="43" ts="2504301321" ts-tts="25-04-30 13:21:50.664"/>
         <m id="r17030137" t="f" c="0" ts="2504301346" ts-tts="25-04-30 13:46:49.848"/>
         <m id="r17030162" t="d" c="34" ts="2504301347" ts-tts="25-04-30 13:47:22.351"/>
+    </dp>
+</s>
+
+
+<s id="8171834787443352189-2504301343-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301346" l="4">
+        <m id="r17026723" t="d" c="33" ts="2504301240" ts-tts="25-04-30 12:40:20.389"/>
     </dp>
 </s>
 
@@ -899,6 +401,12 @@
 </s>
 
 
+<s id="-8712460153468110918-2504301259-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301343" l="4"/>
+</s>
+
+
 <s id="-4751829360050158741-2504301137-18" eva="8002041">
     <ar ct="2504301340" l="55">
         <m id="r17026045" t="d" c="45" ts="2504301225" ts-tts="25-04-30 12:26:10.820"/>
@@ -919,6 +427,24 @@
 </s>
 
 
+<s id="-7237285152527979670-2504301258-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="" ct="2504301258" cs="c" clt="2504301243" l="3">
+        <m id="r17026429" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:46.955"/>
+        <m id="r17026928" t="d" c="33" ts="2504301243" ts-tts="25-04-30 12:43:32.864"/>
+        <m id="r17029827" t="d" c="33" ts="2504301339" ts-tts="25-04-30 13:39:49.255"/>
+    </dp>
+</s>
+
+
+<s id="-9110610265370628461-2504301328-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301339" l="3">
+        <m id="r17026699" t="d" c="33" ts="2504301239" ts-tts="25-04-30 12:40:04.086"/>
+    </dp>
+</s>
+
+
 <s id="-8065221203242695110-2504301304-8" eva="8002041">
     <ar ct="2504301331" l="RB58">
         <m id="r17029689" t="d" c="34" ts="2504301336" ts-tts="25-04-30 13:37:07.958"/>
@@ -929,10 +455,43 @@
 </s>
 
 
+<s id="-562568322365528091-2504301543-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" l="4">
+        <m id="r17029674" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:51.827"/>
+    </dp>
+</s>
+
+
+<s id="7135437374391910891-2504301523-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" l="5">
+        <m id="r17029640" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:35.787"/>
+    </dp>
+</s>
+
+
+<s id="-2619234733874848348-2504301513-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" l="4">
+        <m id="r17029633" t="d" c="33" ts="2504301336" ts-tts="25-04-30 13:36:19.560"/>
+    </dp>
+</s>
+
+
 <s id="2586565817080832879-2504301735-4" eva="8002041">
     <m id="r2411257" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281254" ts-tts="25-04-29 23:16:04.712" pr="1"/>
     <ar ct="2504301800" l="RB58"/>
     <dp ct="2504301801" l="RB58"/>
+</s>
+
+
+<s id="-164605995580602153-2504301241-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301336" l="3"/>
+</s>
+
+
+<s id="698792311793007252-2504301228-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cp="3" ct="2504301334" l="5"/>
 </s>
 
 
@@ -960,9 +519,25 @@
 </s>
 
 
+<s id="-4849132630681960906-2504301313-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301330" l="4">
+        <m id="r17026434" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:46.955"/>
+    </dp>
+</s>
+
+
 <s id="8670262415142120591-2504301730-2" eva="8002041">
     <ar ct="2504301735" l="RB58"/>
     <dp ct="2504301736" l="RB58"/>
+</s>
+
+
+<s id="-6465004971931098128-2504301229-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="Bad Vilbel|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301327" l="4">
+        <m id="r17025578" t="d" c="33" ts="2504301216" ts-tts="25-04-30 12:17:06.597"/>
+    </ar>
 </s>
 
 
@@ -981,9 +556,54 @@
 </s>
 
 
+<s id="6146532856612776074-2504301549-15" eva="8002041">
+    <ar cpth="" cs="c" clt="2504301324" l="5">
+        <m id="r17028999" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
+    </ar>
+</s>
+
+
+<s id="5518310354368200399-2504301508-1" eva="8002041">
+    <dp cpth="" cs="c" clt="2504301324" l="5">
+        <m id="r17028988" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
+    </dp>
+</s>
+
+
+<s id="5828851014064755490-2504301538-1" eva="8002041">
+    <dp cpth="" cs="c" clt="2504301324" l="5">
+        <m id="r17028996" t="d" c="33" ts="2504301324" ts-tts="25-04-30 13:24:15.515"/>
+    </dp>
+</s>
+
+
+<s id="4092009418443293251-2504301511-18" eva="8002041">
+    <ar cpth="" cs="c" clt="2504301323" l="3">
+        <m id="r17028957" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:27.223"/>
+    </ar>
+</s>
+
+
 <s id="2384270474855002740-2504301220-8" eva="8002041">
     <ar ct="2504301321" l="RE85"/>
     <dp ct="2504301323" l="RE85"/>
+</s>
+
+
+<s id="-2353029717416412718-2504301428-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="" cs="c" clt="2504301323" l="3">
+        <m id="r17028303" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:10:50.599"/>
+        <m id="r17028954" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:10.880"/>
+    </dp>
+</s>
+
+
+<s id="4236925992470762839-2504301341-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="" ct="2504301418" cs="c" clt="2504301323" l="3">
+        <m id="r17028925" t="d" c="33" ts="2504301323" ts-tts="25-04-30 13:23:10.880"/>
+    </ar>
 </s>
 
 
@@ -996,6 +616,241 @@
         <m id="r17027427" t="d" c="67" ts="2504301254" ts-tts="25-04-30 12:54:45.994"/>
     </dp>
     <tl f="S" t="p" o="800528" c="S" n="35238"/>
+</s>
+
+
+<s id="-7932090841461336339-2504301219-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="Bad Vilbel|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ct="2504301316" l="5">
+        <m id="r17025481" t="d" c="33" ts="2504301214" ts-tts="25-04-30 12:14:43.016"/>
+    </ar>
+</s>
+
+
+<s id="2383556496147333591-2504301158-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cp="3" ct="2504301250" l="5"/>
+</s>
+
+
+<s id="-4931407184931839202-2504301249-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="" ct="2504301322" cs="c" clt="2504301235" l="5">
+        <m id="r17026444" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:36:03.170"/>
+    </ar>
+</s>
+
+
+<s id="3360702848475519132-2504301128-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cp="3" ct="2504301217" l="5">
+        <m id="r17024974" t="d" c="43" ts="2504301204" ts-tts="25-04-30 12:04:18.417"/>
+    </ar>
+</s>
+
+
+<s id="4710328057350224324-2504301228-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt" ct="2504301238" l="3">
+        <m id="r17026188" t="d" c="33" ts="2504301230" ts-tts="25-04-30 12:30:26.067"/>
+    </dp>
+</s>
+
+
+<s id="189554746487613670-2504301143-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Bad Vilbel" ct="2504301143" l="4"/>
+</s>
+
+
+<s id="-4788299272875416425-2504301338-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026478" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
+    </dp>
+</s>
+
+
+<s id="-8994436080065852315-2504301158-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" ct="2504301200" l="3"/>
+</s>
+
+
+<s id="10827027024855783-2504301141-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301230" l="3"/>
+</s>
+
+
+<s id="2578003267704472125-2504301319-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026462" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.261"/>
+    </ar>
+</s>
+
+
+<s id="-4721747686446843050-2504301211-18" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="" ct="2504301248" cs="c" clt="2504301242" l="3">
+        <m id="r17026848" t="d" c="33" ts="2504301242" ts-tts="25-04-30 12:42:44.521"/>
+    </ar>
+</s>
+
+
+<s id="1471035024547127282-2504301238-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="" ct="2504301238" cs="c" clt="2504301236" l="5">
+        <m id="r17026450" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.261"/>
+    </dp>
+</s>
+
+
+<s id="-8476511814695172829-2504301253-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301253" l="5">
+        <m id="r17026557" t="d" c="33" ts="2504301237" ts-tts="25-04-30 12:37:39.548"/>
+    </dp>
+</s>
+
+
+<s id="-1717510115047402604-2504301213-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301218" l="4"/>
+</s>
+
+
+<s id="-3464237495104984558-2504301223-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301233" l="5"/>
+</s>
+
+
+<s id="7040455118809130029-2504301159-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301240" l="4"/>
+</s>
+
+
+<s id="-7046577021043116012-2504301349-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026476" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
+    </ar>
+</s>
+
+
+<s id="-7656080976820686628-2504301308-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026469" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:19.262"/>
+    </dp>
+</s>
+
+
+<s id="1397085704227391815-2504301129-16" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301214" l="4">
+        <m id="r17024696" t="d" c="33" ts="2504301156" ts-tts="25-04-30 11:56:52.600"/>
+    </ar>
+</s>
+
+
+<s id="-4759106218052251713-2504301153-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" ct="2504301153" l="5"/>
+</s>
+
+
+<s id="-3962683424805510726-2504301243-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(Main)West|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" ct="2504301245" l="4">
+        <m id="r17026414" t="d" c="33" ts="2504301235" ts-tts="25-04-30 12:35:30.730"/>
+    </dp>
+</s>
+
+
+<s id="7275398232650949655-2504301208-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="" ct="2504301208" cs="c" clt="2504301211" l="5">
+        <m id="r17025336" t="d" c="33" ts="2504301211" ts-tts="25-04-30 12:11:46.997"/>
+    </dp>
+</s>
+
+
+<s id="6911951775535526893-2504301149-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <ar ct="2504301234" l="5"/>
+</s>
+
+
+<s id="-1423620563505051869-2504301128-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Frankfurt-Rödelheim" ct="2504301128" l="3"/>
+</s>
+
+
+<s id="-1296229120930729016-2504301123-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp ct="2504301123" l="5"/>
+</s>
+
+
+<s id="-3455836033801338559-2504301138-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.496" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Bad Vilbel" ct="2504301138" l="5"/>
+</s>
+
+
+<s id="-6288823494565802022-2504301458-17" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+</s>
+
+
+<s id="-615429865737457135-2504301449-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026493" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:51.542"/>
+    </ar>
+</s>
+
+
+<s id="6485499152239643161-2504301443-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Kronberg Süd|Kronberg(Taunus)" l="4">
+        <m id="r17028311" t="d" c="33" ts="2504301310" ts-tts="25-04-30 13:11:06.796"/>
+    </dp>
+</s>
+
+
+<s id="7444313483010476752-2504301438-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026499" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:51.542"/>
+    </dp>
+</s>
+
+
+<s id="-3151694044864909391-2504301119-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar ct="2504301153" l="5"/>
+</s>
+
+
+<s id="-3737766918841584184-2504301419-15" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <ar cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026483" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.389"/>
+    </ar>
+</s>
+
+
+<s id="132426117679085225-2504301408-1" eva="8002041">
+    <m id="r2412349" t="h" from="2504301130" to="2504301500" cat="Störung" ts="2504301220" ts-tts="25-04-30 13:16:02.495" pr="1"/>
+    <dp cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026491" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:36:35.390"/>
+    </dp>
 </s>
 
 
@@ -1016,6 +871,27 @@
     <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
     <ar ct="2504301312" l="51"/>
     <dp ct="2504301313" l="51"/>
+</s>
+
+
+<s id="-1601627368235637222-2504301528-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" l="3">
+        <m id="r17028390" t="d" c="33" ts="2504301312" ts-tts="25-04-30 13:12:11.417"/>
+    </dp>
+</s>
+
+
+<s id="7107907612405044785-2504301458-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Eschborn Süd|Eschborn|Niederhöchstadt|Schwalbach(Taunus)Nord|Schwalbach(Taunus)Limes|Sulzbach(Taunus)Nord|Bad Soden(Taunus)" l="3">
+        <m id="r17028366" t="d" c="33" ts="2504301311" ts-tts="25-04-30 13:11:39.223"/>
+    </dp>
+</s>
+
+
+<s id="892627828688988954-2504301453-1" eva="8002041">
+    <dp cpth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Rödelheim|Oberursel-Weißkirchen/Steinbach|Oberursel-Stierstadt|Oberursel(Taunus)|Bad Homburg|Seulberg|Friedrichsdorf(Taunus)" l="5">
+        <m id="r17028353" t="d" c="33" ts="2504301311" ts-tts="25-04-30 13:11:23.005"/>
+    </dp>
 </s>
 
 
@@ -1153,6 +1029,13 @@
 <s id="-885699505591415481-2504301222-4" eva="8002041">
     <ar ct="2504301238" l="RE59"/>
     <dp ct="2504301240" l="RE59"/>
+</s>
+
+
+<s id="1195246206192445164-2504301519-15" eva="8002041">
+    <ar cpth="" cs="c" clt="2504301236" l="5">
+        <m id="r17026506" t="d" c="33" ts="2504301236" ts-tts="25-04-30 12:37:07.588"/>
+    </ar>
 </s>
 
 
@@ -1575,6 +1458,12 @@
 </s>
 
 
+<s id="-8533467443596493009-2504301430-2" eva="8002041">
+    <ar ct="2504301435" l="RB58"/>
+    <dp ct="2504301436" l="RB58"/>
+</s>
+
+
 <s id="3253588533060488055-2504301028-1" eva="8002041">
     <dp ct="2504301028" l="3"/>
 </s>
@@ -1587,6 +1476,12 @@
 
 <s id="7102009425459995297-2504301023-1" eva="8002041">
     <dp ct="2504301023" l="5"/>
+</s>
+
+
+<s id="8269551011228845646-2504301422-4" eva="8002041">
+    <ar ct="2504301438" l="RE59"/>
+    <dp ct="2504301439" l="RE59"/>
 </s>
 
 
@@ -2199,6 +2094,13 @@
 </s>
 
 
+<s id="-79733718087140613-2504300719-15" eva="8002041">
+    <ar cp="3" ct="2504300759" l="5">
+        <m id="r17012998" t="d" c="43" ts="2504300737" ts-tts="25-04-30 07:37:10.117"/>
+    </ar>
+</s>
+
+
 <s id="-2113724804876971612-2504300734-100" eva="8002041">
     <m id="r2412167" t="h" from="2504300430" to="2504301200" cat="Bauarbeiten" ts="2504300612" ts-tts="25-04-30 07:16:03.451" pr="2"/>
     <ar cpth="" ppth="Dietzenbach Bahnhof|Dietzenbach Mitte|Dietzenbach-Steinberg|Heusenstamm|Offenbach-Bieber|Offenbach(Main)Ost|Offenbach(Main) Marktplatz|Offenbach(Main) Ledermuseum|Offenbach(Main) Kaiserlei" pt="2504300756" ps="a" l="2"/>
@@ -2217,6 +2119,13 @@
 <s id="-7343623802400532113-2504300734-7" eva="8002041">
     <ar ct="2504300752" l="6"/>
     <dp ct="2504300753" l="6"/>
+</s>
+
+
+<s id="-7797504659415377176-2504300711-18" eva="8002041">
+    <ar ct="2504300754" l="3">
+        <m id="r17012159" t="d" c="43" ts="2504300719" ts-tts="25-04-30 07:19:03.360"/>
+    </ar>
 </s>
 
 
@@ -2259,6 +2168,11 @@
 </s>
 
 
+<s id="7625128729138663625-2504300658-17" eva="8002041">
+    <ar ct="2504300738" l="5"/>
+</s>
+
+
 <s id="-4925462232368126054-2504300705-12" eva="8002041">
     <ar ct="2504300736" l="6">
         <m id="r17012988" t="d" c="43" ts="2504300737" ts-tts="25-04-30 07:37:10.116"/>
@@ -2269,8 +2183,30 @@
 </s>
 
 
+<s id="-5770216428857901046-2504300659-16" eva="8002041">
+    <ar ct="2504300732" l="4"/>
+</s>
+
+
+<s id="266776150834260086-2504300647-18" eva="8002041">
+    <ar ct="2504300729" l="6"/>
+    <dp ct="2504300730" l="6"/>
+</s>
+
+
 <s id="-1888678546830754995-2504300728-1" eva="8002041">
     <dp ct="2504300728" l="3"/>
+</s>
+
+
+<s id="1250549185545396340-2504300704-8" eva="8002041">
+    <ar cp="5" ct="2504300727" l="RB58"/>
+    <dp cp="5" ct="2504300728" l="RB58"/>
+</s>
+
+
+<s id="-6185228731178525931-2504300649-15" eva="8002041">
+    <ar cp="3" ct="2504300726" l="5"/>
 </s>
 
 
@@ -2279,9 +2215,59 @@
 </s>
 
 
+<s id="-7344521396734865041-2504300641-18" eva="8002041">
+    <ar ct="2504300723" l="3">
+        <m id="r17012161" t="d" c="43" ts="2504300719" ts-tts="25-04-30 07:19:03.359"/>
+    </ar>
+</s>
+
+
+<s id="4176017559897892288-2504300632-101" eva="8002041">
+    <m id="r2412167" t="h" from="2504300430" to="2504301200" cat="Bauarbeiten" ts="2504300612" ts-tts="25-04-30 07:16:03.451" pr="2"/>
+    <ar cpth="Hochheim(Main)|Flörsheim(Main)|Eddersheim|Hattersheim(Main)|Frankfurt-Sindlingen|Frankfurt-Höchst Farbwerke|Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ppth="Hochheim(Main)|Flörsheim(Main)|Eddersheim|Hattersheim(Main)|Frankfurt-Sindlingen|Frankfurt-Höchst Farbwerke|Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg" cp="1" pp="3" ct="2504300720" pt="2504300715" ps="a" l="1">
+        <m id="r17011840" t="d" c="31" ts="2504300711" ts-tts="25-04-30 07:11:51.629"/>
+    </ar>
+    <dp cpth="" ppth="Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Offenbach-Bieber|Offenbach-Waldhof|Obertshausen(Kr Of)|Rodgau-Weiskirchen|Rodgau-Hainhausen|Rodgau-Jügesheim|Rodgau-Dudenhofen|Rodgau-Nieder Roden|Rodgau-Rollwald|Rödermark-Ober Roden" pt="2504300715" ps="a" l="1"/>
+    <tl f="S" t="p" o="800528" c="S" n="36107"/>
+</s>
+
+
 <s id="1823380125000158024-2504300704-7" eva="8002041">
     <ar ct="2504300718" l="6"/>
     <dp ct="2504300719" l="6"/>
+</s>
+
+
+<s id="-7219989044909563547-2504300704-2" eva="8002041">
+    <ar ct="2504300717" l="RE59"/>
+    <dp ct="2504300719" l="RE59"/>
+</s>
+
+
+<s id="8536284617001416347-2504300515-24" eva="8002041">
+    <ar ct="2504300717" l="55"/>
+    <dp ct="2504300719" l="55"/>
+</s>
+
+
+<s id="1089929467761404457-2504300620-22" eva="8002041">
+    <ar ct="2504300717" l="6">
+        <m id="r17009833" t="d" c="43" ts="2504300626" ts-tts="25-04-30 06:26:11.559"/>
+    </ar>
+    <dp ct="2504300717" l="6">
+        <m id="r17009833" t="d" c="43" ts="2504300626" ts-tts="25-04-30 06:26:11.559"/>
+    </dp>
+</s>
+
+
+<s id="1147756955342637062-2504300618-101" eva="8002041">
+    <m id="r2391501" t="h" from="2504010215" to="2505010500" cat="Bauarbeiten" ts="2503312303" ts-tts="25-04-29 23:16:04.536" pr="2"/>
+    <m id="r2412167" t="h" from="2504300430" to="2504301200" cat="Bauarbeiten" ts="2504300612" ts-tts="25-04-30 07:16:03.451" pr="2"/>
+    <ar cpth="Niedernhausen(Taunus)|Niederjosbach|Eppstein-Bremthal|Eppstein|Lorsbach|Hofheim(Taunus)|Kriftel|Frankfurt-Zeilsheim|Frankfurt-Höchst Farbwerke|Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof" ppth="Niedernhausen(Taunus)|Niederjosbach|Eppstein-Bremthal|Eppstein|Lorsbach|Hofheim(Taunus)|Kriftel|Frankfurt-Zeilsheim|Frankfurt-Höchst Farbwerke|Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg" cp="1" pp="5" ct="2504300709" pt="2504300703" ps="a" l="2">
+        <m id="r17011405" t="d" c="31" ts="2504300702" ts-tts="25-04-30 07:02:32.779"/>
+    </ar>
+    <dp cpth="" ppth="Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Offenbach-Bieber|Heusenstamm|Dietzenbach-Steinberg|Dietzenbach Mitte|Dietzenbach Bahnhof" pt="2504300703" ps="a" l="2"/>
+    <tl f="S" t="p" o="800528" c="S" n="36205"/>
 </s>
 
 
@@ -2367,8 +2353,56 @@
 </s>
 
 
+<s id="1304571143355612405-2504300713-1" eva="8002041">
+    <dp ct="2504300713" l="4"/>
+</s>
+
+
+<s id="4278267273434477845-2504300628-17" eva="8002041">
+    <ar cp="3" ct="2504300712" l="5"/>
+</s>
+
+
+<s id="8154455127076127377-2504300708-1" eva="8002041">
+    <dp ct="2504300708" l="5"/>
+</s>
+
+
+<s id="-3751873666309376511-2504300650-3" eva="8002041">
+    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
+    <ar ct="2504300704" l="51"/>
+    <dp ct="2504300705" l="51"/>
+</s>
+
+
+<s id="-8662135534543588658-2504300635-12" eva="8002041">
+    <ar ct="2504300704" l="6"/>
+    <dp ct="2504300705" l="6"/>
+</s>
+
+
+<s id="-28579147444051407-2504300629-16" eva="8002041">
+    <ar ct="2504300705" l="4"/>
+</s>
+
+
 <s id="-4806732390865497357-2504300701-1" eva="8002041">
     <dp ct="2504300702" l="RB58"/>
+</s>
+
+
+<s id="-4970540904513055860-2504300617-18" eva="8002041">
+    <ar ct="2504300700" l="6">
+        <m id="r17009827" t="d" c="43" ts="2504300626" ts-tts="25-04-30 06:26:11.560"/>
+    </ar>
+    <dp ct="2504300701" l="6">
+        <m id="r17009827" t="d" c="43" ts="2504300626" ts-tts="25-04-30 06:26:11.560"/>
+    </dp>
+</s>
+
+
+<s id="1632054046124498443-2504300658-1" eva="8002041">
+    <dp ct="2504300658" l="3"/>
 </s>
 
 
@@ -2401,15 +2435,64 @@
 </s>
 
 
+<s id="3502957079677872264-2504300630-8" eva="8002041">
+    <ar ct="2504300655" l="RB58"/>
+    <dp ct="2504300656" l="RB58"/>
+</s>
+
+
+<s id="2593147746966434991-2504300653-1" eva="8002041">
+    <dp ct="2504300653" l="5"/>
+</s>
+
+
+<s id="4297008598192929654-2504300634-7" eva="8002041">
+    <ar ct="2504300648" l="6"/>
+    <dp ct="2504300648" l="6"/>
+</s>
+
+
 <s id="2917602948917207328-2504300638-2" eva="8002041">
     <ar ct="2504300644" l="RE85"/>
     <dp ct="2504300645" l="RE85"/>
 </s>
 
 
+<s id="-3944195786022110129-2504300643-1" eva="8002041">
+    <dp ct="2504300644" l="4"/>
+</s>
+
+
 <s id="2874903534873226431-2504300634-2" eva="8002041">
     <ar ct="2504300639" l="55"/>
     <dp ct="2504300640" l="55"/>
+</s>
+
+
+<s id="-6669055848630137309-2504300638-1" eva="8002041">
+    <dp ct="2504300639" l="5"/>
+</s>
+
+
+<s id="-7107608120506971059-2504300605-12" eva="8002041">
+    <ar ct="2504300636" l="6"/>
+    <dp ct="2504300637" l="6"/>
+</s>
+
+
+<s id="-1003613501511466075-2504300628-1" eva="8002041">
+    <dp ct="2504300628" l="3"/>
+</s>
+
+
+<s id="-8593168964959677334-2504300623-1" eva="8002041">
+    <dp ct="2504300623" l="5"/>
+</s>
+
+
+<s id="6393203817495676835-2504300604-7" eva="8002041">
+    <ar ct="2504300619" l="6"/>
+    <dp ct="2504300620" l="6"/>
 </s>
 
 
@@ -2500,6 +2583,23 @@
     <dp cpth="" cs="c" clt="2504300615" l="51">
         <m id="r17009481" t="d" c="36" ts="2504300615" ts-tts="25-04-30 06:15:05.182"/>
     </dp>
+</s>
+
+
+<s id="-2409134450116911219-2504300642-2" eva="8002041">
+    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
+    <ar cpth="" ct="2504300647" cs="c" clt="2504300613" l="51">
+        <m id="r17009442" t="d" c="36" ts="2504300613" ts-tts="25-04-30 06:14:01.836"/>
+    </ar>
+    <dp cpth="" ct="2504300648" cs="c" clt="2504300613" l="51">
+        <m id="r17009442" t="d" c="36" ts="2504300613" ts-tts="25-04-30 06:14:01.836"/>
+    </dp>
+</s>
+
+
+<s id="2603975117866457659-2504300500-12" eva="8002041">
+    <ar ct="2504300604" l="RE85"/>
+    <dp ct="2504300605" l="RE85"/>
 </s>
 
 
@@ -2723,6 +2823,16 @@
 </s>
 
 
+<s id="4868925780121483922-2504301835-4" eva="8002041">
+    <m id="r2411257" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281254" ts-tts="25-04-29 23:16:04.711" pr="1"/>
+</s>
+
+
+<s id="4658744729256617089-2504301814-14" eva="8002041">
+    <m id="r2411255" t="h" from="2504281248" to="2505082359" cat="Bauarbeiten" ts="2504281251" ts-tts="25-04-29 23:16:04.711" pr="1"/>
+</s>
+
+
 <s id="5386957962159428875-2504301842-2" eva="8002041">
     <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
 </s>
@@ -2803,6 +2913,11 @@
 
 <s id="4506892707488663247-2504301542-2" eva="8002041">
     <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.557" pr="2"/>
+</s>
+
+
+<s id="-4592608150414261454-2504301454-3" eva="8002041">
+    <m id="r2400992" t="h" from="2504172000" to="2505020605" cat="Bauarbeiten" ts="2504162303" ts-tts="25-04-29 23:16:04.556" pr="2"/>
 </s>
 
 
