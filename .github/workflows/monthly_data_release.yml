@@ -2,7 +2,7 @@ name: Monthly Data Release
 on:
   schedule:
     # Runs at minute 0 past every 6th hour
-    - cron: '0 */6 * * *'
+    - cron: '0 1,7,13,19 * * *'
   workflow_dispatch:
 permissions:
   contents: write
