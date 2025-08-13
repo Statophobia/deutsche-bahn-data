@@ -1,0 +1,1183 @@
+<?xml version="1.0" ?><timetable station="Bonn Hbf" eva="8000044">
+
+<s id="6171829862359072733-2508130542-4" eva="8000044">
+    <ar cpth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508130553"/>
+    <dp cpth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508130554"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="89048"/>
+</s>
+
+
+<s id="8726563839107475101-2508131958-6" eva="8000044">
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf">
+        <m id="r22470591" t="d" c="31" ts="2508111429" ts-tts="25-08-11 14:29:54.153"/>
+        <m id="r22499302" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.084"/>
+    </ar>
+    <dp cpth="Köln Hbf">
+        <m id="r22470591" t="d" c="31" ts="2508111429" ts-tts="25-08-11 14:29:54.153"/>
+        <m id="r22499302" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.084"/>
+    </dp>
+</s>
+
+
+<s id="-4932976918445466437-2508131946-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-5752472669840346846-2508131943-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="5274594993239171954-2508131940-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar ct="2508132106" l="48"/>
+    <dp ct="2508132108" l="48"/>
+</s>
+
+
+<s id="-4310991229630193359-2508130701-37" eva="8000044">
+    <ar ct="2508130931" l="26"/>
+    <dp ct="2508130933" l="26"/>
+</s>
+
+
+<s id="-2600230739105331641-2508130649-9" eva="8000044">
+    <ar ct="2508130725" l="26"/>
+    <dp ct="2508130727" l="26"/>
+</s>
+
+
+<s id="-5387624129932720070-2508131113-15" eva="8000044">
+    <m id="r2438879" t="h" from="2507010000" to="2508312359" cat="Information" ts="2506302303" ts-tts="25-08-12 23:16:04.577" pr="1"/>
+    <m id="r2474811" t="h" from="2508131113" to="2508132121" cat="Information" ts="2508130235" ts-tts="25-08-13 02:35:40.158" pr="2"/>
+</s>
+
+
+<s id="6107436437579335524-2508121729-5" eva="8000044">
+    <m id="r2474678" t="h" from="2508121730" to="2508121930" cat="Störung" ts="2508121757" ts-tts="25-08-12 19:16:04.029" pr="1"/>
+    <ar ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Köln Hbf" cp="5" pp="2" ct="2508130217" pt="2508122213">
+        <m id="r22550283" t="d" c="8" ts="2508121937" ts-tts="25-08-12 19:37:26.411"/>
+        <m id="r22551071" t="f" c="0" ts="2508121954" ts-tts="25-08-12 19:55:01.437"/>
+        <m id="r22552329" t="f" c="0" ts="2508122024" ts-tts="25-08-12 20:24:53.960"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1154"/>
+</s>
+
+
+<s id="-5962849987213414877-2508131851-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-2502664184572963090-2508131846-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="4278853024182696690-2508131843-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="2000780667434420476-2508131843-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar ct="2508132006" l="48"/>
+    <dp ct="2508132008" l="48"/>
+</s>
+
+
+<s id="8503777394879306018-2508122324-8" eva="8000044">
+    <ar ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen" pp="1" ct="2508130213" pt="2508130136">
+        <m id="r22561350" t="d" c="31" ts="2508130150" ts-tts="25-08-13 01:50:57.977"/>
+    </ar>
+    <dp ppth="Köln Hbf|Düsseldorf Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg" pp="1" ct="2508130214" pt="2508130138">
+        <m id="r22561350" t="d" c="31" ts="2508130150" ts-tts="25-08-13 01:50:57.977"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="920"/>
+</s>
+
+
+<s id="-8899850276501293889-2508130549-9" eva="8000044">
+    <ar ct="2508130625" l="26"/>
+    <dp ct="2508130627" l="26"/>
+</s>
+
+
+<s id="6460478767089018119-2508130547-37" eva="8000044">
+    <ar ct="2508130831" l="26"/>
+    <dp ct="2508130833" l="26"/>
+</s>
+
+
+<s id="3178546308999030105-2508121813-12" eva="8000044">
+    <m id="r2474520" t="h" from="2508121230" to="2508131000" cat="Störung" ts="2508121431" ts-tts="25-08-12 19:16:04.016" pr="1"/>
+    <m id="r2438877" t="h" from="2507010000" to="2508312359" cat="Information" ts="2506302303" ts-tts="25-08-11 23:16:04.407" pr="1"/>
+    <ar cpth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Salzburg Hbf|Freilassing|Rosenheim|Grafing Bahnhof|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Salzburg Hbf|Freilassing|Rosenheim|München Ost|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508130646" pt="2508130616">
+        <m id="r22545709" t="d" c="8" ts="2508121817" ts-tts="25-08-12 18:17:42.367"/>
+        <m id="r22551054" t="f" c="0" ts="2508121954" ts-tts="25-08-12 19:54:29.237"/>
+        <m id="r22556594" t="d" c="57" ts="2508122222" ts-tts="25-08-12 22:22:21.657"/>
+        <m id="r22556610" t="f" c="0" ts="2508122223" ts-tts="25-08-12 22:23:08.482"/>
+        <m id="r22558929" t="f" c="0" ts="2508130006" ts-tts="25-08-13 00:06:36.634"/>
+        <m id="r22559074" t="f" c="0" ts="2508130014" ts-tts="25-08-13 00:14:07.362"/>
+        <m id="r22559097" t="f" c="0" ts="2508130015" ts-tts="25-08-13 00:15:24.943"/>
+        <m id="r22559929" t="f" c="0" ts="2508130139" ts-tts="25-08-13 01:39:49.628"/>
+    </ar>
+    <dp cpth="Köln-Ehrenfeld|Aachen Hbf|Liège-Guillemins|Bruxelles Midi" ppth="Köln-Ehrenfeld|Aachen Hbf|Liège-Guillemins|Bruxelles Midi" pp="1" ct="2508130648" pt="2508130618">
+        <m id="r22545709" t="d" c="8" ts="2508121817" ts-tts="25-08-12 18:17:42.367"/>
+        <m id="r22551054" t="f" c="0" ts="2508121954" ts-tts="25-08-12 19:54:29.237"/>
+        <m id="r22556594" t="d" c="57" ts="2508122222" ts-tts="25-08-12 22:22:21.657"/>
+        <m id="r22556610" t="f" c="0" ts="2508122223" ts-tts="25-08-12 22:23:08.482"/>
+        <m id="r22558929" t="f" c="0" ts="2508130006" ts-tts="25-08-13 00:06:36.634"/>
+        <m id="r22559074" t="f" c="0" ts="2508130014" ts-tts="25-08-13 00:14:07.362"/>
+        <m id="r22559097" t="f" c="0" ts="2508130015" ts-tts="25-08-13 00:15:24.943"/>
+        <m id="r22559929" t="f" c="0" ts="2508130139" ts-tts="25-08-13 01:39:49.628"/>
+    </dp>
+    <tl t="p" o="81" c="NJ" n="40468"/>
+</s>
+
+
+<s id="6506105724695131324-2508130257-4" eva="8000044">
+    <ar ppth="Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508130646" pt="2508130616" wings="3178546308999030105-2508121813"/>
+    <dp ppth="Köln-Ehrenfeld|Aachen Hbf|Liège-Guillemins|Bruxelles Midi" pp="1" ct="2508130648" pt="2508130618" wings="3178546308999030105-2508121813"/>
+    <tl t="p" o="81" c="NJ" n="478"/>
+</s>
+
+
+<s id="-8959968305428734000-2508130520-28" eva="8000044">
+    <ar ct="2508130731" l="26"/>
+    <dp ct="2508130733" l="26"/>
+</s>
+
+
+<s id="-2023304610599426709-2508131743-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122345" l="48"/>
+    <dp cpth="" cs="c" clt="2508122345" l="48"/>
+</s>
+
+
+<s id="-411744985050246658-2508131746-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="3898621011141264503-2508131751-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-445205024599209482-2508131740-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="5756649881656128760-2508130439-28" eva="8000044">
+    <ar ct="2508130631" l="26"/>
+    <dp ct="2508130633" l="26"/>
+</s>
+
+
+<s id="6175934605574930825-2508130429-17" eva="8000044">
+    <ar ct="2508130531" l="26"/>
+    <dp ct="2508130533" l="26"/>
+</s>
+
+
+<s id="-593195210319280987-2508131643-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="4354468875070197072-2508131651-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="540479447787873628-2508131646-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-8781466848478899598-2508131643-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="5564186060372060012-2508130542-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122345" l="48"/>
+    <dp cpth="" cs="c" clt="2508122345" l="48"/>
+</s>
+
+
+<s id="8934768238019789118-2508131140-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122345" l="48"/>
+    <dp cpth="" cs="c" clt="2508122345" l="48"/>
+</s>
+
+
+<s id="-2617786754464519429-2508131343-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122345" l="48"/>
+    <dp cpth="" cs="c" clt="2508122345" l="48"/>
+</s>
+
+
+<s id="7050324869687944421-2508130738-20" eva="8000044">
+    <ar ct="2508130907" l="48"/>
+    <dp ct="2508130908" l="48"/>
+</s>
+
+
+<s id="5674975896934062661-2508130943-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar ct="2508130953" l="48"/>
+    <dp ct="2508130954" l="48"/>
+</s>
+
+
+<s id="5571715020177035712-2508131540-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar ct="2508131706" l="48"/>
+    <dp ct="2508131708" l="48"/>
+</s>
+
+
+<s id="5087753150535945908-2508131743-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508131753"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508131754"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="28057"/>
+</s>
+
+
+<s id="1548345702515464372-2508131140-20" eva="8000044">
+    <ar ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" pt="2508131306"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" pt="2508131308"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="88596"/>
+</s>
+
+
+<s id="-1784773582531649386-2508131343-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508131353"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508131354"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="28928"/>
+</s>
+
+
+<s id="-7337267919019857086-2508122327-1" eva="8000044">
+    <dp ct="2508122334" l="S23"/>
+</s>
+
+
+<s id="8939332948445452867-2508121949-9" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <ar ct="2508122034" l="26">
+        <m id="r22552510" t="d" c="34" ts="2508122029" ts-tts="25-08-12 20:29:36.939"/>
+    </ar>
+    <dp ct="2508122045" l="26">
+        <m id="r22551672" t="f" c="0" ts="2508122011" ts-tts="25-08-12 20:11:15.610"/>
+        <m id="r22552510" t="d" c="34" ts="2508122029" ts-tts="25-08-12 20:29:36.939"/>
+    </dp>
+</s>
+
+
+<s id="-3175079351275758919-2508121934-12" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2474732" t="h" from="2508121918" to="2508122130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508121936" ts-tts="25-08-12 21:16:04.022" pr="1"/>
+    <ar ct="2508122102" l="5">
+        <m id="r22555838" t="d" c="41" ts="2508122152" ts-tts="25-08-12 21:52:55.467"/>
+    </ar>
+    <dp ct="2508122104" l="5">
+        <m id="r22555838" t="d" c="41" ts="2508122152" ts-tts="25-08-12 21:52:55.467"/>
+    </dp>
+</s>
+
+
+<s id="-3731460463652106943-2508121916-10" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2474732" t="h" from="2508121918" to="2508122130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508121936" ts-tts="25-08-12 21:16:04.022" pr="1"/>
+    <ar ct="2508122027" l="5">
+        <m id="r22553957" t="d" c="34" ts="2508122100" ts-tts="25-08-12 21:01:00.824"/>
+    </ar>
+    <dp ct="2508122027" l="5">
+        <m id="r22553957" t="d" c="34" ts="2508122100" ts-tts="25-08-12 21:01:00.824"/>
+    </dp>
+</s>
+
+
+<s id="-2319913020561235971-2508122016-10" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2474732" t="h" from="2508121918" to="2508122130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508121936" ts-tts="25-08-12 21:16:04.022" pr="1"/>
+    <ar ct="2508122116" l="5">
+        <m id="r22555810" t="d" c="41" ts="2508122152" ts-tts="25-08-12 21:52:24.330"/>
+    </ar>
+    <dp ct="2508122116" l="5">
+        <m id="r22555810" t="d" c="41" ts="2508122152" ts-tts="25-08-12 21:52:24.330"/>
+    </dp>
+</s>
+
+
+<s id="-849931695025389388-2508122116-10" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <ar ct="2508122215" l="5">
+        <m id="r22552692" t="d" c="45" ts="2508122034" ts-tts="25-08-12 20:34:51.076"/>
+    </ar>
+    <dp ct="2508122215" l="5">
+        <m id="r22552692" t="d" c="45" ts="2508122034" ts-tts="25-08-12 20:34:51.076"/>
+    </dp>
+</s>
+
+
+<s id="-5752472669840346846-2508121943-4" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-11 23:16:04.401" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-11 23:16:04.214" pr="1"/>
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2508122037" pt="2508121953" l="48">
+        <m id="r22551330" t="d" c="41" ts="2508122000" ts-tts="25-08-12 20:00:31.475"/>
+        <m id="r22552143" t="d" c="43" ts="2508122021" ts-tts="25-08-12 20:21:13.180"/>
+    </ar>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" ct="2508122037" pt="2508121954" l="48">
+        <m id="r22550421" t="f" c="0" ts="2508121941" ts-tts="25-08-12 19:41:06.848"/>
+        <m id="r22551330" t="d" c="41" ts="2508122000" ts-tts="25-08-12 20:00:31.475"/>
+        <m id="r22552143" t="d" c="43" ts="2508122021" ts-tts="25-08-12 20:21:13.180"/>
+    </dp>
+    <tl f="N" t="p" o="NXRB" c="RB" n="17366"/>
+</s>
+
+
+<s id="5398615917808572568-2508122043-4" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-11 23:16:04.401" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-11 23:16:04.214" pr="1"/>
+    <ar cpth="" cs="c" clt="2508112345" l="48"/>
+    <dp cpth="" cs="c" clt="2508112345" l="48"/>
+</s>
+
+
+<s id="5274594993239171954-2508121940-20" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-11 23:16:04.401" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-11 23:16:04.214" pr="1"/>
+    <ar cpth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" ct="2508122111" l="48">
+        <m id="r22550969" t="d" c="45" ts="2508121952" ts-tts="25-08-12 19:52:39.212"/>
+    </ar>
+    <dp cpth="" ct="2508122111" cs="c" clt="2508122054" l="48">
+        <m id="r22550969" t="d" c="45" ts="2508121952" ts-tts="25-08-12 19:52:39.212"/>
+    </dp>
+</s>
+
+
+<s id="4385958589636955869-2508121834-12" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <ar ct="2508122009" l="5"/>
+    <dp ct="2508122010" l="5">
+        <m id="r22551505" t="f" c="0" ts="2508122006" ts-tts="25-08-12 20:06:17.135"/>
+    </dp>
+</s>
+
+
+<s id="-3259619502264666698-2508122216-10" eva="8000044">
+    <m id="r2474746" t="h" from="2508121930" to="2508122330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508122114" ts-tts="25-08-12 23:16:04.872" pr="1"/>
+    <ar ct="2508122311" l="5"/>
+    <dp ct="2508122311" l="5"/>
+</s>
+
+
+<s id="-4140470391187734614-2508131109-21" eva="8000044">
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <ar cpth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf">
+        <m id="r22470308" t="d" c="31" ts="2508111425" ts-tts="25-08-11 14:25:09.425"/>
+        <m id="r22499291" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.088"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf">
+        <m id="r22470308" t="d" c="31" ts="2508111425" ts-tts="25-08-11 14:25:09.425"/>
+        <m id="r22499291" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.088"/>
+    </dp>
+</s>
+
+
+<s id="-8718558385229210224-2508130752-7" eva="8000044">
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf">
+        <m id="r22470382" t="d" c="31" ts="2508111426" ts-tts="25-08-11 14:26:44.165"/>
+        <m id="r22499294" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.083"/>
+    </ar>
+    <dp cpth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf">
+        <m id="r22470382" t="d" c="31" ts="2508111426" ts-tts="25-08-11 14:26:44.165"/>
+        <m id="r22499294" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.083"/>
+    </dp>
+</s>
+
+
+<s id="-5036776284380011862-2508130909-21" eva="8000044">
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <ar cpth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf">
+        <m id="r22470138" t="d" c="31" ts="2508111422" ts-tts="25-08-11 14:22:30.900"/>
+        <m id="r22499286" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.087"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf">
+        <m id="r22470138" t="d" c="31" ts="2508111422" ts-tts="25-08-11 14:22:30.900"/>
+        <m id="r22499286" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.087"/>
+    </dp>
+</s>
+
+
+<s id="6301364418532471013-2508130940-6" eva="8000044">
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf">
+        <m id="r22470413" t="d" c="31" ts="2508111427" ts-tts="25-08-11 14:27:15.729"/>
+        <m id="r22499296" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.083"/>
+    </ar>
+    <dp cpth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf">
+        <m id="r22470413" t="d" c="31" ts="2508111427" ts-tts="25-08-11 14:27:15.729"/>
+        <m id="r22499296" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.083"/>
+    </dp>
+</s>
+
+
+<s id="-5299413353021537464-2508130709-21" eva="8000044">
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <ar cpth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf">
+        <m id="r22470036" t="d" c="31" ts="2508111420" ts-tts="25-08-11 14:20:39.412"/>
+        <m id="r22499283" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.087"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf">
+        <m id="r22470036" t="d" c="31" ts="2508111420" ts-tts="25-08-11 14:20:39.412"/>
+        <m id="r22499283" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.087"/>
+    </dp>
+</s>
+
+
+<s id="-233471374335622563-2508131152-6" eva="8000044">
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf">
+        <m id="r22470511" t="d" c="31" ts="2508111428" ts-tts="25-08-11 14:28:19.385"/>
+        <m id="r22499299" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.084"/>
+    </ar>
+    <dp cpth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf">
+        <m id="r22470511" t="d" c="31" ts="2508111428" ts-tts="25-08-11 14:28:19.385"/>
+        <m id="r22499299" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.084"/>
+    </dp>
+</s>
+
+
+<s id="666711005360005078-2508130509-21" eva="8000044">
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <ar cpth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf">
+        <m id="r22470007" t="d" c="31" ts="2508111419" ts-tts="25-08-11 14:19:51.866"/>
+        <m id="r22499280" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.086"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf">
+        <m id="r22470007" t="d" c="31" ts="2508111419" ts-tts="25-08-11 14:19:51.866"/>
+        <m id="r22499280" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.086"/>
+    </dp>
+</s>
+
+
+<s id="8938981783407493607-2508130502-7" eva="8000044">
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-12 23:16:04.855" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 23:16:04.868" pr="1"/>
+    <ar cpth="Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf">
+        <m id="r22469851" t="d" c="31" ts="2508111417" ts-tts="25-08-11 14:17:45.293"/>
+        <m id="r22499276" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.085"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf">
+        <m id="r22469851" t="d" c="31" ts="2508111417" ts-tts="25-08-11 14:17:45.293"/>
+        <m id="r22499276" t="d" c="31" ts="2508120145" ts-tts="25-08-12 01:45:58.085"/>
+    </dp>
+</s>
+
+
+<s id="-1504413914279880832-2508130950-8" eva="8000044">
+    <m id="r2457953" t="h" from="2507150000" to="2512132359" cat="Information" ts="2507142304" ts-tts="25-08-12 23:16:04.602" pr="2"/>
+</s>
+
+
+<s id="-1916595935237351304-2508130950-15" eva="8000044">
+    <m id="r2457953" t="h" from="2507150000" to="2512132359" cat="Information" ts="2507142304" ts-tts="25-08-12 23:16:04.602" pr="2"/>
+</s>
+
+
+<s id="1532760698198516105-2508130913-15" eva="8000044">
+    <m id="r2438879" t="h" from="2507010000" to="2508312359" cat="Information" ts="2506302303" ts-tts="25-08-12 23:16:04.577" pr="1"/>
+</s>
+
+
+<s id="3099751931301192431-2508131246-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-6671098695875236926-2508131146-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-507205244541399465-2508131046-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-1346635189029279135-2508130946-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="7045910619358848811-2508130846-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="5779540812729025748-2508131451-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="2616259195598312415-2508131251-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="2544430241603914711-2508131051-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-6511760255696987150-2508130851-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-3387083282364972803-2508130746-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="8408633150010086361-2508131151-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="5158269646080256225-2508130751-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-2049752246654307681-2508130646-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-8044307697939609959-2508130651-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="3951742813224862862-2508130535-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="4821282993708460284-2508131351-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-5903932684279034563-2508131551-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="1281234507592343671-2508130951-6" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="1282133484575020748-2508131546-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="6529301497138507493-2508131446-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-8785114292063244029-2508131346-1" eva="8000044">
+    <m id="r2437177" t="h" from="2507050500" to="2508172100" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2507042303" ts-tts="25-08-12 23:16:04.576" pr="2"/>
+</s>
+
+
+<s id="-7226887775467930936-2508131443-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="-1172642046690199019-2508131340-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="693661815646821052-2508131543-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-3128634194719198042-2508131443-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="2768860357013053600-2508131243-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="7538172682272759392-2508131043-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="6935856596701293614-2508130843-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="-5510303711726876956-2508130743-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-1287388647561088114-2508130643-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-4461492958840189183-2508130640-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="2146874745796313092-2508130538-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-8157461877845404685-2508130438-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-8087776099306716521-2508131143-4" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.572" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="3345037921069029746-2508131243-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-2141445765909000470-2508131043-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+    <ar cpth="" cs="c" clt="2508122245" l="48"/>
+    <dp cpth="" cs="c" clt="2508122245" l="48"/>
+</s>
+
+
+<s id="8430199487846424855-2508130940-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-608059964153461637-2508130843-20" eva="8000044">
+    <m id="r2431707" t="h" from="2507281525" to="2508151625" cat="Information. (Quelle: zuginfo.nrw)" ts="2507272302" ts-tts="25-08-12 23:16:04.571" pr="3"/>
+    <m id="r2408849" t="h" from="2508090000" to="2509052359" cat="Störung. (Quelle: zuginfo.nrw)" ts="2508082307" ts-tts="25-08-12 23:16:04.373" pr="1"/>
+</s>
+
+
+<s id="-3668447183401908501-2508131345-3" eva="8000044">
+    <m id="r2315854" t="h" from="2412150000" to="2512132359" cat="Information" ts="2412142301" ts-tts="25-08-12 23:16:04.347" pr="1"/>
+</s>
+
+
+<s id="8726563839107475101-2508121958-6" eva="8000044">
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.412" pr="2"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 17:06:24.150" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-11 23:09:18.436" pr="1"/>
+    <m id="r2474721" t="h" from="2508121830" to="2508122200" cat="Störung" ts="2508121904" ts-tts="25-08-12 19:05:05.632" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ct="2508122304">
+        <m id="r22470572" t="d" c="31" ts="2508111429" ts-tts="25-08-11 14:29:22.370"/>
+        <m id="r22539125" t="q" c="90" ts="2508121638" ts-tts="25-08-12 16:38:43.231"/>
+    </ar>
+    <dp cpth="Köln Hbf" ct="2508122305">
+        <m id="r22470572" t="d" c="31" ts="2508111429" ts-tts="25-08-11 14:29:22.370"/>
+        <m id="r22539125" t="q" c="90" ts="2508121638" ts-tts="25-08-12 16:38:43.231"/>
+    </dp>
+</s>
+
+
+<s id="1241183766450319831-2508122136-12" eva="8000044">
+    <ar ct="2508122310" l="S23"/>
+</s>
+
+
+<s id="2224508636164029869-2508122257-1" eva="8000044">
+    <dp ct="2508122301" l="S23"/>
+</s>
+
+
+<s id="6735631952742194789-2508122106-12" eva="8000044">
+    <ar ct="2508122257" l="S23"/>
+</s>
+
+
+<s id="8818237642786162335-2508130843-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508130853"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508130854"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="20143"/>
+</s>
+
+
+<s id="7163979109606327231-2508131643-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508131653"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508131654"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="20161"/>
+</s>
+
+
+<s id="-8741038362388918100-2508131043-20" eva="8000044">
+    <ar ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" pt="2508131206"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" pt="2508131208"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="28549"/>
+</s>
+
+
+<s id="-5673179047642445445-2508130640-20" eva="8000044">
+    <ar ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" pt="2508130806"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" pt="2508130808"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="89059"/>
+</s>
+
+
+<s id="-4205991856031450170-2508131243-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508131253"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen" pp="1" pt="2508131254"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="17467"/>
+</s>
+
+
+<s id="-2116887222342360821-2508131443-20" eva="8000044">
+    <ar ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" pt="2508131606"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" pt="2508131608"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="28990"/>
+</s>
+
+
+<s id="-1721175325741657476-2508132043-4" eva="8000044">
+    <ar ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" pt="2508132053"/>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" pp="1" pt="2508132054"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="17460"/>
+</s>
+
+
+<s id="4935791309369292531-2508122227-1" eva="8000044">
+    <dp ct="2508122231" l="S23"/>
+</s>
+
+
+<s id="4218053850205204069-2508121618-10" eva="8000044">
+    <m id="r2474747" t="h" from="2508121618" to="2508122321" cat="Information" ts="2508122024" ts-tts="25-08-12 20:24:38.096" pr="2"/>
+    <ar ct="2508122210">
+        <m id="r22540883" t="d" c="43" ts="2508121704" ts-tts="25-08-12 17:04:33.610"/>
+        <m id="r22551695" t="q" c="95" ts="2508122011" ts-tts="25-08-12 20:12:02.675"/>
+    </ar>
+    <dp ct="2508122212">
+        <m id="r22540883" t="d" c="43" ts="2508121704" ts-tts="25-08-12 17:04:33.610"/>
+        <m id="r22551695" t="q" c="95" ts="2508122011" ts-tts="25-08-12 20:12:02.675"/>
+    </dp>
+</s>
+
+
+<s id="3087255979759977567-2508122157-1" eva="8000044">
+    <dp ct="2508122157" l="S23"/>
+</s>
+
+
+<s id="-3894914387656541376-2508122036-12" eva="8000044">
+    <ar ct="2508122213" l="S23"/>
+</s>
+
+
+<s id="8882233225615859060-2508121059-10" eva="8000044">
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.411" pr="2"/>
+    <m id="r917620886" t="c" ts="2508121723" ts-tts="25-08-12 17:23:20.499"/>
+    <m id="r917620887" t="c" ts="2508121723" ts-tts="25-08-12 17:23:20.499"/>
+    <ar cpth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508121738" pt="2508121643">
+        <m id="r22524623" t="q" c="76" ts="2508121233" ts-tts="25-08-12 12:33:34.328"/>
+        <m id="r22527767" t="d" c="36" ts="2508121327" ts-tts="25-08-12 13:27:20.619"/>
+        <m id="r22527874" t="f" c="0" ts="2508121329" ts-tts="25-08-12 13:29:58.374"/>
+        <m id="r22527898" t="d" c="36" ts="2508121330" ts-tts="25-08-12 13:30:29.828"/>
+        <m id="r22527988" t="f" c="0" ts="2508121331" ts-tts="25-08-12 13:31:48.886"/>
+        <m id="r22528023" t="d" c="36" ts="2508121332" ts-tts="25-08-12 13:32:20.748"/>
+    </ar>
+    <dp cpth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf" ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" pp="1" ct="2508121741" pt="2508121645">
+        <m id="r22524623" t="q" c="76" ts="2508121233" ts-tts="25-08-12 12:33:34.329"/>
+        <m id="r22527767" t="d" c="36" ts="2508121327" ts-tts="25-08-12 13:27:20.619"/>
+        <m id="r22527874" t="f" c="0" ts="2508121329" ts-tts="25-08-12 13:29:58.374"/>
+        <m id="r22527898" t="d" c="36" ts="2508121330" ts-tts="25-08-12 13:30:29.828"/>
+        <m id="r22527988" t="f" c="0" ts="2508121331" ts-tts="25-08-12 13:31:48.886"/>
+        <m id="r22528023" t="d" c="36" ts="2508121332" ts-tts="25-08-12 13:32:20.748"/>
+    </dp>
+    <tl f="F" t="p" o="85" c="EC" n="8"/>
+</s>
+
+
+<s id="8491474770358920080-2508121739-8" eva="8000044">
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.412" pr="2"/>
+    <m id="r2474166" t="h" from="2508120509" to="2508122221" cat="Information" ts="2508120415" ts-tts="25-08-12 04:15:44.704" pr="2"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 17:06:24.150" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-11 23:09:18.436" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ppth="Karlsruhe Hbf|Bruchsal|Wiesloch-Walldorf|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508122140" pt="2508122043">
+        <m id="r22470538" t="d" c="31" ts="2508111428" ts-tts="25-08-11 14:28:50.964"/>
+        <m id="r22501760" t="q" c="93" ts="2508120505" ts-tts="25-08-12 05:05:29.098"/>
+        <m id="r22502206" t="q" c="88" ts="2508120525" ts-tts="25-08-12 05:25:25.376"/>
+        <m id="r22547615" t="d" c="51" ts="2508121848" ts-tts="25-08-12 18:49:03.428"/>
+    </ar>
+    <dp cpth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf" ppth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf" pp="1" ct="2508122141" pt="2508122045">
+        <m id="r22470538" t="d" c="31" ts="2508111428" ts-tts="25-08-11 14:28:50.964"/>
+        <m id="r22501760" t="q" c="93" ts="2508120505" ts-tts="25-08-12 05:05:29.098"/>
+        <m id="r22502206" t="q" c="88" ts="2508120525" ts-tts="25-08-12 05:25:25.376"/>
+        <m id="r22547615" t="d" c="51" ts="2508121848" ts-tts="25-08-12 18:49:03.428"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="IC" n="2349"/>
+</s>
+
+
+<s id="-6917595045025077484-2508122127-1" eva="8000044">
+    <dp ct="2508122126" l="S23"/>
+</s>
+
+
+<s id="-4140470391187734614-2508121109-21" eva="8000044">
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.412" pr="2"/>
+    <m id="r2474014" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-11 23:09:18.436" pr="1"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 17:06:24.150" pr="1"/>
+    <m id="r2474678" t="h" from="2508121730" to="2508121930" cat="Störung" ts="2508121757" ts-tts="25-08-12 19:16:04.029" pr="1"/>
+    <ar cpth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf" ppth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf" pp="3" ct="2508122114" pt="2508121913">
+        <m id="r22470274" t="d" c="31" ts="2508111424" ts-tts="25-08-11 14:24:53.607"/>
+        <m id="r22544696" t="d" c="40" ts="2508121759" ts-tts="25-08-12 17:59:28.998"/>
+        <m id="r22545739" t="f" c="0" ts="2508121817" ts-tts="25-08-12 18:17:58.220"/>
+        <m id="r22546467" t="d" c="58" ts="2508121828" ts-tts="25-08-12 18:29:02.623"/>
+        <m id="r22546527" t="d" c="40" ts="2508121830" ts-tts="25-08-12 18:30:05.975"/>
+        <m id="r22548052" t="f" c="0" ts="2508121856" ts-tts="25-08-12 18:56:56.686"/>
+        <m id="r22548196" t="d" c="40" ts="2508121859" ts-tts="25-08-12 18:59:34.311"/>
+        <m id="r22549138" t="f" c="0" ts="2508121914" ts-tts="25-08-12 19:14:49.731"/>
+        <m id="r22553614" t="f" c="0" ts="2508122052" ts-tts="25-08-12 20:52:23.459"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf" ppth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Bruchsal|Karlsruhe Hbf" pp="3" ct="2508122116" pt="2508121915">
+        <m id="r22470274" t="d" c="31" ts="2508111424" ts-tts="25-08-11 14:24:53.607"/>
+        <m id="r22544696" t="d" c="40" ts="2508121759" ts-tts="25-08-12 17:59:28.998"/>
+        <m id="r22545739" t="f" c="0" ts="2508121817" ts-tts="25-08-12 18:17:58.220"/>
+        <m id="r22546467" t="d" c="58" ts="2508121828" ts-tts="25-08-12 18:29:02.623"/>
+        <m id="r22546527" t="d" c="40" ts="2508121830" ts-tts="25-08-12 18:30:05.975"/>
+        <m id="r22548052" t="f" c="0" ts="2508121856" ts-tts="25-08-12 18:56:56.686"/>
+        <m id="r22548196" t="d" c="40" ts="2508121859" ts-tts="25-08-12 18:59:34.311"/>
+        <m id="r22549138" t="f" c="0" ts="2508121914" ts-tts="25-08-12 19:14:49.731"/>
+        <m id="r22553614" t="f" c="0" ts="2508122052" ts-tts="25-08-12 20:52:23.459"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="IC" n="2440"/>
+</s>
+
+
+<s id="6920945947926306841-2508122034-7" eva="8000044">
+    <ar ct="2508122123" l="S23"/>
+</s>
+
+
+<s id="2312296716933966404-2508121555-9" eva="8000044">
+    <m id="r917623015" t="c" ts="2508122011" ts-tts="25-08-12 20:11:15.510"/>
+    <ar ct="2508122027">
+        <m id="r22553766" t="d" c="34" ts="2508122055" ts-tts="25-08-12 20:56:02.578"/>
+    </ar>
+    <dp ct="2508122030">
+        <m id="r22553766" t="d" c="34" ts="2508122055" ts-tts="25-08-12 20:56:02.578"/>
+    </dp>
+</s>
+
+
+<s id="7609135971558770977-2508122043-4" eva="8000044">
+    <ar cpth="" ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" cp="2" pp="1" pt="2508122053" cs="c" clt="2508122033"/>
+    <dp cpth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" cp="2" pp="1" ct="2508122054" pt="2508122054"/>
+    <tl f="N" t="s" o="NXRB" c="RB" n="88300"/>
+</s>
+
+
+<s id="-357019880264067310-2508122004-7" eva="8000044">
+    <ar ct="2508122056" l="S23"/>
+</s>
+
+
+<s id="783583753739480933-2508122034-2" eva="8000044">
+    <ar ct="2508122055" l="S23X"/>
+</s>
+
+
+<s id="-233471374335622563-2508121152-6" eva="8000044">
+    <m id="r2474748" t="h" from="2508121152" to="2508122240" cat="Information" ts="2508122025" ts-tts="25-08-12 20:25:25.253" pr="2"/>
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.412" pr="2"/>
+    <m id="r2474631" t="h" from="2508120000" to="2508162359" cat="Großstörung" ts="2508121706" ts-tts="25-08-12 17:06:24.150" pr="1"/>
+    <m id="r2474015" t="h" from="2508120000" to="2508132359" cat="Störung" ts="2508112309" ts-tts="25-08-11 23:09:18.436" pr="1"/>
+    <ar cpth="Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ct="2508121459">
+        <m id="r22470492" t="d" c="31" ts="2508111427" ts-tts="25-08-11 14:27:47.547"/>
+        <m id="r22522409" t="d" c="43" ts="2508121200" ts-tts="25-08-12 12:00:06.892"/>
+        <m id="r22523696" t="f" c="0" ts="2508121219" ts-tts="25-08-12 12:19:37.724"/>
+    </ar>
+    <dp cpth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf" ct="2508121502">
+        <m id="r22470492" t="d" c="31" ts="2508111427" ts-tts="25-08-11 14:27:47.547"/>
+        <m id="r22522409" t="d" c="43" ts="2508121200" ts-tts="25-08-12 12:00:06.892"/>
+        <m id="r22523696" t="f" c="0" ts="2508121219" ts-tts="25-08-12 12:19:37.724"/>
+    </dp>
+</s>
+
+
+<s id="-1181388105553700395-2508121444-8" eva="8000044">
+    <m id="r2474678" t="h" from="2508121730" to="2508121930" cat="Störung" ts="2508121757" ts-tts="25-08-12 19:16:04.029" pr="1"/>
+    <ar cpth="Berlin Ostbahnhof|Berlin Zoologischer Garten|Berlin-Spandau|Hannover Hbf|Dortmund Hbf|Düsseldorf Hbf|Köln Hbf" ppth="Berlin Ostbahnhof|Berlin Zoologischer Garten|Berlin-Spandau|Hannover Hbf|Hagen Hbf|Wuppertal Hbf|Köln Hbf" pp="3" ct="2508122020" pt="2508121952">
+        <m id="r22546513" t="d" c="58" ts="2508121829" ts-tts="25-08-12 18:29:50.136"/>
+        <m id="r22546573" t="d" c="40" ts="2508121830" ts-tts="25-08-12 18:30:53.530"/>
+    </ar>
+    <dp cpth="Remagen|Andernach|Koblenz Hbf" ppth="Remagen|Andernach|Koblenz Hbf" pp="3" ct="2508122024" pt="2508121954">
+        <m id="r22546513" t="d" c="58" ts="2508121829" ts-tts="25-08-12 18:29:50.136"/>
+        <m id="r22546573" t="d" c="40" ts="2508121830" ts-tts="25-08-12 18:30:53.530"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="556"/>
+</s>
+
+
+<s id="-8798068275526831190-2508130610-4" eva="8000044">
+    <ar>
+        <m id="r22551998" t="f" c="0" ts="2508122018" ts-tts="25-08-12 20:19:07.348"/>
+    </ar>
+    <dp>
+        <m id="r22551998" t="f" c="0" ts="2508122018" ts-tts="25-08-12 20:19:07.348"/>
+    </dp>
+</s>
+
+
+<s id="-5387624129932720070-2508121113-15" eva="8000044">
+    <m id="r2438879" t="h" from="2507010000" to="2508312359" cat="Information" ts="2506302303" ts-tts="25-08-11 23:16:04.407" pr="1"/>
+    <m id="r917622973" t="c" ts="2508122006" ts-tts="25-08-12 20:06:17.024"/>
+    <m id="r917622653" t="c" ts="2508121941" ts-tts="25-08-12 19:41:06.776"/>
+    <ar ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508122019" pt="2508121943">
+        <m id="r22545778" t="d" c="21" ts="2508121818" ts-tts="25-08-12 18:18:29.877"/>
+        <m id="r22546047" t="f" c="0" ts="2508121822" ts-tts="25-08-12 18:22:11.554"/>
+        <m id="r22551551" t="d" c="34" ts="2508122007" ts-tts="25-08-12 20:07:35.857"/>
+    </ar>
+    <dp ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" pp="1" ct="2508122021" pt="2508121945">
+        <m id="r22545778" t="d" c="21" ts="2508121818" ts-tts="25-08-12 18:18:29.877"/>
+        <m id="r22546047" t="f" c="0" ts="2508121822" ts-tts="25-08-12 18:22:11.554"/>
+        <m id="r22551551" t="d" c="34" ts="2508122007" ts-tts="25-08-12 20:07:35.857"/>
+    </dp>
+    <tl f="F" t="p" o="81" c="ICE" n="26"/>
+</s>
+
+
+<s id="2560088155260850280-2508121703-37" eva="8000044">
+    <ar ppth="Mainz Hbf|Mainz-Mombach|Budenheim|Uhlerborn|Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2508122009" pt="2508121931" l="26">
+        <m id="r22548159" t="d" c="43" ts="2508121858" ts-tts="25-08-12 18:59:02.549"/>
+        <m id="r22551061" t="d" c="45" ts="2508121954" ts-tts="25-08-12 19:54:44.900"/>
+    </ar>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" pp="1" ct="2508122010" pt="2508121933" l="26">
+        <m id="r22548159" t="d" c="43" ts="2508121858" ts-tts="25-08-12 18:59:02.549"/>
+        <m id="r22551061" t="d" c="45" ts="2508121954" ts-tts="25-08-12 19:54:44.900"/>
+    </dp>
+    <tl f="N" t="p" o="TR" c="RB" n="25436"/>
+</s>
+
+
+<s id="4660398913906016542-2508121159-15" eva="8000044">
+    <m id="r2474581" t="h" from="2508121430" to="2508121630" cat="Störung" ts="2508121556" ts-tts="25-08-12 16:16:04.111" pr="1"/>
+    <m id="r2444956" t="h" from="2506240000" to="2508122359" cat="Information" ts="2506241537" ts-tts="25-08-11 23:16:04.411" pr="2"/>
+    <m id="r2474678" t="h" from="2508121730" to="2508121930" cat="Störung" ts="2508121757" ts-tts="25-08-12 19:16:04.029" pr="1"/>
+    <m id="r917622503" t="c" ts="2508121927" ts-tts="25-08-12 19:27:11.808"/>
+    <m id="r917622504" t="c" ts="2508121927" ts-tts="25-08-12 19:27:11.808"/>
+    <ar ppth="Interlaken Ost|Interlaken West|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2508121956" pt="2508121843">
+        <m id="r22516504" t="f" c="0" ts="2508121010" ts-tts="25-08-12 10:10:44.141"/>
+        <m id="r22531629" t="d" c="24" ts="2508121436" ts-tts="25-08-12 14:36:52.838"/>
+        <m id="r22536114" t="d" c="7" ts="2508121549" ts-tts="25-08-12 15:49:56.203"/>
+        <m id="r22536792" t="f" c="0" ts="2508121600" ts-tts="25-08-12 16:00:43.439"/>
+        <m id="r22539280" t="f" c="0" ts="2508121641" ts-tts="25-08-12 16:41:53.110"/>
+        <m id="r22539281" t="f" c="1000" ts="2508121641" ts-tts="25-08-12 16:41:53.110"/>
+    </ar>
+    <dp ppth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf" pp="1" ct="2508121958" pt="2508121845">
+        <m id="r22516504" t="f" c="0" ts="2508121010" ts-tts="25-08-12 10:10:44.141"/>
+        <m id="r22531629" t="d" c="24" ts="2508121436" ts-tts="25-08-12 14:36:52.838"/>
+        <m id="r22536114" t="d" c="7" ts="2508121549" ts-tts="25-08-12 15:49:56.203"/>
+        <m id="r22536792" t="f" c="0" ts="2508121600" ts-tts="25-08-12 16:00:43.439"/>
+        <m id="r22539280" t="f" c="0" ts="2508121641" ts-tts="25-08-12 16:41:53.110"/>
+        <m id="r22539281" t="f" c="1000" ts="2508121641" ts-tts="25-08-12 16:41:53.110"/>
+    </dp>
+    <tl f="F" t="p" o="85" c="EC" n="6"/>
+</s>
+
+
+<s id="-999523055084370111-2508121849-9" eva="8000044">
+    <ar ct="2508121926" l="26">
+        <m id="r22548582" t="d" c="43" ts="2508121905" ts-tts="25-08-12 19:05:21.506"/>
+    </ar>
+    <dp ct="2508121928" l="26">
+        <m id="r22548582" t="d" c="43" ts="2508121905" ts-tts="25-08-12 19:05:21.506"/>
+        <m id="r22549829" t="f" c="0" ts="2508121927" ts-tts="25-08-12 19:27:11.893"/>
+    </dp>
+</s>
+
+
+<s id="-1916595935237351304-2508120950-15" eva="8000044">
+    <m id="r2474626" t="h" from="2508120950" to="2508121803" cat="Information" ts="2508121659" ts-tts="25-08-12 16:59:16.919" pr="2"/>
+    <m id="r2457953" t="h" from="2507150000" to="2512132359" cat="Information" ts="2507142304" ts-tts="25-08-11 23:16:04.439" pr="2"/>
+    <m id="r917621900" t="c" ts="2508121842" ts-tts="25-08-12 18:42:12.480"/>
+    <ar ppth="Oberstdorf|Fischen|Sonthofen|Immenstadt|Kempten(Allgäu)Hbf|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen" pp="1" ct="2508121900" pt="2508121621">
+        <m id="r22519066" t="d" c="43" ts="2508121102" ts-tts="25-08-12 11:02:35.632"/>
+        <m id="r22519199" t="f" c="0" ts="2508121104" ts-tts="25-08-12 11:04:41.281"/>
+        <m id="r22520137" t="f" c="0" ts="2508121122" ts-tts="25-08-12 11:22:15.686"/>
+        <m id="r22523420" t="d" c="33" ts="2508121213" ts-tts="25-08-12 12:13:17.804"/>
+        <m id="r22524252" t="f" c="0" ts="2508121228" ts-tts="25-08-12 12:29:05.690"/>
+        <m id="r22524646" t="f" c="0" ts="2508121233" ts-tts="25-08-12 12:34:05.939"/>
+        <m id="r22524752" t="f" c="0" ts="2508121235" ts-tts="25-08-12 12:35:25.022"/>
+        <m id="r22525545" t="f" c="0" ts="2508121247" ts-tts="25-08-12 12:47:48.563"/>
+        <m id="r22531309" t="f" c="0" ts="2508121429" ts-tts="25-08-12 14:30:02.033"/>
+        <m id="r22535494" t="f" c="0" ts="2508121539" ts-tts="25-08-12 15:39:23.443"/>
+        <m id="r22535680" t="f" c="0" ts="2508121542" ts-tts="25-08-12 15:42:33.356"/>
+        <m id="r22537573" t="f" c="0" ts="2508121613" ts-tts="25-08-12 16:14:09.810"/>
+        <m id="r22548447" t="f" c="0" ts="2508121902" ts-tts="25-08-12 19:02:27.680"/>
+    </ar>
+    <dp ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" pp="1" ct="2508121902" pt="2508121623">
+        <m id="r22519066" t="d" c="43" ts="2508121102" ts-tts="25-08-12 11:02:35.632"/>
+        <m id="r22519199" t="f" c="0" ts="2508121104" ts-tts="25-08-12 11:04:41.281"/>
+        <m id="r22520137" t="f" c="0" ts="2508121122" ts-tts="25-08-12 11:22:15.686"/>
+        <m id="r22523420" t="d" c="33" ts="2508121213" ts-tts="25-08-12 12:13:17.804"/>
+        <m id="r22524252" t="f" c="0" ts="2508121228" ts-tts="25-08-12 12:29:05.690"/>
+        <m id="r22524646" t="f" c="0" ts="2508121233" ts-tts="25-08-12 12:34:05.939"/>
+        <m id="r22524752" t="f" c="0" ts="2508121235" ts-tts="25-08-12 12:35:25.022"/>
+        <m id="r22525545" t="f" c="0" ts="2508121247" ts-tts="25-08-12 12:47:48.563"/>
+        <m id="r22531309" t="f" c="0" ts="2508121429" ts-tts="25-08-12 14:30:02.033"/>
+        <m id="r22535494" t="f" c="0" ts="2508121539" ts-tts="25-08-12 15:39:23.443"/>
+        <m id="r22535680" t="f" c="0" ts="2508121542" ts-tts="25-08-12 15:42:33.356"/>
+        <m id="r22537573" t="f" c="0" ts="2508121613" ts-tts="25-08-12 16:14:09.810"/>
+        <m id="r22548447" t="f" c="0" ts="2508121902" ts-tts="25-08-12 19:02:27.680"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="IC" n="2012"/>
+</s>
+
+
+<s id="-1497213994658544450-2508121139-10" eva="8000044">
+    <m id="r2474717" t="h" from="2508121139" to="2508122242" cat="Information" ts="2508121900" ts-tts="25-08-12 19:00:37.198" pr="2"/>
+    <m id="r917620020" t="c" ts="2508121628" ts-tts="25-08-12 16:28:09.820"/>
+    <ar ppth="Hamburg-Altona|Hamburg Hbf|Bremen Hbf|Münster(Westf)Hbf|Recklinghausen Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2508121643" pt="2508121613">
+        <m id="r22521702" t="d" c="40" ts="2508121146" ts-tts="25-08-12 11:46:26.333"/>
+        <m id="r22533955" t="f" c="0" ts="2508121514" ts-tts="25-08-12 15:14:34.390"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Plattling|Passau Hbf" pp="3" ct="2508121645" pt="2508121615">
+        <m id="r22521702" t="d" c="40" ts="2508121146" ts-tts="25-08-12 11:46:26.333"/>
+        <m id="r22533955" t="f" c="0" ts="2508121514" ts-tts="25-08-12 15:14:34.390"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="927"/>
+</s>
+
+
+<s id="8887303232270296593-2508121749-9" eva="8000044">
+    <ar ct="2508121829" l="26">
+        <m id="r22545826" t="d" c="43" ts="2508121819" ts-tts="25-08-12 18:19:33.356"/>
+    </ar>
+    <dp ct="2508121830" l="26">
+        <m id="r22545826" t="d" c="43" ts="2508121819" ts-tts="25-08-12 18:19:33.356"/>
+    </dp>
+</s>
+
+
+<s id="8428028954903351107-2508121636-7" eva="8000044">
+    <ar ct="2508121823">
+        <m id="r22542653" t="d" c="36" ts="2508121728" ts-tts="25-08-12 17:28:37.616"/>
+    </ar>
+    <dp ct="2508121825">
+        <m id="r22542653" t="d" c="36" ts="2508121728" ts-tts="25-08-12 17:28:37.616"/>
+    </dp>
+</s>
+
+
+<s id="6492627968416470339-2508121235-6" eva="8000044">
+    <ar ct="2508121440">
+        <m id="r22525639" t="d" c="38" ts="2508121249" ts-tts="25-08-12 12:49:38.839"/>
+    </ar>
+    <dp ct="2508121443">
+        <m id="r22525639" t="d" c="38" ts="2508121249" ts-tts="25-08-12 12:49:38.839"/>
+    </dp>
+</s>
+
+
+<m id="i1081784" t="i" from="2507230739" to="2507231400" ts="2507231207" ts-tts="25-07-23 12:07:13.216" del="1"/>
+
+
+<m id="i1082564" t="i" from="2508050820" to="2508051420" ts="2508050904" ts-tts="25-08-05 09:04:40.766" del="1"/>
+
+
+<m id="i1081743" t="i" from="2507221158" to="2507221500" ts="2507221450" ts-tts="25-07-22 14:50:55.755" del="1"/>
+
+
+<m id="i1081405" t="i" from="2507170432" to="2507171200" ts="2507170434" ts-tts="25-07-17 04:34:30.306"/>
+
+
+<m id="i1081393" t="i" from="2507162112" to="2507170312" ts="2507162113" ts-tts="25-07-16 21:14:04.881"/>
+
+</timetable>
