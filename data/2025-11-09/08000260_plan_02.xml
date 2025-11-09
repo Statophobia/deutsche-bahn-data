@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="-4272298498907669914-2511081900-8">
+		<tl t="p" o="81" c="NJ" n="40421"/>
+		<ar pt="2511090226" pp="4" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Essen Hbf|Dortmund Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2511090229" pp="4" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="2686007473625185344-2511090001-2">
+		<tl f="F" t="p" o="80" c="ICE" n="618"/>
+		<ar pt="2511090208" pp="6" ppth="München Hbf"/>
+		<dp pt="2511090210" pp="6" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-3823254010841261196-2511081900-8">
+		<tl t="p" o="84" c="NJ" n="421"/>
+		<ar pt="2511090226" pp="4" wings="-4272298498907669914-2511081900" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Essen Hbf|Dortmund Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2511090229" pp="4" wings="-4272298498907669914-2511081900" ppth="Nürnberg Hbf|Augsburg Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="7474414276230536927-2511081838-18">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2511090242" pp="5" ppth="Kiel Hbf|Neumünster|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2511090244" pp="5" ppth="München Hbf"/>
+	</s>
+</timetable>
