@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="-3927096025170759993-2511100143-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11292"/>
+		<ar pt="2511100147" pp="3" l="7" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2511100148" pp="3" l="7" ppth="Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-6711307188089838742-2511100005-11">
+		<tl f="N" t="p" o="800201" c="RE" n="11293"/>
+		<ar pt="2511100131" pp="4" l="7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg|Hamburg-Altona"/>
+		<dp pt="2511100132" pp="4" l="7" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-2226467865786714148-2511092238-8">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2511100106" pp="3" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2511100107" pp="3" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-5040855886902453859-2511091527-15">
+		<tl f="F" t="p" o="80" c="ICE" n="514"/>
+		<ar pt="2511100120" pp="3" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2511100121" pp="3" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+</timetable>
