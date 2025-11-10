@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<timetable station="Ulm Hbf">
+	<s id="-4509125789299264267-2511102216-13">
+		<tl f="D" t="p" o="A9" c="ag" n="84294"/>
+		<ar pt="2511102312" pp="28" l="RB15" ppth="Donauwörth|Tapfheim|Schwenningen(Bay)|Blindheim|Höchstädt(Donau)|Dillingen(Donau)|Lauingen|Gundelfingen(Bay)|Günzburg|Leipheim|Nersingen|Neu-Ulm"/>
+	</s>
+	<s id="5822378549779729152-2511102057-28">
+		<tl f="N" t="p" o="GYRE" c="RE" n="57084"/>
+		<ar pt="2511102316" pp="25" l="9" ppth="München Hbf|München-Pasing|Mammendorf|Haspelmoor|Althegnenberg|Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße|Augsburg Hbf|Augsburg-Oberhausen|Neusäß|Westheim(Schwab)|Diedorf(Schwab)|Gessertshausen|Kutzenhausen|Dinkelscherben|Freihalden|Jettingen|Burgau(Schwab)|Mindelaltheim|Offingen|Günzburg|Leipheim|Nersingen|Neu-Ulm"/>
+	</s>
+	<s id="-5425302918995479956-2511101529-16">
+		<tl f="F" t="p" o="80" c="ICE" n="615"/>
+		<ar pt="2511102310" pp="2" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Stuttgart Hbf"/>
+		<dp pt="2511102312" pp="2" ppth="Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-3547222471733555642-2511102329-1">
+		<tl f="N" t="p" o="800659" c="RE" n="32598"/>
+		<dp pt="2511102329" pp="3 Nord" l="200" ppth="Merklingen - Schwäbische Alb|Wendlingen(Neckar)"/>
+	</s>
+	<s id="-975220339809458292-2511102324-3">
+		<tl f="N" t="p" o="800659" c="RE" n="16077"/>
+		<ar pt="2511102351" pp="3 Nord" l="200" ppth="Wendlingen(Neckar)|Merklingen - Schwäbische Alb"/>
+	</s>
+	<s id="7108274583246193747-2511102151-4">
+		<tl f="F" t="p" o="80" c="ICE" n="698"/>
+		<ar pt="2511102301" pp="1" ppth="München Hbf|Augsburg Hbf|Günzburg"/>
+		<dp pt="2511102303" pp="1" ppth="Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Eisenach Hbf|Gotha|Erfurt Hbf|Weimar|Naumburg(Saale)Hbf|Halle(Saale)Hbf|Bitterfeld|Berlin Hbf"/>
+	</s>
+	<s id="-335789040414838449-2511102326-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="89489"/>
+		<dp pt="2511102326" pp="" l="RS3" ppth="Ulm-Söflingen|Blaustein|Herrlingen|Gerhausen|Blaubeuren|Schelklingen|Schmiechen|Allmendingen|Ehingen(Donau)"/>
+	</s>
+	<s id="-4623299408447653945-2511102324-1">
+		<tl f="N" t="p" o="GYRE" c="RE" n="57191"/>
+		<dp pt="2511102324" pp="25" l="9" ppth="Neu-Ulm|Nersingen|Leipheim|Günzburg|Offingen|Mindelaltheim|Burgau(Schwab)|Jettingen|Freihalden|Dinkelscherben"/>
+	</s>
+	<s id="4759892792588741594-2511102235-8">
+		<tl t="p" o="B7" c="Bus" n="57614"/>
+		<ar pt="2511102345" pp="" l="EV" ppth="Illertissen|Bellenberg|Vöhringen|Senden|Gerlenhofen|Finningerstraße|Neu-Ulm"/>
+	</s>
+	<s id="4747644076881825118-2511102245-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1060"/>
+		<ar pt="2511102359" pp="1" ppth="München Hbf|München-Pasing|Augsburg Hbf"/>
+		<dp pt="2511110001" pp="1" ppth="Stuttgart Hbf"/>
+	</s>
+	<s id="-1998446247111998775-2511102325-1">
+		<tl t="p" o="B7" c="Bus" n="17619"/>
+		<dp pt="2511102325" pp="" l="EV" ppth="Neu-Ulm|Finningerstraße|Gerlenhofen|Senden|Vöhringen|Bellenberg|Illertissen"/>
+	</s>
+</timetable>
