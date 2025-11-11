@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Aschaffenburg Hbf">
+	<s id="-7553171220414580335-2511112058-3">
+		<tl f="F" t="p" o="80" c="ICE" n="522"/>
+		<ar pt="2511112247" pp="8" ppth="Nürnberg Hbf|Würzburg Hbf"/>
+		<dp pt="2511112248" pp="8" ppth="Hanau Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="1556741539828157941-2511112135-17">
+		<tl f="N" t="p" o="800772" c="RE" n="4634"/>
+		<ar pt="2511112249" pp="8" l="54" ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach"/>
+		<dp pt="2511112251" pp="8" l="54" ppth="Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-1504242259012697339-2511112036-20">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="28733"/>
+		<ar pt="2511112212" pp="5" l="RB75" ppth="Wiesbaden Hbf|Mainz Hbf|Mainz Römisches Theater|Mainz-Gustavsburg|Mainz-Bischofsheim|Nauheim(b Gr.Gerau)|Groß Gerau|Klein Gerau|Weiterstadt|Darmstadt Hbf|Darmstadt Nord|Darmstadt-Kranichstein|Messel|Dieburg|Altheim(Hess)|Hergershausen|Babenhausen(Hess)|Stockstadt(Main)|Mainaschaff"/>
+	</s>
+	<s id="2454826157285726462-2511112130-2">
+		<tl f="N" t="p" o="800772" c="RE" n="4633"/>
+		<ar pt="2511112215" pp="6" l="54" ppth="Frankfurt(Main)Hbf"/>
+		<dp pt="2511112218" pp="6" l="54" ppth="Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Wernfeld|Karlstadt(Main)|Himmelstadt|Retzbach-Zellingen|Thüngersheim|Veitshöchheim|Würzburg-Zell|Würzburg Hbf"/>
+	</s>
+	<s id="-1037719375229254221-2511112040-13">
+		<tl t="p" o="800603" c="Bus" n="340"/>
+		<ar pt="2511112203" pp="" l="EV" ppth="Miltenberg|Kleinheubach|Laudenbach am Main|Wörth(Main)|Klingenberg(Main)|Erlenbach(Main)|Glanzstoffwerke|Obernburg-Elsenfeld|Kleinwallstadt|Sulzbach(Main)|Obernau|Aschaffenburg Süd"/>
+	</s>
+	<s id="2544377602079428643-2511112247-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="28738"/>
+		<dp pt="2511112247" pp="5" l="RB75" ppth="Mainaschaff|Stockstadt(Main)|Babenhausen(Hess)|Hergershausen|Altheim(Hess)|Dieburg|Messel|Darmstadt-Kranichstein|Darmstadt Nord|Darmstadt Hbf|Weiterstadt|Klein Gerau|Groß Gerau|Nauheim(b Gr.Gerau)|Mainz-Bischofsheim|Mainz-Gustavsburg|Mainz Römisches Theater|Mainz Hbf|Wiesbaden Hbf"/>
+	</s>
+	<s id="-2862031884906377813-2511112225-1">
+		<tl t="p" o="800603" c="Bus" n="337"/>
+		<dp pt="2511112225" pp="" l="EV" ppth="Aschaffenburg Süd|Obernau|Sulzbach(Main)|Kleinwallstadt|Obernburg-Elsenfeld|Glanzstoffwerke|Erlenbach(Main)|Klingenberg(Main)|Wörth(Main)|Laudenbach am Main|Kleinheubach|Miltenberg"/>
+	</s>
+</timetable>
