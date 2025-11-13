@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Süd">
+	<s id="3673026080162824134-2511121912-4">
+		<tl t="p" o="81" c="NJ" n="40469"/>
+		<ar pt="2511130315" pp="8" ppth="Paris Est|Strasbourg|Mannheim Hbf"/>
+		<dp pt="2511130319" pp="8" ppth="Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="1830702185345890557-2511130151-2">
+		<tl t="p" o="81" c="NJ" n="425"/>
+		<ar pt="2511130315" pp="8" wings="3673026080162824134-2511121912" ppth="Mannheim Hbf"/>
+		<dp pt="2511130319" pp="8" wings="3673026080162824134-2511121912" ppth="Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>
