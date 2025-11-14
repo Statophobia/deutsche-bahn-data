@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<timetable station="Rheine">
+	<s id="-3580486526774062957-2511142221-1">
+		<tl t="p" o="R2" c="Bus" n="6105"/>
+		<dp pt="2511142221" pp="" l="RB61" ppth="Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf"/>
+	</s>
+	<s id="-4994668759358133133-2511142118-8">
+		<tl f="N" t="p" o="800262" c="RE" n="11516"/>
+		<ar pt="2511142218" pp="2" l="62" ppth="Löhne(Westf)|Kirchlengern|Bünde(Westf)|Melle|Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren"/>
+	</s>
+	<s id="-6311631194256153279-2511142052-13">
+		<tl f="D" t="p" o="W3" c="WFB" n="90299"/>
+		<ar pt="2511142227" pp="5" l="RE15" ppth="Emden Hbf|Leer(Ostfriesl)|Papenburg(Ems)|Aschendorf|Dörpen|Lathen|Haren(Ems)|Meppen|Geeste|Lingen(Ems)|Leschede|Salzbergen"/>
+		<dp pt="2511142229" pp="5" l="RE15" ppth="Emsdetten|Greven|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-8926903299797833236-2511142253-1">
+		<tl f="N" t="p" o="R2RB" c="RB" n="52359"/>
+		<dp pt="2511142253" pp="5" l="65" ppth="Rheine-Mesum|Emsdetten|Reckenfeld|Greven|Münster-Sprakel|Münster(W)Zentrum Nord|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-4705707440919021676-2511142135-8">
+		<tl f="N" t="p" o="R2RB" c="RB" n="52354"/>
+		<ar pt="2511142208" pp="5" l="65" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Münster-Sprakel|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+	</s>
+	<s id="-4202560257404214898-2511142212-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="90300"/>
+		<ar pt="2511142244" pp="4" l="RE15" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+		<dp pt="2511142252" pp="4" l="RE15" ppth="Salzbergen|Leschede|Lingen(Ems)|Geeste|Meppen|Haren(Ems)|Lathen"/>
+	</s>
+	<s id="8341458247546975375-2511142134-6">
+		<tl f="N" t="p" o="R2RB" c="RB" n="20387"/>
+		<ar pt="2511142211" pp="4" l="61" ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen"/>
+	</s>
+	<s id="683410359102529401-2511142249-1">
+		<tl f="N" t="p" o="R2RB" c="RB" n="20386"/>
+		<dp pt="2511142249" pp="2" l="61" ppth="Salzbergen|Schüttorf|Bad Bentheim|Oldenzaal|Hengelo"/>
+	</s>
+	<s id="-3973665938395201440-2511142103-7">
+		<tl t="p" o="R2" c="Bus" n="6102"/>
+		<ar pt="2511142239" pp="" l="RB61" ppth="Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel"/>
+	</s>
+</timetable>

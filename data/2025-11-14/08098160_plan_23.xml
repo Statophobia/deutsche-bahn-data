@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="6524097521449315873-2511142037-11">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2511142310" pp="4" l="5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-563668382363764680-2511142313-3">
+		<tl f="N" t="p" o="800158" c="RE" n="3319"/>
+		<ar pt="2511142332" pp="1" l="3" ppth="Bernau(b Berlin)|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="4190573469369466814-2511142346-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3522"/>
+		<dp pt="2511142346" pp="4" l="5" ppth="Berlin Gesundbrunnen|Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Blankensee(Meckl)|Cammin(Meckl)|Burg Stargard(Meckl)|Neubrandenburg"/>
+	</s>
+	<s id="-7724390263517347378-2511141709-11">
+		<tl f="F" t="p" o="80" c="ICE" n="702"/>
+		<ar pt="2511142313" pp="7" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Treuchtlingen|Nürnberg Hbf|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld"/>
+	</s>
+	<s id="2502662779829118814-2511142307-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3185"/>
+		<dp pt="2511142307" pp="7 A - D" l="4" ppth="Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="5345924912571245273-2511142035-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1507"/>
+		<ar pt="2511142318" pp="8" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Stendal Hbf|Berlin-Spandau"/>
+	</s>
+	<s id="5267890398427216546-2511142255-4">
+		<tl t="p" o="800165" c="FEX" n="19874"/>
+		<ar pt="2511142336" pp="6" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="7467521013036480670-2511142349-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18636"/>
+		<dp pt="2511142349" pp="2" l="14" ppth="Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark"/>
+	</s>
+	<s id="7384692404571698650-2511142238-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18635"/>
+		<ar pt="2511142309" pp="2" l="14" ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau|Berlin Jungfernheide"/>
+	</s>
+</timetable>
