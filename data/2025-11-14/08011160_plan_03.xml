@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="700156942723660705-2511140336-3">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62044"/>
+		<ar pt="2511140344" pp="11" l="8" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2511140346" pp="11" l="8" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="3262097249322916769-2511140239-6">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62043"/>
+		<ar pt="2511140311" pp="14" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2511140313" pp="14" l="8" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="1507163401013910914-2511140305-3">
+		<tl t="p" o="800165" c="FEX" n="19801"/>
+		<ar pt="2511140315" pp="11" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2511140315" pp="11" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="5089820149948252230-2511131646-16">
+		<tl f="F" t="p" o="80" c="ICE" n="592"/>
+		<ar pt="2511140300" pp="11" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2511140303" pp="11" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="8877134481212521389-2511140332-2">
+		<tl f="F" t="p" o="80" c="ICE" n="275"/>
+		<ar pt="2511140340" pp="13" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2511140344" pp="13" ppth="Berlin Zoologischer Garten|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Liestal|Olten|Bern|Thun|Spiez|Interlaken West|Interlaken Ost"/>
+	</s>
+	<s id="-199422321941227724-2511140320-3">
+		<tl t="p" o="800165" c="FEX" n="19803"/>
+		<ar pt="2511140329" pp="11" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2511140329" pp="11" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+</timetable>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="8868050453695511606-2511132134-11">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2511140347" pp="1a/b" hi="1" wings="4753870957390372842-2511132134" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2511140349" pp="1a/b" hi="1" wings="4753870957390372842-2511132134" ppth="Koblenz Hbf|Bonn-Beuel|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-167693663166116183-2511140353-1">
+		<tl t="p" o="B4" c="Bus" n="1805"/>
+		<dp pt="2511140353" pp="" l="S8E" ppth="Bahnhof Römisches Theater, Mainz|Mainz-Bischofsheim|Rüsselsheim Opelwerk|Rüsselsheim|Raunheim|Kelsterbach"/>
+	</s>
+	<s id="4753870957390372842-2511132134-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2511140347" pp="1a/b" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2511140349" pp="1a/b" ppth="Koblenz Hbf|Bonn-Beuel|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="1520549329540843105-2511140243-7">
+		<tl t="p" o="B4" c="Bus" n="1882"/>
+		<ar pt="2511140340" pp="" l="S8E" ppth="Kelsterbach|Bahnhof Nordseite, Raunheim|Rüsselsheim|Rüsselsheim Opelwerk|Mainz-Bischofsheim|Bahnhof Römisches Theater, Mainz"/>
+	</s>
+	<s id="-8671564467496956144-2511140323-1">
+		<tl t="p" o="B4" c="Bus" n="1803"/>
+		<dp pt="2511140323" pp="" l="S8E" ppth="Bahnhof Römisches Theater, Mainz|Mainz-Bischofsheim|Rüsselsheim Opelwerk|Rüsselsheim|Raunheim|Kelsterbach"/>
+	</s>
+</timetable>

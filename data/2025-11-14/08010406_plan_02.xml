@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Zoologischer Garten">
+	<s id="5089820149948252230-2511131646-15">
+		<tl f="F" t="p" o="80" c="ICE" n="592"/>
+		<ar pt="2511140254" pp="2" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Berlin-Spandau"/>
+		<dp pt="2511140256" pp="2" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="3141021345338054287-2511140210-7">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62046"/>
+		<ar pt="2511140239" pp="1" l="8" ppth="Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin-Charlottenburg"/>
+		<dp pt="2511140240" pp="1" l="8" ppth="Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="7451169596740133223-2511140139-7">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62047"/>
+		<ar pt="2511140219" pp="4" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2511140220" pp="4" l="8" ppth="Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark"/>
+	</s>
+</timetable>
