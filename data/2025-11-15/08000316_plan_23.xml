@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Rheine">
+	<s id="2960297712658480378-2511152235-8">
+		<tl f="N" t="p" o="R2RB" c="RB" n="52356"/>
+		<ar pt="2511152308" pp="3" l="65" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Münster-Sprakel|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+	</s>
+	<s id="7258812253033650638-2511152303-4">
+		<tl t="p" o="R2" c="Bus" n="6121"/>
+		<ar pt="2511152347" pp="" l="RB61" ppth="Bad Bentheim|Schüttorf|Salzbergen"/>
+		<dp pt="2511152347" pp="" l="RB61" ppth="Hörstel|Ibbenbüren-Esch|Ibbenbüren"/>
+	</s>
+	<s id="-8781981182445861383-2511152305-2">
+		<tl f="N" t="p" o="R2RB" c="RB" n="63635"/>
+		<ar pt="2511152311" pp="" l="61" ppth="Salzbergen"/>
+	</s>
+	<s id="-1400591771169129450-2511152231-12">
+		<tl f="D" t="p" o="W3" c="WFB" n="90301"/>
+		<ar pt="2511152350" pp="5" l="RE15" ppth="Leer(Ostfriesl)|Papenburg(Ems)|Aschendorf|Dörpen|Lathen|Haren(Ems)|Meppen|Geeste|Lingen(Ems)|Leschede|Salzbergen"/>
+		<dp pt="2511152353" pp="5" l="RE15" ppth="Rheine-Mesum|Emsdetten|Reckenfeld|Greven|Münster-Sprakel|Münster(W)Zentrum Nord|Münster(Westf)Hbf"/>
+	</s>
+	<s id="1956131423678513095-2511152321-1">
+		<tl t="p" o="R2" c="Bus" n="6115"/>
+		<dp pt="2511152321" pp="" l="RB61" ppth="Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf"/>
+	</s>
+	<s id="637219038798480565-2511152312-8">
+		<tl f="D" t="p" o="W3" c="WFB" n="90302"/>
+		<ar pt="2511152344" pp="4" l="RE15" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Münster-Sprakel|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+		<dp pt="2511152356" pp="4" l="RE15" ppth="Salzbergen|Leschede|Lingen(Ems)|Geeste|Meppen"/>
+	</s>
+</timetable>
