@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Augsburg Hbf">
+	<s id="3551238406803165030-2511150038-11">
+		<tl f="D" t="p" o="Y8" c="BRB" n="86625"/>
+		<ar pt="2511150134" pp="2 A-B" l="RB13" ppth="Ingolstadt Hbf|Brunnen(Oberbay)|Schrobenhausen|Radersdorf|Aichach|Obergriesbach|Dasing|Friedberg(Augsburg)|Augsburg-Hochzoll|Augsburg Haunstetterstraße"/>
+	</s>
+	<s id="5284862617009162683-2511150036-9">
+		<tl f="D" t="p" o="Y8" c="BRB" n="86606"/>
+		<ar pt="2511150107" pp="8 A-C" l="RB67" ppth="Egling|Schmiechen(Schwab)|Merching|Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße"/>
+	</s>
+	<s id="-3854034860779162810-2511150101-1">
+		<tl f="N" t="p" o="GYRB" c="RB" n="57001"/>
+		<dp pt="2511150101" pp="9 A-C" l="87" ppth="Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering|Althegnenberg|Haspelmoor|Mammendorf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="5537080762589122899-2511141945-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1607"/>
+		<ar pt="2511150127" pp="4" ppth="Berlin Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf"/>
+		<dp pt="2511150129" pp="4" ppth="München Hbf"/>
+	</s>
+</timetable>

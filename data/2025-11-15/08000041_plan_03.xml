@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Bochum Hbf">
+	<s id="3123055915998537166-2511150322-3">
+		<tl f="S" t="p" o="800337" c="S" n="30105"/>
+		<ar pt="2511150343" pp="8" l="1" ppth="Essen West|Essen Hbf"/>
+		<dp pt="2511150344" pp="8" l="1" ppth="Dortmund Hbf"/>
+	</s>
+	<s id="-4318408441510468471-2511150253-9">
+		<tl f="S" t="p" o="800337" c="S" n="30104"/>
+		<ar pt="2511150316" pp="7" l="1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West"/>
+		<dp pt="2511150317" pp="7" l="1" ppth="Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West"/>
+	</s>
+	<s id="8503777394879306018-2511142325-14">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2511150314" pp="5" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf|Mainz Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Süd|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf"/>
+		<dp pt="2511150316" pp="5" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="1648857726819354655-2511150051-17">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26845"/>
+		<ar pt="2511150302" pp="5" l="1" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Dormagen|Neuss Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid"/>
+		<dp pt="2511150303" pp="5" l="1" ppth="Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+</timetable>

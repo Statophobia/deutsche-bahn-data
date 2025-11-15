@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Darmstadt Hbf">
+	<s id="2180758541023394158-2511150335-1">
+		<tl f="S" t="p" o="800528" c="S" n="99020"/>
+		<dp pt="2511150335" pp="" l="6" ppth="Darmstadt-Arheilgen|Darmstadt-Wixhausen|Erzhausen|Egelsbach|Langen(Hess)"/>
+	</s>
+	<s id="1878447848030468609-2511150312-6">
+		<tl f="S" t="p" o="800528" c="S" n="99009"/>
+		<ar pt="2511150326" pp="" l="6" ppth="Langen(Hess)|Egelsbach|Erzhausen|Darmstadt-Wixhausen|Darmstadt-Arheilgen"/>
+	</s>
+	<s id="-3985259033482962999-2511150226-18">
+		<tl f="N" t="p" o="800574" c="RB" n="15344"/>
+		<ar pt="2511150326" pp="5" l="68" ppth="Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Neu-Edingen/Friedrichsfeld|Ladenburg|Heddesheim/Hirschberg|Weinheim-Lützelsachsen|Weinheim(Bergstr)Hbf|Hemsbach|Laudenbach(Bergstr)|Heppenheim(Bergstr)|Bensheim|Bensheim-Auerbach|Zwingenberg(Bergstr)|Hähnlein-Alsbach|Bickenbach(Bergstr)|Darmstadt-Eberstadt|Darmstadt Süd"/>
+		<dp pt="2511150330" pp="5" l="68" ppth="Langen(Hess)|Frankfurt(Main)Hbf"/>
+	</s>
+</timetable>

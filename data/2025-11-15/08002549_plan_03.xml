@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="3859428609556967600-2511150305-7">
+		<tl f="D" t="p" o="R1" c="ME" n="81900"/>
+		<ar pt="2511150344" pp="11D-F" l="RB41" ppth="Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-7830497133441705242-2511150333-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81605"/>
+		<dp pt="2511150333" pp="11D-F" l="RB31" ppth="Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg"/>
+	</s>
+	<s id="6487715907944716948-2511150356-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81905"/>
+		<dp pt="2511150356" pp="11D-F" l="RB41" ppth="Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt"/>
+	</s>
+	<s id="7503686131581050153-2511150205-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11297"/>
+		<ar pt="2511150323" pp="6A-C" l="7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Wrist|Elmshorn|Pinneberg|Hamburg Dammtor"/>
+	</s>
+	<s id="-8465647323724986244-2511150205-13">
+		<tl f="D" t="p" o="R1" c="ME" n="81600"/>
+		<ar pt="2511150317" pp="11D-F" l="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="6058882206481505738-2511150343-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11296"/>
+		<dp pt="2511150343" pp="7A-D" l="7" ppth="Hamburg Dammtor|Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+</timetable>

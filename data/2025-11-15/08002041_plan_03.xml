@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Süd">
+	<s id="1830702185345890557-2511150151-2">
+		<tl t="p" o="81" c="NJ" n="425"/>
+		<ar pt="2511150317" pp="8" wings="3673026080162824134-2511141912" ppth="Mannheim Hbf"/>
+		<dp pt="2511150319" pp="8" wings="3673026080162824134-2511141912" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-5161566762711786580-2511150347-7">
+		<tl f="S" t="p" o="800528" c="S" n="36691"/>
+		<ar pt="2511150357" pp="1" l="6" ppth="Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof"/>
+		<dp pt="2511150358" pp="1" l="6" ppth="Frankfurt(M)Stresemannallee|Frankfurt-Louisa"/>
+	</s>
+	<s id="8434336647974755535-2511150220-22">
+		<tl f="S" t="p" o="800528" c="S" n="35687"/>
+		<ar pt="2511150312" pp="1" l="6" ppth="Friedberg(Hess)|Bruchenbrücken|Nieder Wöllstadt|Okarben|Groß Karben|Dortelweil|Bad Vilbel|Bad Vilbel Süd|Frankfurt-Berkersheim|Frankfurt-Frankfurter Berg|Frankfurt-Eschersheim|Frankfurt-Ginnheim|Frankfurt(Main)West|Frankfurt(Main)Messe|Frankfurt(M)Galluswarte|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Lokalbahnhof"/>
+	</s>
+	<s id="4031477940009607180-2511150300-6">
+		<tl t="p" o="B4" c="Bus" n="690"/>
+		<ar pt="2511150350" pp="" l="S6" ppth="Langen(Hess)|Robert-Bosch-Straße Nord, Langen (Hessen)|Dreieich-Buchschlag|Bahnhof Westseite, Neu-Isenburg|Frankfurt(Main) Stresemannallee/Mörfelder Landstr"/>
+	</s>
+	<s id="3673026080162824134-2511141912-4">
+		<tl t="p" o="81" c="NJ" n="40469"/>
+		<ar pt="2511150317" pp="8" ppth="Paris Est|Strasbourg|Mannheim Hbf"/>
+		<dp pt="2511150319" pp="8" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="1284233294068536622-2511150308-1">
+		<tl t="p" o="B4" c="Bus" n="687"/>
+		<dp pt="2511150308" pp="" l="S6" ppth="Frankfurt(Main) Stresemannallee/Mörfelder Landstr|Bahnhof Westseite, Neu-Isenburg|Dreieich-Buchschlag|Robert-Bosch-Straße Nord, Langen (Hessen)|Langen(Hess)"/>
+	</s>
+	<s id="-4503280181487901838-2511150259-3">
+		<tl f="S" t="p" o="800528" c="S" n="36690"/>
+		<ar pt="2511150303" pp="4" l="6" ppth="Frankfurt-Louisa|Frankfurt(M)Stresemannallee"/>
+		<dp pt="2511150303" pp="4" l="6" ppth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)"/>
+	</s>
+	<s id="-1292468316536552990-2511150338-1">
+		<tl t="p" o="B4" c="Bus" n="689"/>
+		<dp pt="2511150338" pp="" l="S6" ppth="Frankfurt(Main) Stresemannallee/Mörfelder Landstr|Bahnhof Westseite, Neu-Isenburg|Dreieich-Buchschlag|Robert-Bosch-Straße Nord, Langen (Hessen)|Langen(Hess)"/>
+	</s>
+	<s id="-3872315014076720496-2511150348-1">
+		<tl f="S" t="p" o="800528" c="S" n="35690"/>
+		<dp pt="2511150348" pp="4" l="6" ppth="Frankfurt(M)Lokalbahnhof|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt(M)Galluswarte|Frankfurt(Main)Messe|Frankfurt(Main)West|Frankfurt-Ginnheim|Frankfurt-Eschersheim|Frankfurt-Frankfurter Berg|Frankfurt-Berkersheim|Bad Vilbel Süd|Bad Vilbel|Dortelweil|Groß Karben|Okarben|Nieder Wöllstadt|Bruchenbrücken|Friedberg(Hess)"/>
+	</s>
+</timetable>
