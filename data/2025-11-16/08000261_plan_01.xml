@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="München Hbf">
+	<s id="6924447488352088653-2511152337-9">
+		<tl f="N" t="p" o="800765" c="RE" n="4047"/>
+		<ar pt="2511160110" pp="23" l="1" ppth="Nürnberg Hbf|Allersberg(Rothsee)|Kinding(Altmühltal)|Ingolstadt Nord|Ingolstadt Hbf|Rohrbach(Ilm)|Pfaffenhofen(Ilm)|Petershausen(Obb)"/>
+	</s>
+	<s id="-8002425886330718448-2511160159-1">
+		<tl f="N" t="p" o="GYRB" c="RB" n="57002"/>
+		<dp pt="2511160159" pp="17" l="87" ppth="München-Pasing|Mammendorf|Haspelmoor|Althegnenberg|Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße|Augsburg Hbf"/>
+	</s>
+	<s id="938691029359525863-2511160019-7">
+		<tl f="D" t="p" o="A8N" c="ALX" n="79866"/>
+		<ar pt="2511160140" pp="24" l="RE25" ppth="Köfering|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach|Landshut(Bay)Hbf|Freising"/>
+	</s>
+	<s id="-3854034860779162810-2511160101-11">
+		<tl f="N" t="p" o="GYRB" c="RB" n="57001"/>
+		<ar pt="2511160149" pp="17" l="87" ppth="Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering|Althegnenberg|Haspelmoor|Mammendorf|München-Pasing"/>
+	</s>
+	<s id="2143499115056676952-2511151839-14">
+		<tl f="F" t="p" o="80" c="ICE" n="821"/>
+		<ar pt="2511160109" pp="17" ppth="Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Montabaur|Limburg Süd|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Augsburg Hbf"/>
+	</s>
+	<s id="-2799437594955415317-2511151617-18">
+		<tl f="F" t="p" o="80" c="ICE" n="2535"/>
+		<ar pt="2511160118" pp="13" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing"/>
+	</s>
+</timetable>
