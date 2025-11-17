@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Spandau">
+	<s id="856602161279574018-2511172237-1">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62037"/>
+		<dp pt="2511172237" pp="4" l="8" ppth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark"/>
+	</s>
+	<s id="-5377022142405837283-2511171848-6">
+		<tl f="F" t="p" o="80" c="ICE" n="655"/>
+		<ar pt="2511172244" pp="6" ppth="Köln Messe/Deutz|Wuppertal Hbf|Hagen Hbf|Bielefeld Hbf|Hannover Hbf"/>
+		<dp pt="2511172246" pp="6" hi="1" ppth="Berlin Hbf"/>
+	</s>
+	<s id="1663571162758413231-2511172157-3">
+		<tl f="N" t="p" o="800158" c="RE" n="3183"/>
+		<ar pt="2511172207" pp="3" l="4" ppth="Berlin Hbf|Berlin Jungfernheide"/>
+		<dp pt="2511172209" pp="3" l="4" ppth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="4447890004106418758-2511171851-11">
+		<tl f="F" t="p" o="80" c="ICE" n="645"/>
+		<ar pt="2511172258" pp="5" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf"/>
+		<dp pt="2511172300" pp="5" ppth="Berlin Hbf"/>
+	</s>
+	<s id="3499338043235512572-2511171937-5">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2511172157" pp="5" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel"/>
+		<dp pt="2511172200" pp="5" ppth="Berlin Hbf"/>
+	</s>
+	<s id="8544667718146084210-2511171413-14">
+		<tl f="F" t="p" o="80" c="ICE" n="5326"/>
+		<ar pt="2511172217" pp="6" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf"/>
+		<dp pt="2511172227" pp="6" ppth="Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-2226467865786714148-2511172238-2">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2511172247" pp="3" ppth="Berlin Hbf"/>
+		<dp pt="2511172249" pp="3" ppth="Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="450159185692254127-2511172206-8">
+		<tl f="N" t="p" o="800158" c="RE" n="3162"/>
+		<ar pt="2511172250" pp="6" l="4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2511172252" pp="6" l="4" ppth="Berlin Jungfernheide|Berlin Hbf"/>
+	</s>
+	<s id="-7968028347449557547-2511171751-11">
+		<tl f="F" t="p" o="80" c="ICE" n="2515"/>
+		<ar pt="2511172208" pp="5" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Stendal Hbf"/>
+		<dp pt="2511172210" pp="5" ppth="Berlin Hbf"/>
+	</s>
+	<s id="813620029826564896-2511172207-4">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62034"/>
+		<ar pt="2511172221" pp="5" l="8" ppth="Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+	</s>
+</timetable>
