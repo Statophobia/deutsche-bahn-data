@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="-3300710837786471539-2511190024-7">
+		<tl t="p" o="NX" c="Bus" n="1001"/>
+		<ar pt="2511190142" pp="" l="RE1" ppth="Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge"/>
+	</s>
+	<s id="-6725426308915019299-2511190015-13">
+		<tl f="N" t="p" o="R2RB" c="RB" n="90044"/>
+		<ar pt="2511190108" pp="2" l="89" ppth="Paderborn Hbf|Scharmede|Salzkotten|Geseke|Ehringhausen(Kr Lippstadt)|Dedinghausen|Lippstadt|Bad Sassendorf|Soest|Borgeln|Welver|Hamm-Westtünnen"/>
+		<dp pt="2511190110" pp="2" l="89" ppth="Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-3244872677174988257-2511182305-8">
+		<tl t="p" o="NX" c="Bus" n="624"/>
+		<ar pt="2511190117" pp="" l="RE6" ppth="Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+	</s>
+	<s id="8850452489523868017-2511182102-9">
+		<tl f="F" t="p" o="80" c="ICE" n="100"/>
+		<ar pt="2511190103" pp="9" ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf"/>
+		<dp pt="2511190105" pp="9" ppth="Gütersloh Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Stendal Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>

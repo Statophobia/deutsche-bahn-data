@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Halle(Saale)Hbf">
+	<s id="1421774127091685809-2511190040-12">
+		<tl f="S" t="p" o="AMS" c="S" n="74799"/>
+		<ar pt="2511190113" pp="4 D-F" l="7" ppth="Lutherstadt Eisleben|Röblingen am See|Amsdorf|Wansleben am See|Teutschenthal|Teutschenthal Ost|Zscherben|Angersdorf|Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten"/>
+	</s>
+	<s id="4738666146360761718-2511190051-7">
+		<tl f="S" t="p" o="800486" c="S" n="91486"/>
+		<ar pt="2511190110" pp="2" l="3" ppth="Schkeuditz|Schkeuditz West|Großkugel|Gröbers|Dieskau|Halle Messe"/>
+		<dp pt="2511190126" pp="2" l="3" ppth="Halle Rosengarten|Halle-Silberhöhe|Halle Südstadt|Halle Zscherbener Straße|Halle-Neustadt|Halle-Nietleben"/>
+	</s>
+	<s id="-4808962324871641091-2511190135-1">
+		<tl f="S" t="p" o="800486" c="S" n="91542"/>
+		<dp pt="2511190135" pp="8" l="3" ppth="Halle Messe|Dieskau|Gröbers|Großkugel|Schkeuditz West|Schkeuditz"/>
+	</s>
+	<s id="2450933052311477944-2511182338-12">
+		<tl t="p" o="RSMD" c="Bus" n="11721"/>
+		<ar pt="2511190133" pp="" l="RE4" ppth="Aschersleben|Drohndorf-Mehringen|Freckleben|Sandersleben(Anh)|Belleben|Könnern|Domnitz(Saalkr)|Nauendorf(Saalkr)|Wallwitz(Saalkr)|Teicha|Halle-Trotha"/>
+	</s>
+	<s id="6565901499507191012-2511182020-10">
+		<tl f="F" t="p" o="80" c="IC" n="495"/>
+		<ar pt="2511190056" pp="7" ppth="Rostock Hbf|Waren(Müritz)|Neustrelitz Hbf|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf|Dessau Hbf|Bitterfeld|Leipzig Hbf"/>
+		<dp pt="2511190110" pp="7" ppth="Naumburg(Saale)Hbf|Jena Paradies|Jena-Göschwitz|Saalfeld(Saale)|Lichtenfels|Bamberg|Erlangen|Fürth(Bay)Hbf|Nürnberg Hbf|Regensburg Hbf|Straubing|Plattling|Passau Hbf|Schärding|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+</timetable>

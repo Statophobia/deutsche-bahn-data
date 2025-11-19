@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Fürth(Bay)Hbf">
+	<s id="7939097330733785146-2511190007-17">
+		<tl f="S" t="p" o="800721" c="S" n="39217"/>
+		<ar pt="2511190059" pp="21" l="1" ppth="Bamberg|Strullendorf|Hirschaid|Buttenheim|Eggolsheim|Forchheim Nord|Forchheim(Oberfr)|Kersbach|Baiersdorf|Bubenreuth|Erlangen|Erlangen Paul-Gossen-Straße|Erlangen-Bruck|Eltersdorf|Vach|Fürth-Klinikum"/>
+		<dp pt="2511190100" pp="21" l="1" ppth="Nürnberg Hbf|Nürnberg-Dürrenhof|Nürnberg-Gleißhammer|Nürnberg-Dutzendteich|Nürnberg Frankenstadion|Fischbach(Nürnberg)|Feucht|Feucht Ost|Ochenbruck|Mimberg|Burgthann|Oberferrieden|Postbauer-Heng|Pölling|Neumarkt(Oberpf)"/>
+	</s>
+	<s id="-6044455675225227410-2511190056-2">
+		<tl t="p" o="B7" c="Bus" n="39217"/>
+		<ar pt="2511190109" pp="" l="EV" ppth="Vach"/>
+		<dp pt="2511190109" pp="" l="EV" ppth="Nürnberg Rothenburger Str.|Nürnberg-Steinbühl|Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang)"/>
+	</s>
+	<s id="2007806290234315883-2511190055-4">
+		<tl t="p" o="B7" c="Bus" n="39220"/>
+		<ar pt="2511190114" pp="" l="EV" ppth="Nürnberg Hbf (Nelson-Mandela-Platz/Südausgang)|Nürnberg-Steinbühl|Nürnberg Rothenburger Str."/>
+		<dp pt="2511190114" pp="" l="EV" ppth="Vach"/>
+	</s>
+</timetable>
