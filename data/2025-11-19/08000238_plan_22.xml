@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-5776617363706178690-2511192157-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82141"/>
+		<ar pt="2511192233" pp="1" l="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)"/>
+		<dp pt="2511192234" pp="1" l="RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="3845640765503284488-2511192038-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1734"/>
+		<ar pt="2511192241" pp="2" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel"/>
+		<dp pt="2511192243" pp="2" ppth="Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-4716448794900451059-2511192133-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81641"/>
+		<ar pt="2511192223" pp="6" l="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-7193636000516531658-2511192201-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82140"/>
+		<ar pt="2511192224" pp="3" l="RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2511192228" pp="3" l="RE3" ppth="Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-8941932149309778658-2511191723-9">
+		<tl f="F" t="p" o="80" c="ICE" n="572"/>
+		<ar pt="2511192212" pp="2" ppth="Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+		<dp pt="2511192214" pp="2" ppth="Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="3655846017428359643-2511192232-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81640"/>
+		<dp pt="2511192232" pp="3" l="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="6199159415435977881-2511192201-3">
+		<tl f="D" t="p" o="X1" c="erx" n="83885"/>
+		<ar pt="2511192215" pp="5" l="RE83" ppth="Lauenburg(Elbe)|Echem"/>
+	</s>
+	<s id="4959401606751256562-2511191558-11">
+		<tl f="F" t="p" o="80" c="ICE" n="1204"/>
+		<ar pt="2511192158" pp="2" ppth="München Hbf|Augsburg Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Uelzen"/>
+		<dp pt="2511192200" pp="2" ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+</timetable>
