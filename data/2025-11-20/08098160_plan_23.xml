@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="5267890398427216546-2511202255-4">
+		<tl t="p" o="800165" c="FEX" n="19874"/>
+		<ar pt="2511202336" pp="6" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-563668382363764680-2511202313-3">
+		<tl f="N" t="p" o="800158" c="RE" n="3319"/>
+		<ar pt="2511202332" pp="1" l="3" ppth="Bernau(b Berlin)|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-5498545633508872468-2511202333-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3358"/>
+		<dp pt="2511202333" pp="5" l="3" ppth="Berlin Gesundbrunnen|Bernau(b Berlin)"/>
+	</s>
+	<s id="8357393075483600022-2511202321-1">
+		<tl t="p" o="800165" c="FEX" n="19881"/>
+		<dp pt="2511202321" pp="6" ppth="Berlin Gesundbrunnen|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="7467521013036480670-2511202349-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18636"/>
+		<dp pt="2511202349" pp="8" l="14" ppth="Berlin Jungfernheide|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark"/>
+	</s>
+	<s id="7384692404571698650-2511202238-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18635"/>
+		<ar pt="2511202309" pp="8" l="14" ppth="Wustermark|Dallgow-Döberitz|Berlin Jungfernheide"/>
+	</s>
+	<s id="6524097521449315873-2511202037-11">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2511202310" pp="4" l="5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-7834030075966481511-2511202225-4">
+		<tl t="p" o="800165" c="FEX" n="19872"/>
+		<ar pt="2511202303" pp="6" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-8196009632544207530-2511202035-7">
+		<tl f="F" t="p" o="80" c="ICE" n="807"/>
+		<ar pt="2511202317" pp="1" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau"/>
+	</s>
+</timetable>
