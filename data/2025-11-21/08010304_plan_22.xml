@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<timetable station="Rostock Hbf">
+	<s id="-2690966031654154381-2511212206-10">
+		<tl f="S" t="p" o="800156" c="S" n="93173"/>
+		<ar pt="2511212229" pp="1" l="1" ppth="Warnemünde|Warnemünde Werft|Rostock-Lichtenhagen|Rostock-Lütten Klein|Rostock-Evershagen|Rostock-Marienehe|Rostock-Bramow|Rostock Holbeinplatz|Rostock Parkstraße"/>
+	</s>
+	<s id="-3101208317926086509-2511212208-1">
+		<tl f="N" t="p" o="800155" c="RE" n="4338"/>
+		<dp pt="2511212208" pp="7" l="1" ppth="Schwaan|Bützow|Blankenberg(Meckl)|Ventschow|Bad Kleinen|Schwerin Hbf"/>
+	</s>
+	<s id="14766993646472745-2511212142-16">
+		<tl f="N" t="p" o="800156" c="RB" n="13141"/>
+		<ar pt="2511212251" pp="11" l="11" ppth="Wismar|Hornstorf|Kalsow|Steinhausen-Neuburg|Hagebök|Teschow|Neubukow|Sandhagen(b Bad Dob)|Kröpelin|Reddelich|Bad Doberan|Althof|Parkentin|Groß Schwaß|Rostock Thierfelder Str."/>
+	</s>
+	<s id="6030283274209559700-2511212214-1">
+		<tl f="S" t="p" o="800156" c="S" n="33435"/>
+		<dp pt="2511212214" pp="2" l="2" ppth="Papendorf|Pölchow|Huckstorf|Schwaan|Mistorf|Lüssow(Meckl)|Güstrow"/>
+	</s>
+	<s id="8468253315136880305-2511212236-10">
+		<tl f="S" t="p" o="800156" c="S" n="93175"/>
+		<ar pt="2511212259" pp="1" l="1" ppth="Warnemünde|Warnemünde Werft|Rostock-Lichtenhagen|Rostock-Lütten Klein|Rostock-Evershagen|Rostock-Marienehe|Rostock-Bramow|Rostock Holbeinplatz|Rostock Parkstraße"/>
+	</s>
+	<s id="3376165388111613939-2511212106-6">
+		<tl f="N" t="p" o="800156" c="RE" n="4844"/>
+		<ar pt="2511212224" pp="9" l="50" ppth="Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Güstrow"/>
+	</s>
+	<s id="5229236410641569941-2511212208-1">
+		<tl f="S" t="p" o="800156" c="S" n="93170"/>
+		<dp pt="2511212208" pp="3" l="1" ppth="Rostock Parkstraße|Rostock Holbeinplatz|Rostock-Bramow|Rostock-Marienehe|Rostock-Evershagen|Rostock-Lütten Klein|Rostock-Lichtenhagen|Warnemünde Werft|Warnemünde"/>
+	</s>
+	<s id="5587217687521630638-2511212210-1">
+		<tl f="N" t="p" o="800156" c="RB" n="13144"/>
+		<dp pt="2511212210" pp="9" l="11" tra="-5469441706484903707-2511212138-9" ppth="Rostock Thierfelder Str.|Groß Schwaß|Parkentin|Althof|Bad Doberan|Reddelich|Kröpelin|Sandhagen(b Bad Dob)|Neubukow|Teschow|Hagebök|Steinhausen-Neuburg|Kalsow|Hornstorf|Wismar"/>
+	</s>
+	<s id="2481874842419700991-2511212101-21">
+		<tl f="N" t="p" o="OWRE" c="RE" n="63934"/>
+		<ar pt="2511212255" pp="5" l="9" ppth="Sassnitz|Lancken|Sagard|Lietzow(Rügen)|Bergen auf Rügen|Teschenhagen|Samtens|Rambin(Rügen)|Altefähr|Stralsund Rügendamm|Stralsund Hbf|Stralsund-Grünhufe|Martensdorf|Velgast|Buchenhorst|Altenwillershagen|Ribnitz-Damgarten Ost|Ribnitz-Damgarten West|Gelbensande|Rövershagen"/>
+	</s>
+	<s id="-386743521413871021-2511212212-1">
+		<tl f="N" t="p" o="800156" c="RB" n="13255"/>
+		<dp pt="2511212212" pp="4" l="12" ppth="Rostock-Kassebohm|Bentwisch|Mönchhagen|Rövershagen Karls Erlebnisdorf|Rövershagen|Rostock-Torfbrücke|Graal-Müritz Koppelweg|Graal-Müritz"/>
+	</s>
+	<s id="5411224954111298936-2511212203-6">
+		<tl f="N" t="p" o="800155" c="RE" n="4319"/>
+		<ar pt="2511212250" pp="7" l="1" ppth="Bad Kleinen|Ventschow|Blankenberg(Meckl)|Bützow|Schwaan"/>
+	</s>
+	<s id="-5469441706484903707-2511212138-9">
+		<tl f="N" t="p" o="800156" c="RB" n="13254"/>
+		<ar pt="2511212206" pp="4" l="12" tra="5587217687521630638-2511212210-1" ppth="Graal-Müritz|Graal-Müritz Koppelweg|Rostock-Torfbrücke|Rövershagen|Rövershagen Karls Erlebnisdorf|Mönchhagen|Bentwisch|Rostock-Kassebohm"/>
+	</s>
+	<s id="-1786707360445369483-2511212238-1">
+		<tl f="S" t="p" o="800156" c="S" n="93172"/>
+		<dp pt="2511212238" pp="1" l="1" ppth="Rostock Parkstraße|Rostock Holbeinplatz|Rostock-Bramow|Rostock-Marienehe|Rostock-Evershagen|Rostock-Lütten Klein|Rostock-Lichtenhagen|Warnemünde Werft|Warnemünde"/>
+	</s>
+	<s id="-8894186705795853121-2511212214-8">
+		<tl f="S" t="p" o="800156" c="S" n="33434"/>
+		<ar pt="2511212244" pp="4" l="2" ppth="Güstrow|Lüssow(Meckl)|Mistorf|Schwaan|Huckstorf|Pölchow|Papendorf"/>
+	</s>
+</timetable>

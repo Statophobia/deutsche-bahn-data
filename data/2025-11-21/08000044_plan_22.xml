@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="-4775919377312079274-2511211906-5">
+		<tl t="p" o="81" c="NJ" n="40425"/>
+		<ar pt="2511212211" pp="3" ppth="Bruxelles Midi|Bruxelles-Nord|Liège-Guillemins|Aachen Hbf"/>
+		<dp pt="2511212213" pp="3" ppth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|München Ost|Rosenheim|Freilassing|Salzburg Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="-3254877819701636265-2511212205-6">
+		<tl f="S" t="p" o="800352" c="S" n="32405"/>
+		<ar pt="2511212219" pp="5" l="23" ppth="Alfter-Witterschlick|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße|Bonn-Endenich Nord"/>
+	</s>
+	<s id="-5851721557238592488-2511211731-4">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2511212236" pp="3" hi="1" wings="7582314568044505717-2511211731" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal"/>
+		<dp pt="2511212238" pp="3" wings="7582314568044505717-2511211731" ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-4989882928702630258-2511211906-5">
+		<tl t="p" o="88" c="NJ" n="479"/>
+		<ar pt="2511212211" pp="3" wings="-4775919377312079274-2511211906" ppth="Bruxelles Midi|Bruxelles-Nord|Liège-Guillemins|Aachen Hbf"/>
+		<dp pt="2511212213" pp="3" wings="-4775919377312079274-2511211906" ppth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf"/>
+	</s>
+	<s id="8622539657083888300-2511212210-1">
+		<tl f="S" t="p" o="800352" c="S" n="32406"/>
+		<dp pt="2511212210" pp="5" l="23" ppth="Bonn-Endenich Nord|Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Alfter-Witterschlick"/>
+	</s>
+	<s id="2502816709988337202-2511212240-1">
+		<tl f="S" t="p" o="800352" c="S" n="32408"/>
+		<dp pt="2511212240" pp="5" l="23" ppth="Bonn-Endenich Nord|Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Alfter-Witterschlick"/>
+	</s>
+	<s id="-6306560437418987515-2511212235-6">
+		<tl f="S" t="p" o="800352" c="S" n="32407"/>
+		<ar pt="2511212249" pp="5" l="23" ppth="Alfter-Witterschlick|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße|Bonn-Endenich Nord"/>
+	</s>
+	<s id="7582314568044505717-2511211731-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2511212236" pp="3" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal"/>
+		<dp pt="2511212238" pp="3" ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>
