@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="16359501051817880-2511210331-1">
+		<tl t="p" o="NX" c="Bus" n="1611"/>
+		<dp pt="2511210331" pp="" l="RE1" ppth="Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="4415208381696890571-2511210135-5">
+		<tl t="p" o="NX" c="Bus" n="1606"/>
+		<ar pt="2511210301" pp="" l="RE6" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen"/>
+	</s>
+	<s id="-5498355374114135391-2511210222-2">
+		<tl t="p" o="NX" c="Bus" n="6908"/>
+		<ar pt="2511210301" pp="" l="RE6X" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="-7077376547267783966-2511210216-26">
+		<tl f="S" t="p" o="800354" c="S" n="31846"/>
+		<ar pt="2511210330" pp="12" l="8" tra="-4964921095657007412-2511210335-1" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen|Wuppertal Hbf|Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern"/>
+	</s>
+	<s id="-5050799102430324772-2511210159-13">
+		<tl t="p" o="B2" c="Bus" n="1000"/>
+		<ar pt="2511210336" pp="" l="S1" ppth="Mülheim(Ruhr)Styrum|Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+	<s id="-2850536344288765402-2511210245-8">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26848"/>
+		<ar pt="2511210338" pp="16" l="1" ppth="Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2511210340" pp="16" l="1" ppth="Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="-8501990657155429671-2511210332-1">
+		<tl t="p" o="NX" c="Bus" n="6913"/>
+		<dp pt="2511210332" pp="" l="RE6X" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="1471792840284221084-2511210205-5">
+		<tl t="p" o="NX" c="Bus" n="1608"/>
+		<ar pt="2511210331" pp="" l="RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen"/>
+	</s>
+	<s id="3646559143861574448-2511210313-1">
+		<tl f="N" t="p" o="NXRE" c="RE" n="89746"/>
+		<dp pt="2511210313" pp="4" l="6" ppth="Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz Gl.11-12|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="-4964921095657007412-2511210335-1">
+		<tl f="S" t="p" o="800354" c="S" n="31848"/>
+		<dp pt="2511210335" pp="12" l="8" tra="-7077376547267783966-2511210216-26" ppth="Düsseldorf Flughafen Terminal"/>
+	</s>
+	<s id="8532425271239439457-2511210350-1">
+		<tl t="p" o="B2" c="Bus" n="1007"/>
+		<dp pt="2511210350" pp="" l="S1" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk|Duisburg Hbf|Mülheim(Ruhr)Styrum"/>
+	</s>
+</timetable>
