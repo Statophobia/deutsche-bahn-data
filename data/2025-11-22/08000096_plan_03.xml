@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Stuttgart Hbf">
+	<s id="6993503511622437142-2511220321-7">
+		<tl t="p" o="SBSMEX" c="MEX" n="19201"/>
+		<ar pt="2511220355" pp="15" l="12" ppth="Lauffen(Neckar)|Kirchheim(Neckar)|Walheim(Württ)|Besigheim|Bietigheim-Bissingen|Ludwigsburg"/>
+		<dp pt="2511220408" pp="15" l="12" ppth="Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Wendlingen(Neckar)|Oberboihingen|Nürtingen|Bempflingen|Metzingen(Württ)|Reutlingen Hbf|Tübingen Hbf"/>
+	</s>
+	<s id="5776959213327031859-2511220320-1">
+		<tl t="p" o="GAMEX" c="MEX" n="19403"/>
+		<dp pt="2511220320" pp="15" l="13" ppth="Stuttgart-Bad Cannstatt|Waiblingen|Schorndorf|Urbach(b Schorndorf)|Plüderhausen|Waldhausen(b Schorndorf)|Lorch(Württ)|Schwäbisch Gmünd|Böbingen(Rems)|Mögglingen(Gmünd)|Aalen Hbf"/>
+	</s>
+	<s id="5955490987967094168-2511220237-12">
+		<tl t="p" o="GAMEX" c="MEX" n="19402"/>
+		<ar pt="2511220339" pp="11" l="13" ppth="Aalen Hbf|Mögglingen(Gmünd)|Böbingen(Rems)|Schwäbisch Gmünd|Lorch(Württ)|Waldhausen(b Schorndorf)|Plüderhausen|Urbach(b Schorndorf)|Schorndorf|Waiblingen|Stuttgart-Bad Cannstatt"/>
+	</s>
+	<s id="7474414276230536927-2511211838-18">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2511220333" pp="16" ppth="Kiel Hbf|Neumünster|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Dortmund Hbf|Gelsenkirchen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Heidelberg Hbf"/>
+		<dp pt="2511220339" pp="16" ppth="Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="7249471960178953233-2511220342-1">
+		<tl t="p" o="GAMEX" c="MEX" n="63655"/>
+		<dp pt="2511220342" pp="13" l="16" ppth="Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen"/>
+	</s>
+	<s id="6063769470127841321-2511220257-4">
+		<tl t="p" o="GAMEX" c="MEX" n="63652"/>
+		<ar pt="2511220316" pp="13" l="16" ppth="Plochingen|Esslingen(Neckar)|Stuttgart-Bad Cannstatt"/>
+	</s>
+</timetable>

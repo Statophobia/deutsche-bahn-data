@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Bremen Hbf">
+	<s id="5142071021298782760-2511220135-8">
+		<tl f="D" t="p" o="N1" c="NWB" n="83181"/>
+		<ar pt="2511220154" pp="5" l="RS1" ppth="Bremen-Vegesack|Bremen-Schönebeck|Bremen-St Magnus|Bremen-Lesum|Bremen-Burg|Bremen-Oslebshausen|Bremen-Walle"/>
+	</s>
+	<s id="-4040939006420560852-2511220114-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81946"/>
+		<dp pt="2511220114" pp="9" l="RB41" ppth="Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-8414117429956024836-2511220056-12">
+		<tl f="D" t="p" o="N1" c="NWB" n="83251"/>
+		<ar pt="2511220149" pp="6" l="RS2" ppth="Bremerhaven-Lehe|Bremerhaven Hbf|Bremerhaven-Wulsdorf|Loxstedt|Lunestedt|Stubben|Lübberstedt|Oldenbüttel|Osterholz-Scharmbeck|Ritterhude|Bremen-Burg"/>
+	</s>
+	<s id="-4260948404223494624-2511212337-15">
+		<tl f="D" t="p" o="R1" c="ME" n="81945"/>
+		<ar pt="2511220107" pp="9" l="RB41" ppth="Hamburg Hbf|Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland"/>
+	</s>
+	<s id="1000529086750010703-2511212340-12">
+		<tl f="N" t="p" o="800295" c="RE" n="4444"/>
+		<ar pt="2511220101" pp="9" l="1" ppth="Neustadt am Rübenberge|Nienburg(Weser)|Eystrup|Dörverden|Verden(Aller)|Langwedel|Etelsen|Baden(Verden)|Achim|Bremen-Mahndorf|Bremen-Sebaldsbrück"/>
+	</s>
+	<s id="-7435298694842252862-2511220111-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="83259"/>
+		<dp pt="2511220111" pp="6" l="RS2" ppth="Bremen-Hemelingen|Dreye|Kirchweyhe|Barrien|Syke|Bramstedt(b Syke)|Bassum|Twistringen"/>
+	</s>
+	<s id="-8151640942735509727-2511220040-12">
+		<tl f="N" t="p" o="800295" c="RE" n="4440"/>
+		<ar pt="2511220147" pp="7" l="8" ppth="Neustadt am Rübenberge|Nienburg(Weser)|Eystrup|Dörverden|Verden(Aller)|Langwedel|Etelsen|Baden(Verden)|Achim|Bremen-Mahndorf|Bremen-Sebaldsbrück"/>
+	</s>
+	<s id="561851595999828568-2511220112-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="83238"/>
+		<dp pt="2511220112" pp="8" l="RS2" ppth="Bremen-Burg|Ritterhude|Osterholz-Scharmbeck|Oldenbüttel|Lübberstedt|Stubben|Lunestedt|Loxstedt|Bremerhaven-Wulsdorf|Bremerhaven Hbf|Bremerhaven-Lehe"/>
+	</s>
+	<s id="-1252051744963861539-2511220119-9">
+		<tl f="D" t="p" o="N1" c="NWB" n="83252"/>
+		<ar pt="2511220152" pp="8" l="RS2" ppth="Twistringen|Bassum|Bramstedt(b Syke)|Syke|Barrien|Kirchweyhe|Dreye|Bremen-Hemelingen"/>
+	</s>
+</timetable>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Dresden-Neustadt">
+	<s id="-3332418250859455351-2511220105-4">
+		<tl f="S" t="p" o="800469" c="S" n="31788"/>
+		<ar pt="2511220111" pp="1" l="1" ppth="Dresden Hbf|Dresden Freiberger Straße|Dresden Mitte"/>
+		<dp pt="2511220112" pp="1" l="1" ppth="Dresden Bischofsplatz|Dresden-Pieschen|Dresden-Trachau|Radebeul Ost|Radebeul-Weintraube|Radebeul-Kötzschenbroda|Radebeul-Zitzschewig|Coswig(b Dresden)|Neusörnewitz|Meißen|Meißen Altstadt|Meißen Triebischtal"/>
+	</s>
+	<s id="5307460386352391598-2511220137-1">
+		<tl t="p" o="LD" c="Bus" n="41536"/>
+		<dp pt="2511220137" pp="" l="RB60" ppth="Dresden Mitte|Dresden Hbf (Strehlener Str.)"/>
+	</s>
+	<s id="3239266885751697106-2511220113-1">
+		<tl t="p" o="LD" c="TL" n="76569"/>
+		<dp pt="2511220113" pp="3" l="RB60" ppth="Dresden Industriegelände|Dresden-Klotzsche|Langebrück(Sachs)|Radeberg|Arnsdorf(Dresden)|Großharthau|Weickersdorf(Sachs)|Bischofswerda|Demitz-Thumitz|Seitschen|Bautzen|Kubschütz|Pommritz|Breitendorf|Löbau(Sachs)|Zoblitz|Reichenbach(Oberlausitz)|Gersdorf(Görlitz)|Görlitz-Rauschwalde|Görlitz"/>
+	</s>
+	<s id="6534782227848371522-2511220107-1">
+		<tl t="p" o="SD" c="Bus" n="16539"/>
+		<dp pt="2511220107" pp="" l="RE50" ppth="Dresden Mitte|Dresden Freiberger Straße|Dresden Hbf"/>
+	</s>
+	<s id="5027110538529933446-2511220041-6">
+		<tl f="N" t="p" o="800456" c="RE" n="92139"/>
+		<ar pt="2511220107" pp="7" l="50" ppth="Priestewitz|Niederau|Weinböhla Hp|Coswig(b Dresden)|Radebeul Ost"/>
+		<dp pt="2511220108" pp="7" l="50" ppth="Dresden Mitte"/>
+	</s>
+	<s id="-2413857952283594881-2511220100-3">
+		<tl t="p" o="LD" c="Bus" n="40569"/>
+		<ar pt="2511220114" pp="" l="RB60" ppth="Dresden Hbf (Strehlener Str.)|Dresden Mitte"/>
+	</s>
+</timetable>
