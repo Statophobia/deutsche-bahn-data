@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Landshut(Bay)Hbf">
+	<s id="-4907780619215264724-2511232119-8">
+		<tl f="D" t="p" o="S9" c="ag" n="84105"/>
+		<ar pt="2511232203" pp="6" l="RE22" pde="Nürnberg Hbf" ppth="Regensburg Hbf|Obertraubling|Köfering|Hagelstadt|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+		<dp pt="2511232205" pp="6" l="RE22" ppth="Gündlkofen|Bruckberg|Moosburg|Langenbach(Oberbay)|Marzling|Freising"/>
+	</s>
+	<s id="4260306058636245964-2511232124-4">
+		<tl f="N" t="p" o="800767" c="RE" n="4088"/>
+		<ar pt="2511232212" pp="4" l="3" ppth="München Hbf|Freising|Moosburg"/>
+		<dp pt="2511232215" pp="4" l="3" ppth="Wörth(Isar)|Dingolfing|Landau(Isar)|Wallersdorf|Plattling|Osterhofen(Nby)|Vilshofen(Niederbay)|Passau Hbf"/>
+	</s>
+	<s id="-4086153245390082975-2511232217-1">
+		<tl t="p" o="8013D" c="Bus" n="45139"/>
+		<dp pt="2511232217" pp="" l="RB45" ppth="Landshut Kupfereck|Geisenhausen|Vilsbiburg|Aich(Niederbay)|Egglkofen|Neumarkt-St Veit"/>
+	</s>
+	<s id="1918024975349451219-2511232023-7">
+		<tl f="D" t="p" o="A8N" c="ALX" n="364"/>
+		<ar pt="2511232230" pp="6" l="RE25" ppth="Furth im Wald|Cham(Oberpf)|Roding|Schwandorf|Regensburg Hbf|Neufahrn(Niederbay)"/>
+	</s>
+	<s id="1184840484151184617-2511232150-5">
+		<tl t="p" o="8013D" c="Bus" n="45140"/>
+		<ar pt="2511232252" pp="" l="RB45" ppth="Neumarkt-St Veit|Vilsbiburg|Geisenhausen|Landshut Kupfereck"/>
+	</s>
+	<s id="8983583973562634093-2511232144-4">
+		<tl f="N" t="p" o="8007H3" c="RE" n="4868"/>
+		<ar pt="2511232228" pp="5" l="2" ppth="München Hbf|Freising|Moosburg"/>
+		<dp pt="2511232230" pp="5" l="2" ppth="Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Regensburg Hbf|Regenstauf|Maxhütte-Haidhof|Schwandorf"/>
+	</s>
+	<s id="6876139777854495145-2511232126-9">
+		<tl f="N" t="p" o="800767" c="RE" n="4089"/>
+		<ar pt="2511232243" pp="6" l="3" ppth="Passau Hbf|Vilshofen(Niederbay)|Osterhofen(Nby)|Plattling|Wallersdorf|Landau(Isar)|Dingolfing|Wörth(Isar)"/>
+		<dp pt="2511232249" pp="6" l="3" ppth="Moosburg|Freising|München Hbf"/>
+	</s>
+	<s id="-1099708991497432881-2511232221-7">
+		<tl f="N" t="p" o="800767" c="RE" n="57940"/>
+		<ar pt="2511232250" pp="5" l="22" ppth="Freising|Marzling|Langenbach(Oberbay)|Moosburg|Bruckberg|Gündlkofen"/>
+		<dp pt="2511232253" pp="5" l="22" ppth="Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Hagelstadt|Köfering|Obertraubling|Regensburg Hbf"/>
+	</s>
+</timetable>
