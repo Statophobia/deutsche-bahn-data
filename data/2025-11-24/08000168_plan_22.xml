@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Uelzen">
+	<s id="-5776617363706178690-2511242157-7">
+		<tl f="D" t="p" o="R1" c="ME" n="82141"/>
+		<ar pt="2511242256" pp="103" l="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen"/>
+	</s>
+	<s id="-7147085789975570280-2511242125-7">
+		<tl f="N" t="p" o="RSNM" c="RB" n="16367"/>
+		<ar pt="2511242252" pp="301" l="37" ppth="Langwedel|Visselhövede|Soltau(Han)|Munster(Örtze)|Brockhöfe|Ebstorf(Uelzen)"/>
+	</s>
+	<s id="-5513036863442287046-2511242140-9">
+		<tl f="D" t="p" o="R1" c="ME" n="82852"/>
+		<ar pt="2511242239" pp="103" l="RE3" ppth="Hannover Hbf|Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg"/>
+	</s>
+	<s id="4966825592039783790-2511242109-5">
+		<tl f="F" t="p" o="80" c="ICE" n="907"/>
+		<ar pt="2511242225" pp="101" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg"/>
+		<dp pt="2511242226" pp="101" ppth="Lehrte|Berlin-Spandau|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-7193636000516531658-2511242201-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82140"/>
+		<dp pt="2511242201" pp="103" l="RE3" ppth="Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)|Hamburg-Harburg"/>
+	</s>
+	<s id="4628797216718709444-2511241353-12">
+		<tl f="F" t="p" o="80" c="ICE" n="706"/>
+		<ar pt="2511242229" pp="102" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lehrte"/>
+		<dp pt="2511242231" pp="102" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="9187353809472510297-2511242209-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82889"/>
+		<dp pt="2511242209" pp="301" l="RE3" tra="-4001714976117990774-2511242057-7" ppth="Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+</timetable>
