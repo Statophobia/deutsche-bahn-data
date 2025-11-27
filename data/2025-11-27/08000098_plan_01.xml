@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Essen Hbf">
+	<s id="1816284753626551213-2511270040-5">
+		<tl t="p" o="B2" c="Bus" n="4004"/>
+		<ar pt="2511270141" pp="" l="RB40" ppth="Witten Hbf|Bochum Hbf (Buddenbergplatz)|Wattenscheid|Essen-Kray Süd"/>
+	</s>
+	<s id="5785163184580229254-2511270135-1">
+		<tl f="N" t="p" o="NXRE" c="RE" n="89744"/>
+		<dp pt="2511270135" pp="2" l="6" ppth="Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="4720559371039705295-2511270045-4">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26844"/>
+		<ar pt="2511270107" pp="2" l="1" ppth="Dortmund Hbf|Bochum Hbf|Wattenscheid"/>
+		<dp pt="2511270109" pp="2" l="1" ppth="Mülheim(Ruhr)Hbf|Duisburg Hbf|Opladen|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="2339480746723701155-2511270049-10">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26843"/>
+		<ar pt="2511270150" pp="6" l="1" ppth="Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf"/>
+	</s>
+</timetable>

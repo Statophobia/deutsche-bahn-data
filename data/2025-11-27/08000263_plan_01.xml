@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Münster(Westf)Hbf">
+	<s id="3185778724583504998-2511270105-1">
+		<tl t="p" o="B2" c="Bus" n="248"/>
+		<dp pt="2511270105" pp="" l="RE2" ppth="Münster-Albachten|Senden-Bösensell|Nottuln-Appelhülsen|Buldern|Dülmen"/>
+	</s>
+	<s id="7687861172275387239-2511270100-12">
+		<tl f="N" t="p" o="800349" c="RE" n="10241"/>
+		<ar pt="2511270153" pp="14" l="2" ppth="Wanne-Eickel Hbf|Recklinghausen Süd|Recklinghausen Hbf|Marl-Sinsen|Haltern am See|Sythen|Dülmen|Buldern|Nottuln-Appelhülsen|Senden-Bösensell|Münster-Albachten"/>
+	</s>
+	<s id="2774174590951633862-2511262229-7">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2511270102" pp="3" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf"/>
+		<dp pt="2511270104" pp="3" ppth="Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Neuss Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-5426595157219364285-2511270110-7">
+		<tl f="N" t="p" o="R2RB" c="RB" n="90044"/>
+		<ar pt="2511270137" pp="2 A-C" l="89" ppth="Hamm(Westf)Hbf|Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup"/>
+	</s>
+</timetable>
