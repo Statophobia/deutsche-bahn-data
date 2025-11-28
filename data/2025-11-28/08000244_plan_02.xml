@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<timetable station="Mannheim Hbf">
+	<s id="-344271757147009936-2511271855-5">
+		<tl t="p" o="81" c="NJ" n="40424"/>
+		<ar pt="2511280134" pp="4" hi="1" ppth="Berlin Ostbahnhof|Berlin Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2511280213" pp="4" hi="1" ppth="Strasbourg"/>
+	</s>
+	<s id="8016523767626847908-2511271813-9">
+		<tl t="p" o="81" c="NJ" n="468"/>
+		<ar pt="2511280213" pp="4" hi="1" wings="3178546308999030105-2511271813" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Salzburg Hbf|Freilassing|Rosenheim|München Ost"/>
+		<dp pt="2511280213" pp="4" hi="1" wings="-344271757147009936-2511271855" ppth="Strasbourg"/>
+	</s>
+	<s id="6506105724695131324-2511280257-1">
+		<tl t="p" o="81" c="NJ" n="478"/>
+		<dp pt="2511280257" pp="5" hi="1" wings="3178546308999030105-2511271813" ppth="Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Aachen Hbf|Liège-Guillemins|Bruxelles-Nord|Bruxelles Midi"/>
+	</s>
+	<s id="3178546308999030105-2511271813-9">
+		<tl t="p" o="81" c="NJ" n="40468"/>
+		<ar pt="2511280213" pp="5" hi="1" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Salzburg Hbf|Freilassing|Rosenheim|München Ost"/>
+		<dp pt="2511280257" pp="5" hi="1" ppth="Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Aachen Hbf|Liège-Guillemins|Bruxelles-Nord|Bruxelles Midi"/>
+	</s>
+</timetable>
