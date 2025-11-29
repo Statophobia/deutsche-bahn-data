@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-2226467865786714148-2511282238-9">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2511290156" pp="5" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lehrte|Uelzen|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-4795573960898992874-2511282137-9">
+		<tl f="F" t="p" o="80" c="ICE" n="1712"/>
+		<ar pt="2511290115" pp="5" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lehrte|Uelzen|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="600924910572679442-2511290107-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81848"/>
+		<dp pt="2511290107" pp="9" l="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="-5030805675749971422-2511290107-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81748"/>
+		<dp pt="2511290107" pp="9" l="RB71" wings="600924910572679442-2511290107" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+</timetable>
