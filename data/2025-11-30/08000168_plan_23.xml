@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Uelzen">
+	<s id="-5872815922691544938-2511302315-1">
+		<tl t="p" o="R1" c="Bus" n="3242"/>
+		<dp pt="2511302315" pp="" l="RB31" fb="Bus RB31" ppth="Bad Bevensen|Bienenbüttel|Lüneburg"/>
+	</s>
+	<s id="2273731246723666230-2511302302-1">
+		<tl f="N" t="p" o="800489" c="RE" n="16957"/>
+		<dp pt="2511302302" pp="304" l="20" fb="RE 20" ppth="Stederdorf(Kr Uelzen)|Wieren|Soltendieck|Schnega|Salzwedel|Hohenwulsch|Stendal Hbf|Tangerhütte|Wolmirstedt|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="5662018695632707817-2511302309-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82841"/>
+		<dp pt="2511302309" pp="103" l="RE2" fb="ME RE2" ppth="Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="-2167438544370822717-2511302236-4">
+		<tl f="F" t="p" o="80" c="ICE" n="809"/>
+		<ar pt="2511302333" pp="301" fb="ICE 809" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg"/>
+		<dp pt="2511302334" pp="301" fb="ICE 809" ppth="Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="6745484896867284765-2511302104-20">
+		<tl f="D" t="p" o="R1" c="ME" n="82844"/>
+		<ar pt="2511302347" pp="103" l="RE2" fb="ME RE2" ppth="Göttingen|Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln|Elze(Han)|Nordstemmen|Sarstedt|Hannover Hbf|Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg"/>
+	</s>
+	<s id="-1290839640796586839-2511301818-10">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2511302316" pp="301" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle"/>
+		<dp pt="2511302317" pp="301" fb="ICE 782" ppth="Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7597089806492032299-2511302221-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2511302313" pp="101" fb="ICE 1081" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg"/>
+		<dp pt="2511302314" pp="101" fb="ICE 1081" ppth="Celle|Hannover Hbf|Göttingen|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-688237797022921588-2511302307-1">
+		<tl f="N" t="p" o="RSNM" c="RB" n="16368"/>
+		<dp pt="2511302307" pp="301" l="37" fb="RB 37" ppth="Ebstorf(Uelzen)|Brockhöfe|Munster(Örtze)|Soltau(Han)"/>
+	</s>
+</timetable>
