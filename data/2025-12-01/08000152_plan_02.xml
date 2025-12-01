@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="4275385698506401374-2512010209-7">
+		<tl f="S" t="p" o="TDHS" c="S" n="34509"/>
+		<ar pt="2512010226" pp="1" l="5" fb="S 5" ppth="Hannover Flughafen|Langenhagen Pferdemarkt|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="-3637864305538424849-2511302341-3">
+		<tl f="F" t="p" o="80" c="ICE" n="906"/>
+		<ar pt="2512010252" pp="12" fb="ICE 906" ppth="Berlin Hbf|Berlin-Spandau"/>
+		<dp pt="2512010300" pp="12" fb="ICE 906" ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-7943794576343768944-2512010234-1">
+		<tl f="S" t="p" o="TDHS" c="S" n="34510"/>
+		<dp pt="2512010234" pp="2" l="5" fb="S 5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Langenhagen Pferdemarkt|Hannover Flughafen"/>
+	</s>
+	<s id="4121683295209577191-2511302315-7">
+		<tl f="F" t="p" o="80" c="ICE" n="271"/>
+		<ar pt="2512010137" pp="13" fb="ICE 271" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf"/>
+		<dp pt="2512010210" pp="13" fb="ICE 271" ppth="Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+	</s>
+	<s id="8850452489523868017-2511302102-16">
+		<tl f="F" t="p" o="80" c="ICE" n="100"/>
+		<ar pt="2512010223" pp="9" fb="ICE 100" ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Minden(Westf)"/>
+		<dp pt="2512010240" pp="9" fb="ICE 100" ppth="Braunschweig Hbf|Stendal Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>

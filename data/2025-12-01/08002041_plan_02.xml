@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Süd">
+	<s id="-5591597380485360579-2511301934-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2512010209" pp="8" fb="IC 60470" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2512010213" pp="8" fb="IC 60470" ppth="Hanau Hbf|Göttingen|Hannover Hbf|Nienburg(Weser)|Verden(Aller)|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="1003446772902483359-2511301934-11">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2512010209" pp="8" fb="NJ 470" hi="1" wings="-5591597380485360579-2511301934" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2512010213" pp="8" fb="NJ 470" hi="1" wings="-5591597380485360579-2511301934" ppth="Hanau Hbf|Göttingen|Hannover Hbf|Nienburg(Weser)|Verden(Aller)|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-2807885641046949287-2512010000-14">
+		<tl t="p" o="B7" c="Bus" n="4636"/>
+		<ar pt="2512010219" pp="" l="EV" fb="Bus EV" ppth="Aschaffenburg Hbf|Kleinostheim|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)|Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost"/>
+	</s>
+</timetable>
