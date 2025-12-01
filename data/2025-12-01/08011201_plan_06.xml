@@ -1,5 +1,9 @@
 <?xml version="1.0" ?>
 <timetable station="Flughafen BER">
+	<s id="-1419164028204496811-2512010623-1">
+		<tl t="p" o="800165" c="FEX" n="19808"/>
+		<dp pt="2512010623" pp="3 D-G" fb="FEX 19808" ppth="Berlin Ostkreuz|Berlin Gesundbrunnen|Berlin Hbf"/>
+	</s>
 	<s id="-1041981254056107115-2512010644-1">
 		<tl f="N" t="p" o="OWRE" c="RE" n="62007"/>
 		<dp pt="2512010644" pp="2" l="8" fb="RE 8" ppth="Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal"/>
@@ -22,14 +26,6 @@
 		<ar pt="2512010621" pp="4" l="22" fb="RB 22" ppth="Königs Wusterhausen"/>
 		<dp pt="2512010624" pp="4" l="22" fb="RB 22" ppth="Ludwigsfelde-Struveshof|Saarmund|Potsdam Pirschheide|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Potsdam Griebnitzsee"/>
 	</s>
-	<s id="816544395317894188-2512010631-1">
-		<tl f="N" t="p" o="800165" c="RB" n="18347"/>
-		<dp pt="2512010631" pp="3 A-D" l="24" fb="RB 24" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf"/>
-	</s>
-	<s id="-1419164028204496811-2512010623-1">
-		<tl t="p" o="800165" c="FEX" n="19808"/>
-		<dp pt="2512010623" pp="3 D-G" fb="FEX 19808" ppth="Berlin Ostkreuz|Berlin Gesundbrunnen|Berlin Hbf"/>
-	</s>
 	<s id="3210654541221591362-2512010521-4">
 		<tl t="p" o="800165" c="FEX" n="19811"/>
 		<ar pt="2512010602" pp="3 D-G" fb="FEX 19811" ppth="Berlin Hbf|Berlin Gesundbrunnen|Berlin Ostkreuz"/>
@@ -37,6 +33,10 @@
 	<s id="-3083626524373388358-2512010655-1">
 		<tl t="p" o="800165" c="FEX" n="19810"/>
 		<dp pt="2512010655" pp="4" fb="FEX 19810" ppth="Berlin Ostkreuz|Berlin Gesundbrunnen|Berlin Hbf"/>
+	</s>
+	<s id="816544395317894188-2512010631-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18347"/>
+		<dp pt="2512010631" pp="3 A-D" l="24" fb="RB 24" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf"/>
 	</s>
 	<s id="-1415362837751121623-2512010608-4">
 		<tl f="N" t="p" o="800165" c="RB" n="18344"/>
