@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="-1218171640323185595-2512012216-12">
+		<tl t="p" o="B2" c="Bus" n="23053"/>
+		<ar pt="2512012349" pp="" l="S23" fb="Bus S23" ppth="Euskirchen|Kuchenheim Markt, Euskirchen|Swisttal-Odendorf|Rheinbach|Meckenheimer Str., Rheinbach|Meckenheim(Bz Köln)|Meckenheim Industriepark|Witterschlick Kirche, Alfter|Impekoven (S), Alfter|Bonn-Duisdorf|Duisdorf Helmholtzstr. Süd, Bonn"/>
+	</s>
+	<s id="-1162286222244718078-2512012348-1">
+		<tl t="p" o="B2" c="Bus" n="23046"/>
+		<dp pt="2512012348" pp="" l="S23" fb="Bus S23" ppth="Duisdorf Helmholtzstr. Süd, Bonn|Bonn-Duisdorf|Impekoven (S), Alfter|Witterschlick Kirche, Alfter|Meckenheim Industriepark|Meckenheim(Bz Köln)|Meckenheimer Str., Rheinbach|Rheinbach|Swisttal-Odendorf|Kuchenheim Markt, Euskirchen|Euskirchen"/>
+	</s>
+	<s id="691925683233734047-2512012215-4">
+		<tl f="F" t="p" o="80" c="IC" n="2344"/>
+		<ar pt="2512012312" pp="3" fb="IC 2344" ppth="Wuppertal Hbf|Solingen Hbf|Köln Hbf"/>
+		<dp pt="2512012314" pp="3" fb="IC 2344" ppth="Remagen|Andernach|Koblenz Hbf"/>
+	</s>
+	<s id="6021928880860139741-2512012318-1">
+		<tl t="p" o="B2" c="Bus" n="23044"/>
+		<dp pt="2512012318" pp="" l="S23" fb="Bus S23" ppth="Duisdorf Helmholtzstr. Süd, Bonn|Bonn-Duisdorf|Impekoven (S), Alfter|Witterschlick Kirche, Alfter|Meckenheim Industriepark|Meckenheim(Bz Köln)|Meckenheimer Str., Rheinbach|Rheinbach|Swisttal-Odendorf|Kuchenheim Markt, Euskirchen|Euskirchen"/>
+	</s>
+	<s id="6791332347191207658-2512012146-12">
+		<tl t="p" o="B2" c="Bus" n="23051"/>
+		<ar pt="2512012319" pp="" l="S23" fb="Bus S23" ppth="Euskirchen|Kuchenheim Markt, Euskirchen|Swisttal-Odendorf|Rheinbach|Meckenheimer Str., Rheinbach|Meckenheim(Bz Köln)|Meckenheim Industriepark|Witterschlick Kirche, Alfter|Impekoven (S), Alfter|Bonn-Duisdorf|Duisdorf Helmholtzstr. Süd, Bonn"/>
+	</s>
+	<s id="-3259619502264666698-2512012216-10">
+		<tl f="N" t="p" o="NXRE" c="RE" n="28538"/>
+		<ar pt="2512012302" pp="1" l="5" fb="RE 5" ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512012304" pp="1" l="5" fb="RE 5" ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+</timetable>

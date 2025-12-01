@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="1787996607404648853-2512012205-1">
+		<tl t="p" o="NWBus" c="Bus" n="35334"/>
+		<dp pt="2512012205" pp="" l="EV" fb="Bus EV" ppth="Sandkrug"/>
+	</s>
+	<s id="3129828108466571485-2512012229-2">
+		<tl t="p" o="NWBus" c="Bus" n="35335"/>
+		<ar pt="2512012251" pp="" l="EV" fb="Bus EV" ppth="Sandkrug"/>
+	</s>
+	<s id="-5300580761425640592-2512012238-1">
+		<tl t="p" o="NWBus" c="Bus" n="53387"/>
+		<dp pt="2512012238" pp="" l="EV" fb="Bus EV" ppth="Wüsting|Hude"/>
+	</s>
+	<s id="-961296889057376582-2512012140-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="34094"/>
+		<ar pt="2512012224" pp="7" l="RE18" fb="NWB RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="2524483095926466995-2512012200-3">
+		<tl t="p" o="NWBus" c="Bus" n="53382"/>
+		<ar pt="2512012233" pp="" l="EV" fb="Bus EV" ppth="Hude|Wüsting"/>
+	</s>
+	<s id="8660282219174274430-2512012236-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="34095"/>
+		<dp pt="2512012236" pp="5" l="RE18" fb="NWB RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="3915801585133935916-2512012039-10">
+		<tl f="N" t="p" o="800295" c="RE" n="4439"/>
+		<ar pt="2512012223" pp="1" l="1" fb="RE 1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+		<dp pt="2512012235" pp="1" l="1" fb="RE 1" ppth="Hude|Delmenhorst|Bremen Hbf|Bremen-Sebaldsbrück|Bremen-Mahndorf|Achim|Baden(Verden)|Etelsen|Langwedel|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Neustadt am Rübenberge|Wunstorf|Hannover Hbf"/>
+	</s>
+	<s id="2961198243726333211-2512012220-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="20147"/>
+		<ar pt="2512012232" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+	</s>
+</timetable>

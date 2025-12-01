@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="-8798616257542130869-2512012038-24">
+		<tl f="N" t="p" o="800158" c="RE" n="3319"/>
+		<ar pt="2512012327" pp="6" l="3" fb="RE 3" ppth="Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)"/>
+		<dp pt="2512012328" pp="6" l="3" fb="RE 3" ppth="Berlin Hbf"/>
+	</s>
+	<s id="5267890398427216546-2512012255-3">
+		<tl t="p" o="800165" c="FEX" n="19874"/>
+		<ar pt="2512012327" pp="7" fb="FEX 19874" ppth="Flughafen BER|Berlin Ostkreuz"/>
+		<dp pt="2512012331" pp="7" fb="FEX 19874" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-4713259397532046404-2512012328-3">
+		<tl t="p" o="800165" c="FEX" n="19876"/>
+		<ar pt="2512012356" pp="7" fb="FEX 19876" ppth="Flughafen BER|Berlin Ostkreuz"/>
+		<dp pt="2512012358" pp="7" fb="FEX 19876" ppth="Berlin Hbf"/>
+	</s>
+	<s id="8357393075483600022-2512012321-2">
+		<tl t="p" o="800165" c="FEX" n="19881"/>
+		<ar pt="2512012326" pp="10" fb="FEX 19881" ppth="Berlin Hbf"/>
+		<dp pt="2512012329" pp="10" fb="FEX 19881" ppth="Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="-5498545633508872468-2512012333-2">
+		<tl f="N" t="p" o="800158" c="RE" n="3358"/>
+		<ar pt="2512012336" pp="9" l="3" fb="RE 3" ppth="Berlin Hbf"/>
+		<dp pt="2512012339" pp="9" l="3" fb="RE 3" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="6524097521449315873-2512012037-10">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2512012304" pp="7" l="5" fb="RE 5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg"/>
+		<dp pt="2512012306" pp="7" l="5" fb="RE 5" ppth="Berlin Hbf"/>
+	</s>
+</timetable>
