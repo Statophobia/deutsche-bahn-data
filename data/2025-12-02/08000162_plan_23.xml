@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<timetable station="Herford">
+	<s id="8341458247546975375-2512022134-20">
+		<tl f="N" t="p" o="R2RB" c="RB" n="20387"/>
+		<ar pt="2512022327" pp="3" l="61" fb="RB 61" ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
+		<dp pt="2512022336" pp="3" l="61" fb="RB 61" ppth="Brake(b Bielefeld)|Bielefeld Hbf"/>
+	</s>
+	<s id="-8322904132587569072-2512022312-3">
+		<tl f="N" t="p" o="R2RB" c="RB" n="20390"/>
+		<ar pt="2512022323" pp="1" l="61" fb="RB 61" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2512022332" pp="1" l="61" fb="RB 61" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bruchmühlen|Melle|Westerhausen|Wissingen|Osnabrück Hbf"/>
+	</s>
+	<s id="-253616300372433473-2512022210-6">
+		<tl t="p" o="R2" c="Bus" n="7246"/>
+		<ar pt="2512022318" pp="" l="RB72" fb="Bus RB72" ppth="Detmold|Lage(Lippe)|Bad Salzuflen-Sylbach|Schötmar|Bad Salzuflen"/>
+	</s>
+	<s id="-8957484325052121716-2512021901-10">
+		<tl f="F" t="p" o="80" c="ICE" n="102"/>
+		<ar pt="2512022326" pp="4" fb="ICE 102" ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf"/>
+		<dp pt="2512022328" pp="4" fb="ICE 102" ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf"/>
+	</s>
+	<s id="2411741274449241570-2512022310-2">
+		<tl t="p" o="NX" c="Bus" n="6100"/>
+		<ar pt="2512022336" pp="" l="RE6" fb="Bus RE6" ppth="Bielefeld Hbf"/>
+		<dp pt="2512022336" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="6355460262832838369-2512022240-2">
+		<tl t="p" o="R2" c="Bus" n="7801"/>
+		<ar pt="2512022310" pp="" l="RE78" fb="Bus RE78" ppth="Bielefeld Hbf"/>
+		<dp pt="2512022310" pp="" l="RE78" fb="Bus RE78" ppth="Löhne(Westf)"/>
+	</s>
+	<s id="3961996393056911961-2512022330-2">
+		<tl t="p" o="W3" c="Bus" n="70838"/>
+		<ar pt="2512022357" pp="" l="EV" fb="Bus EV" ppth="Löhne(Westf)"/>
+		<dp pt="2512022357" pp="" l="EV" fb="Bus EV" ppth="Bielefeld Hbf"/>
+	</s>
+	<s id="-1510941521614976707-2512022315-2">
+		<tl t="p" o="NX" c="Bus" n="6103"/>
+		<ar pt="2512022333" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)"/>
+		<dp pt="2512022333" pp="" l="RE6" fb="Bus RE6" ppth="Bielefeld Hbf"/>
+	</s>
+</timetable>
