@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="4275385698506401374-2512030209-7">
+		<tl f="S" t="p" o="TDHS" c="S" n="34509"/>
+		<ar pt="2512030226" pp="1" l="5" fb="S 5" ppth="Hannover Flughafen|Langenhagen Pferdemarkt|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="-7943794576343768944-2512030234-1">
+		<tl f="S" t="p" o="TDHS" c="S" n="34510"/>
+		<dp pt="2512030234" pp="2" l="5" fb="S 5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Langenhagen Pferdemarkt|Hannover Flughafen"/>
+	</s>
+	<s id="8850452489523868017-2512022102-12">
+		<tl f="F" t="p" o="80" c="ICE" n="100"/>
+		<ar pt="2512030223" pp="9" fb="ICE 100" ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Minden(Westf)"/>
+		<dp pt="2512030240" pp="9" fb="ICE 100" ppth="Braunschweig Hbf|Stendal Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>
