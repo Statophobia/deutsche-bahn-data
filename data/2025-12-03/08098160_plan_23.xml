@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="8357393075483600022-2512032321-1">
+		<tl t="p" o="800165" c="FEX" n="19881"/>
+		<dp pt="2512032321" pp="6" fb="FEX 19881" ppth="Berlin Gesundbrunnen|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="-7724390263517347378-2512031709-11">
+		<tl f="F" t="p" o="80" c="ICE" n="702"/>
+		<ar pt="2512032313" pp="7" fb="ICE 702" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Treuchtlingen|Nürnberg Hbf|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld"/>
+	</s>
+	<s id="2502662779829118814-2512032307-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3185"/>
+		<dp pt="2512032307" pp="7 A - D" l="4" fb="RE 4" ppth="Berlin Jungfernheide|Berlin-Spandau|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="-8196009632544207530-2512032035-7">
+		<tl f="F" t="p" o="80" c="ICE" n="807"/>
+		<ar pt="2512032317" pp="1" fb="ICE 807" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau"/>
+	</s>
+	<s id="7384692404571698650-2512032238-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18635"/>
+		<ar pt="2512032309" pp="2" l="14" fb="RB 14" ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau|Berlin Jungfernheide"/>
+	</s>
+	<s id="450159185692254127-2512032206-6">
+		<tl f="N" t="p" o="800158" c="RE" n="3162"/>
+		<ar pt="2512032302" pp="5" l="4" fb="RE 4" ppth="Rathenow|Nennhausen|Buschow|Berlin-Spandau|Berlin Jungfernheide"/>
+	</s>
+	<s id="-7834030075966481511-2512032225-4">
+		<tl t="p" o="800165" c="FEX" n="19872"/>
+		<ar pt="2512032303" pp="6" fb="FEX 19872" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="5267890398427216546-2512032255-4">
+		<tl t="p" o="800165" c="FEX" n="19874"/>
+		<ar pt="2512032336" pp="6" fb="FEX 19874" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="6524097521449315873-2512032037-11">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2512032310" pp="4" l="5" fb="RE 5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-8798616257542130869-2512032038-25">
+		<tl f="N" t="p" o="800158" c="RE" n="3319"/>
+		<ar pt="2512032332" pp="1" l="3" fb="RE 3" ppth="Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-5498545633508872468-2512032333-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3358"/>
+		<dp pt="2512032333" pp="5" l="3" fb="RE 3" ppth="Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="-5851721557238592488-2512031915-4">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2512032341" pp="3" fb="NJ 403" hi="1" wings="7582314568044505717-2512031915" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal"/>
+		<dp pt="2512032344" pp="3" fb="NJ 403" wings="7582314568044505717-2512031915" ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-8025953960678931700-2512032348-1">
+		<tl t="p" o="B2" c="Bus" n="23088"/>
+		<dp pt="2512032348" pp="" l="S23" fb="Bus S23" ppth="Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Witterschlick Kirche, Alfter|Meckenheim Industriepark|Meckenheim(Bz Köln)|Meckenheimer Str., Rheinbach|Rheinbach|Swisttal-Odendorf|Euskirchen-Kuchenheim|Euskirchen"/>
+	</s>
+	<s id="-3259619502264666698-2512032216-10">
+		<tl f="N" t="p" o="NXRE" c="RE" n="28538"/>
+		<ar pt="2512032302" pp="1" l="5" fb="RE 5" ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512032304" pp="1" l="5" fb="RE 5" ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+	<s id="-8111504418942031183-2512032136-12">
+		<tl t="p" o="B2" c="Bus" n="23093"/>
+		<ar pt="2512032309" pp="" l="S23" fb="Bus S23" ppth="Euskirchen|Euskirchen-Kuchenheim|Swisttal-Odendorf|Rheinbach|Meckenheimer Str., Rheinbach|Meckenheim(Bz Köln)|Meckenheim Industriepark|Witterschlick Kirche, Alfter|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße"/>
+	</s>
+	<s id="7582314568044505717-2512031915-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2512032341" pp="3" fb="IC 60403" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal"/>
+		<dp pt="2512032344" pp="3" fb="IC 60403" ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="691925683233734047-2512032215-4">
+		<tl f="F" t="p" o="80" c="IC" n="2344"/>
+		<ar pt="2512032312" pp="3" fb="IC 2344" ppth="Wuppertal Hbf|Solingen Hbf|Köln Hbf"/>
+		<dp pt="2512032314" pp="3" fb="IC 2344" ppth="Remagen|Andernach|Koblenz Hbf"/>
+	</s>
+	<s id="-7669794425398439743-2512032206-12">
+		<tl t="p" o="B2" c="Bus" n="23095"/>
+		<ar pt="2512032339" pp="" l="S23" fb="Bus S23" ppth="Euskirchen|Euskirchen-Kuchenheim|Swisttal-Odendorf|Rheinbach|Meckenheimer Str., Rheinbach|Meckenheim(Bz Köln)|Meckenheim Industriepark|Witterschlick Kirche, Alfter|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße"/>
+	</s>
+	<s id="-795958654451491209-2512032318-1">
+		<tl t="p" o="B2" c="Bus" n="23086"/>
+		<dp pt="2512032318" pp="" l="S23" fb="Bus S23" ppth="Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Witterschlick Kirche, Alfter|Meckenheim Industriepark|Meckenheim(Bz Köln)|Meckenheimer Str., Rheinbach|Rheinbach|Swisttal-Odendorf|Euskirchen-Kuchenheim|Euskirchen"/>
+	</s>
+</timetable>
