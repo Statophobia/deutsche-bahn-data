@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="-8372807886990043955-2512040355-1">
+		<tl t="p" o="RS" c="Bus" n="84444"/>
+		<dp pt="2512040355" pp="" l="EV" fb="Bus EV" ppth="Langenhagen Mitte|Mellendorf|Lindwedel|Schwarmstedt|Handeloh|Büsenbachtal|Holm-Seppensen|Suerhop|Buchholz(Nordheide)"/>
+	</s>
+	<s id="3199623009169073885-2512040011-8">
+		<tl f="F" t="p" o="80" c="ICE" n="101"/>
+		<ar pt="2512040309" pp="12" fb="ICE 101" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Stendal Hbf|Braunschweig Hbf"/>
+		<dp pt="2512040313" pp="12" fb="ICE 101" ppth="Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf"/>
+	</s>
+	<s id="-8071444848207572218-2512032335-7">
+		<tl f="F" t="p" o="80" c="ICE" n="674"/>
+		<ar pt="2512040352" pp="10" fb="ICE 674" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Göttingen"/>
+		<dp pt="2512040418" pp="10" fb="ICE 674" ppth="Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="4788166721631719015-2512040305-6">
+		<tl t="p" o="TDHS" c="Bus" n="5513"/>
+		<ar pt="2512040350" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="-4768330375831781564-2512040307-1">
+		<tl t="p" o="TDHS" c="Bus" n="5514"/>
+		<dp pt="2512040307" pp="" l="S5" fb="Bus S5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+</timetable>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="-6027587483204218492-2512040013-14">
+		<tl f="N" t="p" o="800295" c="RE" n="4445"/>
+		<ar pt="2512040140" pp="9" l="8" fb="RE 8" ppth="Bremen Hbf|Bremen-Sebaldsbrück|Bremen-Mahndorf|Achim|Baden(Verden)|Etelsen|Langwedel|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Neustadt am Rübenberge|Wunstorf"/>
+	</s>
+	<s id="-2689384136619779811-2512040020-6">
+		<tl t="p" o="TDHS" c="Bus" n="5501"/>
+		<ar pt="2512040105" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="-2534464785191451933-2512032341-5">
+		<tl t="p" o="RS" c="Bus" n="84439"/>
+		<ar pt="2512040104" pp="" l="EV" fb="Bus EV" ppth="Schwarmstedt|Lindwedel|Mellendorf|Langenhagen Mitte"/>
+	</s>
+	<s id="4121683295209577191-2512032315-7">
+		<tl f="F" t="p" o="80" c="ICE" n="271"/>
+		<ar pt="2512040137" pp="13" fb="ICE 271" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf"/>
+		<dp pt="2512040210" pp="13" fb="ICE 271" ppth="Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+	</s>
+	<s id="2128396900209313395-2512040120-1">
+		<tl t="p" o="TDHS" c="Bus" n="5504"/>
+		<dp pt="2512040120" pp="" l="S5" fb="Bus S5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="3759591026772465222-2512040050-3">
+		<tl t="p" o="TDHS" c="Bus" n="55031"/>
+		<ar pt="2512040123" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte"/>
+	</s>
+	<s id="-2534056427099012540-2512040020-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="95792"/>
+		<ar pt="2512040106" pp="12" l="RE70" fb="WFB RE70" ppth="Braunschweig Hbf|Vechelde|Peine|Vöhrum|Hämelerwald|Lehrte"/>
+	</s>
+	<s id="5845049446990543970-2512040014-11">
+		<tl t="p" o="R0" c="ENO" n="83538"/>
+		<ar pt="2512040111" pp="13" l="RE30" fb="ENO RE30" ppth="Wolfsburg Hbf|Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte"/>
+	</s>
+	<s id="-1781439465744467581-2512040113-1">
+		<tl f="D" t="p" o="W3" c="WFB" n="95769"/>
+		<dp pt="2512040113" pp="12" l="RE70" fb="WFB RE70" ppth="Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
+	</s>
+</timetable>
