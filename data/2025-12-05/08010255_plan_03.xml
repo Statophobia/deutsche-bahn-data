@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostbahnhof">
+	<s id="4793932629688867181-2512050339-1">
+		<tl f="F" t="p" o="80" c="ICE" n="501"/>
+		<dp pt="2512050339" pp="" fb="ICE 501" ppth="Berlin Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Coburg|Bamberg|Erlangen|Nürnberg Hbf|München Hbf"/>
+	</s>
+	<s id="4389092040092967828-2512050355-2">
+		<tl f="N" t="p" o="800165" c="RE" n="3705"/>
+		<ar pt="2512050357" pp="7" l="7" fb="RE 7" ppth="Berlin Ostkreuz"/>
+		<dp pt="2512050359" pp="7" l="7" fb="RE 7" ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig|Wiesenburg(Mark)|Medewitz(Mark)|Jeber-Bergfrieden|Roßlau(Elbe)|Dessau Hbf"/>
+	</s>
+	<s id="-199422321941227724-2512050320-6">
+		<tl t="p" o="800165" c="FEX" n="19803"/>
+		<ar pt="2512050340" pp="2" fb="FEX 19803" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+		<dp pt="2512050340" pp="2" fb="FEX 19803" ppth="Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+</timetable>

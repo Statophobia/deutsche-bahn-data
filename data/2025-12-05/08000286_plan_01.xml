@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="-4173711038299031494-2512042303-8">
+		<tl t="p" o="R2" c="Bus" n="3048"/>
+		<ar pt="2512050100" pp="" l="RE3" fb="Bus RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2512050100" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="1321960028628066128-2512042233-11">
+		<tl t="p" o="B2" c="Bus" n="243"/>
+		<ar pt="2512050101" pp="" l="RB32" fb="Bus RB32" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig"/>
+		<dp pt="2512050101" pp="" l="RB32" fb="Bus RB32" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="4384964956351906439-2512050144-2">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20002"/>
+		<ar pt="2512050149" pp="9" l="RE19" fb="VIA RE19" ppth="Duisburg Hbf"/>
+		<dp pt="2512050150" pp="9" l="RE19" fb="VIA RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel"/>
+	</s>
+	<s id="6192780957583982525-2512050042-2">
+		<tl t="p" o="B2" c="Bus" n="230"/>
+		<ar pt="2512050102" pp="" l="RB32" fb="Bus RB32" ppth="Duisburg Hbf"/>
+		<dp pt="2512050102" pp="" l="RB32" fb="Bus RB32" ppth="Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf|Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+</timetable>
