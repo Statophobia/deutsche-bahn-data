@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="-4127119211051836226-2512060254-2">
+		<tl f="N" t="p" o="OWRE" c="RE" n="73755"/>
+		<ar pt="2512060304" pp="" l="1" fb="RE 1" ppth="Berlin-Lichtenberg"/>
+		<dp pt="2512060306" pp="" l="1" fb="RE 1" ppth="Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-6637975838343598332-2512060326-1">
+		<tl t="p" o="800165" c="FEX" n="19803"/>
+		<dp pt="2512060326" pp="" fb="FEX 19803" ppth="Berlin-Lichtenberg|Flughafen BER"/>
+	</s>
+	<s id="4063429164769473916-2512060351-2">
+		<tl t="p" o="800165" c="FEX" n="19805"/>
+		<ar pt="2512060357" pp="10" fb="FEX 19805" ppth="Berlin Hbf"/>
+		<dp pt="2512060400" pp="10" fb="FEX 19805" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER"/>
+	</s>
+	<s id="-5914119374412301320-2512060313-1">
+		<tl t="p" o="800165" c="FEX" n="19801"/>
+		<dp pt="2512060313" pp="" fb="FEX 19801" ppth="Berlin-Lichtenberg|Flughafen BER"/>
+	</s>
+	<s id="1017582578470993001-2512060327-1">
+		<tl f="F" t="p" o="80" c="ICE" n="501"/>
+		<dp pt="2512060327" pp="7" fb="ICE 501" ppth="Berlin Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Coburg|Bamberg|Erlangen|Nürnberg Hbf|München Hbf"/>
+	</s>
+</timetable>

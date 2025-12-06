@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="-282538325187204580-2512060033-11">
+		<tl t="p" o="B2" c="Bus" n="231"/>
+		<ar pt="2512060301" pp="" l="RB32" fb="Bus RB32" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig"/>
+		<dp pt="2512060301" pp="" l="RB32" fb="Bus RB32" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="2623393493639910496-2512060243-8">
+		<tl t="p" o="R4NRN" c="Bus" n="1903"/>
+		<ar pt="2512060358" pp="" l="RE19" fb="Bus RE19" ppth="Wesel|Friedrichsfeld Post, Voerde (Niederrhein)|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
+	</s>
+	<s id="2022625879734910699-2512060242-2">
+		<tl t="p" o="B2" c="Bus" n="234"/>
+		<ar pt="2512060302" pp="" l="RB32" fb="Bus RB32" ppth="Duisburg Hbf"/>
+		<dp pt="2512060302" pp="" l="RB32" fb="Bus RB32" ppth="Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="1092014454866930735-2512060317-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30384"/>
+		<dp pt="2512060317" pp="10" l="3" fb="S 3" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)West|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf"/>
+	</s>
+	<s id="-4097955462274753826-2512060103-8">
+		<tl t="p" o="R2" c="Bus" n="3056"/>
+		<ar pt="2512060300" pp="" l="RE3" fb="Bus RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2512060300" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="1980330664937697871-2512060344-2">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20004"/>
+		<ar pt="2512060349" pp="12" l="RE19" fb="VIA RE19" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="4821195548963364855-2512060245-4">
+		<tl t="p" o="R2" c="Bus" n="3061"/>
+		<ar pt="2512060355" pp="" l="RE3" fb="Bus RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2512060355" pp="" l="RE3" fb="Bus RE3" ppth="Essen-Altenessen|Gelsenkirchen Hbf|Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+</timetable>
