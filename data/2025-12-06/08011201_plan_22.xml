@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Flughafen BER">
+	<s id="5743374173774587554-2512062107-11">
+		<tl f="N" t="p" o="OWRE" c="RE" n="62032"/>
+		<ar pt="2512062215" pp="2" l="8" fb="RE 8" ppth="Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz"/>
+	</s>
+	<s id="-5315333728424243977-2512062121-5">
+		<tl t="p" o="800165" c="FEX" n="19875"/>
+		<ar pt="2512062200" pp="3" fb="FEX 19875" ppth="Berlin Hbf|Berlin Gesundbrunnen|Berlin Ostkreuz|Berlin-Schöneweide"/>
+	</s>
+	<s id="-7477137136863483975-2512062148-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18136"/>
+		<ar pt="2512062236" pp="1" l="22" fb="RB 22" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Potsdam Pirschheide|Saarmund|Ludwigsfelde-Struveshof"/>
+		<dp pt="2512062238" pp="1" l="22" fb="RB 22" ppth="Königs Wusterhausen"/>
+	</s>
+	<s id="5642810231813658934-2512062209-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18137"/>
+		<ar pt="2512062224" pp="4" l="22" fb="RB 22" ppth="Königs Wusterhausen"/>
+		<dp pt="2512062226" pp="4" l="22" fb="RB 22" ppth="Ludwigsfelde-Struveshof|Saarmund|Potsdam Pirschheide|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+	</s>
+</timetable>

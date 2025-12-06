@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="6516689549139925565-2512062306-1">
+		<tl t="p" o="NWBus" c="Bus" n="53389"/>
+		<dp pt="2512062306" pp="" l="EV" fb="Bus EV" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen"/>
+	</s>
+	<s id="-3757274345952604761-2512062333-1">
+		<tl f="N" t="p" o="800295" c="RE" n="13974"/>
+		<dp pt="2512062333" pp="6" l="1" fb="RE 1" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+	</s>
+	<s id="-5581957853624905709-2512062310-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="75336"/>
+		<ar pt="2512062354" pp="5" l="RE18" fb="NWB RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-1523952649509232089-2512062220-10">
+		<tl t="p" o="NWBus" c="Bus" n="53386"/>
+		<ar pt="2512062352" pp="" l="EV" fb="Bus EV" ppth="Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen|Bremen Neustadt|Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting"/>
+	</s>
+	<s id="-1491077561497992764-2512062345-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83389"/>
+		<ar pt="2512062357" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+	</s>
+	<s id="3872588623693976759-2512062336-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75337"/>
+		<dp pt="2512062336" pp="5" l="RE18" fb="NWB RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+</timetable>

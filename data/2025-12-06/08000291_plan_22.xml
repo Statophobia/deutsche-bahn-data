@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="2252099438067646078-2512062114-10">
+		<tl t="p" o="NWBus" c="Bus" n="53384"/>
+		<ar pt="2512062250" pp="" l="EV" fb="Bus EV" ppth="Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen|Bremen Neustadt|Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting"/>
+	</s>
+	<s id="8133677848871379809-2512062245-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83387"/>
+		<ar pt="2512062257" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+	</s>
+	<s id="-5300580761425640592-2512062206-1">
+		<tl t="p" o="NWBus" c="Bus" n="53387"/>
+		<dp pt="2512062206" pp="" l="EV" fb="Bus EV" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen"/>
+	</s>
+	<s id="6132081845480850031-2512062039-10">
+		<tl f="N" t="p" o="800295" c="RE" n="13979"/>
+		<ar pt="2512062223" pp="1" l="1" fb="RE 1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+	</s>
+	<s id="1324088062428026657-2512062041-4">
+		<tl t="p" o="NWBus" c="Bus" n="53346"/>
+		<ar pt="2512062209" pp="" l="EV" fb="Bus EV" ppth="Hauptbahnhof/Hugo-Schauinsland-Platz, Bremen|Delmenhorst|Hude"/>
+	</s>
+	<s id="3251002037450110239-2512062236-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="52975"/>
+		<dp pt="2512062236" pp="5" l="RE18" fb="NWB RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="-4825294899099930236-2512062140-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="52972"/>
+		<ar pt="2512062224" pp="" l="RE18" fb="NWB RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-5509462862836136747-2512062258-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="83384"/>
+		<dp pt="2512062258" pp="6" l="RS3" fb="NWB RS3" ppth="Oldenburg-Wechloy|Bad Zwischenahn"/>
+	</s>
+	<s id="3129828108466571485-2512062229-2">
+		<tl t="p" o="NWBus" c="Bus" n="35335"/>
+		<ar pt="2512062251" pp="" l="RE18" fb="Bus RE18" ppth="Sandkrug"/>
+	</s>
+	<s id="1787996607404648853-2512062205-1">
+		<tl t="p" o="NWBus" c="Bus" n="35334"/>
+		<dp pt="2512062205" pp="" l="RE18" fb="Bus RE18" ppth="Sandkrug"/>
+	</s>
+</timetable>
