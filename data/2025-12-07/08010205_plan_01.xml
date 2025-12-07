@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Leipzig Hbf">
+	<s id="-820045641529400684-2512070128-1">
+		<tl f="S" t="p" o="8004A9" c="S" n="37202"/>
+		<dp pt="2512070128" pp="" l="2" fb="S 2" ppth="Leipzig Nord|Leipzig Essener Straße|Leipzig Messe|Rackwitz(Leipzig)|Zschortau|Delitzsch unt Bf|Petersroda|Bitterfeld"/>
+	</s>
+	<s id="805110060690192469-2512070059-4">
+		<tl f="S" t="p" o="800486" c="S" n="37541"/>
+		<ar pt="2512070123" pp="16" l="5X" fb="S 5X" ppth="Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Messe"/>
+	</s>
+	<s id="3859923167040015466-2512070024-9">
+		<tl f="S" t="p" o="8004A9" c="S" n="37201"/>
+		<ar pt="2512070102" pp="" l="2" fb="S 2" ppth="Bitterfeld|Petersroda|Delitzsch unt Bf|Zschortau|Rackwitz(Leipzig)|Leipzig Messe|Leipzig Essener Straße|Leipzig Nord"/>
+	</s>
+	<s id="993181793660976970-2512070012-15">
+		<tl f="N" t="p" o="800413" c="RB" n="16660"/>
+		<ar pt="2512070101" pp="23" l="113" fb="RB 113" ppth="Geithain|Tautenhain|Hopfgarten(Sachs)|Bad Lausick|Lauterbach-Steinbach|Otterwisch|Belgershain|Oberholz|Großpösna|Leipzig-Liebertwolkwitz|Leipzig-Holzhausen|Leipzig-Mölkau|Leipzig Werkstättenstraße|Leipzig-Paunsdorf"/>
+	</s>
+	<s id="-4019057768103359876-2512070120-1">
+		<tl f="N" t="p" o="800413" c="RB" n="16663"/>
+		<dp pt="2512070120" pp="23" l="113" fb="RB 113" ppth="Leipzig-Paunsdorf|Leipzig Werkstättenstraße|Leipzig-Mölkau|Leipzig-Holzhausen|Leipzig-Liebertwolkwitz|Großpösna|Oberholz|Belgershain|Otterwisch|Lauterbach-Steinbach|Bad Lausick|Hopfgarten(Sachs)|Tautenhain|Geithain"/>
+	</s>
+	<s id="-4494812873688151184-2512070134-1">
+		<tl f="N" t="p" o="CXRB" c="RB" n="27702"/>
+		<dp pt="2512070134" pp="22" l="110" fb="RB 110" ppth="Leipzig-Sellerhausen|Leipzig-Paunsdorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Beucha|Naunhof|Großsteinberg|Grimma ob Bf"/>
+	</s>
+</timetable>
