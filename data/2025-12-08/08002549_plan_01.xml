@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="-2677087939388563746-2512080109-5">
+		<tl f="N" t="p" o="800292" c="RE" n="11449"/>
+		<ar pt="2512080159" pp="8" l="8" fb="RE 8" ppth="Lübeck Hbf|Lübeck-Moisling|Reinfeld(Holst)|Bad Oldesloe"/>
+	</s>
+	<s id="-2931579395362521098-2512080106-1">
+		<tl f="N" t="p" o="800292" c="RE" n="11442"/>
+		<dp pt="2512080106" pp="7A-D" l="8" fb="RE 8" ppth="Bad Oldesloe|Reinfeld(Holst)|Lübeck-Moisling|Lübeck Hbf"/>
+	</s>
+	<s id="-3927096025170759993-2512080143-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11292"/>
+		<dp pt="2512080143" pp="13" l="7" fb="RE 7" ppth="Hamburg Dammtor|Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-5030805675749971422-2512080107-2">
+		<tl f="D" t="p" o="O0" c="NBE" n="81748"/>
+		<ar pt="2512080115" pp="12C-F" l="RB61" fb="NBE RB61" ppth="Hamburg-Altona"/>
+		<dp pt="2512080123" pp="12C-F" l="RB61" fb="NBE RB61" wings="5624766545865298069-2512080123" ppth="Hamburg Dammtor|Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="4760651137475633059-2512072359-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81644"/>
+		<ar pt="2512080109" pp="11A-C" l="RB31" fb="ME RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="5624766545865298069-2512080123-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81848"/>
+		<dp pt="2512080123" pp="7G-I" l="RB61" fb="NBE RB61" ppth="Hamburg Dammtor|Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="5375326263046654482-2512071917-13">
+		<tl f="F" t="p" o="80" c="ICE" n="580"/>
+		<ar pt="2512080113" pp="13" fb="ICE 580" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg"/>
+	</s>
+	<s id="-6711307188089838742-2512080005-12">
+		<tl f="N" t="p" o="800201" c="RE" n="11293"/>
+		<ar pt="2512080140" pp="13" l="7" fb="RE 7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg|Hamburg-Altona|Hamburg Dammtor"/>
+	</s>
+	<s id="-2226467865786714148-2512072238-7">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2512080100" pp="13" fb="ICE 700" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg"/>
+	</s>
+</timetable>

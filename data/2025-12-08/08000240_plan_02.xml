@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="7582314568044505717-2512072015-7">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2512080158" pp="4a/b" fb="IC 60403" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf"/>
+		<dp pt="2512080200" pp="4a/b" fb="IC 60403" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="3514472050270834834-2512080146-24">
+		<tl f="S" t="p" o="800528" c="S" n="35890"/>
+		<ar pt="2512080255" pp="1a" l="8" fb="S 8" ppth="Hanau Hbf|Steinheim(Main)|Mühlheim(Main)-Dietesheim|Mühlheim(Main)|Offenbach(Main)Ost|Offenbach(Main) Marktplatz|Offenbach(Main) Ledermuseum|Offenbach(Main) Kaiserlei|Frankfurt(M)Mühlberg|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Niederrad|Frankfurt am Main - Stadion|Frankfurt(M) Flughafen Fernbf|Raunheim|Rüsselsheim|Rüsselsheim Opelwerk|Mainz-Bischofsheim|Mainz-Gustavsburg|Mainz Römisches Theater"/>
+	</s>
+	<s id="-5851721557238592488-2512072015-7">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2512080158" pp="4a/b" fb="NJ 403" hi="1" wings="7582314568044505717-2512072015" ppth="Amsterdam Centraal|Utrecht Centraal|Eindhoven Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf"/>
+		<dp pt="2512080200" pp="4a/b" fb="NJ 403" hi="1" wings="7582314568044505717-2512072015" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="2271492421607099573-2512080208-1">
+		<tl t="p" o="B4" c="Bus" n="972"/>
+		<dp pt="2512080208" pp="" l="S8E" fb="Bus S8E" ppth="Biebrich Bahnhof Wiesbaden Ost, Wiesbaden|Wiesbaden Hbf"/>
+	</s>
+	<s id="-8384208304631482482-2512080117-13">
+		<tl f="S" t="p" o="800528" c="S" n="99136"/>
+		<ar pt="2512080159" pp="1a" l="8" fb="S 8" ppth="Frankfurt(Main)Hbf|Frankfurt-Niederrad|Frankfurt am Main - Stadion|Frankfurt(Main)-Gateway Gardens|Frankfurt(M) Flughafen Regionalbf|Kelsterbach|Raunheim|Rüsselsheim|Rüsselsheim Opelwerk|Mainz-Bischofsheim|Mainz-Gustavsburg|Mainz Römisches Theater"/>
+		<dp pt="2512080200" pp="1a" l="8" fb="S 8" ppth="Mainz Nord|Wiesbaden Ost|Wiesbaden Hbf"/>
+	</s>
+	<s id="-1247146776534477284-2512080202-1">
+		<tl f="S" t="p" o="800528" c="S" n="35891"/>
+		<dp pt="2512080202" pp="5a" l="8" fb="S 8" ppth="Mainz Römisches Theater|Mainz-Gustavsburg|Mainz-Bischofsheim|Rüsselsheim Opelwerk|Rüsselsheim|Raunheim|Frankfurt(M) Flughafen Fernbf|Frankfurt am Main - Stadion|Frankfurt-Niederrad|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg|Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Mühlheim(Main)|Mühlheim(Main)-Dietesheim|Steinheim(Main)|Hanau Hbf"/>
+	</s>
+	<s id="-819953866383167602-2512080230-3">
+		<tl t="p" o="B4" c="Bus" n="971"/>
+		<ar pt="2512080253" pp="" l="S8E" fb="Bus S8E" ppth="Wiesbaden Hbf|Biebrich Bahnhof Wiesbaden Ost, Wiesbaden"/>
+	</s>
+</timetable>
