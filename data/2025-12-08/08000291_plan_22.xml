@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="1738831361303828102-2512082233-1">
+		<tl f="N" t="p" o="NZ" c="RE" n="52032"/>
+		<dp pt="2512082233" pp="6" l="56" fb="RE 56" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+	</s>
+	<s id="2404073052338674473-2512082258-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="56936"/>
+		<dp pt="2512082258" pp="6" l="RS3" fb="NWB RS3" ppth="Oldenburg-Wechloy|Bad Zwischenahn"/>
+	</s>
+	<s id="6132081845480850031-2512082039-10">
+		<tl f="N" t="p" o="800295" c="RE" n="13979"/>
+		<ar pt="2512082223" pp="" l="1" fb="RE 1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+	</s>
+	<s id="1787996607404648853-2512082205-1">
+		<tl t="p" o="NWBus" c="Bus" n="35334"/>
+		<dp pt="2512082205" pp="" l="RE18" fb="Bus RE18" ppth="Sandkrug"/>
+	</s>
+	<s id="3251002037450110239-2512082236-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="52975"/>
+		<dp pt="2512082236" pp="5" l="RE18" fb="NWB RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="8133677848871379809-2512082245-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83387"/>
+		<ar pt="2512082257" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2512082305" pp="1" l="RS3" fb="NWB RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Bremen Hbf"/>
+	</s>
+	<s id="-413754449787684146-2512082233-1">
+		<tl f="F" t="p" o="80" c="IC" n="2512"/>
+		<dp pt="2512082233" pp="6" fb="IC 2512" wings="1738831361303828102-2512082233" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+	</s>
+	<s id="2524483095926466995-2512082206-3">
+		<tl t="p" o="NWBus" c="Bus" n="53382"/>
+		<ar pt="2512082239" pp="" l="EV" fb="Bus EV" ppth="Hude|Wüsting"/>
+	</s>
+	<s id="3129828108466571485-2512082229-2">
+		<tl t="p" o="NWBus" c="Bus" n="35335"/>
+		<ar pt="2512082251" pp="" l="RE18" fb="Bus RE18" ppth="Sandkrug"/>
+	</s>
+	<s id="-4227497272345345070-2512082152-2">
+		<tl t="p" o="NWBus" c="Bus" n="53346"/>
+		<ar pt="2512082223" pp="" l="EV" fb="Bus EV" ppth="Hude"/>
+	</s>
+	<s id="-4825294899099930236-2512082140-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="52972"/>
+		<ar pt="2512082224" pp="" l="RE18" fb="NWB RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-284686805979059546-2512082145-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83385"/>
+		<ar pt="2512082157" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2512082205" pp="1" l="RS3" fb="NWB RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Bremen Hbf"/>
+	</s>
+</timetable>

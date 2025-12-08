@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="416882499297797432-2512082205-14">
+		<tl f="N" t="p" o="NXRB" c="RB" n="17375"/>
+		<ar pt="2512082306" pp="3" l="48" fb="RB 48" ppth="Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2512082308" pp="3" l="48" fb="RB 48" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem"/>
+	</s>
+	<s id="385378831927789101-2512082343-4">
+		<tl f="N" t="p" o="NXRB" c="RB" n="17382"/>
+		<ar pt="2512082353" pp="1" l="48" fb="RB 48" ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512082354" pp="1" l="48" fb="RB 48" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf"/>
+	</s>
+	<s id="-7907535812722674546-2512082256-8">
+		<tl f="S" t="p" o="800352" c="S" n="32409"/>
+		<ar pt="2512082319" pp="5" l="23" fb="S 23" ppth="Meckenheim(Bz Köln)|Meckenheim Industriepark|Alfter-Witterschlick|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße|Bonn-Endenich Nord"/>
+	</s>
+	<s id="-2366631867614247074-2512082256-8">
+		<tl f="N" t="p" o="TR" c="RB" n="25445"/>
+		<ar pt="2512082325" pp="3" l="26" fb="RB 26" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2512082327" pp="3" l="26" fb="RB 26" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter"/>
+	</s>
+	<s id="5122911742708141026-2512082326-8">
+		<tl f="S" t="p" o="800352" c="S" n="32411"/>
+		<ar pt="2512082349" pp="5" l="23" fb="S 23" ppth="Meckenheim(Bz Köln)|Meckenheim Industriepark|Alfter-Witterschlick|Alfter-Impekoven|Bonn-Duisdorf|Bonn Helmholtzstraße|Bonn-Endenich Nord"/>
+	</s>
+	<s id="6912024936286149124-2512082340-1">
+		<tl f="S" t="p" o="800352" c="S" n="32412"/>
+		<dp pt="2512082340" pp="5" l="23" fb="S 23" ppth="Bonn-Endenich Nord|Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Alfter-Witterschlick|Meckenheim Industriepark|Meckenheim(Bz Köln)"/>
+	</s>
+	<s id="-411399804462636079-2512082310-1">
+		<tl f="S" t="p" o="800352" c="S" n="32410"/>
+		<dp pt="2512082310" pp="5" l="23" fb="S 23" ppth="Bonn-Endenich Nord|Bonn Helmholtzstraße|Bonn-Duisdorf|Alfter-Impekoven|Alfter-Witterschlick|Meckenheim Industriepark|Meckenheim(Bz Köln)"/>
+	</s>
+	<s id="-4643578524385341391-2512082320-6">
+		<tl f="N" t="p" o="TR" c="RB" n="25444"/>
+		<ar pt="2512082334" pp="1" l="26" fb="RB 26" ppth="Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512082336" pp="1" l="26" fb="RB 26" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf"/>
+	</s>
+	<s id="-3540788240658241679-2512082244-5">
+		<tl f="N" t="p" o="NXRE" c="RE" n="28538"/>
+		<ar pt="2512082302" pp="1" l="5" fb="RE 5" ppth="Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512082304" pp="1" l="5" fb="RE 5" ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+</timetable>
