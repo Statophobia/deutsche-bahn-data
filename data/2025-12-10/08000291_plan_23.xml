@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="1282899926668995600-2512102315-10">
+		<tl f="D" t="p" o="N1" c="NWB" n="83386"/>
+		<ar pt="2512102353" pp="6" l="RS3" fb="NWB RS3" ppth="Bremen Hbf|Bremen Neustadt|Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting"/>
+	</s>
+	<s id="8133677848871379809-2512102245-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83387"/>
+		<ar pt="2512102257" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2512102305" pp="1" l="RS3" fb="NWB RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Bremen Hbf"/>
+	</s>
+	<s id="4827880612592016283-2512102339-1">
+		<tl t="p" o="NWBus" c="Bus" n="45337"/>
+		<dp pt="2512102339" pp="" l="EV" fb="Bus EV" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="-1491077561497992764-2512102345-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83389"/>
+		<ar pt="2512102357" pp="1" l="RS3" fb="NWB RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2512110005" pp="1" l="RS3" fb="NWB RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Bremen Hbf"/>
+	</s>
+	<s id="-7123580108217034731-2512102120-13">
+		<tl f="N" t="p" o="800295" c="RE" n="4434"/>
+		<ar pt="2512102323" pp="6" l="1" fb="RE 1" ppth="Hannover Hbf|Wunstorf|Neustadt am Rübenberge|Nienburg(Weser)|Eystrup|Dörverden|Verden(Aller)|Achim|Bremen-Mahndorf|Bremen Hbf|Delmenhorst|Hude"/>
+	</s>
+	<s id="-1028127377273703934-2512102210-6">
+		<tl t="p" o="NWBus" c="Bus" n="45336"/>
+		<ar pt="2512102339" pp="" l="EV" fb="Bus EV" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="6092765153933060006-2512102201-12">
+		<tl f="D" t="p" o="N1" c="NWB" n="75337"/>
+		<ar pt="2512102329" pp="1" l="RE18" fb="NWB RE18" ppth="Osnabrück Hbf|Osnabrück Altstadt|Bramsche|Bersenbrück|Quakenbrück|Essen(Oldb)|Cloppenburg|Ahlhorn|Großenkneten|Huntlosen|Sandkrug"/>
+	</s>
+	<s id="-8138362163861218620-2512101716-13">
+		<tl f="F" t="p" o="80" c="ICE" n="532"/>
+		<ar pt="2512102332" pp="7" fb="ICE 532" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Nienburg(Weser)|Verden(Aller)|Bremen Hbf|Delmenhorst"/>
+	</s>
+</timetable>
