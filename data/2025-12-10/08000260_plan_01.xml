@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="8209469800275406026-2512092219-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2512100115" pp="6" fb="ICE 1080" ppth="München Hbf|Augsburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2512100118" pp="6" fb="ICE 1080" ppth="Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2044723357159653206-2512091956-7">
+		<tl t="p" o="81" c="NJ" n="491"/>
+		<ar pt="2512100133" pp="5" fb="NJ 491" wings="6992012378128167215-2512091956" ppth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2512100148" pp="5" fb="NJ 491" wings="6992012378128167215-2512091956" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="6992012378128167215-2512091956-7">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2512100133" pp="5" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2512100148" pp="5" fb="NJ 40491" ppth="Nürnberg Hbf|Augsburg Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+</timetable>
