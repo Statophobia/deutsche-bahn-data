@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="-6711307188089838742-2512110005-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11293"/>
+		<ar pt="2512110120" pp="4" l="7" fb="RE 7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg"/>
+		<dp pt="2512110121" pp="4" l="7" fb="RE 7" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-3927096025170759993-2512110143-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11292"/>
+		<ar pt="2512110147" pp="3" l="7" fb="RE 7" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2512110148" pp="3" l="7" fb="RE 7" ppth="Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-2226467865786714148-2512102238-8">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2512110106" pp="3" fb="ICE 700" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2512110107" pp="3" fb="ICE 700" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+</timetable>
