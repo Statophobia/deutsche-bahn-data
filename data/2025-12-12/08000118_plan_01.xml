@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="-5639873577201011165-2512120101-1">
+		<tl f="N" t="p" o="8003L1" c="RB" n="93407"/>
+		<dp pt="2512120101" pp="6" l="32" fb="RB 32" ppth="Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf|Duisburg Hbf"/>
+	</s>
+	<s id="6789474185416529172-2512120106-2">
+		<tl t="p" o="B2" c="Bus" n="3207"/>
+		<ar pt="2512120124" pp="" l="RB32" fb="Bus RB32" ppth="Wanne-Eickel Hbf"/>
+	</s>
+	<s id="2660451092632041830-2512120134-7">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31282"/>
+		<ar pt="2512120158" pp="6" l="32" fb="RB 32" ppth="Duisburg Hbf|Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+	</s>
+	<s id="-8110065517519951620-2512120109-1">
+		<tl t="p" o="B2" c="Bus" n="3208"/>
+		<dp pt="2512120109" pp="" l="RB32" fb="Bus RB32" ppth="Wanne-Eickel Hbf"/>
+	</s>
+	<s id="7699946703261124026-2512120100-2">
+		<tl t="p" o="B2" c="Bus" n="2075"/>
+		<ar pt="2512120118" pp="" l="S2" fb="Bus S2" ppth="Wanne-Eickel Hbf"/>
+		<dp pt="2512120118" pp="" l="S2" fb="Bus S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="1510448324932022955-2512120049-6">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31398"/>
+		<ar pt="2512120111" pp="25" l="RB46" fb="VIA RB46" ppth="Bochum Hbf|Bochum West|Bochum-Hamme|Bochum-Riemke|Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-1557141721418043400-2512120108-2">
+		<tl t="p" o="B2" c="Bus" n="10180"/>
+		<ar pt="2512120126" pp="" l="RE42" fb="Bus RE42" ppth="Wanne-Eickel Hbf"/>
+		<dp pt="2512120126" pp="" l="RE42" fb="Bus RE42" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="9074822526482774648-2512120102-1">
+		<tl t="p" o="B2" c="Bus" n="10241"/>
+		<dp pt="2512120102" pp="" l="RE2" fb="Bus RE2" ppth="Wanne-Eickel Hbf"/>
+	</s>
+	<s id="6435902227221004444-2512120115-4">
+		<tl t="p" o="B2" c="Bus" n="2074"/>
+		<ar pt="2512120141" pp="" l="S2" fb="Bus S2" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2512120141" pp="" l="S2" fb="Bus S2" ppth="Wanne-Eickel Hbf"/>
+	</s>
+</timetable>

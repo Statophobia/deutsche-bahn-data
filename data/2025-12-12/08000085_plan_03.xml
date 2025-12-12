@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="1410242656783695756-2512120204-12">
+		<tl t="p" o="B2" c="Bus" n="30100"/>
+		<ar pt="2512120326" pp="" l="S1" fb="Bus S1" ppth="Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+	<s id="7227756044000386841-2512120026-26">
+		<tl t="p" o="B2" c="Bus" n="8024"/>
+		<ar pt="2512120310" pp="" l="S8" fb="Bus S8" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen|Wuppertal Hbf|Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern"/>
+	</s>
+	<s id="-713774594330580130-2512120347-1">
+		<tl t="p" o="B2" c="Bus" n="31107"/>
+		<dp pt="2512120347" pp="" l="S1" fb="Bus S1" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum"/>
+	</s>
+	<s id="778842830515041967-2512120348-1">
+		<tl t="p" o="B2" c="Bus" n="1037"/>
+		<dp pt="2512120348" pp="" l="S1" fb="Bus S1" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath"/>
+	</s>
+	<s id="3646559143861574448-2512120313-1">
+		<tl f="N" t="p" o="NXRE" c="RE" n="89746"/>
+		<dp pt="2512120313" pp="4" l="6" fb="RE 6" ppth="Düsseldorf-Bilk|Neuss Hbf|Dormagen|Köln Hbf|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="2774174590951633862-2512112229-12">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2512120258" pp="5" fb="ICE 921" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Duisburg Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2512120300" pp="5" fb="ICE 921" ppth="Köln Hbf|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="6958748554122989851-2512120340-1">
+		<tl f="S" t="p" o="800337" c="S" n="82727"/>
+		<dp pt="2512120340" pp="10" l="1" fb="S 1" ppth="Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum"/>
+	</s>
+	<s id="-714140723362615716-2512120209-9">
+		<tl t="p" o="B2" c="Bus" n="82722"/>
+		<ar pt="2512120305" pp="" l="S1" fb="Bus S1" ppth="Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+</timetable>

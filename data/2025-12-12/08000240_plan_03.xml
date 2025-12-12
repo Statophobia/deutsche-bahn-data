@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="8868050453695511606-2512112134-11">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2512120347" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2512112134" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2512120349" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2512112134" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-3494764636550081636-2512120243-9">
+		<tl t="p" o="B4" c="Bus" n="3888"/>
+		<ar pt="2512120349" pp="" l="S8E" fb="Bus S8E" ppth="Kelsterbach|Bahnhof Nordseite, Raunheim|Rüsselsheim|Rüsselsheim Opelwerk|Mainz-Bischofsheim|Gustavsburg Am Alten Fährhs., Ginsheim-Gustavsburg|Mainz-Kastel|Bahnhof Römisches Theater, Mainz"/>
+		<dp pt="2512120349" pp="" l="S8E" fb="Bus S8E" ppth="Biebrich Bahnhof Wiesbaden Ost, Wiesbaden|Wiesbaden Hbf"/>
+	</s>
+	<s id="1993297491100486522-2512120330-3">
+		<tl t="p" o="B4" c="Bus" n="3805"/>
+		<ar pt="2512120353" pp="" l="S8E" fb="Bus S8E" ppth="Wiesbaden Hbf|Biebrich Bahnhof Wiesbaden Ost, Wiesbaden"/>
+		<dp pt="2512120353" pp="" l="S8E" fb="Bus S8E" ppth="Bahnhof Römisches Theater, Mainz|Mainz-Bischofsheim|Rüsselsheim Opelwerk|Rüsselsheim|Bahnhof Nordseite, Raunheim|Kelsterbach"/>
+	</s>
+	<s id="4753870957390372842-2512112134-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2512120347" pp="1a/b" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2512120349" pp="1a/b" fb="IC 60402" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="4877869876826069184-2512120300-3">
+		<tl t="p" o="B4" c="Bus" n="3803"/>
+		<ar pt="2512120323" pp="" l="S8E" fb="Bus S8E" ppth="Wiesbaden Hbf|Biebrich Bahnhof Wiesbaden Ost, Wiesbaden"/>
+		<dp pt="2512120323" pp="" l="S8E" fb="Bus S8E" ppth="Bahnhof Römisches Theater, Mainz|Mainz-Bischofsheim|Rüsselsheim Opelwerk|Rüsselsheim|Bahnhof Nordseite, Raunheim|Kelsterbach"/>
+	</s>
+</timetable>
