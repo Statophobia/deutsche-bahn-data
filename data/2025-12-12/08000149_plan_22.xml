@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="3195543412302879683-2512122218-1">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26838"/>
+		<dp pt="2512122218" pp="1" l="1" fb="RE 1" ppth="Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Herne|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="5646922477923288654-2512122047-4">
+		<tl f="F" t="p" o="80" c="ICE" n="657"/>
+		<ar pt="2512122202" pp="4" fb="ICE 657" ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf"/>
+		<dp pt="2512122205" pp="4" fb="ICE 657" ppth="Bielefeld Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-8420772237478255700-2512121933-7">
+		<tl f="F" t="p" o="80" c="ICE" n="872"/>
+		<ar pt="2512122253" pp="10" fb="ICE 872" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Bielefeld Hbf"/>
+		<dp pt="2512122255" pp="10" fb="ICE 872" ppth="Wuppertal Hbf|Köln Hbf"/>
+	</s>
+	<s id="1094249810489715855-2512122250-1">
+		<tl t="p" o="NX" c="Bus" n="703"/>
+		<dp pt="2512122250" pp="" l="RE7" fb="Bus RE7" ppth="Bönen|Unna|Holzwickede|Schwerte(Ruhr)|Hagen Hbf"/>
+	</s>
+	<s id="-9170319321262747816-2512121713-15">
+		<tl f="F" t="p" o="80" c="ICE" n="102"/>
+		<ar pt="2512122244" pp="9" fb="ICE 102" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf"/>
+		<dp pt="2512122246" pp="9" fb="ICE 102" ppth="Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf"/>
+	</s>
+	<s id="6782525013740184-2512122258-1">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26736"/>
+		<dp pt="2512122258" pp="8" l="11" fb="RE 11" ppth="Kamen|Dortmund Hbf"/>
+	</s>
+	<s id="8726654214772994517-2512122128-13">
+		<tl f="N" t="p" o="NXRE" c="RE" n="89740"/>
+		<ar pt="2512122242" pp="10" l="6" fb="RE 6" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+		<dp pt="2512122244" pp="10" l="6" fb="RE 6" ppth="Kamen|Dortmund Hbf|Herne|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="4184016967672894566-2512122137-9">
+		<tl f="N" t="p" o="R2RB" c="RB" n="90090"/>
+		<ar pt="2512122219" pp="2" l="69" fb="RB 69" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+	</s>
+	<s id="-9010524317537371690-2512121948-15">
+		<tl f="N" t="p" o="NXRE" c="RE" n="89737"/>
+		<ar pt="2512122213" pp="9" l="6" fb="RE 6" ppth="Köln/Bonn Flughafen|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Kamen"/>
+		<dp pt="2512122215" pp="9" l="6" fb="RE 6" ppth="Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Bielefeld Hbf|Herford|Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="3862727355784812119-2512122247-1">
+		<tl t="p" o="R2" c="Bus" n="8901"/>
+		<dp pt="2512122247" pp="" l="RB89" fb="Bus RB89" ppth="Hamm-Westtünnen|Welver|Borgeln|Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Ehringhausen(Kr Lippstadt)|Geseke|Salzkotten|Scharmede|Paderborn Hbf"/>
+	</s>
+	<s id="7839853945287523601-2512122210-7">
+		<tl f="N" t="p" o="R2RB" c="RB" n="90041"/>
+		<ar pt="2512122237" pp="3" l="89" fb="RB 89" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Rinkerode|Drensteinfurt|Mersch(Westf)|Hamm-Bockum-Hövel"/>
+	</s>
+	<s id="-5717449421219076432-2512122049-18">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26835"/>
+		<ar pt="2512122240" pp="6" l="1" fb="RE 1" ppth="Köln Hbf|Köln Messe/Deutz|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge"/>
+	</s>
+	<s id="5534271823367149192-2512122115-13">
+		<tl f="N" t="p" o="R2RB" c="RB" n="90038"/>
+		<ar pt="2512122208" pp="2" l="89" fb="RB 89" ppth="Paderborn Hbf|Scharmede|Salzkotten|Geseke|Ehringhausen(Kr Lippstadt)|Dedinghausen|Lippstadt|Bad Sassendorf|Soest|Borgeln|Welver|Hamm-Westtünnen"/>
+		<dp pt="2512122224" pp="2" l="89" fb="RB 89" ppth="Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+</timetable>
