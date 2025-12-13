@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Essen Hbf">
+	<s id="3123055915998537166-2512130322-2">
+		<tl f="S" t="p" o="800337" c="S" n="30105"/>
+		<ar pt="2512130325" pp="11" l="1" fb="S 1" ppth="Essen West"/>
+		<dp pt="2512130326" pp="11" l="1" fb="S 1" ppth="Bochum Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="7956448759852962912-2512130348-1">
+		<tl f="S" t="p" o="8003S" c="S" n="22562"/>
+		<dp pt="2512130348" pp="12" l="6" fb="S 6" ppth="Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig"/>
+	</s>
+	<s id="-4318408441510468471-2512130253-15">
+		<tl f="S" t="p" o="800337" c="S" n="30104"/>
+		<ar pt="2512130335" pp="7" l="1" fb="S 1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West|Bochum Hbf|Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele"/>
+		<dp pt="2512130336" pp="7" l="1" fb="S 1" ppth="Essen West"/>
+	</s>
+	<s id="2945363079762650458-2512130256-6">
+		<tl f="S" t="p" o="8003S" c="S" n="22551"/>
+		<ar pt="2512130312" pp="12" l="6" fb="S 6" ppth="Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd"/>
+	</s>
+	<s id="-7123750474790906400-2512130249-9">
+		<tl f="N" t="p" o="NXRE" c="RE" n="26847"/>
+		<ar pt="2512130350" pp="6" l="1" fb="RE 1" ppth="Köln Hbf|Köln Messe/Deutz|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf"/>
+		<dp pt="2512130352" pp="6" l="1" fb="RE 1" ppth="Wattenscheid|Bochum Hbf|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="8503777394879306018-2512122325-13">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2512130304" pp="6" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf|Mainz Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Süd|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2512130306" pp="6" fb="ICE 920" ppth="Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+</timetable>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<timetable station="Wiesbaden Hbf">
+	<s id="3323724760251514813-2512130128-32">
+		<tl f="S" t="p" o="800528" c="S" n="35186"/>
+		<ar pt="2512130254" pp="4" l="1" fb="S 1" ppth="Rödermark-Ober Roden|Rodgau-Rollwald|Rodgau-Nieder Roden|Rodgau-Dudenhofen|Rodgau-Jügesheim|Rodgau-Hainhausen|Rodgau-Weiskirchen|Obertshausen(Kr Of)|Offenbach-Waldhof|Offenbach-Bieber|Offenbach(Main)Ost|Offenbach(Main) Marktplatz|Offenbach(Main) Ledermuseum|Offenbach(Main) Kaiserlei|Frankfurt(M)Mühlberg|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Griesheim|Frankfurt-Nied|Frankfurt-Höchst|Frankfurt-Höchst Farbwerke|Frankfurt-Sindlingen|Hattersheim(Main)|Eddersheim|Flörsheim(Main)|Hochheim(Main)|Mainz-Kastel|Wiesbaden Ost"/>
+	</s>
+	<s id="4753870957390372842-2512122134-10">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2512130257" pp="" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf"/>
+		<dp pt="2512130342" pp="" fb="IC 60402" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="5050996739024580445-2512130200-1">
+		<tl t="p" o="B4" c="Bus" n="969"/>
+		<dp pt="2512130200" pp="" l="S8E" fb="Bus S8E" ppth="Biebrich Bahnhof Wiesbaden Ost, Wiesbaden|Mainz Hbf"/>
+	</s>
+	<s id="-819953866383167602-2512130230-1">
+		<tl t="p" o="B4" c="Bus" n="971"/>
+		<dp pt="2512130230" pp="" l="S8E" fb="Bus S8E" ppth="Biebrich Bahnhof Wiesbaden Ost, Wiesbaden|Mainz Hbf"/>
+	</s>
+	<s id="8868050453695511606-2512122134-10">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2512130257" pp="" fb="NJ 402" hi="1" wings="4753870957390372842-2512122134" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Mainz Hbf"/>
+		<dp pt="2512130342" pp="" fb="NJ 402" hi="1" wings="4753870957390372842-2512122134" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="7446362405572114414-2512130235-3">
+		<tl t="p" o="B4" c="Bus" n="974"/>
+		<ar pt="2512130257" pp="" l="S8E" fb="Bus S8E" ppth="Mainz Hbf|Biebrich Bahnhof Wiesbaden Ost, Wiesbaden"/>
+	</s>
+	<s id="3721469164254885924-2512130205-1">
+		<tl f="S" t="p" o="800528" c="S" n="35191"/>
+		<dp pt="2512130205" pp="4" l="1" fb="S 1" ppth="Wiesbaden Ost|Mainz-Kastel|Hochheim(Main)|Flörsheim(Main)|Eddersheim|Hattersheim(Main)|Frankfurt-Sindlingen|Frankfurt-Höchst Farbwerke|Frankfurt-Höchst|Frankfurt-Nied|Frankfurt-Griesheim|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg|Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Offenbach-Bieber|Offenbach-Waldhof|Obertshausen(Kr Of)|Rodgau-Weiskirchen|Rodgau-Hainhausen|Rodgau-Jügesheim|Rodgau-Dudenhofen|Rodgau-Nieder Roden|Rodgau-Rollwald|Rödermark-Ober Roden"/>
+	</s>
+	<s id="-310035782200176935-2512130236-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="25682"/>
+		<dp pt="2512130236" pp="10" l="RB21" fb="HLB RB21" ppth="Wiesbaden-Erbenheim|Wiesbaden-Igstadt|Auringen-Medenbach|Niedernhausen(Taunus)"/>
+	</s>
+	<s id="1893592079421645600-2512130153-4">
+		<tl f="D" t="p" o="R4RH" c="VIA" n="25042"/>
+		<ar pt="2512130228" pp="1" l="RB10" fb="VIA RB10" ppth="Frankfurt(Main)Hbf|Frankfurt-Höchst|Mainz-Kastel"/>
+		<dp pt="2512130233" pp="1" l="RB10" fb="VIA RB10" ppth="Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)"/>
+	</s>
+	<s id="-1112773101819139024-2512130205-3">
+		<tl t="p" o="B4" c="Bus" n="970"/>
+		<ar pt="2512130227" pp="" l="S8E" fb="Bus S8E" ppth="Mainz Hbf|Biebrich Bahnhof Wiesbaden Ost, Wiesbaden"/>
+	</s>
+</timetable>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<timetable station="Solingen Hbf">
+	<s id="5225481075321639928-2512130238-7">
+		<tl t="p" o="TDRR" c="RRB" n="90187"/>
+		<ar pt="2512130307" pp="9" l="S7" fb="RRB S7" ppth="Remscheid-Lennep|Remscheid Hbf|Remscheid-Güldenwerth|Solingen-Schaberg|Solingen Mitte|Solingen Grünewald"/>
+	</s>
+	<s id="5384274296672037778-2512130352-1">
+		<tl t="p" o="TDRR" c="RRB" n="90162"/>
+		<dp pt="2512130352" pp="9" l="S7" fb="RRB S7" ppth="Solingen Grünewald|Solingen Mitte|Solingen-Schaberg|Remscheid-Güldenwerth|Remscheid Hbf|Remscheid-Lennep"/>
+	</s>
+	<s id="7303564620082367856-2512130337-1">
+		<tl f="N" t="p" o="NXRB" c="RB" n="17301"/>
+		<dp pt="2512130337" pp="3" l="48" fb="RB 48" ppth="Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="-8143392122959171942-2512130252-7">
+		<tl f="N" t="p" o="NXRB" c="RB" n="17392"/>
+		<ar pt="2512130319" pp="3" l="48" fb="RB 48" ppth="Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen"/>
+	</s>
+</timetable>

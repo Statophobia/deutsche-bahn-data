@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-2226467865786714148-2512122238-9">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2512130116" pp="5" fb="ICE 700" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="600924910572679442-2512130107-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81848"/>
+		<dp pt="2512130107" pp="9" l="RB71" fb="NBE RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="5114851222842093279-2512122120-18">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11041"/>
+		<ar pt="2512130102" pp="8" l="6" fb="RE 6" ppth="Westerland(Sylt)|Keitum|Morsum|Klanxbüll|Niebüll|Langenhorn(Schlesw)|Bredstedt|Husum|Friedrichstadt|Lunden|Heide(Holst)|Meldorf|St Michaelisdonn|Burg(Dithm)|Wilster|Itzehoe|Elmshorn"/>
+	</s>
+	<s id="-5030805675749971422-2512130107-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81748"/>
+		<dp pt="2512130107" pp="9" l="RB71" fb="NBE RB71" wings="600924910572679442-2512130107" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+</timetable>
