@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="4647045061590027487-2512131513-20">
+		<tl f="F" t="p" o="80" c="ICE" n="104"/>
+		<ar pt="2512132322" pp="3" fb="ICE 104" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2512132323" pp="3" fb="ICE 104" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-3474801166578235903-2512132324-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11238"/>
+		<ar pt="2512132327" pp="3" l="70" fb="RE 70" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2512132328" pp="3" l="70" fb="RE 70" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf"/>
+	</s>
+	<s id="3823343025688297496-2512132257-3">
+		<tl f="S" t="p" o="0S" c="S" n="45242"/>
+		<ar pt="2512132302" pp="1" l="5" fb="S 5" ppth="Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2512132303" pp="1" l="5" fb="S 5" ppth="Hamburg-Sternschanze|Hamburg Holstenstraße|Hamburg Diebsteich|Hamburg-Langenfelde|Hamburg-Stellingen|Hamburg-Eidelstedt|Hamburg Elbgaustraße"/>
+	</s>
+	<s id="5989660117101603018-2512132254-4">
+		<tl f="S" t="p" o="0S" c="S" n="42241"/>
+		<ar pt="2512132302" pp="2" l="2" fb="S 2" ppth="Hamburg-Altona(S)|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132303" pp="2" l="2" fb="S 2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+	<s id="8755025547868104085-2512132323-8">
+		<tl f="S" t="p" o="0S" c="S" n="45249"/>
+		<ar pt="2512132338" pp="2" l="5" fb="S 5" ppth="Hamburg Elbgaustraße|Hamburg-Eidelstedt|Hamburg-Stellingen|Hamburg-Langenfelde|Hamburg Diebsteich|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132339" pp="2" l="5" fb="S 5" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor"/>
+	</s>
+	<s id="8761698427434710498-2512132314-4">
+		<tl f="S" t="p" o="0S" c="S" n="42245"/>
+		<ar pt="2512132322" pp="2" l="2" fb="S 2" ppth="Hamburg-Altona(S)|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132323" pp="2" l="2" fb="S 2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+	<s id="9021029945607192126-2512132303-8">
+		<tl f="S" t="p" o="0S" c="S" n="45245"/>
+		<ar pt="2512132318" pp="2" l="5" fb="S 5" ppth="Hamburg Elbgaustraße|Hamburg-Eidelstedt|Hamburg-Stellingen|Hamburg-Langenfelde|Hamburg Diebsteich|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132319" pp="2" l="5" fb="S 5" pde="Stade" ppth="Hamburg Hbf (S-Bahn)|Hamburg-Hammerbrook|Hamburg Elbbrücken|Hamburg-Veddel|Hamburg-Wilhelmsburg|Hamburg-Harburg(S)|Hamburg-Harburg Rathaus|Hamburg-Heimfeld|Hamburg Neuwiedenthal|Hamburg-Neugraben"/>
+	</s>
+	<s id="-2530759670638883656-2512132312-11">
+		<tl f="S" t="p" o="0S" c="S" n="45250"/>
+		<ar pt="2512132342" pp="1" l="5" fb="S 5" pde="Stade" ppth="Hamburg-Neugraben|Hamburg Neuwiedenthal|Hamburg-Heimfeld|Hamburg-Harburg Rathaus|Hamburg-Harburg(S)|Hamburg-Wilhelmsburg|Hamburg-Veddel|Hamburg Elbbrücken|Hamburg-Hammerbrook|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2512132343" pp="1" l="5" fb="S 5" ppth="Hamburg-Sternschanze|Hamburg Holstenstraße|Hamburg Diebsteich|Hamburg-Langenfelde|Hamburg-Stellingen|Hamburg-Eidelstedt|Hamburg Elbgaustraße"/>
+	</s>
+	<s id="2191063313491257312-2512132242-11">
+		<tl f="S" t="p" o="0S" c="S" n="45244"/>
+		<ar pt="2512132312" pp="1" l="5" fb="S 5" pde="Buxtehude" ppth="Hamburg-Neugraben|Hamburg Neuwiedenthal|Hamburg-Heimfeld|Hamburg-Harburg Rathaus|Hamburg-Harburg(S)|Hamburg-Wilhelmsburg|Hamburg-Veddel|Hamburg Elbbrücken|Hamburg-Hammerbrook|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2512132313" pp="1" l="5" fb="S 5" ppth="Hamburg-Sternschanze|Hamburg Holstenstraße|Hamburg Diebsteich|Hamburg-Langenfelde|Hamburg-Stellingen|Hamburg-Eidelstedt|Hamburg Elbgaustraße"/>
+	</s>
+	<s id="2311776100741537619-2512132253-8">
+		<tl f="S" t="p" o="0S" c="S" n="45243"/>
+		<ar pt="2512132308" pp="2" l="5" fb="S 5" ppth="Hamburg Elbgaustraße|Hamburg-Eidelstedt|Hamburg-Stellingen|Hamburg-Langenfelde|Hamburg Diebsteich|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132309" pp="2" l="5" fb="S 5" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor"/>
+	</s>
+	<s id="4524183904094312236-2512132343-8">
+		<tl f="S" t="p" o="0S" c="S" n="45253"/>
+		<ar pt="2512132358" pp="2" l="5" fb="S 5" ppth="Hamburg Elbgaustraße|Hamburg-Eidelstedt|Hamburg-Stellingen|Hamburg-Langenfelde|Hamburg Diebsteich|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132359" pp="2" l="5" fb="S 5" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor"/>
+	</s>
+	<s id="-2154052854632777573-2512131654-22">
+		<tl f="F" t="p" o="80" c="ICE" n="1572"/>
+		<ar pt="2512132335" pp="3" fb="ICE 1572" ppth="Stuttgart Hbf|Wiesloch-Walldorf|Heidelberg Hbf|Weinheim(Bergstr)Hbf|Bensheim|Darmstadt Hbf|Frankfurt(Main)Hbf|Frankfurt(Main)West|Friedberg(Hess)|Gießen|Marburg(Lahn)|Treysa|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2512132336" pp="3" fb="ICE 1572" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="2963221721571732009-2512132320-2">
+		<tl f="S" t="p" o="0S" c="S" n="45246"/>
+		<ar pt="2512132322" pp="1" l="5" fb="S 5" ppth="Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2512132323" pp="1" l="5" fb="S 5" ppth="Hamburg-Sternschanze|Hamburg Holstenstraße|Hamburg Diebsteich|Hamburg-Langenfelde|Hamburg-Stellingen|Hamburg-Eidelstedt|Hamburg Elbgaustraße"/>
+	</s>
+	<s id="4732366791783193502-2512132327-3">
+		<tl f="S" t="p" o="0S" c="S" n="45248"/>
+		<ar pt="2512132332" pp="1" l="5" fb="S 5" ppth="Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2512132333" pp="1" l="5" fb="S 5" ppth="Hamburg-Sternschanze|Hamburg Holstenstraße|Hamburg Diebsteich|Hamburg-Langenfelde|Hamburg-Stellingen|Hamburg-Eidelstedt|Hamburg Elbgaustraße"/>
+	</s>
+	<s id="-802565751572788262-2512132304-4">
+		<tl f="S" t="p" o="0S" c="S" n="42243"/>
+		<ar pt="2512132312" pp="2" l="2" fb="S 2" ppth="Hamburg-Altona(S)|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132313" pp="2" l="2" fb="S 2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf"/>
+	</s>
+	<s id="2422774709714075071-2512132334-4">
+		<tl f="S" t="p" o="0S" c="S" n="42249"/>
+		<ar pt="2512132342" pp="2" l="2" fb="S 2" ppth="Hamburg-Altona(S)|Hamburg Holstenstraße|Hamburg-Sternschanze"/>
+		<dp pt="2512132343" pp="2" l="2" fb="S 2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+</timetable>
