@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Bielefeld Hbf">
+	<s id="3228759262734464758-2512140107-10">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89997"/>
+		<ar pt="2512140151" pp="6" l="69" fb="ERB 69" ppth="Hamm(Westf)Hbf|Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Isselhorst-Avenwedde|Bielefeld-Brackwede"/>
+	</s>
+	<s id="8281777346866060682-2512140100-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="89864"/>
+		<ar pt="2512140136" pp="3 A-C" l="RE70" fb="WFB RE70" pde="Braunschweig Hbf" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Brake(b Bielefeld)"/>
+	</s>
+	<s id="-8391860941016274917-2512132328-10">
+		<tl f="F" t="p" o="80" c="ICE" n="2965"/>
+		<ar pt="2512140134" pp="2" fb="ICE 2965" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf"/>
+		<dp pt="2512140136" pp="2" fb="ICE 2965" ppth="Herford|Minden(Westf)|Hannover Hbf|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="6107915132031571415-2512140107-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89998"/>
+		<dp pt="2512140107" pp="3 C-E" l="RB69" fb="RB69" ppth="Bielefeld-Brackwede|Isselhorst-Avenwedde|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="-5576208571618979334-2512140023-13">
+		<tl f="D" t="p" o="N2" c="NWB" n="75088"/>
+		<ar pt="2512140117" pp="8" l="RB74" fb="RB74" ppth="Paderborn Hbf|Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede"/>
+	</s>
+	<s id="6107915132031571415-2512140115-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89998"/>
+		<dp pt="2512140115" pp="3 C-E" l="69" fb="ERB 69" ppth="Bielefeld-Brackwede|Isselhorst-Avenwedde|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf"/>
+	</s>
+</timetable>

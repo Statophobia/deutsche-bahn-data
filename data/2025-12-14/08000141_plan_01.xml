@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Tübingen Hbf">
+	<s id="6304081973600522853-2512140138-2">
+		<tl t="p" o="SBSMEX" c="MEX" n="34063"/>
+		<ar pt="2512140150" pp="" l="12" fb="MEX 12" ppth="Reutlingen Hbf"/>
+	</s>
+	<s id="-2640364525311600618-2512140104-1">
+		<tl t="p" o="SBSMEX" c="MEX" n="34062"/>
+		<dp pt="2512140104" pp="" l="12" fb="MEX 12" ppth="Reutlingen Hbf"/>
+	</s>
+	<s id="-5880676472383719829-2512140119-10">
+		<tl f="N" t="p" o="8006D2" c="RB" n="22892"/>
+		<ar pt="2512140152" pp="2" l="RB63" fb="RB63" ppth="Herrenberg|Herrenberg Zwerchweg|Gültstein|Altingen(Württ)|Entringen|Pfäffingen|Unterjesingen Mitte|Unterjesingen Sandäcker|Tübingen West"/>
+		<dp pt="2512140153" pp="2" l="RB63" fb="RB63" ppth="Tübingen-Lustnau|Kirchentellinsfurt|Wannweil|Reutlingen-Betzingen|Reutlingen West|Reutlingen Hbf"/>
+	</s>
+	<s id="-2015737179051801522-2512140122-7">
+		<tl f="N" t="p" o="8006D2" c="RB" n="22705"/>
+		<ar pt="2512140141" pp="1" l="RB63" fb="RB63" ppth="Reutlingen Hbf|Reutlingen West|Reutlingen-Betzingen|Wannweil|Kirchentellinsfurt|Tübingen-Lustnau"/>
+		<dp pt="2512140141" pp="1" l="RB63" fb="RB63" ppth="Tübingen West|Unterjesingen Sandäcker|Unterjesingen Mitte|Pfäffingen|Entringen|Altingen(Württ)|Gültstein|Herrenberg Zwerchweg|Herrenberg"/>
+	</s>
+</timetable>

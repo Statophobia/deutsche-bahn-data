@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="-2226467865786714148-2512132238-6">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2512140100" pp="13" fb="ICE 700" ppth="Berlin Hbf|Berlin-Spandau|Salzwedel|Uelzen|Hamburg-Harburg"/>
+		<dp pt="2512140103" pp="13" fb="ICE 700" hi="1" ppth="Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="6955285929637652486-2512140156-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81901"/>
+		<dp pt="2512140156" pp="11" l="RB41" fb="ME RB41" ppth="Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt"/>
+	</s>
+	<s id="9095766634084152066-2512140015-15">
+		<tl f="D" t="p" o="R1" c="ME" n="81944"/>
+		<ar pt="2512140144" pp="11" l="RB41" fb="ME RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-2529627520637122615-2512140133-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81601"/>
+		<dp pt="2512140133" pp="12A-B" l="RB31" fb="ME RB31" ppth="Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg"/>
+	</s>
+	<s id="436096027952993164-2512131659-17">
+		<tl f="F" t="p" o="85" c="ICE" n="272"/>
+		<ar pt="2512140113" pp="13" fb="ICE 272" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Lüneburg|Hamburg-Harburg"/>
+	</s>
+	<s id="4760651137475633059-2512132359-13">
+		<tl f="D" t="p" o="R1" c="ME" n="81644"/>
+		<ar pt="2512140109" pp="12A-B" l="RB31" fb="ME RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+</timetable>

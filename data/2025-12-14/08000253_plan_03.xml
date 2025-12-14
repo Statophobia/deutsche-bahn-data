@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Mönchengladbach Hbf">
+	<s id="6481226478516242274-2512140253-11">
+		<tl t="p" o="NXRE" c="NX" n="26401"/>
+		<ar pt="2512140348" pp="7" l="RE4" fb="RE4" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf"/>
+		<dp pt="2512140350" pp="7" l="RE4" fb="RE4" ppth="Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Düsseldorf Flughafen Terminal"/>
+	</s>
+	<s id="7361030457339348651-2512140210-13">
+		<tl t="p" o="B2" c="Bus" n="80040"/>
+		<ar pt="2512140341" pp="" l="S8" fb="Bus S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="4285704588090912784-2512140235-13">
+		<tl f="N" t="p" o="800333" c="RB" n="10305"/>
+		<ar pt="2512140320" pp="2" l="RB33" fb="RB33" ppth="Duisburg Hbf|Duisburg-Hochfeld Süd|Rheinhausen Ost|Rheinhausen|Krefeld-Hohenbudberg Chempark|Krefeld-Uerdingen|Krefeld-Linn|Krefeld-Oppum|Krefeld Hbf|Forsthaus|Anrath|Viersen"/>
+	</s>
+	<s id="-6646861165358234995-2512140338-1">
+		<tl f="N" t="p" o="800333" c="RB" n="10304"/>
+		<dp pt="2512140338" pp="2" l="RB33" fb="RB33" ppth="Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd|Duisburg Hbf"/>
+	</s>
+</timetable>
