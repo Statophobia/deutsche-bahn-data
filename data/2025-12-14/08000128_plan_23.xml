@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="5611624481288663122-2512142336-3">
+		<tl f="D" t="p" o="R1" c="ME" n="93505"/>
+		<ar pt="2512142349" pp="6" l="RE2" fb="RE2" ppth="Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="-4587927172511964833-2512142305-6">
+		<tl f="D" t="p" o="N4" c="CAN" n="24096"/>
+		<ar pt="2512142345" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Eschwege|Eschwege-Niederhone|Bad Sooden-Allendorf|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="-2771848429149037972-2512142314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24039"/>
+		<dp pt="2512142314" pp="5" l="RB83" fb="RB83" wings="-5254818801804111887-2512142314" ppth="Friedland(Han)|Eichenberg|Witzenhausen Nord|Gertenbach|Hedemünden|Hann Münden|Speele|Fuldatal-Ihringshausen|Vellmar-Niedervellmar|Kassel Hbf"/>
+	</s>
+	<s id="-6720494044942028133-2512142309-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82848"/>
+		<dp pt="2512142309" pp="6" l="RE2" fb="RE2" ppth="Nörten-Hardenberg|Northeim(Han)"/>
+	</s>
+	<s id="7233032038798774885-2512142246-11">
+		<tl f="D" t="p" o="N4" c="CAN" n="24036"/>
+		<ar pt="2512142345" pp="5" l="RB83" fb="RB83" wings="-4587927172511964833-2512142305" ppth="Kassel Hbf|Vellmar-Niedervellmar|Fuldatal-Ihringshausen|Speele|Hann Münden|Hedemünden|Gertenbach|Witzenhausen Nord|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="-5254818801804111887-2512142314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24099"/>
+		<dp pt="2512142314" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Friedland(Han)|Eichenberg|Bad Sooden-Allendorf|Eschwege-Niederhone|Eschwege"/>
+	</s>
+</timetable>
