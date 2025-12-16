@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Nürnberg Hbf">
+	<s id="5533849064061247591-2512160012-8">
+		<tl f="N" t="p" o="800759" c="RE" n="3590"/>
+		<ar pt="2512160115" pp="19" l="RE40" fb="RE40" ppth="Schwandorf|Amberg|Sulzbach-Rosenberg|Neukirchen(b Sulzb)|Etzelwang|Hartmannshof|Hersbruck(r Pegnitz)"/>
+	</s>
+	<s id="7919139153560376686-2512160033-10">
+		<tl f="N" t="p" o="800720" c="RB" n="58554"/>
+		<ar pt="2512160107" pp="17" l="RB30" fb="RB30" ppth="Hersbruck(r Pegnitz)|Reichenschwand|Neunkirchen a Sand|Lauf(rechts Pegnitz)|Ludwigshöhe|Rückersdorf(Mfr)|Behringersdorf|Nürnberg-Erlenstegen|Nürnberg Ost"/>
+	</s>
+	<s id="-1100860829512283148-2512151913-11">
+		<tl f="F" t="p" o="81" c="ICE" n="494"/>
+		<ar pt="2512160117" pp="6" fb="ICE 494" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Schärding|Passau Hbf|Plattling|Straubing|Regensburg Hbf"/>
+	</s>
+	<s id="-9208015249831352440-2512160103-1">
+		<tl f="N" t="p" o="800720" c="RB" n="58569"/>
+		<dp pt="2512160103" pp="20" l="RB30" fb="RB30" ppth="Nürnberg Ost|Nürnberg-Erlenstegen|Behringersdorf|Rückersdorf(Mfr)|Ludwigshöhe|Lauf(rechts Pegnitz)|Neunkirchen a Sand|Reichenschwand|Hersbruck(r Pegnitz)"/>
+	</s>
+	<s id="-4806817207890998144-2512152312-5">
+		<tl f="F" t="p" o="80" c="ICE" n="904"/>
+		<ar pt="2512160111" pp="6" fb="ICE 904" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth"/>
+		<dp pt="2512160124" pp="6" fb="ICE 904" ppth="Würzburg Hbf|Erfurt Hbf|Naumburg(Saale)Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="8886920096791245349-2512152300-5">
+		<tl t="p" o="A9" c="Bus" n="10112"/>
+		<ar pt="2512160125" pp="" l="EV" fb="Bus EV" ppth="Hauptbahnhof, Regensburg|Bahnhof, Beratzhausen|Bahnhof, Parsberg|Bahnhof, Neumarkt i.d. Oberpfalz"/>
+	</s>
+	<s id="4271244772063134211-2512160106-1">
+		<tl f="S" t="p" o="800721" c="S" n="39494"/>
+		<dp pt="2512160106" pp="22" l="S4" fb="S4" ppth="Nürnberg-Schweinau|Nürnberg-Stein|Unterasbach|Oberasbach|Anwanden|Roßtal|Roßtal Wegbrücke|Raitersaich|Heilsbronn|Petersaurach Nord|Wicklesgreuth|Sachsen(b Ansbach)|Ansbach"/>
+	</s>
+	<s id="2312296716933966404-2512151548-13">
+		<tl f="F" t="p" o="80" c="ICE" n="1021"/>
+		<ar pt="2512160104" pp="12" fb="ICE 1021" ppth="Hamburg-Altona|Hamburg Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Nürnberg Hbf">
+	<s id="-5914790304571709627-2512160000-5">
+		<tl t="p" o="A9" c="Bus" n="10114"/>
+		<ar pt="2512160225" pp="" l="EV" fb="Bus EV" ppth="Hauptbahnhof, Regensburg|Bahnhof, Beratzhausen|Bahnhof, Parsberg|Bahnhof, Neumarkt i.d. Oberpfalz"/>
+	</s>
+	<s id="-7547304040443208216-2512152010-8">
+		<tl t="p" o="81" c="NJ" n="490"/>
+		<ar pt="2512160217" pp="5" fb="NJ 490" wings="-6813803786124510421-2512152010" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Regensburg Hbf"/>
+		<dp pt="2512160305" pp="4" fb="NJ 490" wings="-8677182982400525824-2512152046" ppth="Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-6813803786124510421-2512152010-8">
+		<tl t="p" o="81" c="NJ" n="40490"/>
+		<ar pt="2512160217" pp="5" fb="NJ 40490" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Regensburg Hbf"/>
+		<dp pt="2512160300" pp="5" fb="NJ 40490" ppth="Würzburg Hbf|Kassel-Wilhelmshöhe|Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal"/>
+	</s>
+</timetable>
