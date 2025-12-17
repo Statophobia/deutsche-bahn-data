@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="1543699214740589206-2512170222-6">
+		<tl f="N" t="p" o="800165" c="RE" n="21802"/>
+		<ar pt="2512170254" pp="14" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2512170255" pp="14" l="FEX" fb="FEX" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-649058799789580020-2512162238-10">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2512170219" pp="12" fb="ICE 1707" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Lüneburg|Uelzen|Lehrte|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2512170222" pp="12" fb="ICE 1707" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+</timetable>

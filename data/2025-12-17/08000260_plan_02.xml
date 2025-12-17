@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="-4806817207890998144-2512162312-6">
+		<tl f="F" t="p" o="80" c="ICE" n="904"/>
+		<ar pt="2512170223" pp="5" fb="ICE 904" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Nürnberg Hbf"/>
+		<dp pt="2512170225" pp="5" fb="ICE 904" ppth="Erfurt Hbf|Naumburg(Saale)Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-4272298498907669914-2512161859-7">
+		<tl t="p" o="81" c="NJ" n="40421"/>
+		<ar pt="2512170225" pp="4" fb="NJ 40421" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2512170229" pp="4" fb="NJ 40421" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="-3823254010841261196-2512161859-7">
+		<tl t="p" o="84" c="NJ" n="421"/>
+		<ar pt="2512170225" pp="4" fb="NJ 421" wings="-4272298498907669914-2512161859" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2512170229" pp="4" fb="NJ 421" wings="-4272298498907669914-2512161859" ppth="Nürnberg Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+</timetable>
