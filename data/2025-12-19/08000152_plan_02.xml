@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="7630315185751079111-2512182315-7">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2512190137" pp="13" fb="ICE 273" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf"/>
+		<dp pt="2512190210" pp="13" fb="ICE 273" ppth="Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="8446418061730467865-2512182353-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2512190242" pp="12" fb="ICE 1540" ppth="Berlin Hbf|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Braunschweig Hbf"/>
+		<dp pt="2512190246" pp="12" fb="ICE 1540" ppth="Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="5488595773963622560-2512190140-6">
+		<tl t="p" o="TDHS" c="Bus" n="5507"/>
+		<ar pt="2512190225" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="5987880351959364904-2512182327-12">
+		<tl f="F" t="p" o="80" c="ICE" n="1541"/>
+		<ar pt="2512190235" pp="10" fb="ICE 1541" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Minden(Westf)"/>
+		<dp pt="2512190242" pp="10" fb="ICE 1541" ppth="Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="7633297469939212508-2512190240-1">
+		<tl t="p" o="TDHS" c="Bus" n="5510"/>
+		<dp pt="2512190240" pp="" l="S5" fb="Bus S5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="-7542251644394529376-2512190210-6">
+		<tl t="p" o="TDHS" c="Bus" n="5509"/>
+		<ar pt="2512190255" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+</timetable>
