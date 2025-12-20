@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="8551164134503836777-2512202153-4">
+		<tl f="N" t="p" o="NZ" c="RE" n="52032"/>
+		<ar pt="2512202223" pp="8" l="IC56" fb="RE IC56" ppth="Bremen Hbf|Delmenhorst|Hude"/>
+	</s>
+	<s id="-7763686466636471476-2512201742-13">
+		<tl f="F" t="p" o="80" c="IC" n="2032"/>
+		<ar pt="2512202223" pp="8" fb="IC 2032" wings="8551164134503836777-2512202153" ppth="Leipzig Hbf|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Helmstedt|Braunschweig Hbf|Hannover Hbf|Nienburg(Weser)|Verden(Aller)|Bremen Hbf|Delmenhorst|Hude"/>
+	</s>
+	<s id="8133677848871379809-2512202245-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83387"/>
+		<ar pt="2512202257" pp="1" l="RS3" fb="RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2512202305" pp="1" l="RS3" fb="RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Neustadt|Bremen Hbf"/>
+	</s>
+	<s id="5655793927489824381-2512202236-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75237"/>
+		<dp pt="2512202236" pp="5" l="RE18" fb="RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="8726780418824916338-2512202140-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="75236"/>
+		<ar pt="2512202224" pp="7" l="RE18" fb="RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-5509462862836136747-2512202258-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="83384"/>
+		<dp pt="2512202258" pp="8" l="RS3" fb="RS3" ppth="Oldenburg-Wechloy|Bad Zwischenahn"/>
+	</s>
+	<s id="1221649411598224077-2512202131-10">
+		<tl f="D" t="p" o="N1" c="NWB" n="83382"/>
+		<ar pt="2512202209" pp="7" l="RS3" fb="RS3" ppth="Bremen Hbf|Bremen Neustadt|Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting"/>
+	</s>
+	<s id="3915801585133935916-2512202022-10">
+		<tl f="N" t="p" o="800295" c="RE" n="4439"/>
+		<ar pt="2512202226" pp="1" l="RE1" fb="RE1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+		<dp pt="2512202235" pp="1" l="RE1" fb="RE1" ppth="Hude|Delmenhorst|Bremen Hbf|Bremen-Mahndorf|Achim|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Neustadt am Rübenberge|Wunstorf|Hannover Hbf"/>
+	</s>
+</timetable>
