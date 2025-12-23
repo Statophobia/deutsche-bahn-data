@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="-60385797317179959-2512232232-10">
+		<tl t="p" o="TR" c="TR" n="25445"/>
+		<ar pt="2512232325" pp="3" l="RB26" fb="RB26" ppth="Köln/Bonn Flughafen|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2512232327" pp="3" l="RB26" fb="RB26" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf"/>
+	</s>
+	<s id="2579078581490934825-2512231852-8">
+		<tl f="F" t="p" o="80" c="ICE" n="552"/>
+		<ar pt="2512232338" pp="3" fb="ICE 552" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hannover Hbf|Hagen Hbf|Wuppertal Hbf|Köln Hbf"/>
+	</s>
+	<s id="2425478070436215118-2512232205-14">
+		<tl t="p" o="NXRB" c="NX" n="17375"/>
+		<ar pt="2512232305" pp="3" l="RB48" fb="RB48" ppth="Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2512232307" pp="3" l="RB48" fb="RB48" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem"/>
+	</s>
+	<s id="8794424153407784724-2512232102-37">
+		<tl t="p" o="TR" c="TR" n="25444"/>
+		<ar pt="2512232331" pp="1" l="RB26" fb="RB26" ppth="Mainz Hbf|Mainz-Mombach|Budenheim|Uhlerborn|Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512232333" pp="1" l="RB26" fb="RB26" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="3246898130497992209-2512232216-10">
+		<tl t="p" o="NXRE" c="NX" n="28538"/>
+		<ar pt="2512232302" pp="1" l="RE5" fb="RE5" ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512232304" pp="1" l="RE5" fb="RE5" ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+	<s id="-2194013125792532700-2512232343-4">
+		<tl t="p" o="NXRB" c="NX" n="17382"/>
+		<ar pt="2512232353" pp="1" l="RB48" fb="RB48" ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2512232354" pp="1" l="RB48" fb="RB48" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+</timetable>
