@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Süd">
+	<s id="1003446772902483359-2512232059-11">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2512240211" pp="7" fb="NJ 470" wings="-5591597380485360579-2512232059" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2512240214" pp="7" fb="NJ 470" wings="-5591597380485360579-2512232059" ppth="Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-5591597380485360579-2512232059-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2512240211" pp="7" fb="IC 60470" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2512240214" pp="7" fb="IC 60470" ppth="Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="7193984266497492867-2512240215-2">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24377"/>
+		<ar pt="2512240221" pp="6" l="RB58" fb="RB58" ppth="Frankfurt(Main)Hbf"/>
+		<dp pt="2512240223" pp="6" l="RB58" fb="RB58" ppth="Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf"/>
+	</s>
+	<s id="8858984510411719527-2512240204-2">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15548"/>
+		<ar pt="2512240209" pp="5" l="RB51" fb="RB51" ppth="Frankfurt(Main)Hbf"/>
+		<dp pt="2512240210" pp="5" l="RB51" fb="RB51" ppth="Offenbach(Main)Hbf|Hanau Hbf|Wolfgang(Kr Hanau)|Rodenbach(b Hanau)|Langenselbold|Niedermittlau|Hailer-Meerholz|Gelnhausen|Haitz-Höchst|Wirtheim|Wächtersbach"/>
+	</s>
+</timetable>

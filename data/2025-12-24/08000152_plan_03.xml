@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="-5676559823961510574-2512240306-7">
+		<tl t="p" o="TDHS" c="SBH" n="34513"/>
+		<ar pt="2512240324" pp="2" l="S5" fb="S5" ppth="Hannover Flughafen|Langenhagen Pferdemarkt|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt"/>
+	</s>
+	<s id="5816486980024903099-2512240348-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82856"/>
+		<dp pt="2512240348" pp="8" l="RE3" fb="RE3" ppth="Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg|Uelzen"/>
+	</s>
+	<s id="-1322213725335537631-2512240335-1">
+		<tl t="p" o="TDHS" c="SBH" n="34514"/>
+		<dp pt="2512240335" pp="2" l="S5" fb="S5" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Langenhagen Pferdemarkt|Hannover Flughafen"/>
+	</s>
+	<s id="-3194090255167566486-2512240220-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="89789"/>
+		<ar pt="2512240304" pp="11" l="RE70" fb="RE70" ppth="Braunschweig Hbf|Vechelde|Peine|Vöhrum|Hämelerwald|Lehrte"/>
+	</s>
+	<s id="-2529627520637122615-2512240133-21">
+		<tl f="D" t="p" o="R1" c="ME" n="81601"/>
+		<ar pt="2512240356" pp="3" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte"/>
+	</s>
+	<s id="7917836244737636123-2512240314-1">
+		<tl f="D" t="p" o="W3" c="WFB" n="95845"/>
+		<dp pt="2512240314" pp="11" l="RE70" fb="RE70" ppth="Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
+	</s>
+	<s id="-7760418834858959960-2512232335-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1272"/>
+		<ar pt="2512240353" pp="10" fb="ICE 1272" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Göttingen"/>
+		<dp pt="2512240417" pp="10" fb="ICE 1272" ppth="Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>
