@@ -1,0 +1,1209 @@
+<?xml version="1.0" ?><timetable station="Herford" eva="8000162">
+
+<s id="1030967217295047660-2512280012-3" eva="8000162">
+    <m id="r2547433" t="h" from="2512280000" to="2512280230" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280029" ts-tts="25-12-28 02:16:03.457" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-28 01:16:03.827" pr="1"/>
+    <ar ppth="Bielefeld Hbf|Brake(b Bielefeld)" pp="1" ct="2512280023" pt="2512280023" l="RB61" fb="RB61">
+        <m id="r40099784" t="d" c="67" ts="2512280037" ts-tts="25-12-28 00:37:34.695"/>
+        <m id="r40100974" t="d" c="2" ts="2512280132" ts-tts="25-12-28 01:32:28.135"/>
+    </ar>
+    <dp ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bruchmühlen|Melle|Westerhausen|Wissingen|Osnabrück Hbf" pp="1" ct="2512280127" pt="2512280032" l="RB61" fb="RB61">
+        <m id="r40099784" t="d" c="67" ts="2512280037" ts-tts="25-12-28 00:37:34.695"/>
+        <m id="r40100974" t="d" c="2" ts="2512280132" ts-tts="25-12-28 01:32:28.135"/>
+    </dp>
+    <tl f="D" t="p" o="R2RB" c="ERB" n="20392"/>
+</s>
+
+
+<s id="3342573898987802678-2512281834-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101066" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.191"/>
+    </ar>
+</s>
+
+
+<s id="-1740291150744813612-2512281836-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101013" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.827"/>
+        <m id="r40101709" t="f" c="1000" ts="2512280149" ts-tts="25-12-28 01:49:27.742"/>
+        <m id="r40101710" t="f" c="0" ts="2512280149" ts-tts="25-12-28 01:49:27.742"/>
+        <m id="r40101711" t="f" c="0" ts="2512280149" ts-tts="25-12-28 01:49:27.742"/>
+    </dp>
+</s>
+
+
+<s id="-7006184236806664239-2512280200-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-28 01:16:03.827" pr="1"/>
+    <ar ct="2512280209" l="RE78"/>
+    <dp ct="2512280210" l="RE78"/>
+</s>
+
+
+<s id="-7288245418489232345-2512291428-5" eva="8000162">
+    <ar ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf" pp="4" pt="2512291527" fb="IC 2547"/>
+    <dp ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf" pp="4" pt="2512291528" fb="IC 2547"/>
+    <tl f="F" t="s" o="NZ" c="IC" n="2547"/>
+</s>
+
+
+<s id="-5000339565934622651-2512291228-5" eva="8000162">
+    <ar ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf" pp="4" pt="2512291327" fb="IC 2549"/>
+    <dp ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf" pp="4" pt="2512291328" fb="IC 2549"/>
+    <tl f="F" t="s" o="NZ" c="IC" n="2549"/>
+</s>
+
+
+<s id="2168841663311903029-2512292028-5" eva="8000162">
+    <ar ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf" pp="4" pt="2512292127" fb="IC 2541"/>
+    <dp ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf" pp="4" pt="2512292128" fb="IC 2541"/>
+    <tl f="F" t="s" o="NZ" c="IC" n="2541"/>
+</s>
+
+
+<s id="-1225715644993801639-2512291028-5" eva="8000162">
+    <ar ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf" pp="4" pt="2512291127" fb="IC 2531"/>
+    <dp ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf" pp="4" pt="2512291128" fb="IC 2531"/>
+    <tl f="F" t="s" o="NZ" c="IC" n="2531"/>
+</s>
+
+
+<s id="-8143840533396896717-2512280912-3" eva="8000162">
+    <m id="r2547456" t="h" from="2512280734" to="2512281126" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280158" ts-tts="25-12-28 01:58:51.810" pr="1"/>
+    <ar ct="2512280923" l="RB61">
+        <m id="r40102834" t="f" c="1000" ts="2512280159" ts-tts="25-12-28 01:59:07.154"/>
+        <m id="r40102835" t="f" c="0" ts="2512280159" ts-tts="25-12-28 01:59:07.155"/>
+        <m id="r40102928" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </ar>
+    <dp ct="2512280932" l="RB61">
+        <m id="r40102834" t="f" c="1000" ts="2512280159" ts-tts="25-12-28 01:59:07.155"/>
+        <m id="r40102835" t="f" c="0" ts="2512280159" ts-tts="25-12-28 01:59:07.155"/>
+        <m id="r40102928" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </dp>
+</s>
+
+
+<s id="987234471671236820-2512280734-20" eva="8000162">
+    <m id="r2547456" t="h" from="2512280734" to="2512281126" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280158" ts-tts="25-12-28 01:58:51.810" pr="1"/>
+    <ar ct="2512280927" l="RB61">
+        <m id="r40102709" t="f" c="1000" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102711" t="f" c="0" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102712" t="f" c="0" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102926" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.436"/>
+    </ar>
+    <dp ct="2512280936" l="RB61">
+        <m id="r40102709" t="f" c="1000" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102711" t="f" c="0" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102712" t="f" c="0" ts="2512280157" ts-tts="25-12-28 01:57:50.889"/>
+        <m id="r40102926" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.436"/>
+    </dp>
+</s>
+
+
+<s id="6238951429103753008-2512280747-9" eva="8000162">
+    <ar ct="2512280827" l="RB61">
+        <m id="r40102924" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </ar>
+    <dp ct="2512280836" l="RB61">
+        <m id="r40102924" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </dp>
+</s>
+
+
+<s id="4372627599748451233-2512281012-3" eva="8000162">
+    <ar ct="2512281023" l="RB61">
+        <m id="r40102925" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </ar>
+    <dp ct="2512281032" l="RB61">
+        <m id="r40102925" t="q" c="85" ts="2512280204" ts-tts="25-12-28 02:04:42.435"/>
+    </dp>
+</s>
+
+
+<s id="4114624256052207848-2512281136-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101022" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.826"/>
+        <m id="r40102897" t="f" c="1000" ts="2512280202" ts-tts="25-12-28 02:02:25.299"/>
+        <m id="r40102898" t="f" c="0" ts="2512280202" ts-tts="25-12-28 02:02:25.299"/>
+    </dp>
+</s>
+
+
+<s id="6189751861704646998-2512281736-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101007" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.827"/>
+        <m id="r40102840" t="f" c="1000" ts="2512280159" ts-tts="25-12-28 01:59:37.634"/>
+        <m id="r40102841" t="f" c="0" ts="2512280159" ts-tts="25-12-28 01:59:37.634"/>
+        <m id="r40102842" t="f" c="0" ts="2512280159" ts-tts="25-12-28 01:59:37.634"/>
+    </dp>
+</s>
+
+
+<s id="4012522262029871514-2512281036-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101009" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.825"/>
+        <m id="r40102732" t="f" c="1000" ts="2512280157" ts-tts="25-12-28 01:58:06.128"/>
+        <m id="r40102733" t="f" c="0" ts="2512280158" ts-tts="25-12-28 01:58:06.128"/>
+        <m id="r40102734" t="f" c="0" ts="2512280158" ts-tts="25-12-28 01:58:06.128"/>
+    </dp>
+</s>
+
+
+<s id="147746458169446008-2512281436-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101031" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.826"/>
+        <m id="r40102552" t="f" c="1000" ts="2512280156" ts-tts="25-12-28 01:56:49.987"/>
+        <m id="r40102555" t="f" c="0" ts="2512280156" ts-tts="25-12-28 01:56:49.987"/>
+        <m id="r40102556" t="f" c="0" ts="2512280156" ts-tts="25-12-28 01:56:49.987"/>
+    </dp>
+</s>
+
+
+<s id="6477159314363009840-2512280736-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101021" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.825"/>
+        <m id="r40102357" t="f" c="1000" ts="2512280154" ts-tts="25-12-28 01:55:03.270"/>
+        <m id="r40102360" t="f" c="0" ts="2512280154" ts-tts="25-12-28 01:55:03.270"/>
+    </dp>
+</s>
+
+
+<s id="658712178041331286-2512280836-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101015" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.825"/>
+        <m id="r40102186" t="f" c="1000" ts="2512280153" ts-tts="25-12-28 01:53:31.777"/>
+        <m id="r40102188" t="f" c="0" ts="2512280153" ts-tts="25-12-28 01:53:31.777"/>
+        <m id="r40102189" t="f" c="0" ts="2512280153" ts-tts="25-12-28 01:53:31.777"/>
+    </dp>
+</s>
+
+
+<s id="552625695567990747-2512281334-20" eva="8000162">
+    <m id="r2547455" t="h" from="2512280748" to="2512281547" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280152" ts-tts="25-12-28 01:52:45.858" pr="1"/>
+    <ar cpth="Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln" ct="2512281527" l="RB61"/>
+    <dp cpth="Brake(b Bielefeld)|Bielefeld Hbf" ct="2512281536" l="RB61"/>
+</s>
+
+
+<s id="6603073177121366315-2512280834-20" eva="8000162">
+    <m id="r2547455" t="h" from="2512280748" to="2512281547" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280152" ts-tts="25-12-28 01:52:45.858" pr="1"/>
+    <ar cpth="" cs="c" clt="2512280129" l="RB61">
+        <m id="r40100915" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:24.744"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2512280129" l="RB61">
+        <m id="r40100915" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:24.744"/>
+    </dp>
+</s>
+
+
+<s id="-764229401210250244-2512281112-3" eva="8000162">
+    <m id="r2547455" t="h" from="2512280748" to="2512281547" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512280152" ts-tts="25-12-28 01:52:45.858" pr="1"/>
+    <ar cpth="" cs="c" clt="2512280129" l="RB61">
+        <m id="r40100923" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:40.007"/>
+        <m id="r40100924" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:40.007"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2512280129" l="RB61">
+        <m id="r40100923" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:40.007"/>
+        <m id="r40100924" t="d" c="36" ts="2512280129" ts-tts="25-12-28 01:29:40.007"/>
+    </dp>
+</s>
+
+
+<s id="5974710740393533751-2512280936-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101011" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.825"/>
+        <m id="r40102007" t="f" c="1000" ts="2512280152" ts-tts="25-12-28 01:52:15.436"/>
+        <m id="r40102009" t="f" c="0" ts="2512280152" ts-tts="25-12-28 01:52:15.436"/>
+        <m id="r40102010" t="f" c="0" ts="2512280152" ts-tts="25-12-28 01:52:15.436"/>
+    </dp>
+</s>
+
+
+<s id="2150153327905637250-2512281236-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101017" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.826"/>
+        <m id="r40101610" t="f" c="1000" ts="2512280147" ts-tts="25-12-28 01:47:56.294"/>
+        <m id="r40101612" t="f" c="0" ts="2512280147" ts-tts="25-12-28 01:47:56.294"/>
+        <m id="r40101613" t="f" c="0" ts="2512280147" ts-tts="25-12-28 01:47:56.294"/>
+    </dp>
+</s>
+
+
+<s id="7414248167013621746-2512272234-20" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln" pp="3" ct="2512280145" pt="2512280027" l="RB61" fb="RB61">
+        <m id="r40099758" t="d" c="67" ts="2512280036" ts-tts="25-12-28 00:37:04.102"/>
+        <m id="r40100996" t="d" c="2" ts="2512280133" ts-tts="25-12-28 01:34:01.234"/>
+    </ar>
+    <dp ppth="Brake(b Bielefeld)|Bielefeld Hbf" pp="3" ct="2512280146" pt="2512280036" l="RB61" fb="RB61">
+        <m id="r40099758" t="d" c="67" ts="2512280036" ts-tts="25-12-28 00:37:04.102"/>
+        <m id="r40100996" t="d" c="2" ts="2512280133" ts-tts="25-12-28 01:34:01.234"/>
+    </dp>
+    <tl f="D" t="p" o="R2RB" c="ERB" n="20389"/>
+</s>
+
+
+<s id="8599047848639220891-2512281636-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101033" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.827"/>
+        <m id="r40101298" t="f" c="1000" ts="2512280143" ts-tts="25-12-28 01:43:49.607"/>
+        <m id="r40101299" t="f" c="0" ts="2512280143" ts-tts="25-12-28 01:43:49.607"/>
+        <m id="r40101300" t="f" c="0" ts="2512280143" ts-tts="25-12-28 01:43:49.607"/>
+    </dp>
+</s>
+
+
+<s id="-4890645093370822230-2512281336-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101019" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.826"/>
+        <m id="r40101213" t="f" c="1000" ts="2512280142" ts-tts="25-12-28 01:42:30.803"/>
+        <m id="r40101214" t="f" c="0" ts="2512280142" ts-tts="25-12-28 01:42:30.803"/>
+        <m id="r40101215" t="f" c="0" ts="2512280142" ts-tts="25-12-28 01:42:30.803"/>
+    </dp>
+</s>
+
+
+<s id="1877748265748986768-2512281536-1" eva="8000162">
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" l="RB77">
+        <m id="r40101025" t="d" c="35" ts="2512280134" ts-tts="25-12-28 01:34:32.827"/>
+        <m id="r40101162" t="f" c="1000" ts="2512280140" ts-tts="25-12-28 01:40:43.828"/>
+        <m id="r40101163" t="f" c="0" ts="2512280140" ts-tts="25-12-28 01:40:43.828"/>
+    </dp>
+</s>
+
+
+<s id="4876624750818178822-2512280737-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" cs="p" clt="2512280118" l="RB77">
+        <m id="r40100755" t="f" c="0" ts="2512280118" ts-tts="25-12-28 01:18:41.282"/>
+        <m id="r40100756" t="f" c="0" ts="2512280118" ts-tts="25-12-28 01:18:41.282"/>
+        <m id="r40100776" t="f" c="0" ts="2512280121" ts-tts="25-12-28 01:22:00.820"/>
+        <m id="r40101062" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.188"/>
+    </ar>
+</s>
+
+
+<s id="694606934817283359-2512280834-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101064" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.188"/>
+    </ar>
+</s>
+
+
+<s id="-8358169314773759698-2512281434-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101082" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.190"/>
+    </ar>
+</s>
+
+
+<s id="1806857931704348035-2512280937-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101076" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.188"/>
+    </ar>
+</s>
+
+
+<s id="5245270364369313503-2512281337-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101088" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.189"/>
+    </ar>
+</s>
+
+
+<s id="7946873253648922458-2512281034-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101080" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.189"/>
+    </ar>
+</s>
+
+
+<s id="-3166094691066000729-2512281737-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101078" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.191"/>
+    </ar>
+</s>
+
+
+<s id="-3837695464452766496-2512281537-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101072" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.190"/>
+        <m id="r40101090" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.190"/>
+    </ar>
+</s>
+
+
+<s id="5831535111676562195-2512281137-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101070" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.189"/>
+    </ar>
+</s>
+
+
+<s id="1738144547175903606-2512281234-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101074" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.189"/>
+    </ar>
+</s>
+
+
+<s id="3852605676021311841-2512281634-14" eva="8000162">
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" l="RB77">
+        <m id="r40101060" t="d" c="35" ts="2512280136" ts-tts="25-12-28 01:36:36.190"/>
+    </ar>
+</s>
+
+
+<s id="8281777346866060682-2512280100-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-28 01:16:03.827" pr="1"/>
+    <ar ct="2512280124" l="RE70"/>
+    <dp ct="2512280125" l="RE70"/>
+</s>
+
+
+<s id="-6813606137559048029-2512280010-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-28 01:16:03.827" pr="1"/>
+    <ar ct="2512280034" l="RE78"/>
+    <dp ct="2512280040" l="RE78"/>
+</s>
+
+
+<s id="-8895734916175346822-2512280031-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280400" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-28 01:16:03.827" pr="1"/>
+    <ar ct="2512280041" l="RE70"/>
+    <dp ct="2512280044" l="RE70"/>
+</s>
+
+
+<s id="6609426143413674619-2512281713-4" eva="8000162">
+    <ar>
+        <m id="r40097896" t="f" c="0" ts="2512272338" ts-tts="25-12-27 23:38:12.344"/>
+        <m id="r40098526" t="f" c="0" ts="2512272358" ts-tts="25-12-27 23:58:58.462"/>
+    </ar>
+    <dp>
+        <m id="r40097896" t="f" c="0" ts="2512272338" ts-tts="25-12-27 23:38:12.344"/>
+        <m id="r40098526" t="f" c="0" ts="2512272358" ts-tts="25-12-27 23:58:58.462"/>
+    </dp>
+</s>
+
+
+<s id="1913356045703776437-2512271736-17" eva="8000162">
+    <ar ct="2512272328">
+        <m id="r40070164" t="f" c="0" ts="2512271720" ts-tts="25-12-27 17:20:58.818"/>
+        <m id="r40078648" t="f" c="0" ts="2512271849" ts-tts="25-12-27 18:49:56.837"/>
+    </ar>
+    <dp ct="2512272330">
+        <m id="r40070164" t="f" c="0" ts="2512271720" ts-tts="25-12-27 17:20:58.818"/>
+        <m id="r40078648" t="f" c="0" ts="2512271849" ts-tts="25-12-27 18:49:56.837"/>
+    </dp>
+</s>
+
+
+<s id="201535978532296242-2512281334-10" eva="8000162">
+    <m id="r2547419" t="h" from="2512281334" to="2512281901" cat="Information" ts="2512280005" ts-tts="25-12-28 00:05:53.818" pr="2"/>
+    <ar>
+        <m id="r40098273" t="f" c="0" ts="2512272350" ts-tts="25-12-27 23:50:46.739"/>
+        <m id="r40098766" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.976"/>
+        <m id="r40098768" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.976"/>
+    </ar>
+    <dp>
+        <m id="r40098273" t="f" c="0" ts="2512272350" ts-tts="25-12-27 23:50:46.739"/>
+        <m id="r40098766" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.976"/>
+        <m id="r40098768" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.976"/>
+    </dp>
+</s>
+
+
+<s id="7812597092470411622-2512281334-10" eva="8000162">
+    <ar ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf" pp="4" pt="2512281613" fb="ICE 2845">
+        <m id="r40098223" t="f" c="0" ts="2512272349" ts-tts="25-12-27 23:49:29.516"/>
+        <m id="r40098258" t="f" c="0" ts="2512272350" ts-tts="25-12-27 23:50:15.990"/>
+        <m id="r40098765" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.975"/>
+    </ar>
+    <dp ppth="Hannover Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof" pp="4" pt="2512281614" fb="ICE 2845">
+        <m id="r40098223" t="f" c="0" ts="2512272349" ts-tts="25-12-27 23:49:29.516"/>
+        <m id="r40098258" t="f" c="0" ts="2512272350" ts-tts="25-12-27 23:50:15.990"/>
+        <m id="r40098765" t="q" c="91" ts="2512280005" ts-tts="25-12-28 00:05:53.975"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2845"/>
+</s>
+
+
+<s id="-106551053475791494-2512281713-4" eva="8000162">
+    <ar ppth="Berlin Hbf|Berlin-Spandau|Hannover Hbf" pp="6" pt="2512281943" fb="ICE 2820">
+        <m id="r40097874" t="f" c="0" ts="2512272337" ts-tts="25-12-27 23:37:26.154"/>
+        <m id="r40097892" t="f" c="0" ts="2512272337" ts-tts="25-12-27 23:38:12.344"/>
+        <m id="r40098527" t="f" c="0" ts="2512272358" ts-tts="25-12-27 23:58:58.462"/>
+    </ar>
+    <dp ppth="Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Düsseldorf Hbf|Köln Hbf" pp="6" pt="2512281944" fb="ICE 2820">
+        <m id="r40097874" t="f" c="0" ts="2512272337" ts-tts="25-12-27 23:37:26.154"/>
+        <m id="r40097892" t="f" c="0" ts="2512272337" ts-tts="25-12-27 23:38:12.344"/>
+        <m id="r40098527" t="f" c="0" ts="2512272358" ts-tts="25-12-27 23:58:58.462"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2820"/>
+</s>
+
+
+<s id="451762173083961637-2512282148-3" eva="8000162">
+    <ar ppth="Bielefeld Hbf|Brake(b Bielefeld)" pp="3" pt="2512282158" l="RB71" fb="ERB RB71">
+        <m id="r40098134" t="f" c="0" ts="2512272345" ts-tts="25-12-27 23:45:54.223"/>
+        <m id="r40098135" t="f" c="0" ts="2512272345" ts-tts="25-12-27 23:45:54.223"/>
+    </ar>
+    <dp ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bieren-Rödinghausen|Mesch Neue Mühle|Bad Holzhausen|Lübbecke(Westf)|Espelkamp|Rahden" pp="3" pt="2512282201" l="RB71" fb="ERB RB71">
+        <m id="r40098134" t="f" c="0" ts="2512272345" ts-tts="25-12-27 23:45:54.223"/>
+        <m id="r40098135" t="f" c="0" ts="2512272345" ts-tts="25-12-27 23:45:54.223"/>
+    </dp>
+    <tl f="D" t="s" o="R2RB" c="ERB" n="89666"/>
+</s>
+
+
+<s id="4840737310518126529-2512272134-20" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272326" l="RB61">
+        <m id="r40086318" t="d" c="43" ts="2512272012" ts-tts="25-12-27 20:13:07.561"/>
+        <m id="r40086319" t="d" c="43" ts="2512272012" ts-tts="25-12-27 20:13:07.561"/>
+    </ar>
+    <dp ct="2512272338" l="RB61">
+        <m id="r40086318" t="d" c="43" ts="2512272012" ts-tts="25-12-27 20:13:07.561"/>
+        <m id="r40086319" t="d" c="43" ts="2512272012" ts-tts="25-12-27 20:13:07.561"/>
+    </dp>
+</s>
+
+
+<s id="6688617323959389818-2512272336-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <dp cp="7" ct="2512272336" l="RB72"/>
+</s>
+
+
+<s id="1408895625737477336-2512272324-2" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272333" l="RE78"/>
+    <dp ct="2512272334" l="RE78"/>
+</s>
+
+
+<s id="-8422993066846140606-2512272312-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272323" l="RB61"/>
+    <dp ct="2512272332" l="RB61"/>
+</s>
+
+
+<s id="-7643816199533926631-2512272221-11" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.600" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="7" ct="2512272331" l="RB72"/>
+</s>
+
+
+<s id="-876254985661224810-2512272120-16" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272318" l="RE70"/>
+    <dp ct="2512272322" l="RE70"/>
+</s>
+
+
+<s id="415196248068519473-2512272228-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar cpth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)" ct="2512272250" l="RE6"/>
+    <dp cpth="Bielefeld Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf|Kamen|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf" ct="2512272251" l="RE6"/>
+</s>
+
+
+<s id="8028611616915042541-2512271948-24" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272307" l="RE6"/>
+    <dp ct="2512272309" l="RE6"/>
+</s>
+
+
+<s id="7616816186136777097-2512272248-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272259" l="RB71"/>
+    <dp ct="2512272301" l="RB71"/>
+</s>
+
+
+<s id="2604131083415128032-2512272034-20" eva="8000162">
+    <m id="r2547324" t="h" from="2512271659" to="2512272130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271704" ts-tts="25-12-27 18:16:03.083" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cpth="Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln" ct="2512272226" l="RB61">
+        <m id="r40095574" t="d" c="43" ts="2512272245" ts-tts="25-12-27 22:46:01.672"/>
+    </ar>
+    <dp cpth="Brake(b Bielefeld)|Bielefeld Hbf" ct="2512272241" l="RB61">
+        <m id="r40095574" t="d" c="43" ts="2512272245" ts-tts="25-12-27 22:46:01.672"/>
+    </dp>
+</s>
+
+
+<s id="3543731599180013172-2512272231-2" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272241" l="RE70"/>
+    <dp ct="2512272241" l="RE70"/>
+</s>
+
+
+<s id="4025156378867941016-2512272233-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.600" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <dp cp="4" ct="2512272233" l="RB72"/>
+</s>
+
+
+<s id="-4252332661093705777-2512272212-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272224" l="RB61"/>
+    <dp ct="2512272233" l="RB61"/>
+</s>
+
+
+<s id="4987373153340766577-2512272121-11" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="4" ct="2512272230" l="RB72"/>
+</s>
+
+
+<s id="1595890740209980554-2512272109-8" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272227" l="RE78"/>
+    <dp ct="2512272227" l="RE78"/>
+</s>
+
+
+<s id="4537343777945816737-2512271848-24" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272213" l="RE6">
+        <m id="r40092813" t="d" c="45" ts="2512272148" ts-tts="25-12-27 21:48:14.114"/>
+    </ar>
+    <dp ct="2512272214" l="RE6">
+        <m id="r40092813" t="d" c="45" ts="2512272148" ts-tts="25-12-27 21:48:14.114"/>
+    </dp>
+</s>
+
+
+<s id="451762173083961637-2512272148-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272200" l="RB71"/>
+    <dp ct="2512272202" l="RB71"/>
+</s>
+
+
+<s id="2445365610332320219-2512272128-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272150" l="RE6"/>
+    <dp ct="2512272151" l="RE6"/>
+</s>
+
+
+<s id="-6542399077618249691-2512272133-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <dp cp="4" ct="2512272136" l="RB72">
+        <m id="r40092375" t="d" c="48" ts="2512272140" ts-tts="25-12-27 21:40:29.982"/>
+    </dp>
+</s>
+
+
+<s id="8416462504357387449-2512271934-20" eva="8000162">
+    <m id="r2547324" t="h" from="2512271659" to="2512272130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271704" ts-tts="25-12-27 18:16:03.083" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar cpth="Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln" ct="2512272126" l="RB61">
+        <m id="r40092367" t="d" c="43" ts="2512272140" ts-tts="25-12-27 21:40:14.519"/>
+    </ar>
+    <dp cpth="Brake(b Bielefeld)|Bielefeld Hbf" ct="2512272138" l="RB61">
+        <m id="r40092367" t="d" c="43" ts="2512272140" ts-tts="25-12-27 21:40:14.519"/>
+    </dp>
+</s>
+
+
+<s id="4896322497767389450-2512272136-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" ct="2512272137" l="RB77">
+        <m id="r40014714" t="d" c="38" ts="2512270437" ts-tts="25-12-27 04:37:21.145"/>
+        <m id="r40016002" t="f" c="1000" ts="2512270530" ts-tts="25-12-27 05:30:20.762"/>
+        <m id="r40016005" t="f" c="0" ts="2512270530" ts-tts="25-12-27 05:30:20.762"/>
+        <m id="r40016006" t="f" c="0" ts="2512270530" ts-tts="25-12-27 05:30:20.762"/>
+    </dp>
+</s>
+
+
+<s id="2305489911132278227-2512272124-2" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="5" ct="2512272135" l="RE78">
+        <m id="r40091802" t="d" c="43" ts="2512272131" ts-tts="25-12-27 21:31:58.853"/>
+    </ar>
+    <dp cp="5" ct="2512272136" l="RE78">
+        <m id="r40091802" t="d" c="43" ts="2512272131" ts-tts="25-12-27 21:31:58.853"/>
+    </dp>
+</s>
+
+
+<s id="-8975499432452421505-2512272112-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272123" l="RB61"/>
+    <dp ct="2512272132" l="RB61"/>
+</s>
+
+
+<s id="1148856555558896584-2512271920-16" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272130" l="RE70"/>
+    <dp ct="2512272131" l="RE70"/>
+</s>
+
+
+<s id="-3094671073038613940-2512272021-11" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.600" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="4" ct="2512272132" l="RB72">
+        <m id="r40090390" t="d" c="43" ts="2512272105" ts-tts="25-12-27 21:05:55.199"/>
+    </ar>
+</s>
+
+
+<s id="4993697212854128733-2512272028-5" eva="8000162">
+    <ar ct="2512272127">
+        <m id="r40070004" t="f" c="0" ts="2512271719" ts-tts="25-12-27 17:19:41.006"/>
+    </ar>
+    <dp ct="2512272128">
+        <m id="r40070004" t="f" c="0" ts="2512271719" ts-tts="25-12-27 17:19:41.006"/>
+    </dp>
+</s>
+
+
+<s id="-7149049132154781275-2512271937-14" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" ct="2512272124" l="RB77">
+        <m id="r40014710" t="d" c="38" ts="2512270436" ts-tts="25-12-27 04:36:50.601"/>
+    </ar>
+</s>
+
+
+<s id="4035980456347763927-2512271748-24" eva="8000162">
+    <m id="r2547349" t="h" from="2512271800" to="2512272030" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271831" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272107" l="RE6"/>
+    <dp ct="2512272108" l="RE6"/>
+</s>
+
+
+<s id="1331502570611685792-2512272005-10" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272102" l="RB71">
+        <m id="r40087989" t="d" c="43" ts="2512272033" ts-tts="25-12-27 20:34:06.012"/>
+    </ar>
+    <dp ct="2512272103" l="RB71">
+        <m id="r40087989" t="d" c="43" ts="2512272033" ts-tts="25-12-27 20:34:06.012"/>
+    </dp>
+</s>
+
+
+<s id="9196165267678705306-2512272028-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272050" l="RE6"/>
+    <dp ct="2512272051" l="RE6"/>
+</s>
+
+
+<s id="-8624610893606997940-2512272031-2" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="3" ct="2512272042" l="RE70">
+        <m id="r40088667" t="d" c="43" ts="2512272041" ts-tts="25-12-27 20:41:36.041"/>
+        <m id="r40088668" t="d" c="43" ts="2512272041" ts-tts="25-12-27 20:41:36.041"/>
+    </ar>
+    <dp cp="3" ct="2512272045" l="RE70">
+        <m id="r40088667" t="d" c="43" ts="2512272041" ts-tts="25-12-27 20:41:36.041"/>
+        <m id="r40088668" t="d" c="43" ts="2512272041" ts-tts="25-12-27 20:41:36.041"/>
+    </dp>
+</s>
+
+
+<s id="-3117181076057777104-2512272033-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <dp cp="4" ct="2512272038" l="RB72">
+        <m id="r40088720" t="d" c="48" ts="2512272042" ts-tts="25-12-27 20:42:07.104"/>
+    </dp>
+</s>
+
+
+<s id="3145462972729606478-2512271834-20" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272027" l="RB61"/>
+    <dp ct="2512272037" l="RB61"/>
+</s>
+
+
+<s id="-741591113147003943-2512272036-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" ct="2512272037" l="RB77">
+        <m id="r40015093" t="d" c="38" ts="2512270454" ts-tts="25-12-27 04:54:39.868"/>
+        <m id="r40016173" t="f" c="1000" ts="2512270537" ts-tts="25-12-27 05:37:44.444"/>
+        <m id="r40016174" t="f" c="0" ts="2512270537" ts-tts="25-12-27 05:37:44.444"/>
+        <m id="r40016175" t="f" c="0" ts="2512270537" ts-tts="25-12-27 05:37:44.444"/>
+    </dp>
+</s>
+
+
+<s id="2862601936457962256-2512272012-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272035" l="RB61">
+        <m id="r40086735" t="d" c="67" ts="2512272018" ts-tts="25-12-27 20:19:05.309"/>
+        <m id="r40087561" t="d" c="2" ts="2512272029" ts-tts="25-12-27 20:29:11.305"/>
+    </ar>
+    <dp ct="2512272036" l="RB61">
+        <m id="r40086735" t="d" c="67" ts="2512272018" ts-tts="25-12-27 20:19:05.309"/>
+        <m id="r40087561" t="d" c="2" ts="2512272029" ts-tts="25-12-27 20:29:11.305"/>
+    </dp>
+</s>
+
+
+<s id="-686734469208764261-2512271921-11" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="4" ct="2512272033" l="RB72">
+        <m id="r40084399" t="d" c="43" ts="2512271951" ts-tts="25-12-27 19:51:38.156"/>
+    </ar>
+</s>
+
+
+<s id="-4915396056270040590-2512271909-8" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512272026" l="RE78"/>
+    <dp ct="2512272027" l="RE78"/>
+</s>
+
+
+<s id="3342573898987802678-2512271834-14" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <ar cpth="Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)" ct="2512272028" l="RB77">
+        <m id="r40015083" t="d" c="38" ts="2512270454" ts-tts="25-12-27 04:54:09.297"/>
+    </ar>
+</s>
+
+
+<s id="280114108747923592-2512272236-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="" cs="c" clt="2512272024" l="RB77">
+        <m id="r40087166" t="d" c="36" ts="2512272024" ts-tts="25-12-27 20:25:02.569"/>
+    </dp>
+</s>
+
+
+<s id="-5319747730995962327-2512272034-14" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <ar cpth="" ct="2512272224" cs="c" clt="2512272024" l="RB77">
+        <m id="r40014571" t="d" c="38" ts="2512270430" ts-tts="25-12-27 04:30:59.199"/>
+        <m id="r40087144" t="f" c="0" ts="2512272024" ts-tts="25-12-27 20:24:31.433"/>
+    </ar>
+</s>
+
+
+<s id="-188050451825308915-2512272048-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cpth="" ct="2512272058" cs="c" clt="2512272019" l="RB71">
+        <m id="r40086803" t="d" c="22" ts="2512272019" ts-tts="25-12-27 20:19:51.820"/>
+    </ar>
+    <dp cpth="" ct="2512272101" cs="c" clt="2512272019" l="RB71">
+        <m id="r40086803" t="d" c="22" ts="2512272019" ts-tts="25-12-27 20:19:51.820"/>
+    </dp>
+</s>
+
+
+<s id="4263401729039526569-2512271720-16" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512271918" l="RE70">
+        <m id="r40066743" t="q" c="95" ts="2512271645" ts-tts="25-12-27 16:45:27.301"/>
+    </ar>
+    <dp ct="2512271919" l="RE70">
+        <m id="r40066743" t="q" c="95" ts="2512271645" ts-tts="25-12-27 16:45:27.301"/>
+    </dp>
+</s>
+
+
+<s id="4346994685181075996-2512271821-11" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="4" ct="2512271931" l="RB72">
+        <m id="r40080137" t="d" c="43" ts="2512271904" ts-tts="25-12-27 19:04:43.738"/>
+    </ar>
+</s>
+
+
+<s id="-4940144007195234155-2512271947-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512271958" l="RB71">
+        <m id="r40085804" t="d" c="43" ts="2512272005" ts-tts="25-12-27 20:05:04.956"/>
+    </ar>
+    <dp ct="2512272004" l="RB71">
+        <m id="r40085804" t="d" c="43" ts="2512272005" ts-tts="25-12-27 20:05:04.956"/>
+    </dp>
+</s>
+
+
+<s id="-326251410050013015-2512271924-2" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar cp="5" ct="2512271937" l="RE78">
+        <m id="r40082739" t="d" c="43" ts="2512271932" ts-tts="25-12-27 19:32:28.479"/>
+    </ar>
+    <dp cp="5" ct="2512271938" l="RE78">
+        <m id="r40082739" t="d" c="43" ts="2512271932" ts-tts="25-12-27 19:32:28.479"/>
+    </dp>
+</s>
+
+
+<s id="5478049296583117341-2512271934-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.600" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <dp cp="4" ct="2512271937" l="RB72">
+        <m id="r40083831" t="d" c="43" ts="2512271943" ts-tts="25-12-27 19:43:51.992"/>
+    </dp>
+</s>
+
+
+<s id="-4893609468438189462-2512271928-5" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512271951" l="RE6"/>
+    <dp ct="2512271952" l="RE6"/>
+</s>
+
+
+<s id="-6248959696548254416-2512271828-5" eva="8000162">
+    <m id="r2547349" t="h" from="2512271800" to="2512272030" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271831" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.227" pr="1"/>
+    <ar ct="2512271850" l="RE6"/>
+    <dp ct="2512271851" l="RE6"/>
+</s>
+
+
+<s id="-6934880531088533437-2512271848-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512271902" l="RB71">
+        <m id="r40080045" t="d" c="48" ts="2512271903" ts-tts="25-12-27 19:03:25.797"/>
+        <m id="r40080509" t="d" c="43" ts="2512271908" ts-tts="25-12-27 19:08:37.534"/>
+    </ar>
+    <dp ct="2512271907" l="RB71">
+        <m id="r40080045" t="d" c="48" ts="2512271903" ts-tts="25-12-27 19:03:25.797"/>
+        <m id="r40080509" t="d" c="43" ts="2512271908" ts-tts="25-12-27 19:08:37.534"/>
+    </dp>
+</s>
+
+
+<s id="-2842994134864189002-2512271805-10" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512271907" l="RB71">
+        <m id="r40077573" t="d" c="43" ts="2512271838" ts-tts="25-12-27 18:38:47.179"/>
+    </ar>
+    <dp ct="2512271908" l="RB71">
+        <m id="r40077573" t="d" c="43" ts="2512271838" ts-tts="25-12-27 18:38:47.179"/>
+    </dp>
+</s>
+
+
+<s id="-2043643558530534074-2512271734-20" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512271938" l="RB61">
+        <m id="r40063095" t="d" c="43" ts="2512271614" ts-tts="25-12-27 16:15:08.663"/>
+        <m id="r40063096" t="d" c="43" ts="2512271614" ts-tts="25-12-27 16:15:08.663"/>
+        <m id="r40079133" t="d" c="32" ts="2512271854" ts-tts="25-12-27 18:55:07.562"/>
+        <m id="r40080648" t="d" c="43" ts="2512271908" ts-tts="25-12-27 19:08:53.100"/>
+    </ar>
+    <dp ct="2512271942" l="RB61">
+        <m id="r40063095" t="d" c="43" ts="2512271614" ts-tts="25-12-27 16:15:08.663"/>
+        <m id="r40063096" t="d" c="43" ts="2512271614" ts-tts="25-12-27 16:15:08.663"/>
+        <m id="r40079133" t="d" c="32" ts="2512271854" ts-tts="25-12-27 18:55:07.562"/>
+        <m id="r40080648" t="d" c="43" ts="2512271908" ts-tts="25-12-27 19:08:53.100"/>
+    </dp>
+</s>
+
+
+<s id="702213945258149000-2512271905-10" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272004" l="RB71">
+        <m id="r40082970" t="d" c="43" ts="2512271935" ts-tts="25-12-27 19:35:19.645"/>
+    </ar>
+    <dp ct="2512272005" l="RB71">
+        <m id="r40082970" t="d" c="43" ts="2512271935" ts-tts="25-12-27 19:35:19.645"/>
+    </dp>
+</s>
+
+
+<s id="-841849480335956855-2512271648-24" eva="8000162">
+    <m id="r2547349" t="h" from="2512271800" to="2512272030" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271831" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512272009" l="RE6"/>
+    <dp ct="2512272009" l="RE6"/>
+</s>
+
+
+<s id="-7986903321179074228-2512271912-3" eva="8000162">
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512271923" l="RB61">
+        <m id="r40083893" t="d" c="43" ts="2512271944" ts-tts="25-12-27 19:44:23.027"/>
+    </ar>
+    <dp ct="2512271938" l="RB61">
+        <m id="r40081264" t="f" c="0" ts="2512271915" ts-tts="25-12-27 19:15:07.038"/>
+        <m id="r40083893" t="d" c="43" ts="2512271944" ts-tts="25-12-27 19:44:23.027"/>
+    </dp>
+</s>
+
+
+<s id="-810654193570176292-2512271548-24" eva="8000162">
+    <m id="r2547349" t="h" from="2512271800" to="2512272030" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271831" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <m id="r2547359" t="h" from="2512271900" to="2512280100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271920" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar ct="2512271910" l="RE6"/>
+    <dp ct="2512271911" l="RE6"/>
+</s>
+
+
+<s id="5244929533780285621-2512271728-5" eva="8000162">
+    <m id="r2547349" t="h" from="2512271800" to="2512272030" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271831" ts-tts="25-12-27 20:16:03.226" pr="1"/>
+    <ar cpth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)" ct="2512271750" l="RE6"/>
+    <dp cpth="Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf|Dormagen|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen" ct="2512271751" l="RE6"/>
+</s>
+
+
+<s id="6609426143413674619-2512271713-4" eva="8000162">
+    <m id="r2547126" t="h" from="2512271138" to="2512272217" cat="Information" ts="2512270728" ts-tts="25-12-27 07:28:28.507" pr="2"/>
+    <ar ct="2512271941">
+        <m id="r40020966" t="f" c="0" ts="2512270800" ts-tts="25-12-27 08:00:33.170"/>
+        <m id="r40020985" t="f" c="0" ts="2512270801" ts-tts="25-12-27 08:01:03.975"/>
+        <m id="r40070044" t="f" c="0" ts="2512271719" ts-tts="25-12-27 17:20:12.122"/>
+        <m id="r40072972" t="f" c="0" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40076282" t="f" c="0" ts="2512271825" ts-tts="25-12-27 18:26:02.952"/>
+    </ar>
+    <dp ct="2512271941">
+        <m id="r40020966" t="f" c="0" ts="2512270800" ts-tts="25-12-27 08:00:33.170"/>
+        <m id="r40020985" t="f" c="0" ts="2512270801" ts-tts="25-12-27 08:01:03.975"/>
+        <m id="r40070044" t="f" c="0" ts="2512271719" ts-tts="25-12-27 17:20:12.122"/>
+        <m id="r40072972" t="f" c="0" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40076282" t="f" c="0" ts="2512271825" ts-tts="25-12-27 18:26:02.952"/>
+    </dp>
+</s>
+
+
+<s id="-6642933212639679658-2512271713-4" eva="8000162">
+    <ar ppth="Berlin Hbf|Berlin-Spandau|Hannover Hbf" pp="6" ct="2512271941" pt="2512271943" fb="ICE 2836">
+        <m id="r40020875" t="f" c="0" ts="2512270758" ts-tts="25-12-27 07:59:00.717"/>
+        <m id="r40020917" t="f" c="0" ts="2512270759" ts-tts="25-12-27 07:59:46.988"/>
+        <m id="r40072973" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40072977" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40072975" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+    </ar>
+    <dp ppth="Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Düsseldorf Hbf|Köln Hbf" pp="6" ct="2512271941" pt="2512271944" fb="ICE 2836">
+        <m id="r40020875" t="f" c="0" ts="2512270758" ts-tts="25-12-27 07:59:00.717"/>
+        <m id="r40020917" t="f" c="0" ts="2512270759" ts-tts="25-12-27 07:59:46.988"/>
+        <m id="r40072973" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40072977" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+        <m id="r40072975" t="d" c="51" ts="2512271749" ts-tts="25-12-27 17:49:45.253"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2836"/>
+</s>
+
+
+<s id="598336649706429606-2512271827-5" eva="8000162">
+    <m id="r1249546543" t="c" ts="2512271915" ts-tts="25-12-27 19:15:06.935"/>
+    <ar cp="5" ct="2512271932">
+        <m id="r40068827" t="f" c="0" ts="2512271708" ts-tts="25-12-27 17:08:31.429"/>
+        <m id="r40069853" t="f" c="0" ts="2512271717" ts-tts="25-12-27 17:17:52.325"/>
+        <m id="r40081005" t="d" c="34" ts="2512271912" ts-tts="25-12-27 19:12:15.441"/>
+        <m id="r40081007" t="d" c="34" ts="2512271912" ts-tts="25-12-27 19:12:15.441"/>
+    </ar>
+    <dp cp="5" ct="2512271933">
+        <m id="r40068827" t="f" c="0" ts="2512271708" ts-tts="25-12-27 17:08:31.429"/>
+        <m id="r40069853" t="f" c="0" ts="2512271717" ts-tts="25-12-27 17:17:52.325"/>
+        <m id="r40081005" t="d" c="34" ts="2512271912" ts-tts="25-12-27 19:12:15.441"/>
+        <m id="r40081007" t="d" c="34" ts="2512271912" ts-tts="25-12-27 19:12:15.441"/>
+    </dp>
+</s>
+
+
+<s id="-6990129281608112740-2512271831-2" eva="8000162">
+    <m id="r2524940" t="h" from="2512270300" to="2601160330" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2512262303" ts-tts="25-12-26 23:03:40.486" pr="2"/>
+    <ar cp="3" ct="2512271856" l="RE70">
+        <m id="r40077715" t="d" c="2" ts="2512271841" ts-tts="25-12-27 18:41:22.629"/>
+        <m id="r40077716" t="d" c="2" ts="2512271841" ts-tts="25-12-27 18:41:22.629"/>
+    </ar>
+    <dp cp="3" ct="2512271858" l="RE70">
+        <m id="r40077715" t="d" c="2" ts="2512271841" ts-tts="25-12-27 18:41:22.629"/>
+        <m id="r40077716" t="d" c="2" ts="2512271841" ts-tts="25-12-27 18:41:22.629"/>
+    </dp>
+</s>
+
+
+<s id="-1740291150744813612-2512271836-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" ct="2512271837" l="RB77">
+        <m id="r40014698" t="d" c="38" ts="2512270435" ts-tts="25-12-27 04:35:49.559"/>
+        <m id="r40014700" t="d" c="38" ts="2512270435" ts-tts="25-12-27 04:35:49.559"/>
+        <m id="r40015981" t="f" c="1000" ts="2512270528" ts-tts="25-12-27 05:28:48.986"/>
+        <m id="r40015982" t="f" c="0" ts="2512270528" ts-tts="25-12-27 05:29:04.284"/>
+        <m id="r40015983" t="f" c="0" ts="2512270528" ts-tts="25-12-27 05:29:04.284"/>
+    </dp>
+</s>
+
+
+<s id="7962807683006719467-2512271833-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.600" pr="1"/>
+    <dp cp="4" ct="2512271833" l="RB72"/>
+</s>
+
+
+<s id="4725483131146872503-2512271812-3" eva="8000162">
+    <m id="r2547324" t="h" from="2512271659" to="2512272130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271704" ts-tts="25-12-27 18:16:03.083" pr="1"/>
+    <ar cpth="Bielefeld Hbf|Brake(b Bielefeld)" ct="2512271823" l="RB61"/>
+    <dp cpth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bruchmühlen|Melle|Westerhausen|Wissingen|Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel|Rheine|Salzbergen|Schüttorf|Bad Bentheim" ct="2512271833" l="RB61"/>
+</s>
+
+
+<s id="-4070658478969218796-2512271712-3" eva="8000162">
+    <m id="r2547324" t="h" from="2512271659" to="2512272130" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512271704" ts-tts="25-12-27 18:16:03.083" pr="1"/>
+    <ar cpth="" cs="c" clt="2512271612" l="RB61"/>
+    <dp cpth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bruchmühlen|Melle|Westerhausen|Wissingen|Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel|Rheine|Salzbergen|Schüttorf|Bad Bentheim" ct="2512271732" l="RB61">
+        <m id="r40069633" t="f" c="0" ts="2512271715" ts-tts="25-12-27 17:15:16.744"/>
+    </dp>
+</s>
+
+
+<s id="-4266394707466609589-2512271936-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="" cs="c" clt="2512271723" l="RB77">
+        <m id="r40014565" t="d" c="38" ts="2512270430" ts-tts="25-12-27 04:30:28.621"/>
+        <m id="r40015844" t="f" c="1000" ts="2512270522" ts-tts="25-12-27 05:22:11.139"/>
+        <m id="r40015845" t="f" c="0" ts="2512270522" ts-tts="25-12-27 05:22:11.139"/>
+        <m id="r40015846" t="f" c="0" ts="2512270522" ts-tts="25-12-27 05:22:11.139"/>
+        <m id="r40070394" t="d" c="37" ts="2512271723" ts-tts="25-12-27 17:23:49.981"/>
+        <m id="r40070474" t="f" c="0" ts="2512271724" ts-tts="25-12-27 17:24:36.612"/>
+    </dp>
+</s>
+
+
+<s id="-990600160505650058-2512271513-5" eva="8000162">
+    <m id="r2415041" t="h" from="2505120800" to="2601042359" cat="Information" ts="2505112304" ts-tts="25-12-26 23:16:03.565" pr="3"/>
+    <m id="r2546484" t="h" from="2512250000" to="2512292359" cat="Information" ts="2512250616" ts-tts="25-12-26 23:16:03.598" pr="3"/>
+    <m id="r2547013" t="h" from="2512270906" to="2512272052" cat="Information" ts="2512262304" ts-tts="25-12-26 23:04:58.057" pr="2"/>
+    <ar ct="2512271743">
+        <m id="r39999841" t="f" c="0" ts="2512262036" ts-tts="25-12-26 20:36:24.617"/>
+        <m id="r40006102" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40006106" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40018234" t="f" c="0" ts="2512270651" ts-tts="25-12-27 06:51:35.515"/>
+    </ar>
+    <dp ct="2512271745">
+        <m id="r39999841" t="f" c="0" ts="2512262036" ts-tts="25-12-26 20:36:24.617"/>
+        <m id="r40006102" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40006106" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40018234" t="f" c="0" ts="2512270651" ts-tts="25-12-27 06:51:35.515"/>
+    </dp>
+</s>
+
+
+<s id="-911967397531432925-2512271513-5" eva="8000162">
+    <m id="r2415041" t="h" from="2505120800" to="2601042359" cat="Information" ts="2505112304" ts-tts="25-12-26 23:16:03.565" pr="3"/>
+    <ar ppth="Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf" pp="6" ct="2512271743" pt="2512271743" fb="ICE 2802">
+        <m id="r39999758" t="f" c="0" ts="2512262035" ts-tts="25-12-26 20:35:22.802"/>
+        <m id="r39999829" t="f" c="0" ts="2512262036" ts-tts="25-12-26 20:36:24.617"/>
+        <m id="r40006104" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.441"/>
+        <m id="r40006108" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.441"/>
+        <m id="r40010748" t="f" c="0" ts="2512270134" ts-tts="25-12-27 01:34:40.349"/>
+    </ar>
+    <dp ppth="Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Krefeld Hbf|Viersen|Mönchengladbach Hbf|Rheydt Hbf|Erkelenz|Geilenkirchen|Herzogenrath|Aachen Hbf" pp="6" ct="2512271745" pt="2512271744" fb="ICE 2802">
+        <m id="r39999758" t="f" c="0" ts="2512262035" ts-tts="25-12-26 20:35:22.802"/>
+        <m id="r39999829" t="f" c="0" ts="2512262036" ts-tts="25-12-26 20:36:24.617"/>
+        <m id="r40006104" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40006108" t="q" c="91" ts="2512262244" ts-tts="25-12-26 22:44:59.442"/>
+        <m id="r40010748" t="f" c="0" ts="2512270134" ts-tts="25-12-27 01:34:40.349"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2802"/>
+</s>
+
+
+<s id="3160020048015805126-2512271733-1" eva="8000162">
+    <m id="r2546559" t="h" from="2512251100" to="2512292000" cat="Störung. (Quelle: zuginfo.nrw)" ts="2512251102" ts-tts="25-12-26 23:16:03.599" pr="1"/>
+    <dp cpth="Bad Salzuflen|Schötmar|Bad Salzuflen-Sylbach|Lage(Lippe)|Detmold|Horn-Bad Meinberg|Leopoldstal|Steinheim-Sandebeck|Altenbeken|Paderborn Hbf" cp="1" ct="2512271741" cs="p" clt="2512271041" l="RB72">
+        <m id="r40069632" t="f" c="0" ts="2512271715" ts-tts="25-12-27 17:15:16.745"/>
+        <m id="r40072320" t="d" c="48" ts="2512271742" ts-tts="25-12-27 17:42:44.990"/>
+    </dp>
+</s>
+
+
+<s id="6189751861704646998-2512271736-1" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <dp cpth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau" ct="2512271739" l="RB77">
+        <m id="r40015073" t="d" c="38" ts="2512270453" ts-tts="25-12-27 04:53:38.779"/>
+        <m id="r40016138" t="f" c="1000" ts="2512270536" ts-tts="25-12-27 05:36:27.973"/>
+        <m id="r40016139" t="f" c="0" ts="2512270536" ts-tts="25-12-27 05:36:27.973"/>
+        <m id="r40016140" t="f" c="0" ts="2512270536" ts-tts="25-12-27 05:36:27.973"/>
+    </dp>
+</s>
+
+
+<s id="-2875979624331062252-2512271628-5" eva="8000162">
+    <m id="r1249545545" t="c" ts="2512271715" ts-tts="25-12-27 17:15:16.630"/>
+    <m id="r1249545546" t="c" ts="2512271715" ts-tts="25-12-27 17:15:16.630"/>
+    <ar ct="2512271730">
+        <m id="r40067413" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+        <m id="r40067417" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+        <m id="r40067415" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+    </ar>
+    <dp ct="2512271732">
+        <m id="r40067413" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+        <m id="r40067417" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+        <m id="r40067415" t="d" c="43" ts="2512271654" ts-tts="25-12-27 16:55:02.744"/>
+    </dp>
+</s>
+
+
+<s id="-3166094691066000729-2512271737-14" eva="8000162">
+    <m id="r2546060" t="h" from="2512231130" to="2602022200" cat="Störung" ts="2512231219" ts-tts="25-12-27 06:16:02.884" pr="1"/>
+    <ar cpth="" ct="2512271924" cs="c" clt="2512271722" l="RB77">
+        <m id="r40014553" t="d" c="38" ts="2512270429" ts-tts="25-12-27 04:29:58.081"/>
+        <m id="r40070300" t="d" c="37" ts="2512271722" ts-tts="25-12-27 17:22:16.615"/>
+    </ar>
+</s>
+
+
+<s id="3196213681284886633-2512271628-5" eva="8000162">
+    <ar ct="2512271651" l="RE6"/>
+    <dp ct="2512271652" l="RE6"/>
+</s>
+
+
+<s id="201535978532296242-2512271334-10" eva="8000162">
+    <ar ct="2512271613">
+        <m id="r40046714" t="f" c="0" ts="2512271340" ts-tts="25-12-27 13:40:24.565"/>
+        <m id="r40057641" t="q" c="97" ts="2512271522" ts-tts="25-12-27 15:22:48.229"/>
+        <m id="r40057643" t="q" c="97" ts="2512271522" ts-tts="25-12-27 15:22:48.229"/>
+        <m id="r40057700" t="q" c="96" ts="2512271523" ts-tts="25-12-27 15:23:50.488"/>
+        <m id="r40057702" t="q" c="96" ts="2512271523" ts-tts="25-12-27 15:23:50.488"/>
+    </ar>
+    <dp ct="2512271615">
+        <m id="r40046714" t="f" c="0" ts="2512271340" ts-tts="25-12-27 13:40:24.565"/>
+        <m id="r40057641" t="q" c="97" ts="2512271522" ts-tts="25-12-27 15:22:48.229"/>
+        <m id="r40057643" t="q" c="97" ts="2512271522" ts-tts="25-12-27 15:22:48.229"/>
+        <m id="r40057700" t="q" c="96" ts="2512271523" ts-tts="25-12-27 15:23:50.488"/>
+        <m id="r40057702" t="q" c="96" ts="2512271523" ts-tts="25-12-27 15:23:50.488"/>
+    </dp>
+</s>
+
+
+<s id="-7115660967284263068-2512271528-5" eva="8000162">
+    <ar ct="2512271555" l="RE6"/>
+    <dp ct="2512271556" l="RE6"/>
+</s>
+
+
+<s id="-2950490356695221515-2512271428-5" eva="8000162">
+    <ar ct="2512271528"/>
+    <dp ct="2512271529"/>
+</s>
+
+
+<m id="i1090082" t="i" from="2512271115" to="2601271715" ts="2512271116" ts-tts="25-12-27 11:16:19.825"/>
+
+</timetable>
