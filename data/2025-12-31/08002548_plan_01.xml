@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="-6026814433990203943-2512310120-2">
+		<tl f="D" t="p" o="O0" c="NBE" n="75542"/>
+		<ar pt="2512310124" pp="3" l="RB61" fb="RB61" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2512310126" pp="3" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn"/>
+	</s>
+	<s id="-3927096025170759993-2512310138-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11292"/>
+		<ar pt="2512310141" pp="3" l="RE7" fb="RE7" ppth="Hamburg Hbf"/>
+		<dp pt="2512310141" pp="3" l="RE7" fb="RE7" ppth="Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-6711307188089838742-2512310005-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11293"/>
+		<ar pt="2512310119" pp="4" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg"/>
+		<dp pt="2512310120" pp="4" l="RE7" fb="RE7" ppth="Hamburg Hbf"/>
+	</s>
+</timetable>
