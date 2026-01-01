@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<timetable station="Nürnberg Hbf">
+	<s id="-4272298498907669914-2512311859-8">
+		<tl t="p" o="81" c="NJ" n="40421"/>
+		<ar pt="2601010328" pp="8" fb="NJ 40421" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe|Würzburg Hbf"/>
+		<dp pt="2601010408" pp="8" fb="NJ 40421" ppth="Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="4825127128022961026-2601010441-1">
+		<tl f="N" t="p" o="800765" c="RB" n="59143"/>
+		<dp pt="2601010441" pp="5 C-F" l="RB16" fb="RB16" ppth="Schwabach|Roth|Unterheckenhofen|Georgensgmünd|Mühlstetten|Pleinfeld|Ellingen(Bay)|Weißenburg(Bay)|Treuchtlingen|Pappenheim|Solnhofen|Dollnstein|Eichstätt Bahnhof|Adelschlag|Tauberfeld|Eitensheim|Gaimersheim|Ingolstadt Audi|Ingolstadt Nord|Ingolstadt Hbf|Baar-Ebenhausen|Rohrbach(Ilm)|Pfaffenhofen(Ilm)|Reichertshausen(Ilm)|Paindorf|Petershausen(Obb)|Dachau Bahnhof|München Hbf"/>
+	</s>
+	<s id="-2044723357159653206-2512311955-9">
+		<tl t="p" o="81" c="NJ" n="491"/>
+		<ar pt="2601010315" pp="9" fb="NJ 491" wings="6992012378128167215-2512311955" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Würzburg Hbf"/>
+		<dp pt="2601010408" pp="8" fb="NJ 491" wings="-4272298498907669914-2512311859" ppth="Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="-3823254010841261196-2512311859-8">
+		<tl t="p" o="84" c="NJ" n="421"/>
+		<ar pt="2601010328" pp="8" fb="NJ 421" wings="-4272298498907669914-2512311859" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe|Würzburg Hbf"/>
+		<dp pt="2601010417" pp="9" fb="NJ 421" wings="6992012378128167215-2512311955" ppth="Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="-7407340936264780071-2601010426-1">
+		<tl f="S" t="p" o="800721" c="S" n="57857"/>
+		<dp pt="2601010426" pp="2" l="S3" fb="S3" ppth="Nürnberg-Dürrenhof|Nürnberg-Gleißhammer|Nürnberg-Dutzendteich|Nürnberg Frankenstadion|Fischbach(Nürnberg)|Feucht|Feucht Ost|Ochenbruck|Mimberg|Burgthann|Oberferrieden|Postbauer-Heng|Pölling|Neumarkt(Oberpf)"/>
+	</s>
+	<s id="8292538173204253871-2601010333-18">
+		<tl f="S" t="p" o="800721" c="S" n="57850"/>
+		<ar pt="2601010417" pp="1" l="S1" fb="S1" ppth="Hartmannshof|Pommelsbrunn|Happurg|Hersbruck(l Pegnitz)|Henfenfeld|Ottensoos|Lauf(links Pegnitz)|Lauf West|Röthenbach-Seespitze|Röthenbach-Steinberg|Röthenbach(Pegnitz)|Schwaig|Nürnberg-Laufamholz|Nürnberg-Rehhof|Nürnberg-Mögeldorf|Nürnberg Ostring|Nürnberg-Dürrenhof"/>
+	</s>
+	<s id="6992012378128167215-2512311955-9">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2601010315" pp="9" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Würzburg Hbf"/>
+		<dp pt="2601010417" pp="9" fb="NJ 40491" ppth="Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="-6923323522758488008-2601010406-1">
+		<tl f="S" t="p" o="800721" c="S" n="57858"/>
+		<dp pt="2601010406" pp="22" l="S4" fb="S4" ppth="Nürnberg-Schweinau|Nürnberg-Stein|Unterasbach|Oberasbach|Anwanden|Roßtal|Roßtal Wegbrücke|Raitersaich|Heilsbronn|Petersaurach Nord|Wicklesgreuth|Sachsen(b Ansbach)|Ansbach"/>
+	</s>
+	<s id="7597089806492032299-2512312220-10">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2601010448" pp="6" fb="ICE 1081" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Würzburg Hbf"/>
+		<dp pt="2601010452" pp="6" fb="ICE 1081" ppth="Ingolstadt Hbf|München Hbf"/>
+	</s>
+</timetable>

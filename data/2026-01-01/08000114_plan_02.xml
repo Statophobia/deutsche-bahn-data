@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Fürth(Bay)Hbf">
+	<s id="-1920968423296724714-2601010215-9">
+		<tl f="S" t="p" o="800721" c="S" n="57861"/>
+		<ar pt="2601010243" pp="6" l="S6" fb="S6" ppth="Neustadt(Aisch)Bahnhof|Neustadt(Aisch)Mitte|Emskirchen|Hagenbüchach|Puschendorf|Siegelsdorf|Fürth-Burgfarrnbach|Fürth-Unterfürberg"/>
+		<dp pt="2601010244" pp="6" l="S6" fb="S6" ppth="Nürnberg Hbf"/>
+	</s>
+	<s id="-9090977216907339259-2601010208-2">
+		<tl f="S" t="p" o="800721" c="S" n="58828"/>
+		<ar pt="2601010216" pp="4" l="S6" fb="S6" ppth="Nürnberg Hbf"/>
+		<dp pt="2601010217" pp="4" l="S6" fb="S6" ppth="Fürth-Unterfürberg|Fürth-Burgfarrnbach|Siegelsdorf|Puschendorf|Hagenbüchach|Emskirchen|Neustadt(Aisch)Mitte|Neustadt(Aisch)Bahnhof"/>
+	</s>
+	<s id="8749307778384602-2601010201-9">
+		<tl f="N" t="p" o="800720" c="RB" n="57880"/>
+		<ar pt="2601010224" pp="7" l="RB11" fb="RB11" ppth="Cadolzburg|Egersdorf|Weiherhof|Zirndorf Kneippallee|Zirndorf|Alte Veste|Fürth-Dambach|Fürth Westvorstadt"/>
+	</s>
+	<s id="5933019757605265447-2601010215-2">
+		<tl f="N" t="p" o="800720" c="RB" n="57886"/>
+		<ar pt="2601010221" pp="6" l="RB12" fb="RB12" ppth="Nürnberg Hbf"/>
+		<dp pt="2601010229" pp="6" l="RB12" fb="RB12" ppth="Fürth-Unterfürberg|Fürth-Burgfarrnbach|Siegelsdorf|Raindorf|Langenzenn|Hardhof|Laubendorf|Wilhermsdorf|Wilhermsdorf Mitte|Adelsdorf(Mittelfr)|Eschenbach(b Markt Erlbach)|Markt Erlbach"/>
+	</s>
+	<s id="722352112545540016-2601010200-17">
+		<tl f="S" t="p" o="800721" c="S" n="39229"/>
+		<ar pt="2601010252" pp="21" l="S1" fb="S1" ppth="Bamberg|Strullendorf|Hirschaid|Buttenheim|Eggolsheim|Forchheim Nord|Forchheim(Oberfr)|Kersbach|Baiersdorf|Bubenreuth|Erlangen|Erlangen Paul-Gossen-Straße|Erlangen-Bruck|Eltersdorf|Vach|Fürth-Klinikum"/>
+		<dp pt="2601010253" pp="21" l="S1" fb="S1" pde="Hartmannshof" ppth="Nürnberg Rothenburger Str.|Nürnberg-Steinbühl|Nürnberg Hbf"/>
+	</s>
+	<s id="-8038551646592312329-2601010133-21">
+		<tl f="S" t="p" o="800721" c="S" n="39226"/>
+		<ar pt="2601010232" pp="20" l="S1" fb="S1" ppth="Hartmannshof|Pommelsbrunn|Happurg|Hersbruck(l Pegnitz)|Henfenfeld|Ottensoos|Lauf(links Pegnitz)|Lauf West|Röthenbach-Seespitze|Röthenbach-Steinberg|Röthenbach(Pegnitz)|Schwaig|Nürnberg-Laufamholz|Nürnberg-Rehhof|Nürnberg-Mögeldorf|Nürnberg Ostring|Nürnberg-Dürrenhof|Nürnberg Hbf|Nürnberg-Steinbühl|Nürnberg Rothenburger Str."/>
+		<dp pt="2601010233" pp="20" l="S1" fb="S1" ppth="Fürth-Klinikum|Vach|Eltersdorf|Erlangen-Bruck|Erlangen Paul-Gossen-Straße|Erlangen|Bubenreuth|Baiersdorf|Kersbach|Forchheim(Oberfr)|Forchheim Nord|Eggolsheim|Buttenheim|Hirschaid|Strullendorf|Bamberg"/>
+	</s>
+	<s id="-7237290772801135430-2601010233-1">
+		<tl f="N" t="p" o="800720" c="RB" n="57881"/>
+		<dp pt="2601010233" pp="7" l="RB11" fb="RB11" ppth="Fürth Westvorstadt|Fürth-Dambach|Alte Veste|Zirndorf|Zirndorf Kneippallee|Weiherhof|Egersdorf|Cadolzburg"/>
+	</s>
+</timetable>
