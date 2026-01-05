@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Bonn Hbf">
+	<s id="-7432589995430973116-2601050038-10">
+		<tl t="p" o="TR" c="TR" n="25401"/>
+		<ar pt="2601050125" pp="3" l="RB26" fb="RB26" ppth="Köln/Bonn Flughafen|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2601050127" pp="3" l="RB26" fb="RB26" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen"/>
+	</s>
+	<s id="-4782980400620953302-2601050111-7">
+		<tl t="p" o="TR" c="TR" n="25400"/>
+		<ar pt="2601050131" pp="1" l="RB26" fb="RB26" ppth="Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus"/>
+		<dp pt="2601050133" pp="1" l="RB26" fb="RB26" ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="8503777394879306018-2601042317-7">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601050136" pp="1" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Andernach|Remagen"/>
+		<dp pt="2601050137" pp="1" fb="ICE 920" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="6788017908466860759-2601050036-8">
+		<tl t="p" o="NXRB" c="NX" n="17383"/>
+		<ar pt="2601050105" pp="3" l="RB48" fb="RB48" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf"/>
+		<dp pt="2601050107" pp="3" l="RB48" fb="RB48" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem"/>
+	</s>
+</timetable>
