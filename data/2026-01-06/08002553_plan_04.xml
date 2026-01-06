@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="5943675838823476295-2601060436-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1705"/>
+		<dp pt="2601060436" pp="12" fb="ICE 1705" ppth="Hamburg Hbf|Lüneburg|Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-5967924537871298080-2601060301-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11201"/>
+		<ar pt="2601060405" pp="11" l="RE70" fb="RE70" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn"/>
+		<dp pt="2601060415" pp="11" l="RE70" fb="RE70" ppth="Hamburg Dammtor|Hamburg Hbf"/>
+	</s>
+	<s id="5627022888057007988-2601060430-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="81818"/>
+		<dp pt="2601060430" pp="7" l="RB60" fb="RB60" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="589143689032304009-2601060458-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="28952"/>
+		<dp pt="2601060458" pp="5" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="-8968985472116453647-2601060405-5">
+		<tl f="D" t="p" o="O0" c="NBE" n="81817"/>
+		<ar pt="2601060429" pp="6" l="RB60" fb="RB60" ppth="Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-3068691677176048647-2601060402-10">
+		<tl f="D" t="p" o="O0" c="NBE" n="28951"/>
+		<ar pt="2601060454" pp="6" l="RB61" fb="RB61" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="7511148090173910504-2601060412-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1271"/>
+		<dp pt="2601060412" pp="10" fb="ICE 1271" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf"/>
+	</s>
+</timetable>
