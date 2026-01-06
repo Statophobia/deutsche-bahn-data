@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="-6836417876429418811-2601061925-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1000"/>
+		<ar pt="2601062335" pp="8" fb="ICE 1000" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Bitterfeld"/>
+		<dp pt="2601062337" pp="8" fb="ICE 1000" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="8793213226106504000-2601062036-8">
+		<tl f="F" t="p" o="80" c="ICE" n="705"/>
+		<ar pt="2601062329" pp="5" fb="ICE 705" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-9179795053903528955-2601062343-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62036"/>
+		<ar pt="2601062349" pp="3" l="RE8" fb="RE8" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601062351" pp="3" l="RE8" fb="RE8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf"/>
+	</s>
+	<s id="-9062453103731034880-2601061855-9">
+		<tl f="F" t="p" o="80" c="ICE" n="500"/>
+		<ar pt="2601062322" pp="7" fb="ICE 500" wings="-732304608179562353-2601061855" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf"/>
+		<dp pt="2601062324" pp="7" fb="ICE 500" hi="1" wings="-732304608179562353-2601061855" ppth="Berlin Hbf"/>
+	</s>
+	<s id="3265133052771071185-2601062204-15">
+		<tl f="N" t="p" o="800158" c="RE" n="3359"/>
+		<ar pt="2601062341" pp="4" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601062344" pp="4" l="RE3" fb="RE3" ppth="Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog"/>
+	</s>
+	<s id="-7138410051225202863-2601062320-3">
+		<tl f="F" t="p" o="80" c="ICE" n="905"/>
+		<ar pt="2601062335" pp="3" fb="ICE 905" hi="1" ppth="Berlin Gesundbrunnen|Berlin Hbf"/>
+		<dp pt="2601062337" pp="3" fb="ICE 905" ppth="Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Naumburg(Saale)Hbf|Jena Paradies|Jena-Göschwitz|Saalfeld(Saale)|Lichtenfels|Bamberg|Erlangen|Nürnberg Hbf|Treuchtlingen|Donauwörth|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-4470705923852284427-2601062248-4">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62039"/>
+		<ar pt="2601062304" pp="8" l="RE8" fb="RE8" ppth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2601062306" pp="8" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<timetable station="Flughafen BER">
+	<s id="4153153877719876337-2601062135-10">
+		<tl f="N" t="p" o="800165" c="RB" n="18337"/>
+		<ar pt="2601062240" pp="4" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen|Berlin-Lichtenberg|Berlin Ostkreuz|Berlin-Schöneweide"/>
+	</s>
+	<s id="7049423321744956701-2601062137-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21947"/>
+		<ar pt="2601062200" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="7226160265896366780-2601062216-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21950"/>
+		<dp pt="2601062216" pp="3" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="-4530744212749064002-2601062201-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21948"/>
+		<dp pt="2601062201" pp="2" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="4887082356258955538-2601062141-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18235"/>
+		<ar pt="2601062205" pp="4" l="RB32" fb="RB32" ppth="Berlin-Lichtenberg|Berlin Ostkreuz|Berlin-Schöneweide"/>
+		<dp pt="2601062207" pp="4" l="RB32" fb="RB32" ppth="Birkengrund|Ludwigsfelde"/>
+	</s>
+</timetable>
