@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="8872265422262599802-2601070334-7">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31286"/>
+		<ar pt="2601070358" pp="6" l="RB32" fb="RB32" ppth="Duisburg Hbf|Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+	</s>
+	<s id="-6135772496710160406-2601070303-6">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89910"/>
+		<ar pt="2601070330" pp="5" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601070331" pp="5" l="RE3" fb="RE3" ppth="Essen-Altenessen|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="8503777394879306018-2601062322-11">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601070311" pp="6" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2601070312" pp="6" fb="ICE 920" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-5861922444719829321-2601070304-2">
+		<tl f="N" t="p" o="800349" c="RE" n="10244"/>
+		<ar pt="2601070308" pp="5" l="RE2" fb="RE2" ppth="Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601070309" pp="5" l="RE2" fb="RE2" ppth="Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-1327477237358408428-2601070258-2">
+		<tl t="p" o="B2" c="Bus" n="211"/>
+		<ar pt="2601070316" pp="" l="S2" fb="Bus S2" ppth="Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601070316" pp="" l="S2" fb="Bus S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf"/>
+	</s>
+	<s id="-1616687389182706992-2601070304-1">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31285"/>
+		<dp pt="2601070304" pp="6" l="RB32" fb="RB32" ppth="Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf|Duisburg Hbf"/>
+	</s>
+	<s id="8951460039138754415-2601070303-4">
+		<tl t="p" o="B2" c="Bus" n="210"/>
+		<ar pt="2601070329" pp="" l="S2" fb="Bus S2" ppth="Essen Hbf|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2601070329" pp="" l="S2" fb="Bus S2" ppth="Herne-Wanne-Eickel Hbf"/>
+	</s>
+</timetable>
