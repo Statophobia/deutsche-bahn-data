@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Landshut(Bay)Hbf">
+	<s id="3425530873406749316-2601082355-6">
+		<tl t="p" o="B7" c="Bus" n="4093"/>
+		<ar pt="2601090127" pp="" l="EV" fb="Bus EV" ppth="Plattling|Wallersdorf|Landau(Isar)|Dingolfing|Wörth(Isar)"/>
+	</s>
+	<s id="5686030603787371028-2601082342-6">
+		<tl t="p" o="A8N" c="Bus" n="60866"/>
+		<ar pt="2601090104" pp="" l="RE25" fb="Bus RE25" ppth="Regensburg Hbf|Obertraubling|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+	</s>
+	<s id="-5065801516765768983-2601082301-5">
+		<tl f="D" t="p" o="A8N" c="ALX" n="79866"/>
+		<ar pt="2601090112" pp="6" l="RE25" fb="RE25" hi="1" ppth="Schwandorf|Maxhütte-Haidhof|Regenstauf|Regensburg Hbf"/>
+		<dp pt="2601090112" pp="6" l="RE25" fb="RE25" ppth="Freising|München Hbf"/>
+	</s>
+</timetable>
