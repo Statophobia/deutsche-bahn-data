@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<timetable station="Aachen Hbf">
+	<s id="-541096427687243143-2601092241-1">
+		<tl t="p" o="NX" c="Bus" n="4785"/>
+		<dp pt="2601092241" pp="" l="RE4" fb="Bus RE4" ppth="Aachen Schanz|Aachen West|Kohlscheid Weststraße, Herzogenrath|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Brachelen Alter Steinweg, Hückelhoven|Hückelhoven-Baal|Erkelenz|Herrath|Wickrath|Rheydt Hbf"/>
+	</s>
+	<s id="1555483896112278137-2601091956-7">
+		<tl f="F" t="p" o="80" c="ICE" n="318"/>
+		<ar pt="2601092200" pp="9" fb="ICE 318" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln Hbf"/>
+		<dp pt="2601092218" pp="9" fb="ICE 318" ppth="Liège-Guillemins|Bruxelles-Nord|Bruxelles Midi"/>
+	</s>
+	<s id="-8409867267316824164-2601092003-14">
+		<tl t="p" o="NX" c="Bus" n="4782"/>
+		<ar pt="2601092221" pp="" l="RE4" fb="Bus RE4" ppth="Rheydt Hbf|Wickrath|Herrath|Erkelenz|Hückelhoven-Baal|Brachelen Alter Steinweg, Hückelhoven|Lindern|Geilenkirchen|Übach-Palenberg|Herzogenrath|Kohlscheid Weststraße, Herzogenrath|Aachen West|Aachen Schanz"/>
+	</s>
+	<s id="5678133201420590456-2601091920-26">
+		<tl t="p" o="NXRE" c="NX" n="26832"/>
+		<ar pt="2601092207" pp="6" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde"/>
+	</s>
+	<s id="1476217225797495981-2601092108-2">
+		<tl f="S" t="p" o="88" c="S" n="5021"/>
+		<ar pt="2601092222" pp="8" l="S41" fb="S41" pde="Liège-Saint-Lambert" ppth="Hergenrath"/>
+	</s>
+	<s id="-1252736774691066995-2601092251-1">
+		<tl t="p" o="NXRE" c="NX" n="26841"/>
+		<dp pt="2601092251" pp="6" l="RE1" fb="RE1" ppth="Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf Hbf"/>
+	</s>
+	<s id="6311841465444361957-2601092124-6">
+		<tl t="p" o="B2" c="Bus" n="1803"/>
+		<ar pt="2601092227" pp="" l="RE18" fb="Bus RE18" ppth="Heerlen|Landgraaf|Eygelshoven Markt|Herzogenrath|Aachen West"/>
+	</s>
+	<s id="-6606054162180565473-2601092041-10">
+		<tl t="p" o="NX" c="Bus" n="3333"/>
+		<ar pt="2601092236" pp="" l="RB33X" fb="Bus RB33X" ppth="Mönchengladbach Hbf|Rheydt Hbf|Erkelenz|Geilenkirchen|Übach-Palenberg|Herzogenrath|Kohlscheid Weststraße, Herzogenrath|Aachen West|Aachen Schanz"/>
+	</s>
+	<s id="8478360780245309518-2601092100-2">
+		<tl t="p" o="NX" c="Bus" n="4183"/>
+		<ar pt="2601092210" pp="" l="RE4X" fb="Bus RE4X" ppth="Mönchengladbach Hbf"/>
+	</s>
+	<s id="3856326613499109234-2601092226-1">
+		<tl t="p" o="NX" c="Bus" n="3336"/>
+		<dp pt="2601092226" pp="" l="RB33X" fb="Bus RB33X" ppth="Aachen Schanz|Aachen West|Kohlscheid Weststraße, Herzogenrath|Herzogenrath|Übach-Palenberg|Geilenkirchen|Erkelenz|Rheydt Hbf|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-1331844576850405885-2601092237-1">
+		<tl f="S" t="p" o="800310" c="S" n="5043"/>
+		<dp pt="2601092237" pp="8" l="S41" fb="S41" pde="Liège-Guillemins" ppth="Hergenrath"/>
+	</s>
+	<s id="-5723413570478601844-2601092230-1">
+		<tl t="p" o="B2" c="Bus" n="1804"/>
+		<dp pt="2601092230" pp="" l="RE18" fb="Bus RE18" ppth="Aachen West|Herzogenrath|Eygelshoven Markt|Landgraaf|Heerlen"/>
+	</s>
+</timetable>

@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Mönchengladbach Hbf">
+	<s id="9010915468543999493-2601092232-13">
+		<tl f="S" t="p" o="800354" c="S" n="31834"/>
+		<ar pt="2601092306" pp="9" l="S8" fb="S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="6148747196932945152-2601092330-1">
+		<tl t="p" o="NX" c="Bus" n="4741"/>
+		<dp pt="2601092330" pp="" l="RE4" fb="Bus RE4" ppth="Rheydt Hbf|Wickrath|Herrath|Erkelenz|Hückelhoven-Baal|Brachelen Alter Steinweg, Hückelhoven|Lindern"/>
+	</s>
+	<s id="5824371359566805370-2601092209-8">
+		<tl t="p" o="NX" c="Bus" n="4734"/>
+		<ar pt="2601092329" pp="" l="RE4" fb="Bus RE4" ppth="Lindern|Brachelen Alter Steinweg, Hückelhoven|Hückelhoven-Baal|Erkelenz|Herrath|Wickrath|Rheydt Hbf"/>
+	</s>
+	<s id="-8686175792095461381-2601092220-2">
+		<tl t="p" o="R2" c="Bus" n="1313"/>
+		<ar pt="2601092300" pp="" l="VRE13" fb="Bus VRE13" ppth="Venlo"/>
+	</s>
+	<s id="-9137573055722100970-2601092306-6">
+		<tl f="N" t="p" o="800349" c="RE" n="52894"/>
+		<ar pt="2601092354" pp="4" l="RE42" fb="RE42" ppth="Duisburg Hbf|Rheinhausen|Krefeld-Uerdingen|Krefeld Hbf|Viersen"/>
+	</s>
+	<s id="3371571902952442498-2601092152-2">
+		<tl t="p" o="NX" c="Bus" n="4184"/>
+		<ar pt="2601092302" pp="" l="RE4X" fb="Bus RE4X" ppth="Aachen Hbf"/>
+	</s>
+	<s id="476899029395922572-2601092126-10">
+		<tl t="p" o="NX" c="Bus" n="3334"/>
+		<ar pt="2601092324" pp="" l="RB33X" fb="Bus RB33X" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Kohlscheid Weststraße, Herzogenrath|Herzogenrath|Übach-Palenberg|Geilenkirchen|Erkelenz|Rheydt Hbf"/>
+	</s>
+	<s id="-5569139476247391407-2601092341-1">
+		<tl t="p" o="NX" c="Bus" n="3339"/>
+		<dp pt="2601092341" pp="" l="RB33X" fb="Bus RB33X" ppth="Rheydt Hbf|Erkelenz|Geilenkirchen|Übach-Palenberg|Herzogenrath|Kohlscheid Weststraße, Herzogenrath|Aachen West|Aachen Schanz|Aachen Hbf"/>
+	</s>
+	<s id="-2834374938448751744-2601092205-7">
+		<tl t="p" o="R2" c="Bus" n="1311"/>
+		<ar pt="2601092325" pp="" l="VRE13" fb="Bus VRE13" ppth="Venlo|Kaldenkirchen|Breyell|Boisheim|Dülken|Viersen"/>
+	</s>
+</timetable>
