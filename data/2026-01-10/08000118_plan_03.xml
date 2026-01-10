@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="-913233011156321677-2601100334-5">
+		<tl f="S" t="p" o="8003L1" c="S" n="30285"/>
+		<ar pt="2601100353" pp="4" l="S2" fb="S2" ppth="Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601100354" pp="4" l="S2" fb="S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf"/>
+	</s>
+	<s id="968678521329545848-2601100338-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31286"/>
+		<ar pt="2601100357" pp="6" l="RB32" fb="RB32" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+	</s>
+	<s id="-4976189766415114310-2601100253-4">
+		<tl f="S" t="p" o="8003L1" c="S" n="30284"/>
+		<ar pt="2601100304" pp="7" l="S2" fb="S2" ppth="Essen Hbf|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2601100305" pp="7" l="S2" fb="S2" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede"/>
+	</s>
+	<s id="8503777394879306018-2601092324-7">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601100314" pp="7" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf"/>
+		<dp pt="2601100315" pp="7" fb="ICE 920" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-7810335980164690694-2601100346-2">
+		<tl f="N" t="p" o="800349" c="RE" n="10191"/>
+		<ar pt="2601100354" pp="7" l="RE42" fb="RE42" ppth="Essen Hbf"/>
+		<dp pt="2601100355" pp="7" l="RE42" fb="RE42" ppth="Herne-Wanne-Eickel Hbf|Recklinghausen Süd|Recklinghausen Hbf|Marl-Sinsen|Haltern am See|Sythen|Dülmen|Buldern|Nottuln-Appelhülsen|Senden-Bösensell|Münster-Albachten|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-378603681650976341-2601100316-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89909"/>
+		<ar pt="2601100328" pp="6" l="RE3" fb="RE3" ppth="Oberhausen Hbf|Essen-Altenessen"/>
+		<dp pt="2601100329" pp="6" l="RE3" fb="RE3" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="4837105851841022215-2601100234-7">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31492"/>
+		<ar pt="2601100304" pp="25" l="RB46" fb="RB46" ppth="Bochum Hbf|Bochum West|Bochum-Hamme|Bochum-Riemke|Herne|Herne-Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-6058665356135913865-2601100209-13">
+		<tl f="N" t="p" o="800349" c="RE" n="10244"/>
+		<ar pt="2601100308" pp="5" l="RE2" fb="RE2" ppth="Münster(Westf)Hbf|Münster-Albachten|Senden-Bösensell|Nottuln-Appelhülsen|Buldern|Dülmen|Sythen|Haltern am See|Marl-Sinsen|Recklinghausen Hbf|Recklinghausen Süd|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601100309" pp="5" l="RE2" fb="RE2" ppth="Essen Hbf"/>
+	</s>
+	<s id="2952171153569888886-2601100322-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31495"/>
+		<dp pt="2601100322" pp="25" l="RB46" fb="RB46" ppth="Herne-Wanne-Eickel Hbf|Herne|Bochum-Riemke|Bochum-Hamme|Bochum West|Bochum Hbf"/>
+	</s>
+	<s id="-6135772496710160406-2601100303-6">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89910"/>
+		<ar pt="2601100330" pp="5" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601100331" pp="5" l="RE3" fb="RE3" ppth="Essen-Altenessen|Oberhausen Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Fulda">
+	<s id="-2494453527783146128-2601091959-9">
+		<tl f="F" t="p" o="NZ" c="IC" n="60409"/>
+		<ar pt="2601100218" pp="7" fb="IC 60409" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2601100220" pp="7" fb="IC 60409" ppth="Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="7016804452829305661-2601091959-9">
+		<tl t="p" o="81" c="NJ" n="409"/>
+		<ar pt="2601100218" pp="7" fb="NJ 409" hi="1" wings="-2494453527783146128-2601091959" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf"/>
+		<dp pt="2601100220" pp="7" fb="NJ 409" hi="1" wings="-2494453527783146128-2601091959" ppth="Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-1197270886930040789-2601092053-7">
+		<tl f="F" t="p" o="NZ" c="IC" n="60408"/>
+		<ar pt="2601100241" pp="4" fb="IC 60408" hi="1" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf"/>
+		<dp pt="2601100243" pp="4" fb="IC 60408" hi="1" ppth="Darmstadt Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5331894847185138451-2601092053-7">
+		<tl t="p" o="81" c="NJ" n="408"/>
+		<ar pt="2601100241" pp="4" fb="NJ 408" hi="1" wings="-1197270886930040789-2601092053" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf"/>
+		<dp pt="2601100243" pp="4" fb="NJ 408" hi="1" wings="-1197270886930040789-2601092053" ppth="Darmstadt Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-5025260464610026539-2601100141-7">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15576"/>
+		<ar pt="2601100219" pp="1" l="RB51" fb="RB51" ppth="Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)"/>
+	</s>
+</timetable>
