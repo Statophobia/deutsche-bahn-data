@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Paderborn Hbf">
+	<s id="2372692481070283639-2601102240-2">
+		<tl t="p" o="TDHS" c="Bus" n="4583"/>
+		<ar pt="2601102309" pp="" l="S5" fb="Bus S5" ppth="Altenbeken"/>
+	</s>
+	<s id="-8037585397181849890-2601102325-1">
+		<tl t="p" o="R2" c="Bus" n="8902"/>
+		<dp pt="2601102325" pp="" l="RB89" fb="Bus RB89" ppth="Scharmede|Salzkotten|Geseke"/>
+	</s>
+	<s id="4025156378867941016-2601102233-11">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90679"/>
+		<ar pt="2601102341" pp="3" l="RB72" fb="RB72" ppth="Herford|Bad Salzuflen|Schötmar|Bad Salzuflen-Sylbach|Lage(Lippe)|Detmold|Horn-Bad Meinberg|Leopoldstal|Steinheim-Sandebeck|Altenbeken"/>
+	</s>
+	<s id="-589151252476328973-2601102320-2">
+		<tl t="p" o="NX" c="Bus" n="1103"/>
+		<ar pt="2601102344" pp="" l="RE11" fb="Bus RE11" ppth="Altenbeken"/>
+	</s>
+	<s id="-4970200135276273245-2601102223-4">
+		<tl t="p" o="R2" c="Bus" n="7203"/>
+		<ar pt="2601102318" pp="" l="VRB72" fb="Bus VRB72" ppth="Leopoldstal|Steinheim-Sandebeck|Altenbeken"/>
+	</s>
+	<s id="-1880779152895924405-2601102323-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75086"/>
+		<dp pt="2601102323" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="-653349159527274322-2601102315-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90042"/>
+		<dp pt="2601102315" pp="2" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest|Borgeln|Welver|Hamm-Westtünnen|Hamm(Westf)Hbf|Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-8438901993781382975-2601102243-13">
+		<tl f="D" t="p" o="N1" c="NWB" n="75085"/>
+		<ar pt="2601102337" pp="5" l="RB74" fb="RB74" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Bielefeld-Senne|Bielefeld-Windelsbleiche|Bielefeld-Sennestadt|Schloß Holte|Hövelriege|Hövelhof|Paderborn-Sennelager|Paderborn-Schloss Neuhaus|Paderborn Nord|Paderborn Kasseler Tor"/>
+	</s>
+</timetable>

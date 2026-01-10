@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<timetable station="Wuppertal Hbf">
+	<s id="6810614476303646777-2601101826-10">
+		<tl f="F" t="p" o="80" c="ICE" n="207"/>
+		<ar pt="2601102213" pp="1" fb="ICE 207" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf"/>
+		<dp pt="2601102214" pp="1" fb="ICE 207" ppth="Solingen Hbf|Köln Hbf"/>
+	</s>
+	<s id="-5118801502531347736-2601102206-10">
+		<tl t="p" o="M2" c="R" n="91461"/>
+		<ar pt="2601102247" pp="4" l="S28" fb="S28" ppth="Düsseldorf Hbf|Erkrath-Nord|Neanderthal|Mettmann Zentrum|Mettmann Stadtwald|Wuppertal-Hahnenfurth/Düssel|Wuppertal-Vohwinkel|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck"/>
+	</s>
+	<s id="2579078581490934825-2601101852-6">
+		<tl f="F" t="p" o="80" c="ICE" n="552"/>
+		<ar pt="2601102242" pp="1" fb="ICE 552" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hannover Hbf|Hagen Hbf"/>
+		<dp pt="2601102243" pp="1" fb="ICE 552" ppth="Köln Hbf|Bonn Hbf"/>
+	</s>
+	<s id="7423694600873413325-2601102213-1">
+		<tl t="p" o="TDRR" c="RRB" n="90155"/>
+		<dp pt="2601102213" pp="5" l="S7" fb="S7" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Ronsdorf|Remscheid-Lüttringhausen|Remscheid-Lennep|Remscheid Hbf|Remscheid-Güldenwerth|Solingen-Schaberg|Solingen Mitte|Solingen Grünewald|Solingen Hbf"/>
+	</s>
+	<s id="-8497502675981686987-2601102220-1">
+		<tl t="p" o="B2" c="Bus" n="8003"/>
+		<dp pt="2601102220" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West|Gevelsberg-Kipp|Gevelsberg Hbf|Gevelsberg-Knapp|Hagen-Westerbauer|Hagen-Heubing|Hagen-Wehringhausen|Hagen Hbf"/>
+	</s>
+	<s id="-9062814752025892689-2601102210-2">
+		<tl t="p" o="B2" c="Bus" n="8011"/>
+		<ar pt="2601102245" pp="" l="S8X" fb="Bus S8X" ppth="Düsseldorf Hbf"/>
+		<dp pt="2601102246" pp="" l="S8X" fb="Bus S8X" ppth="Hagen Hbf"/>
+	</s>
+	<s id="-2456590407712242794-2601102209-9">
+		<tl t="p" o="NXRE" c="NX" n="26438"/>
+		<ar pt="2601102255" pp="1" l="RE4" fb="RE4" ppth="Dortmund Hbf|Witten Hbf|Wetter(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2601102257" pp="1" l="RE4" fb="RE4" ppth="Wuppertal-Vohwinkel|Düsseldorf Hbf"/>
+	</s>
+	<s id="1434075083908907998-2601102243-1">
+		<tl t="p" o="B2" c="Bus" n="8009"/>
+		<dp pt="2601102243" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West|Gevelsberg-Kipp|Gevelsberg Hbf|Gevelsberg-Knapp|Hagen-Westerbauer|Hagen-Heubing|Hagen-Wehringhausen|Hagen Hbf"/>
+	</s>
+	<s id="6044939664677984872-2601102107-7">
+		<tl t="p" o="NXRE" c="NX" n="26435"/>
+		<ar pt="2601102200" pp="2" l="RE4" fb="RE4" ppth="Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Wuppertal-Vohwinkel"/>
+		<dp pt="2601102202" pp="2" l="RE4" fb="RE4" ppth="Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Wetter(Ruhr)|Witten Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="6309345993456152973-2601102145-15">
+		<tl f="S" t="p" o="8003L1" c="S" n="92165"/>
+		<ar pt="2601102222" pp="4" l="S9" fb="S9" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="-6891709583672977518-2601102128-15">
+		<tl t="p" o="B2" c="Bus" n="8008"/>
+		<ar pt="2601102245" pp="" l="S8" fb="Bus S8" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="-2339647631891332608-2601102152-13">
+		<tl t="p" o="TDRR" c="RRB" n="90148"/>
+		<ar pt="2601102247" pp="5" l="S7" fb="S7" ppth="Solingen Hbf|Solingen Grünewald|Solingen Mitte|Solingen-Schaberg|Remscheid-Güldenwerth|Remscheid Hbf|Remscheid-Lennep|Remscheid-Lüttringhausen|Wuppertal-Ronsdorf|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="102731739506285413-2601102152-11">
+		<tl t="p" o="NXRB" c="NX" n="17372"/>
+		<ar pt="2601102236" pp="2" l="RB48" fb="RB48" ppth="Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel"/>
+		<dp pt="2601102237" pp="2" l="RB48" fb="RB48" ppth="Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="-4824233197488580765-2601102035-13">
+		<tl t="p" o="NXRE" c="NX" n="17435"/>
+		<ar pt="2601102202" pp="1" l="RE7" fb="RE7" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Drensteinfurt|Hamm(Westf)Hbf|Bönen|Unna|Holzwickede|Schwerte(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen"/>
+		<dp pt="2601102204" pp="1" l="RE7" fb="RE7" ppth="Solingen Hbf|Opladen|Köln Messe/Deutz|Köln Hbf|Dormagen|Neuss Hbf|Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf"/>
+	</s>
+	<s id="3754752406017186763-2601102103-23">
+		<tl t="p" o="M2" c="R" n="77269"/>
+		<ar pt="2601102217" pp="3" l="S28" fb="S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf|Düsseldorf-Flingern|Düsseldorf-Gerresheim|Erkrath-Nord|Neanderthal|Mettmann Zentrum|Mettmann Stadtwald|Wuppertal-Hahnenfurth/Düssel|Wuppertal-Vohwinkel|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck"/>
+	</s>
+	<s id="-5930517049169522448-2601102140-2">
+		<tl t="p" o="B2" c="Bus" n="8005"/>
+		<ar pt="2601102215" pp="" l="S8X" fb="Bus S8X" ppth="Düsseldorf Hbf"/>
+		<dp pt="2601102216" pp="" l="S8X" fb="Bus S8X" ppth="Hagen Hbf"/>
+	</s>
+	<s id="5654054818740781801-2601102238-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="92162"/>
+		<dp pt="2601102238" pp="5" l="S9" fb="S9" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West|Gevelsberg-Kipp|Gevelsberg Hbf|Gevelsberg-Knapp|Hagen-Westerbauer|Hagen-Heubing|Hagen-Wehringhausen|Hagen Hbf"/>
+	</s>
+	<s id="8843700333249315612-2601102158-5">
+		<tl f="S" t="p" o="8003L1" c="S" n="92158"/>
+		<ar pt="2601102208" pp="5" l="S9" fb="S9" ppth="Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck"/>
+	</s>
+	<s id="7537395545451740415-2601101728-10">
+		<tl f="F" t="p" o="80" c="ICE" n="512"/>
+		<ar pt="2601102253" pp="2" fb="ICE 512" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Solingen Hbf"/>
+		<dp pt="2601102254" pp="2" fb="ICE 512" ppth="Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf"/>
+	</s>
+	<s id="1637829292216142031-2601102243-1">
+		<tl t="p" o="M2" c="R" n="91466"/>
+		<dp pt="2601102243" pp="3" l="S28" fb="S28" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Vohwinkel|Wuppertal-Hahnenfurth/Düssel|Mettmann Stadtwald|Mettmann Zentrum|Neanderthal|Erkrath-Nord|Düsseldorf Hbf"/>
+	</s>
+	<s id="-428652366346926615-2601102130-2">
+		<tl t="p" o="B2" c="Bus" n="8012"/>
+		<ar pt="2601102200" pp="" l="S8X" fb="Bus S8X" ppth="Hagen Hbf"/>
+		<dp pt="2601102201" pp="" l="S8X" fb="Bus S8X" ppth="Düsseldorf Hbf"/>
+	</s>
+	<s id="5089623794776396739-2601102212-3">
+		<tl t="p" o="NXRB" c="NX" n="17377"/>
+		<ar pt="2601102219" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2601102220" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="3512082074809865890-2601102213-1">
+		<tl t="p" o="M2" c="R" n="91464"/>
+		<dp pt="2601102213" pp="3" l="S28" fb="S28" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Vohwinkel|Wuppertal-Hahnenfurth/Düssel|Mettmann Stadtwald|Mettmann Zentrum|Neanderthal|Erkrath-Nord|Düsseldorf Hbf"/>
+	</s>
+	<s id="-285631373942128689-2601102210-1">
+		<tl t="p" o="B2" c="Bus" n="8010"/>
+		<dp pt="2601102210" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern|Düsseldorf Hbf"/>
+	</s>
+</timetable>

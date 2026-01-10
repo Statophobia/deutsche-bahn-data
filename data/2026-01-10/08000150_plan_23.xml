@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<timetable station="Hanau Hbf">
+	<s id="-2091644117201238878-2601102324-4">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4542"/>
+		<ar pt="2601102344" pp="7" l="RE50" fb="RE50" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Offenbach(Main)Hbf"/>
+		<dp pt="2601102345" pp="7" l="RE50" fb="RE50" ppth="Langenselbold"/>
+	</s>
+	<s id="1556741539828157941-2601102135-24">
+		<tl f="N" t="p" o="800772" c="RE" n="4634"/>
+		<ar pt="2601102314" pp="102" l="RE54" fb="RE54" ppth="Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Kleinostheim|Rückersbacher Schlucht|Dettingen(Main)|Kahl(Main)|Großkrotzenburg|Großauheim(Kr Hanau)"/>
+		<dp pt="2601102315" pp="102" l="RE54" fb="RE54" ppth="Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="8991034508569732228-2601102345-1">
+		<tl t="p" o="K4" c="Bus" n="49968"/>
+		<dp pt="2601102345" pp="" l="EV" fb="Bus EV" ppth="Hanau Nord"/>
+	</s>
+	<s id="-4268897553900052185-2601102307-2">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4541"/>
+		<ar pt="2601102313" pp="6" l="RE50" fb="RE50" ppth="Langenselbold"/>
+		<dp pt="2601102314" pp="6" l="RE50" fb="RE50" ppth="Offenbach(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-6940530814677042483-2601102309-19">
+		<tl f="S" t="p" o="800528" c="S" n="35979"/>
+		<ar pt="2601102359" pp="2" l="S9" fb="S9" ppth="Kelsterbach|Frankfurt(M) Flughafen Regionalbf|Frankfurt(Main)-Gateway Gardens|Frankfurt am Main - Stadion|Frankfurt-Niederrad|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg|Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Mühlheim(Main)|Mühlheim(Main)-Dietesheim|Steinheim(Main)"/>
+	</s>
+	<s id="-4312222121523709523-2601102301-8">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24369"/>
+		<ar pt="2601102325" pp="103" l="RB58" fb="RB58" ppth="Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West"/>
+		<dp pt="2601102326" pp="103" l="RB58" fb="RB58" ppth="Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim|Aschaffenburg Hbf"/>
+	</s>
+	<s id="5903101010412136106-2601101713-12">
+		<tl f="F" t="p" o="81" c="ICE" n="20"/>
+		<ar pt="2601102319" pp="102" fb="ICE 20" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf"/>
+		<dp pt="2601102320" pp="102" fb="ICE 20" ppth="Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="7477797110160472438-2601101815-10">
+		<tl f="F" t="p" o="80" c="ICE" n="677"/>
+		<ar pt="2601102312" pp="6" fb="ICE 677" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda"/>
+		<dp pt="2601102314" pp="6" fb="ICE 677" ppth="Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf"/>
+	</s>
+	<s id="-973252442035435426-2601102316-4">
+		<tl f="D" t="p" o="R4" c="VIA" n="25139"/>
+		<ar pt="2601102336" pp="104" l="RE85" fb="RE85" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost"/>
+		<dp pt="2601102337" pp="104" l="RE85" fb="RE85" ppth="Hanau Klein-Auheim|Hainburg Hainstadt|Seligenstadt(Hess)|Mainhausen Zellhausen|Babenhausen(Hess)|Babenhausen Langstadt|Groß-Umstadt Klein-Umstadt|Groß-Umstadt Mitte|Groß-Umstadt Wiebelsbach"/>
+	</s>
+	<s id="-8732806761005044196-2601102331-1">
+		<tl f="S" t="p" o="800528" c="S" n="35982"/>
+		<dp pt="2601102331" pp="2" l="S9" fb="S9" ppth="Steinheim(Main)|Mühlheim(Main)-Dietesheim|Mühlheim(Main)|Offenbach(Main)Ost|Offenbach(Main) Marktplatz|Offenbach(Main) Ledermuseum|Offenbach(Main) Kaiserlei|Frankfurt(M)Mühlberg|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Niederrad|Frankfurt am Main - Stadion|Frankfurt(Main)-Gateway Gardens|Frankfurt(M) Flughafen Regionalbf|Kelsterbach"/>
+	</s>
+	<s id="-6860580546642404520-2601102301-1">
+		<tl f="S" t="p" o="800528" c="S" n="35980"/>
+		<dp pt="2601102301" pp="1" l="S9" fb="S9" ppth="Steinheim(Main)|Mühlheim(Main)-Dietesheim|Mühlheim(Main)|Offenbach(Main)Ost|Offenbach(Main) Marktplatz|Offenbach(Main) Ledermuseum|Offenbach(Main) Kaiserlei|Frankfurt(M)Mühlberg|Frankfurt(M)Ostendstraße|Frankfurt(M)Konstablerwache|Frankfurt(M)Hauptwache|Frankfurt(M)Taunusanlage|Frankfurt Hbf (tief)|Frankfurt-Niederrad|Frankfurt am Main - Stadion|Frankfurt(Main)-Gateway Gardens|Frankfurt(M) Flughafen Regionalbf|Kelsterbach"/>
+	</s>
+	<s id="-7451361316148245986-2601102250-4">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15542"/>
+		<ar pt="2601102309" pp="7" l="RB51" fb="RB51" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Offenbach(Main)Hbf"/>
+		<dp pt="2601102310" pp="7" l="RB51" fb="RB51" ppth="Wolfgang(Kr Hanau)|Rodenbach(b Hanau)|Langenselbold"/>
+	</s>
+	<s id="-4592160747336224830-2601102239-19">
+		<tl f="S" t="p" o="800528" c="S" n="35977"/>
+		<ar pt="2601102329" pp="1" l="S9" fb="S9" ppth="Kelsterbach|Frankfurt(M) Flughafen Regionalbf|Frankfurt(Main)-Gateway Gardens|Frankfurt am Main - Stadion|Frankfurt-Niederrad|Frankfurt Hbf (tief)|Frankfurt(M)Taunusanlage|Frankfurt(M)Hauptwache|Frankfurt(M)Konstablerwache|Frankfurt(M)Ostendstraße|Frankfurt(M)Mühlberg|Offenbach(Main) Kaiserlei|Offenbach(Main) Ledermuseum|Offenbach(Main) Marktplatz|Offenbach(Main)Ost|Mühlheim(Main)|Mühlheim(Main)-Dietesheim|Steinheim(Main)"/>
+	</s>
+	<s id="3102717453829719668-2601102300-2">
+		<tl t="p" o="K4" c="Bus" n="49973"/>
+		<ar pt="2601102308" pp="" l="EV" fb="Bus EV" ppth="Hanau Nord"/>
+	</s>
+	<s id="5002808764059930451-2601102328-9">
+		<tl f="N" t="p" o="800772" c="RE" n="4645"/>
+		<ar pt="2601102357" pp="103" l="RE54" fb="RE54" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West"/>
+		<dp pt="2601102359" pp="103" l="RE54" fb="RE54" ppth="Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim|Aschaffenburg Hbf|Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen|Würzburg Hbf"/>
+	</s>
+</timetable>
