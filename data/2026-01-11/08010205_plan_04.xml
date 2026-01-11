@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Leipzig Hbf">
+	<s id="7016804452829305661-2601101959-11">
+		<tl t="p" o="81" c="NJ" n="409"/>
+		<ar pt="2601110445" pp="15" fb="NJ 409" wings="-2494453527783146128-2601101959" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Fulda|Erfurt Hbf"/>
+		<dp pt="2601110536" pp="15" fb="NJ 409" hi="1" wings="-2494453527783146128-2601101959" ppth="Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-2494453527783146128-2601101959-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60409"/>
+		<ar pt="2601110445" pp="15" fb="IC 60409" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Fulda|Erfurt Hbf"/>
+		<dp pt="2601110536" pp="15" fb="IC 60409" ppth="Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-4639094387075806576-2601110452-1">
+		<tl f="F" t="p" o="80" c="IC" n="2509"/>
+		<dp pt="2601110452" pp="14" fb="IC 2509" ppth="Riesa|Dresden-Neustadt"/>
+	</s>
+	<s id="-2734429026246492002-2601110408-15">
+		<tl f="N" t="p" o="800413" c="RB" n="16664"/>
+		<ar pt="2601110455" pp="22" l="RB113" fb="RB113" ppth="Geithain|Tautenhain|Hopfgarten(Sachs)|Bad Lausick|Lauterbach-Steinbach|Otterwisch|Belgershain|Oberholz|Großpösna|Leipzig-Liebertwolkwitz|Leipzig-Holzhausen|Leipzig-Mölkau|Leipzig Werkstättenstraße|Leipzig-Paunsdorf"/>
+	</s>
+	<s id="6495717251903689406-2601110434-7">
+		<tl f="S" t="p" o="800486" c="S" n="37681"/>
+		<ar pt="2601110452" pp="7" l="S6" fb="S6" ppth="Markranstädt|Leipzig-Miltitz|Leipzig-Rückmarsdorf|Leipzig-Leutzsch|Leipzig-Möckern|Leipzig Coppiplatz"/>
+	</s>
+</timetable>

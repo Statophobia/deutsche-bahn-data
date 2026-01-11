@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<timetable station="Dortmund Hbf">
+	<s id="-6238175347891583359-2601102337-13">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2601110452" pp="18" fb="ICE 1540" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf"/>
+		<dp pt="2601110454" pp="18" fb="ICE 1540" ppth="Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="1789762675294103628-2601110435-1">
+		<tl t="p" o="B2" c="Bus" n="538"/>
+		<dp pt="2601110435" pp="" l="S5" fb="Bus S5" ppth="Dortmund-Barop|Dortmund-Kruckel|Witten-Annen Nord|Witten Hbf"/>
+	</s>
+	<s id="-1143445060984741763-2601110334-7">
+		<tl t="p" o="B2" c="Bus" n="216"/>
+		<ar pt="2601110416" pp="" l="S2" fb="Bus S2" ppth="Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="115749858966614572-2601110433-1">
+		<tl t="p" o="B2" c="Bus" n="221"/>
+		<dp pt="2601110433" pp="" l="S2" fb="Bus S2" ppth="Dortmund-Dorstfeld|Dortmund-Wischlingen|Dortmund-Huckarde|Dortmund-Westerfilde|Dortmund-Nette/Oestrich|Dortmund-Mengede"/>
+	</s>
+	<s id="-7715587132874199480-2601110337-6">
+		<tl t="p" o="NXRE" c="NX" n="22067"/>
+		<ar pt="2601110414" pp="8" l="RE1" fb="RE1" ppth="Oberhausen Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf"/>
+		<dp pt="2601110416" pp="8" l="RE1" fb="RE1" ppth="Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="8899931960438490012-2601110416-8">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89911"/>
+		<ar pt="2601110456" pp="23" l="RE3" fb="RE3" ppth="Oberhausen Hbf|Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede"/>
+	</s>
+	<s id="-4887119944424865436-2601110351-5">
+		<tl f="S" t="p" o="800354" c="S" n="31507"/>
+		<ar pt="2601110422" pp="5" l="S5" fb="S5" ppth="Hagen Hbf|Hagen-Vorhalle|Wetter(Ruhr)|Witten Hbf"/>
+	</s>
+	<s id="1854273923667167827-2601110403-1">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89912"/>
+		<dp pt="2601110403" pp="23" l="RE3" fb="RE3" ppth="Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Altenessen|Oberhausen Hbf"/>
+	</s>
+	<s id="544582788371322102-2601110430-1">
+		<tl f="S" t="p" o="800354" c="S" n="31508"/>
+		<dp pt="2601110430" pp="5" l="S5" fb="S5" ppth="Witten Hbf|Wetter(Ruhr)|Hagen-Vorhalle|Hagen Hbf"/>
+	</s>
+	<s id="-5527848852284159539-2601110418-7">
+		<tl t="p" o="NXRE" c="NX" n="22022"/>
+		<ar pt="2601110443" pp="16" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst"/>
+		<dp pt="2601110445" pp="16" l="RE1" fb="RE1" ppth="Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Oberhausen Hbf"/>
+	</s>
+	<s id="2306558765088420477-2601110413-5">
+		<tl t="p" o="B2" c="Bus" n="535"/>
+		<ar pt="2601110451" pp="" l="S5" fb="Bus S5" ppth="Witten Hbf|Witten-Annen Nord|Dortmund-Kruckel|Dortmund-Barop"/>
+	</s>
+</timetable>

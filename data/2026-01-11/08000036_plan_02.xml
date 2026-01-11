@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<timetable station="Bielefeld Hbf">
+	<s id="-7006184236806664239-2601110200-1">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="52295"/>
+		<dp pt="2601110200" pp="5 A-B" l="RE78" fb="RE78" ppth="Brake(b Bielefeld)|Herford|Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="2599832830996747013-2601110207-10">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89999"/>
+		<ar pt="2601110251" pp="1" l="RB69" fb="RB69" ppth="Hamm(Westf)Hbf|Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Isselhorst-Avenwedde|Bielefeld-Brackwede"/>
+	</s>
+	<s id="3345116854164575074-2601102355-11">
+		<tl t="p" o="R2" c="Bus" n="6111"/>
+		<ar pt="2601110218" pp="" l="RB61" fb="Bus RB61" ppth="Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln|Herford|Brake(b Bielefeld)"/>
+	</s>
+</timetable>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Mönchengladbach Hbf">
+	<s id="-6557906944019405513-2601110138-1">
+		<tl f="N" t="p" o="800333" c="RB" n="10300"/>
+		<dp pt="2601110138" pp="2" l="RB33" fb="RB33" ppth="Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd|Duisburg Hbf"/>
+	</s>
+	<s id="-5726649916136339245-2601110116-1">
+		<tl t="p" o="NX" c="Bus" n="4003"/>
+		<dp pt="2601110116" pp="" l="RE4" fb="Bus RE4" ppth="Rheydt Hbf"/>
+	</s>
+	<s id="3802086854857564828-2601110035-13">
+		<tl f="N" t="p" o="800333" c="RB" n="10301"/>
+		<ar pt="2601110120" pp="2" l="RB33" fb="RB33" ppth="Duisburg Hbf|Duisburg-Hochfeld Süd|Rheinhausen Ost|Rheinhausen|Krefeld-Hohenbudberg Chempark|Krefeld-Uerdingen|Krefeld-Linn|Krefeld-Oppum|Krefeld Hbf|Forsthaus|Anrath|Viersen"/>
+	</s>
+	<s id="-7256863530164596083-2601110032-13">
+		<tl f="S" t="p" o="800354" c="S" n="31840"/>
+		<ar pt="2601110106" pp="5" l="S8" fb="S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="7411373046205877-2601110154-1">
+		<tl f="S" t="p" o="800354" c="S" n="31847"/>
+		<dp pt="2601110154" pp="5" l="S8" fb="S8" ppth="Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Erkrath|Hochdahl|Hochdahl-Millrath|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck|Wuppertal Hbf|Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West"/>
+	</s>
+	<s id="-8955630687686481719-2601102326-10">
+		<tl t="p" o="NX" c="Bus" n="3338"/>
+		<ar pt="2601110124" pp="" l="RB33X" fb="Bus RB33X" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Kohlscheid Weststraße, Herzogenrath|Herzogenrath|Übach-Palenberg|Geilenkirchen|Erkelenz|Rheydt Hbf"/>
+	</s>
+</timetable>
