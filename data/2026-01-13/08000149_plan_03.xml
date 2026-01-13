@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="1715120659863795807-2601130320-1">
+		<tl t="p" o="NX" c="Bus" n="1105"/>
+		<dp pt="2601130320" pp="" l="RE1X" fb="Bus RE1X" ppth="Dortmund Hbf|Bochum Hbf (Buddenbergplatz)|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="-2218143954222077712-2601130205-4">
+		<tl t="p" o="NX" c="Bus" n="1104"/>
+		<ar pt="2601130344" pp="" l="RE1X" fb="Bus RE1X" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Bochum Hbf (Buddenbergplatz)|Dortmund Hbf"/>
+	</s>
+	<s id="-2085489996732385919-2601130212-8">
+		<tl t="p" o="NX" c="Bus" n="1704"/>
+		<ar pt="2601130358" pp="" l="RE1" fb="Bus RE1" ppth="Bochum Hbf (Buddenbergplatz)|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge"/>
+	</s>
+	<s id="8503777394879306018-2601122323-9">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601130357" pp="4" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Dortmund Hbf"/>
+		<dp pt="2601130358" pp="4" fb="ICE 920" ppth="Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+</timetable>

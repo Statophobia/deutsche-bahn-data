@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<timetable station="Dortmund Hbf">
+	<s id="2324982957556151444-2601130113-5">
+		<tl t="p" o="B2" c="Bus" n="529"/>
+		<ar pt="2601130151" pp="" l="S5" fb="Bus S5" ppth="Witten Hbf|Witten-Annen Nord|Dortmund-Kruckel|Dortmund-Barop"/>
+	</s>
+	<s id="2774174590951633862-2601122225-8">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2601130139" pp="20" fb="ICE 921" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf"/>
+		<dp pt="2601130144" pp="20" fb="ICE 921" ppth="Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="5987880351959364904-2601122327-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1541"/>
+		<ar pt="2601130111" pp="20" fb="ICE 1541" ppth="Köln Hbf|Düsseldorf Hbf"/>
+		<dp pt="2601130113" pp="20" fb="ICE 1541" ppth="Münster(Westf)Hbf|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="-5301165910899422239-2601122343-11">
+		<tl t="p" o="B2" c="Bus" n="218"/>
+		<ar pt="2601130120" pp="" l="S2" fb="Bus S2" ppth="Recklinghausen Hbf|Recklinghausen Süd|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="-7968873155226770253-2601122248-11">
+		<tl t="p" o="B2" c="Bus" n="322"/>
+		<ar pt="2601130116" pp="" l="RB32" fb="Bus RB32" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede"/>
+	</s>
+	<s id="-6186889404870499898-2601130158-1">
+		<tl t="p" o="B2" c="Bus" n="209"/>
+		<dp pt="2601130158" pp="" l="S2" fb="Bus S2" ppth="Dortmund-Dorstfeld|Dortmund-Wischlingen|Dortmund-Huckarde|Dortmund-Westerfilde|Dortmund-Nette/Oestrich|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="-4735097928571121339-2601130106-2">
+		<tl f="S" t="p" o="800354" c="S" n="31501"/>
+		<ar pt="2601130122" pp="5" l="S5" fb="S5" ppth="Witten Hbf"/>
+	</s>
+	<s id="7290382148251162833-2601130042-19">
+		<tl f="S" t="p" o="800337" c="S" n="56303"/>
+		<ar pt="2601130137" pp="7" l="S1" fb="S1" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Eiberg|Wattenscheid-Höntrop|Bochum-Ehrenfeld|Bochum Hbf|Bochum-Langendreer West|Bochum-Langendreer|Dortmund-Kley|Dortmund-Oespel|Dortmund Universität|Dortmund-Dorstfeld Süd|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="-9034830026945553016-2601122316-8">
+		<tl t="p" o="R2" c="Bus" n="3017"/>
+		<ar pt="2601130113" pp="" l="RE3" fb="Bus RE3" ppth="Oberhausen Hbf|Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede"/>
+	</s>
+	<s id="-6429702581057638585-2601130117-1">
+		<tl t="p" o="NX" c="Bus" n="1709"/>
+		<dp pt="2601130117" pp="" l="RE1" fb="Bus RE1" ppth="Bochum Hbf (Buddenbergplatz)"/>
+	</s>
+	<s id="-4263115421425311591-2601130108-1">
+		<tl t="p" o="NX" c="Bus" n="1101"/>
+		<dp pt="2601130108" pp="" l="RE1X" fb="Bus RE1X" ppth="Bochum Hbf (Buddenbergplatz)|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="-82966725317105611-2601130001-8">
+		<tl t="p" o="B2" c="Bus" n="522"/>
+		<ar pt="2601130107" pp="" l="RB52" fb="Bus RB52" ppth="Hagen Hbf|Herdecke|Wittbräucke|Dortmund-Löttringhausen|Dortmund-Kirchhörde|Dortmund Tierpark|Dortmund Signal Iduna Park"/>
+	</s>
+	<s id="2557489022029920849-2601130112-2">
+		<tl t="p" o="NX" c="Bus" n="1702"/>
+		<ar pt="2601130140" pp="" l="RE6" fb="Bus RE6" ppth="Bochum Hbf (Buddenbergplatz)"/>
+	</s>
+	<s id="1374096361626747160-2601130153-1">
+		<tl f="S" t="p" o="800337" c="S" n="56302"/>
+		<dp pt="2601130153" pp="7" l="S1" fb="S1" ppth="Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West|Bochum Hbf|Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf"/>
+	</s>
+	<s id="-6808755478694963988-2601130014-11">
+		<tl t="p" o="B2" c="Bus" n="200"/>
+		<ar pt="2601130156" pp="" l="S2" fb="Bus S2" ppth="Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="-6763884655651299813-2601130012-19">
+		<tl f="S" t="p" o="800337" c="S" n="56301"/>
+		<ar pt="2601130107" pp="7" l="S1" fb="S1" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Eiberg|Wattenscheid-Höntrop|Bochum-Ehrenfeld|Bochum Hbf|Bochum-Langendreer West|Bochum-Langendreer|Dortmund-Kley|Dortmund-Oespel|Dortmund Universität|Dortmund-Dorstfeld Süd|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="5319570642024333575-2601130105-3">
+		<tl t="p" o="NX" c="Bus" n="1102"/>
+		<ar pt="2601130156" pp="" l="RE1X" fb="Bus RE1X" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Bochum Hbf (Buddenbergplatz)"/>
+	</s>
+	<s id="-7605776287851466556-2601130021-5">
+		<tl t="p" o="R2" c="Bus" n="5023"/>
+		<ar pt="2601130112" pp="" l="VRB50" fb="Bus VRB50" ppth="Lünen Hbf|Lünen-Preußen|Dortmund-Derne|Dortmund-Kirchderne"/>
+	</s>
+</timetable>
