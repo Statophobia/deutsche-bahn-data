@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Lichtenberg">
+	<s id="1071924477029493639-2601140442-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73801"/>
+		<dp pt="2601140442" pp="21" l="RE1" fb="RE1" ppth="Erkner|Fürstenwalde(Spree)|Frankfurt(Oder)|Eisenhüttenstadt"/>
+	</s>
+	<s id="8199516906497118843-2601140424-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73751"/>
+		<dp pt="2601140424" pp="15" l="RE1" fb="RE1" ppth="Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)"/>
+	</s>
+	<s id="7763700991146613582-2601140404-8">
+		<tl t="p" o="NBRB25" c="NEB" n="61180"/>
+		<ar pt="2601140435" pp="17" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde"/>
+		<dp pt="2601140440" pp="17" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-8700838640752571861-2601140448-2">
+		<tl t="p" o="NBRB12" c="NEB" n="61101"/>
+		<ar pt="2601140451" pp="15" l="RB12" fb="RB12" ppth="Berlin Ostkreuz"/>
+		<dp pt="2601140453" pp="15" l="RB12" fb="RB12" ppth="Berlin-Hohenschönhausen|Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Bergsdorf|Zehdenick(Mark)|Zehdenick-Neuhof|Vogelsang(Kr Oberhavel)|Hammelspring|Templin|Templin Stadt"/>
+	</s>
+	<s id="-8770160388166741383-2601140334-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18343"/>
+		<ar pt="2601140414" pp="21" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen"/>
+	</s>
+	<s id="-1837334965829273889-2601140406-1">
+		<tl t="p" o="NBRB26" c="NEB" n="61422"/>
+		<dp pt="2601140406" pp="15" l="RB26" fb="RB26" ppth="Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)"/>
+	</s>
+	<s id="2294310420082866098-2601140417-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18301"/>
+		<dp pt="2601140417" pp="22" l="RB24" fb="RB24" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-4589948544199085111-2601140353-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18300"/>
+		<ar pt="2601140439" pp="15" l="RB24" fb="RB24" ppth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2601140447" pp="15" l="RB24" fb="RB24" ppth="Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>

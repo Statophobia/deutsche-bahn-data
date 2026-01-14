@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Flughafen BER">
+	<s id="90472336270991128-2601140352-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21807"/>
+		<ar pt="2601140414" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-3535961400354816440-2601140446-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21810"/>
+		<dp pt="2601140446" pp="3" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="2294310420082866098-2601140417-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18301"/>
+		<ar pt="2601140440" pp="4" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg|Berlin Ostkreuz|Berlin-Schöneweide"/>
+		<dp pt="2601140442" pp="4" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="4727925120435672791-2601140431-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21808"/>
+		<dp pt="2601140431" pp="2" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="-4589948544199085111-2601140353-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18300"/>
+		<ar pt="2601140405" pp="1" l="RB24" fb="RB24" ppth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2601140407" pp="1" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Berlin Ostkreuz|Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>
