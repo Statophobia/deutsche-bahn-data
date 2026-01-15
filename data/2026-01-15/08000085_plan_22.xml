@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="2543818528662237143-2601152133-4">
+		<tl t="p" o="M2" c="Bus" n="9339"/>
+		<ar pt="2601152240" pp="" l="RE47" fb="Bus RE47" ppth="Remscheid-Lennep|Remscheid Hbf|Remscheid-Güldenwerth"/>
+	</s>
+	<s id="-1294140912807962713-2601152221-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20040"/>
+		<dp pt="2601152221" pp="7" l="RE19" fb="RE19" wings="951158480906335391-2601152221" ppth="Düsseldorf Flughafen|Duisburg Hbf|Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel|Wesel Feldmark|Mehrhoog|Haldern(Rheinl)|Empel-Rees|Millingen(b Rees)|Praest|Emmerich"/>
+	</s>
+	<s id="951158480906335391-2601152221-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="77040"/>
+		<dp pt="2601152221" pp="7" l="RE19" fb="RE19" ppth="Düsseldorf Flughafen|Duisburg Hbf|Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel|Wesel-Blumenkamp|Hamminkeln|Hamminkeln-Dingden|Bocholt"/>
+	</s>
+	<s id="8091014833904009284-2601152112-9">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56632"/>
+		<ar pt="2601152204" pp="6" l="RB39" fb="RB39" ppth="Bedburg(Erft)|Frimmersdorf|Gustorf|Grevenbroich|Kapellen-Wevelinghoven|Holzheim(b Neuss)|Neuss Hbf|Düsseldorf-Bilk"/>
+	</s>
+	<s id="1549750163503463272-2601152201-20">
+		<tl f="S" t="p" o="8003S" c="S" n="31645"/>
+		<ar pt="2601152258" pp="14" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk"/>
+		<dp pt="2601152300" pp="14" l="S6" fb="S6" ppth="Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd|Essen Hbf"/>
+	</s>
+	<s id="4304161649403805065-2601152254-1">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56637"/>
+		<dp pt="2601152254" pp="6" l="RB39" fb="RB39" ppth="Düsseldorf-Bilk|Neuss Hbf|Holzheim(b Neuss)|Kapellen-Wevelinghoven|Grevenbroich"/>
+	</s>
+	<s id="1251412283829856747-2601152051-14">
+		<tl t="p" o="NXRE" c="NX" n="26837"/>
+		<ar pt="2601152220" pp="17" l="RE1" fb="RE1" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath"/>
+	</s>
+	<s id="-1761638564869737876-2601152224-13">
+		<tl f="S" t="p" o="800354" c="S" n="31839"/>
+		<ar pt="2601152258" pp="13" l="S8" fb="S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt"/>
+		<dp pt="2601152300" pp="13" l="S8" fb="S8" ppth="Düsseldorf-Flingern|Düsseldorf-Gerresheim|Erkrath|Hochdahl|Hochdahl-Millrath|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck|Wuppertal Hbf|Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="1403568784833281943-2601152118-10">
+		<tl f="S" t="p" o="8003S" c="S" n="31638"/>
+		<ar pt="2601152200" pp="11" l="S6" fb="S6" ppth="Essen Hbf|Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost"/>
+		<dp pt="2601152202" pp="11" l="S6" fb="S6" ppth="Düsseldorf-Eller Süd|Düsseldorf-Reisholz|Düsseldorf-Benrath|Düsseldorf-Garath|Düsseldorf-Hellerhof|Langenfeld(Rhld)-Berghausen|Langenfeld(Rhld)|Leverkusen-Rheindorf|Leverkusen-Küppersteg|Leverkusen Mitte|Leverkusen Chempark|Köln-Stammheim|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz|Köln Hbf|Köln Hansaring|Köln-Nippes"/>
+	</s>
+	<s id="-6924757017489949960-2601152207-5">
+		<tl t="p" o="NXRE" c="NX" n="26437"/>
+		<ar pt="2601152239" pp="7" l="RE4" fb="RE4" ppth="Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2601152241" pp="7" l="RE4" fb="RE4" ppth="Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Wetter(Ruhr)|Witten Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="2415893957966463698-2601152131-20">
+		<tl f="S" t="p" o="8003S" c="S" n="31643"/>
+		<ar pt="2601152228" pp="14" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk"/>
+		<dp pt="2601152230" pp="14" l="S6" fb="S6" ppth="Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd|Essen Hbf"/>
+	</s>
+	<s id="3905413611744577012-2601152240-1">
+		<tl t="p" o="NXRE" c="NX" n="26836"/>
+		<dp pt="2601152240" pp="17" l="RE1" fb="RE1" ppth="Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="-8039354982975501482-2601152208-1">
+		<tl t="p" o="TDRR" c="RRB" n="69981"/>
+		<dp pt="2601152208" pp="" l="RE10" fb="RE10" ppth="Düsseldorf-Bilk|Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf"/>
+	</s>
+	<s id="527378053830431819-2601152107-7">
+		<tl t="p" o="NXRE" c="NX" n="28535"/>
+		<ar pt="2601152159" pp="4" l="RE5" fb="RE5" ppth="Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Duisburg Hbf"/>
+		<dp pt="2601152200" pp="4" l="RE5" fb="RE5" ppth="Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="-3537238651057648753-2601152154-7">
+		<tl t="p" o="B2" c="Bus" n="6000"/>
+		<ar pt="2601152225" pp="" l="S6" fb="Bus S6" ppth="Ratingen Ost|Düsseldorf-Rath|Düsseldorf-Rath Mitte|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+		<dp pt="2601152225" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Süd"/>
+	</s>
+	<s id="1690497143864597407-2601151732-9">
+		<tl f="F" t="p" o="80" c="ICE" n="854"/>
+		<ar pt="2601152204" pp="9" fb="ICE 854" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Hamm(Westf)Hbf|Hagen Hbf|Wuppertal Hbf"/>
+		<dp pt="2601152207" pp="9" fb="ICE 854" ppth="Köln Hbf"/>
+	</s>
+	<s id="-7029065249173173737-2601152101-20">
+		<tl f="S" t="p" o="8003S" c="S" n="31641"/>
+		<ar pt="2601152158" pp="14" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk"/>
+		<dp pt="2601152200" pp="14" l="S6" fb="S6" ppth="Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd|Essen Hbf"/>
+	</s>
+	<s id="-3360713058185885303-2601152204-3">
+		<tl t="p" o="B2" c="Bus" n="6001"/>
+		<ar pt="2601152215" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf-Oberbilk|Düsseldorf Volksgarten"/>
+		<dp pt="2601152215" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Rath Mitte|Düsseldorf-Rath|Ratingen Ost"/>
+	</s>
+	<s id="1763108054032375657-2601152224-7">
+		<tl t="p" o="B2" c="Bus" n="6002"/>
+		<ar pt="2601152255" pp="" l="S6" fb="Bus S6" ppth="Ratingen Ost|Düsseldorf-Rath|Düsseldorf-Rath Mitte|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+		<dp pt="2601152255" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Süd"/>
+	</s>
+	<s id="3563449522737561853-2601152118-15">
+		<tl f="S" t="p" o="800354" c="S" n="31832"/>
+		<ar pt="2601152200" pp="12" l="S8" fb="S8" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen|Wuppertal Hbf|Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern"/>
+		<dp pt="2601152202" pp="12" l="S8" fb="S8" ppth="Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-1475708691811833431-2601152212-1">
+		<tl t="p" o="NXRE" c="NX" n="22136"/>
+		<dp pt="2601152212" pp="7" l="RE6" fb="RE6" ppth="Düsseldorf-Bilk|Neuss Hbf|Dormagen|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="3079105423710911005-2601152105-10">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="20097"/>
+		<ar pt="2601152209" pp="5" l="RE13" fb="RE13" ppth="Venlo|Kaldenkirchen|Breyell|Boisheim|Dülken|Viersen|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk"/>
+	</s>
+	<s id="8565337865283009750-2601152108-15">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20039"/>
+		<ar pt="2601152233" pp="4" l="RE19" fb="RE19" ppth="Emmerich|Praest|Millingen(b Rees)|Empel-Rees|Haldern(Rheinl)|Mehrhoog|Wesel Feldmark|Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Duisburg Hbf|Düsseldorf Flughafen"/>
+	</s>
+	<s id="-8266091809168941084-2601152154-13">
+		<tl f="S" t="p" o="800354" c="S" n="31837"/>
+		<ar pt="2601152228" pp="13" l="S8" fb="S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt"/>
+		<dp pt="2601152230" pp="13" l="S8" fb="S8" ppth="Düsseldorf-Flingern|Düsseldorf-Gerresheim|Erkrath|Hochdahl|Hochdahl-Millrath|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck|Wuppertal Hbf|Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West|Gevelsberg-Kipp|Gevelsberg Hbf|Gevelsberg-Knapp|Hagen-Westerbauer|Hagen-Heubing|Hagen-Wehringhausen|Hagen Hbf"/>
+	</s>
+	<s id="-3346037971361856227-2601152109-11">
+		<tl t="p" o="NXRE" c="NX" n="26436"/>
+		<ar pt="2601152218" pp="4" l="RE4" fb="RE4" ppth="Dortmund Hbf|Witten Hbf|Wetter(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel"/>
+		<dp pt="2601152221" pp="4" l="RE4" fb="RE4" ppth="Düsseldorf-Bilk|Neuss Hbf|Mönchengladbach Hbf"/>
+	</s>
+	<s id="4389034000904701783-2601152124-13">
+		<tl f="S" t="p" o="800354" c="S" n="31835"/>
+		<ar pt="2601152158" pp="13" l="S8" fb="S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt"/>
+		<dp pt="2601152200" pp="13" l="S8" fb="S8" ppth="Düsseldorf-Flingern|Düsseldorf-Gerresheim|Erkrath|Hochdahl|Hochdahl-Millrath|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck|Wuppertal Hbf|Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="3609102097406393152-2601152243-1">
+		<tl t="p" o="TDRR" c="Bus" n="60308"/>
+		<dp pt="2601152243" pp="" l="RE10" fb="Bus RE10" ppth="Düsseldorf-Bilk|Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf|Kempen(Niederrhein)"/>
+	</s>
+	<s id="-6747830145653254362-2601152148-10">
+		<tl f="S" t="p" o="8003S" c="S" n="31640"/>
+		<ar pt="2601152230" pp="11" l="S6" fb="S6" ppth="Essen Hbf|Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost"/>
+		<dp pt="2601152232" pp="11" l="S6" fb="S6" ppth="Düsseldorf-Eller Süd|Düsseldorf-Reisholz|Düsseldorf-Benrath|Düsseldorf-Garath|Düsseldorf-Hellerhof|Langenfeld(Rhld)-Berghausen|Langenfeld(Rhld)|Leverkusen-Rheindorf|Leverkusen-Küppersteg|Leverkusen Mitte|Leverkusen Chempark|Köln-Stammheim|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz|Köln Hbf|Köln Hansaring|Köln-Nippes"/>
+	</s>
+	<s id="2829070361976977235-2601152234-3">
+		<tl t="p" o="B2" c="Bus" n="6003"/>
+		<ar pt="2601152245" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf-Oberbilk|Düsseldorf Volksgarten"/>
+		<dp pt="2601152245" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Rath Mitte|Düsseldorf-Rath|Ratingen Ost"/>
+	</s>
+	<s id="-3622115690823025773-2601152245-1">
+		<tl t="p" o="M2" c="Bus" n="9340"/>
+		<dp pt="2601152245" pp="" l="RE47" fb="Bus RE47" ppth="Remscheid-Güldenwerth|Remscheid Hbf|Remscheid-Lennep"/>
+	</s>
+	<s id="8991420088540042895-2601152116-26">
+		<tl f="S" t="p" o="800354" c="S" n="31834"/>
+		<ar pt="2601152230" pp="12" l="S8" fb="S8" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen|Wuppertal Hbf|Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern"/>
+		<dp pt="2601152232" pp="12" l="S8" fb="S8" ppth="Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="8260675537397751225-2601152148-7">
+		<tl t="p" o="NXRE" c="NX" n="22141"/>
+		<ar pt="2601152247" pp="7" l="RE6" fb="RE6" ppth="Köln/Bonn Flughafen|Köln Messe/Deutz|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf-Bilk"/>
+	</s>
+</timetable>

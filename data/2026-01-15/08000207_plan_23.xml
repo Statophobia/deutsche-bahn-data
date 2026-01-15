@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<timetable station="Köln Hbf">
+	<s id="2579078581490934825-2601151854-7">
+		<tl f="F" t="p" o="80" c="ICE" n="552"/>
+		<ar pt="2601152315" pp="7 D-G" fb="ICE 552" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hannover Hbf|Hagen Hbf|Wuppertal Hbf"/>
+	</s>
+	<s id="4005400229928334385-2601151659-16">
+		<tl f="F" t="p" o="85" c="ICE" n="100"/>
+		<ar pt="2601152310" pp="5" fb="ICE 100" ppth="Interlaken Ost|Interlaken West|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn"/>
+		<dp pt="2601152316" pp="5" fb="ICE 100" ppth="Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="-1252736774691066995-2601152251-9">
+		<tl t="p" o="NXRE" c="NX" n="26841"/>
+		<ar pt="2601152344" pp="4 A-C" l="RE1" fb="RE1" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld"/>
+		<dp pt="2601152349" pp="4 A-C" l="RE1" fb="RE1" ppth="Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf"/>
+	</s>
+	<s id="1659195045213521569-2601152235-6">
+		<tl t="p" o="NXRE" c="NX" n="17438"/>
+		<ar pt="2601152318" pp="5 D-G" l="RE7" fb="RE7" ppth="Krefeld Hbf|Krefeld-Oppum|Meerbusch-Osterath|Neuss Hbf|Dormagen"/>
+	</s>
+	<s id="-5946106727358174457-2601152253-8">
+		<tl f="S" t="p" o="8003S" c="S" n="33153"/>
+		<ar pt="2601152313" pp="11 B-C" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz"/>
+		<dp pt="2601152314" pp="11 B-C" l="S11" fb="S11" ppth="Köln Hansaring|Köln-Nippes|Köln Geldernstr./Parkgürtel|Köln-Longerich|Köln Volkhovener Weg|Köln-Chorweiler|Köln-Chorweiler Nord|Köln-Blumenberg|Köln-Worringen|Dormagen Chempark|Dormagen|Nievenheim|Neuss Allerheiligen|Norf|Neuss Süd|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="-2938444408281972375-2601152140-24">
+		<tl f="N" t="p" o="8003H5" c="RB" n="10636"/>
+		<ar pt="2601152322" pp="8 D-G" l="RB27" fb="RB27" ppth="Koblenz Hbf|Koblenz-Ehrenbreitstein|Vallendar|Engers|Neuwied|Leutesdorf(Rhein)|Rheinbrohl|Bad Hönningen|Leubsdorf(Rhein)|Linz(Rhein)|Erpel(Rhein)|Unkel|Bad Honnef(Rhein)|Rhöndorf|Königswinter|Niederdollendorf|Bonn-Oberkassel|Bonn-Beuel|Menden(Rheinl)|Friedrich Wilhelmshütte|Troisdorf|Köln/Bonn Flughafen|Köln Messe/Deutz"/>
+		<dp pt="2601152325" pp="8 D-G" l="RB27" fb="RB27" ppth="Köln-Ehrenfeld|Pulheim|Stommeln|Rommerskirchen|Grevenbroich"/>
+	</s>
+	<s id="7326193813384933118-2601152303-12">
+		<tl f="S" t="p" o="8003S" c="S" n="32048"/>
+		<ar pt="2601152340" pp="10 A-B" l="S19" fb="S19" ppth="Düren|Merzenich|Buir|Sindorf|Horrem|Frechen-Königsdorf|Köln-Weiden West|Lövenich|Köln-Müngersdorf Technologiepark|Köln-Ehrenfeld|Köln Hansaring"/>
+		<dp pt="2601152341" pp="10 A-B" l="S19" fb="S19" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Frankfurter Straße|Köln/Bonn Flughafen|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)|Hennef im Siegbogen|Blankenberg(Sieg)|Merten(Sieg)|Eitorf|Herchen|Dattenfeld(Sieg)|Schladern(Sieg)|Rosbach(Sieg)|Au(Sieg)"/>
+	</s>
+	<s id="8875513669294373944-2601152303-15">
+		<tl f="S" t="p" o="8003S" c="S" n="33154"/>
+		<ar pt="2601152346" pp="10 A-B" l="S11" fb="S11" ppth="Norf|Neuss Allerheiligen|Nievenheim|Dormagen|Dormagen Chempark|Köln-Worringen|Köln-Blumenberg|Köln-Chorweiler Nord|Köln-Chorweiler|Köln Volkhovener Weg|Köln-Longerich|Köln Geldernstr./Parkgürtel|Köln-Nippes|Köln Hansaring"/>
+		<dp pt="2601152347" pp="10 A-B" l="S11" fb="S11" ppth="Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Holweide|Köln-Dellbrück|Duckterath|Bergisch Gladbach"/>
+	</s>
+	<s id="1838600143176975025-2601152351-2">
+		<tl f="N" t="p" o="800352" c="RB" n="10592"/>
+		<ar pt="2601152353" pp="10 A-B" l="RB25" fb="RB25" ppth="Köln Hansaring"/>
+		<dp pt="2601152354" pp="10 A-B" l="RB25" fb="RB25" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Frankfurter Straße|Rösrath-Stümpen|Rösrath|Hoffnungsthal|Honrath|Overath|Engelskirchen|Ründeroth|Gummersbach-Dieringhausen|Gummersbach"/>
+	</s>
+	<s id="1008898870768000552-2601152341-1">
+		<tl t="p" o="NXRE" c="NX" n="17447"/>
+		<dp pt="2601152341" pp="5 D-G" l="RE7" fb="RE7" ppth="Dormagen|Neuss Hbf|Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf"/>
+	</s>
+	<s id="6035073880405016618-2601152312-5">
+		<tl t="p" o="NXRE" c="NX" n="22138"/>
+		<ar pt="2601152352" pp="3 A-C" l="RE6" fb="RE6" ppth="Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf|Dormagen"/>
+		<dp pt="2601152357" pp="3 A-C" l="RE6" fb="RE6" ppth="Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="-1291355389794506596-2601152318-13">
+		<tl f="S" t="p" o="8003S" c="S" n="33281"/>
+		<ar pt="2601152359" pp="11 B-C" l="S12" fb="S12" ppth="Blankenberg(Sieg)|Hennef im Siegbogen|Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Porz(Rhein)|Köln Steinstraße|Köln Airport-Businesspark|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601160000" pp="11 B-C" l="S12" fb="S12" ppth="Köln Hansaring|Köln-Ehrenfeld"/>
+	</s>
+	<s id="6909154018790459287-2601152020-39">
+		<tl t="p" o="TR" c="TR" n="25442"/>
+		<ar pt="2601152335" pp="1 A-C" l="RB26" fb="RB26" ppth="Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West"/>
+	</s>
+	<s id="4065472633490480606-2601152218-13">
+		<tl f="S" t="p" o="8003S" c="S" n="33277"/>
+		<ar pt="2601152259" pp="11 B-C" l="S12" fb="S12" ppth="Blankenberg(Sieg)|Hennef im Siegbogen|Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Porz(Rhein)|Köln Steinstraße|Köln Airport-Businesspark|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152300" pp="11 B-C" l="S12" fb="S12" ppth="Köln Hansaring|Köln-Ehrenfeld"/>
+	</s>
+	<s id="-4899735371190977624-2601152220-20">
+		<tl f="S" t="p" o="8003S" c="S" n="33279"/>
+		<ar pt="2601152329" pp="11 B-C" l="S12" fb="S12" ppth="Au(Sieg)|Rosbach(Sieg)|Schladern(Sieg)|Dattenfeld(Sieg)|Herchen|Eitorf|Merten(Sieg)|Blankenberg(Sieg)|Hennef im Siegbogen|Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Porz(Rhein)|Köln Steinstraße|Köln Airport-Businesspark|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152330" pp="11 B-C" l="S12" fb="S12" ppth="Köln Hansaring|Köln-Ehrenfeld"/>
+	</s>
+	<s id="-3830421042408965021-2601152301-10">
+		<tl f="S" t="p" o="8003S" c="S" n="32053"/>
+		<ar pt="2601152340" pp="11 B-C" l="S19" fb="S19" ppth="Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Köln/Bonn Flughafen|Köln Frankfurter Straße|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152341" pp="11 B-C" l="S19" fb="S19" ppth="Köln Hansaring|Köln-Ehrenfeld|Köln-Müngersdorf Technologiepark|Lövenich|Köln-Weiden West|Frechen-Königsdorf|Horrem|Sindorf|Buir|Merzenich|Düren"/>
+	</s>
+	<s id="-2256648954726171797-2601152321-2">
+		<tl f="N" t="p" o="800352" c="RB" n="10590"/>
+		<ar pt="2601152323" pp="10 A-B" l="RB25" fb="RB25" ppth="Köln Hansaring"/>
+		<dp pt="2601152324" pp="10 A-B" l="RB25" fb="RB25" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Frankfurter Straße|Rösrath-Stümpen|Rösrath|Hoffnungsthal|Honrath|Overath|Engelskirchen|Ründeroth|Gummersbach-Dieringhausen|Gummersbach"/>
+	</s>
+	<s id="5987880351959364904-2601152322-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1541"/>
+		<dp pt="2601152322" pp="2" fb="ICE 1541" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="4813733546882098773-2601152216-21">
+		<tl f="N" t="p" o="8003G2" c="RE" n="10842"/>
+		<ar pt="2601152353" pp="8 D-G" l="RE8" fb="RE8" ppth="Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Urmitz Rheinbrücke|Neuwied|Rheinbrohl|Bad Hönningen|Linz(Rhein)|Unkel|Bad Honnef(Rhein)|Rhöndorf|Königswinter|Niederdollendorf|Bonn-Oberkassel|Bonn-Beuel|Menden(Rheinl)|Friedrich Wilhelmshütte|Troisdorf|Porz(Rhein)|Köln Messe/Deutz"/>
+	</s>
+	<s id="-6524998557445987060-2601151852-11">
+		<tl f="F" t="p" o="80" c="ICE" n="524"/>
+		<ar pt="2601152340" pp="6" fb="ICE 524" ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="5089623794776396739-2601152212-13">
+		<tl t="p" o="NXRB" c="NX" n="17377"/>
+		<ar pt="2601152305" pp="7 D-G" l="RB48" fb="RB48" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz"/>
+	</s>
+	<s id="-7658966534130390319-2601152356-1">
+		<tl t="p" o="TR" c="TR" n="25447"/>
+		<dp pt="2601152356" pp="9 D-G" l="RB26" fb="RB26" ppth="Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf"/>
+	</s>
+	<s id="3905413611744577012-2601152240-6">
+		<tl t="p" o="NXRE" c="NX" n="26836"/>
+		<ar pt="2601152311" pp="9 D-G" l="RE1" fb="RE1" ppth="Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz"/>
+		<dp pt="2601152315" pp="9 D-G" l="RE1" fb="RE1" ppth="Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="2425088568854095166-2601152232-10">
+		<tl f="S" t="p" o="8003S" c="S" n="32051"/>
+		<ar pt="2601152309" pp="11 B-C" l="S19" fb="S19" ppth="Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Köln/Bonn Flughafen|Köln Frankfurter Straße|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152310" pp="11 B-C" l="S19" fb="S19" ppth="Köln Hansaring|Köln-Ehrenfeld|Köln-Müngersdorf Technologiepark|Lövenich|Köln-Weiden West|Frechen-Königsdorf|Horrem|Sindorf"/>
+	</s>
+	<s id="-5851721557238592488-2601152033-4">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2601152338" pp="2 A-C" fb="NJ 403" hi="1" wings="7582314568044505717-2601152033" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal"/>
+		<dp pt="2601152342" pp="2 A-C" fb="NJ 403" wings="7582314568044505717-2601152033" ppth="Bonn-Beuel|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="4011211447227814322-2601152325-1">
+		<tl t="p" o="NXRB" c="NX" n="17378"/>
+		<dp pt="2601152325" pp="1 A-C" l="RB48" fb="RB48" ppth="Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf"/>
+	</s>
+	<s id="519434064258906054-2601152243-9">
+		<tl f="N" t="p" o="8003G1" c="RB" n="10285"/>
+		<ar pt="2601152328" pp="3 A-C" l="RB38" fb="RB38" ppth="Bedburg(Erft)|Glesch|Paffendorf|Zieverich|Bergheim(Erft)|Quadrath-Ichendorf|Horrem|Köln-Ehrenfeld"/>
+		<dp pt="2601152331" pp="3 A-C" l="RB38" fb="RB38" hi="1" ppth="Köln Messe/Deutz"/>
+	</s>
+	<s id="1859923136648078830-2601152323-8">
+		<tl f="S" t="p" o="8003S" c="S" n="33155"/>
+		<ar pt="2601152343" pp="11 B-C" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz"/>
+		<dp pt="2601152344" pp="11 B-C" l="S11" fb="S11" ppth="Köln Hansaring|Köln-Nippes|Köln Geldernstr./Parkgürtel|Köln-Longerich|Köln Volkhovener Weg|Köln-Chorweiler|Köln-Chorweiler Nord|Köln-Blumenberg|Köln-Worringen|Dormagen Chempark|Dormagen|Nievenheim|Neuss Allerheiligen|Norf"/>
+	</s>
+	<s id="3742440961287674842-2601151832-10">
+		<tl f="F" t="p" o="80" c="ICE" n="542"/>
+		<ar pt="2601152345" pp="8" fb="ICE 542" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Dortmund Hbf|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="-8108176668126041211-2601152303-1">
+		<tl f="N" t="p" o="8003G2" c="RE" n="10839"/>
+		<dp pt="2601152303" pp="3 D-G" l="RE8" fb="RE8" ppth="Köln Messe/Deutz|Porz(Rhein)|Troisdorf|Friedrich Wilhelmshütte|Menden(Rheinl)|Bonn-Beuel|Bonn-Oberkassel|Niederdollendorf|Königswinter|Rhöndorf|Bad Honnef(Rhein)|Unkel|Linz(Rhein)"/>
+	</s>
+	<s id="5926473462606976417-2601151926-12">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2601152348" pp="6" fb="ICE 619" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf"/>
+		<dp pt="2601152354" pp="6" fb="ICE 619" ppth="Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Heidelberg Hbf|Stuttgart Hbf|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-7162729136287897346-2601152323-2">
+		<tl f="N" t="p" o="8003G1" c="RB" n="10288"/>
+		<ar pt="2601152326" pp="7 D-G" l="RB38" fb="RB38" ppth="Köln Messe/Deutz"/>
+		<dp pt="2601152329" pp="7 D-G" l="RB38" fb="RB38" ppth="Köln-Ehrenfeld|Horrem|Quadrath-Ichendorf|Bergheim(Erft)|Zieverich|Paffendorf|Glesch|Bedburg(Erft)"/>
+	</s>
+	<s id="-7597512985634170483-2601151936-8">
+		<tl f="F" t="p" o="80" c="IC" n="2977"/>
+		<ar pt="2601152348" pp="" fb="IC 2977" ppth="Stuttgart Hbf|Wiesloch-Walldorf|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf|Bonn-Beuel"/>
+	</s>
+	<s id="49643104197106872-2601152218-26">
+		<tl f="S" t="p" o="8003S" c="S" n="31642"/>
+		<ar pt="2601152353" pp="11 B-C" l="S6" fb="S6" ppth="Essen Hbf|Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost|Düsseldorf Hbf|Düsseldorf-Eller Süd|Düsseldorf-Reisholz|Düsseldorf-Benrath|Düsseldorf-Garath|Düsseldorf-Hellerhof|Langenfeld(Rhld)-Berghausen|Langenfeld(Rhld)|Leverkusen-Rheindorf|Leverkusen-Küppersteg|Leverkusen Mitte|Leverkusen Chempark|Köln-Stammheim|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz"/>
+		<dp pt="2601152354" pp="11 B-C" l="S6" fb="S6" ppth="Köln Hansaring|Köln-Nippes"/>
+	</s>
+	<s id="4474099864990007717-2601152331-3">
+		<tl f="S" t="p" o="8003S" c="S" n="31651"/>
+		<ar pt="2601152336" pp="10 A-B" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring"/>
+		<dp pt="2601152337" pp="10 A-B" l="S6" fb="S6" ppth="Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk|Düsseldorf Hbf|Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd|Essen Hbf"/>
+	</s>
+	<s id="-1701587498056121817-2601152209-15">
+		<tl f="N" t="p" o="800338" c="RE" n="10936"/>
+		<ar pt="2601152335" pp="7 A-C" l="RE9" fb="RE9" ppth="Siegen Hbf|Brachbach|Kirchen|Betzdorf(Sieg)|Wissen(Sieg)|Au(Sieg)|Schladern(Sieg)|Herchen|Eitorf|Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Porz(Rhein)|Köln Messe/Deutz"/>
+		<dp pt="2601152347" pp="7 A-C" l="RE9" fb="RE9" ppth="Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="5016281240918927141-2601152254-3">
+		<tl f="S" t="p" o="8003S" c="S" n="33276"/>
+		<ar pt="2601152300" pp="10 A-B" l="S12" fb="S12" ppth="Köln-Ehrenfeld|Köln Hansaring"/>
+		<dp pt="2601152301" pp="10 A-B" l="S12" fb="S12" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Airport-Businesspark|Köln Steinstraße|Porz(Rhein)|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)|Hennef im Siegbogen|Blankenberg(Sieg)"/>
+	</s>
+	<s id="8172874018503045370-2601152303-6">
+		<tl f="N" t="p" o="8003H5" c="RB" n="10643"/>
+		<ar pt="2601152335" pp="4 A-C" l="RB27" fb="RB27" ppth="Grevenbroich|Rommerskirchen|Stommeln|Pulheim|Köln-Ehrenfeld"/>
+		<dp pt="2601152338" pp="4 A-C" l="RB27" fb="RB27" ppth="Köln Messe/Deutz|Köln/Bonn Flughafen|Troisdorf|Friedrich Wilhelmshütte|Menden(Rheinl)|Bonn-Beuel|Bonn-Oberkassel|Niederdollendorf|Königswinter|Rhöndorf|Bad Honnef(Rhein)|Unkel|Erpel(Rhein)|Linz(Rhein)"/>
+	</s>
+	<s id="-5910041986417035777-2601152246-9">
+		<tl f="S" t="p" o="8003S" c="S" n="32046"/>
+		<ar pt="2601152310" pp="10 A-B" l="S19" fb="S19" ppth="Sindorf|Horrem|Frechen-Königsdorf|Köln-Weiden West|Lövenich|Köln-Müngersdorf Technologiepark|Köln-Ehrenfeld|Köln Hansaring"/>
+		<dp pt="2601152311" pp="10 A-B" l="S19" fb="S19" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Frankfurter Straße|Köln/Bonn Flughafen|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)"/>
+	</s>
+	<s id="5012928849616424395-2601152233-15">
+		<tl f="S" t="p" o="8003S" c="S" n="33152"/>
+		<ar pt="2601152316" pp="10 A-B" l="S11" fb="S11" ppth="Norf|Neuss Allerheiligen|Nievenheim|Dormagen|Dormagen Chempark|Köln-Worringen|Köln-Blumenberg|Köln-Chorweiler Nord|Köln-Chorweiler|Köln Volkhovener Weg|Köln-Longerich|Köln Geldernstr./Parkgürtel|Köln-Nippes|Köln Hansaring"/>
+		<dp pt="2601152317" pp="10 A-B" l="S11" fb="S11" ppth="Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Holweide|Köln-Dellbrück|Duckterath|Bergisch Gladbach"/>
+	</s>
+	<s id="7866289327576932582-2601152301-3">
+		<tl f="S" t="p" o="8003S" c="S" n="31649"/>
+		<ar pt="2601152306" pp="10 A-B" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring"/>
+		<dp pt="2601152307" pp="10 A-B" l="S6" fb="S6" ppth="Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk|Düsseldorf Hbf|Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd|Essen Hbf"/>
+	</s>
+	<s id="2100483283541680781-2601152352-1">
+		<tl t="p" o="NXRB" c="NX" n="17380"/>
+		<dp pt="2601152352" pp="1 A-C" l="RB48" fb="RB48" ppth="Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="-6747830145653254362-2601152148-26">
+		<tl f="S" t="p" o="8003S" c="S" n="31640"/>
+		<ar pt="2601152323" pp="11 B-C" l="S6" fb="S6" ppth="Essen Hbf|Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost|Düsseldorf Hbf|Düsseldorf-Eller Süd|Düsseldorf-Reisholz|Düsseldorf-Benrath|Düsseldorf-Garath|Düsseldorf-Hellerhof|Langenfeld(Rhld)-Berghausen|Langenfeld(Rhld)|Leverkusen-Rheindorf|Leverkusen-Küppersteg|Leverkusen Mitte|Leverkusen Chempark|Köln-Stammheim|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz"/>
+		<dp pt="2601152324" pp="11 B-C" l="S6" fb="S6" ppth="Köln Hansaring|Köln-Nippes"/>
+	</s>
+	<s id="-777415529237536998-2601152248-3">
+		<tl t="p" o="NXRE" c="NX" n="22143"/>
+		<ar pt="2601152302" pp="9 D-G" l="RE6" fb="RE6" ppth="Köln/Bonn Flughafen|Köln Messe/Deutz"/>
+		<dp pt="2601152307" pp="9 D-G" l="RE6" fb="RE6" ppth="Dormagen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="4834338077857825843-2601152218-9">
+		<tl f="N" t="p" o="800338" c="RE" n="10937"/>
+		<ar pt="2601152310" pp="3 A-C" l="RE9" fb="RE9" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld"/>
+		<dp pt="2601152320" pp="3 A-C" l="RE9" fb="RE9" ppth="Köln Messe/Deutz|Porz(Rhein)|Troisdorf|Siegburg/Bonn|Hennef(Sieg)|Eitorf|Herchen|Schladern(Sieg)|Au(Sieg)|Etzbach|Wissen(Sieg)|Niederhövels|Scheuerfeld(Sieg)|Betzdorf(Sieg)|Kirchen|Brachbach|Niederschelden|Eiserfeld(Sieg)|Siegen Hbf"/>
+	</s>
+	<s id="609147635207110747-2601152152-13">
+		<tl f="N" t="p" o="800352" c="RB" n="10585"/>
+		<ar pt="2601152306" pp="11 B-C" l="RB25" fb="RB25" ppth="Gummersbach|Gummersbach-Dieringhausen|Ründeroth|Engelskirchen|Overath|Honrath|Hoffnungsthal|Rösrath|Rösrath-Stümpen|Köln Frankfurter Straße|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152307" pp="11 B-C" l="RB25" fb="RB25" ppth="Köln Hansaring"/>
+	</s>
+	<s id="-4944743454732591340-2601152132-19">
+		<tl f="N" t="p" o="800352" c="RB" n="10587"/>
+		<ar pt="2601152336" pp="11 B-C" l="RB25" fb="RB25" ppth="Lüdenscheid|Lüdenscheid-Brügge(Westf)|Halver-Oberbrügge|Kierspe|Meinerzhagen|Marienheide|Gummersbach|Gummersbach-Dieringhausen|Ründeroth|Engelskirchen|Overath|Honrath|Hoffnungsthal|Rösrath|Rösrath-Stümpen|Köln Frankfurter Straße|Köln Trimbornstr|Köln Messe/Deutz"/>
+		<dp pt="2601152337" pp="11 B-C" l="RB25" fb="RB25" ppth="Köln Hansaring"/>
+	</s>
+	<s id="-3728199759878968782-2601152305-7">
+		<tl t="p" o="NXRB" c="NX" n="17379"/>
+		<ar pt="2601152333" pp="6 D-G" l="RB48" fb="RB48" ppth="Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz"/>
+	</s>
+	<s id="6883381443490040055-2601152324-3">
+		<tl f="S" t="p" o="8003S" c="S" n="33278"/>
+		<ar pt="2601152330" pp="10 A-B" l="S12" fb="S12" ppth="Köln-Ehrenfeld|Köln Hansaring"/>
+		<dp pt="2601152331" pp="10 A-B" l="S12" fb="S12" ppth="Köln Messe/Deutz|Köln Trimbornstr|Köln Airport-Businesspark|Köln Steinstraße|Porz(Rhein)|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)"/>
+	</s>
+	<s id="7582314568044505717-2601152033-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2601152338" pp="2 A-C" fb="IC 60403" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal"/>
+		<dp pt="2601152342" pp="2 A-C" fb="IC 60403" ppth="Bonn-Beuel|Mainz Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Zoologischer Garten">
+	<s id="7035209816659338176-2601152054-21">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73747"/>
+		<ar pt="2601152251" pp="2" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg"/>
+		<dp pt="2601152252" pp="2" l="RE1" fb="RE1" ppth="Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)"/>
+	</s>
+	<s id="-701183337962167358-2601151748-8">
+		<tl f="F" t="p" o="80" c="ICE" n="955"/>
+		<ar pt="2601152212" pp="2" fb="ICE 955" wings="-4172695077965106331-2601151821" ppth="Düsseldorf Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau"/>
+		<dp pt="2601152214" pp="2" fb="ICE 955" hi="1" wings="-4172695077965106331-2601151821" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-4172695077965106331-2601151821-8">
+		<tl f="F" t="p" o="80" c="ICE" n="945"/>
+		<ar pt="2601152212" pp="2" fb="ICE 945" ppth="Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau"/>
+		<dp pt="2601152214" pp="2" fb="ICE 945" hi="1" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-8458359977425999599-2601152235-2">
+		<tl f="N" t="p" o="800165" c="RE" n="93438"/>
+		<ar pt="2601152238" pp="2" l="RE7" fb="RE7" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2601152239" pp="2" l="RE7" fb="RE7" ppth="Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-3272021131219238243-2601151749-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1159"/>
+		<ar pt="2601152219" pp="1" fb="ICE 1159" ppth="Bonn Hbf|Köln Hbf|Berlin-Spandau"/>
+		<dp pt="2601152221" pp="1" fb="ICE 1159" hi="1" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-5288888049774324788-2601152144-8">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73787"/>
+		<ar pt="2601152229" pp="2" l="RE1" fb="RE1" ppth="Brandenburg Hbf|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg"/>
+		<dp pt="2601152230" pp="2" l="RE1" fb="RE1" ppth="Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="3089420339552489300-2601152032-16">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73790"/>
+		<ar pt="2601152201" pp="4" l="RE1" fb="RE1" ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2601152202" pp="4" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="612366278194031955-2601152103-14">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2601152242" pp="4" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2601152244" pp="4" l="RE2" fb="RE2" ppth="Berlin-Charlottenburg"/>
+	</s>
+	<s id="-8880007135505675114-2601151649-14">
+		<tl f="F" t="p" o="51" c="EC" n="40"/>
+		<ar pt="2601152226" pp="4" fb="EC 40" ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Hbf"/>
+		<dp pt="2601152228" pp="4" fb="EC 40" hi="1" ppth="Berlin-Charlottenburg"/>
+	</s>
+	<s id="8510220935223586141-2601152014-23">
+		<tl f="N" t="p" o="800165" c="RE" n="3741"/>
+		<ar pt="2601152222" pp="4" l="RE7" fb="RE7" ppth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2601152224" pp="4" l="RE7" fb="RE7" ppth="Berlin-Charlottenburg"/>
+	</s>
+</timetable>
