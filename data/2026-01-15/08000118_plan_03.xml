@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="-3984551627525172822-2601150246-6">
+		<tl t="p" o="B2" c="Bus" n="334"/>
+		<ar pt="2601150349" pp="" l="RB32" fb="Bus RB32" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+	</s>
+	<s id="5632824305148275221-2601150304-4">
+		<tl t="p" o="B2" c="Bus" n="2016"/>
+		<ar pt="2601150354" pp="" l="RE2" fb="Bus RE2" ppth="Recklinghausen Hbf|Recklinghausen Süd|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601150354" pp="" l="RE2" fb="Bus RE2" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="-6186889404870499898-2601150158-11">
+		<tl t="p" o="B2" c="Bus" n="209"/>
+		<ar pt="2601150340" pp="" l="S2" fb="Bus S2" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Wischlingen|Dortmund-Huckarde|Dortmund-Westerfilde|Dortmund-Nette/Oestrich|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-7506078612137227600-2601150318-11">
+		<tl f="S" t="p" o="8003L1" c="S" n="30285"/>
+		<ar pt="2601150353" pp="4" l="S2" fb="S2" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Wischlingen|Dortmund-Huckarde|Dortmund-Westerfilde|Dortmund-Nette/Oestrich|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601150354" pp="4" l="S2" fb="S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf"/>
+	</s>
+	<s id="8503777394879306018-2601142322-9">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601150309" pp="7" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf"/>
+		<dp pt="2601150310" pp="7" fb="ICE 920" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="6023965687528451561-2601150314-1">
+		<tl t="p" o="B2" c="Bus" n="206"/>
+		<dp pt="2601150314" pp="" l="S2" fb="Bus S2" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld|Dortmund Hbf"/>
+	</s>
+	<s id="-4976189766415114310-2601150253-4">
+		<tl f="S" t="p" o="8003L1" c="S" n="30284"/>
+		<ar pt="2601150304" pp="7" l="S2" fb="S2" ppth="Essen Hbf|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2601150305" pp="7" l="S2" fb="S2" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld|Dortmund Hbf"/>
+	</s>
+	<s id="-246091495773840362-2601150311-1">
+		<tl t="p" o="B2" c="Bus" n="335"/>
+		<dp pt="2601150311" pp="" l="RB32" fb="Bus RB32" ppth="Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf"/>
+	</s>
+	<s id="-6135772496710160406-2601150303-6">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89910"/>
+		<ar pt="2601150330" pp="5" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2601150331" pp="5" l="RE3" fb="RE3" ppth="Essen-Altenessen|Oberhausen Hbf"/>
+	</s>
+</timetable>
