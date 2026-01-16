@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="-5737595012320378780-2601160446-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90005"/>
+		<dp pt="2601160446" pp="2" l="RB89" fb="RB89" ppth="Hamm-Westtünnen|Welver|Borgeln|Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede|Paderborn Hbf"/>
+	</s>
+	<s id="-6238175347891583359-2601152337-13">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2601160433" pp="10" fb="ICE 1540" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf"/>
+		<dp pt="2601160435" pp="10" fb="ICE 1540" ppth="Dortmund Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="-5527848852284159539-2601160418-1">
+		<tl t="p" o="NXRE" c="NX" n="22022"/>
+		<dp pt="2601160418" pp="8" l="RE1" fb="RE1" ppth="Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Herne|Gelsenkirchen Hbf|Essen-Altenessen|Oberhausen Hbf"/>
+	</s>
+	<s id="8503777394879306018-2601152322-9">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601160402" pp="4" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Köln Süd|Duisburg Hbf|Gelsenkirchen Hbf|Dortmund Hbf"/>
+		<dp pt="2601160403" pp="4" fb="ICE 920" ppth="Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="4745482052398061436-2601160450-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89963"/>
+		<dp pt="2601160450" pp="4" l="RB69" fb="RB69" ppth="Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Isselhorst-Avenwedde|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="7637551507962044050-2601160433-3">
+		<tl t="p" o="NXRE" c="NX" n="26701"/>
+		<ar pt="2601160453" pp="3" l="RE11" fb="RE11" ppth="Dortmund Hbf|Kamen"/>
+		<dp pt="2601160501" pp="3" l="RE11" fb="RE11" ppth="Soest|Lippstadt|Paderborn Hbf|Altenbeken|Willebadessen|Warburg(Westf)|Hofgeismar|Kassel-Wilhelmshöhe"/>
+	</s>
+</timetable>
