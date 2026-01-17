@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="6992012378128167215-2601161955-8">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2601170045" pp="3" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2601170148" pp="3" fb="NJ 40491" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf"/>
+	</s>
+	<s id="4457765693412669509-2601162359-19">
+		<tl f="N" t="p" o="800772" c="RE" n="4645"/>
+		<ar pt="2601170127" pp="9" l="RE54" fb="RE54" ppth="Hanau Hbf|Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim|Aschaffenburg Hbf|Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen"/>
+	</s>
+	<s id="8209469800275406026-2601162300-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2601170114" pp="6" fb="ICE 1080" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf"/>
+		<dp pt="2601170117" pp="6" fb="ICE 1080" ppth="Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2044723357159653206-2601161955-8">
+		<tl t="p" o="81" c="NJ" n="491"/>
+		<ar pt="2601170045" pp="3" fb="NJ 491" wings="6992012378128167215-2601161955" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2601170148" pp="3" fb="NJ 491" wings="6992012378128167215-2601161955" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+</timetable>
