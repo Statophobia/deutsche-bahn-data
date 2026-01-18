@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Neuss Hbf">
+	<s id="-6270375014114709031-2601180123-24">
+		<tl f="S" t="p" o="8003S" c="S" n="33165"/>
+		<ar pt="2601180232" pp="1" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz|Köln Hbf|Köln Hansaring|Köln-Nippes|Köln Geldernstr./Parkgürtel|Köln-Longerich|Köln Volkhovener Weg|Köln-Chorweiler|Köln-Chorweiler Nord|Köln-Blumenberg|Köln-Worringen|Dormagen Chempark|Dormagen|Nievenheim|Neuss Allerheiligen|Norf|Neuss Süd"/>
+		<dp pt="2601180235" pp="1" l="S11" fb="S11" ppth="Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="-2045970786625580397-2601180145-5">
+		<tl t="p" o="M2" c="Bus" n="4213"/>
+		<ar pt="2601180207" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+	<s id="-1878263889042424314-2601180244-2">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56642"/>
+		<ar pt="2601180251" pp="2" l="RB39" fb="RB39" ppth="Holzheim(b Neuss)"/>
+		<dp pt="2601180252" pp="2" l="RB39" fb="RB39" ppth="Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="2056400369948619431-2601180215-5">
+		<tl t="p" o="M2" c="Bus" n="4223"/>
+		<ar pt="2601180237" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+	<s id="5528272555032813873-2601180154-3">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56643"/>
+		<ar pt="2601180205" pp="3" l="RB39" fb="RB39" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2601180206" pp="3" l="RB39" fb="RB39" ppth="Holzheim(b Neuss)"/>
+	</s>
+	<s id="-5043227154655255350-2601180238-3">
+		<tl f="S" t="p" o="8003S" c="S" n="33172"/>
+		<ar pt="2601180254" pp="4" l="S11" fb="S11" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2601180256" pp="4" l="S11" fb="S11" ppth="Neuss Süd|Norf|Neuss Allerheiligen|Nievenheim|Dormagen|Dormagen Chempark|Köln-Worringen|Köln-Blumenberg|Köln-Chorweiler Nord|Köln-Chorweiler|Köln Volkhovener Weg|Köln-Longerich|Köln Geldernstr./Parkgürtel|Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Holweide|Köln-Dellbrück|Duckterath|Bergisch Gladbach"/>
+	</s>
+	<s id="8496392348211596601-2601180251-1">
+		<tl t="p" o="M2" c="Bus" n="4222"/>
+		<dp pt="2601180251" pp="" l="S28" fb="Bus S28" ppth="Kaarst IKEA|Kaarst Mitte/Holzbüttgen|Kaarster Bahnhof|Kaarster See"/>
+	</s>
+	<s id="3245289098682755527-2601180204-6">
+		<tl t="p" o="B2" c="Bus" n="8101"/>
+		<ar pt="2601180250" pp="" l="S8" fb="Bus S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen"/>
+		<dp pt="2601180250" pp="" l="S8" fb="Bus S8" ppth="Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf"/>
+	</s>
+</timetable>
