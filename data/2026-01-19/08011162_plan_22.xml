@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="5152041448518144408-2601192209-3">
+		<tl f="N" t="p" o="800165" c="RB" n="18336"/>
+		<ar pt="2601192229" pp="14" l="RB24" fb="RB24" ppth="Flughafen BER|Berlin-Schöneweide"/>
+		<dp pt="2601192231" pp="14" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="-168162374449317290-2601192241-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18237"/>
+		<ar pt="2601192244" pp="13" l="RB32" fb="RB32" ppth="Berlin-Lichtenberg"/>
+		<dp pt="2601192246" pp="13" l="RB32" fb="RB32" ppth="Berlin-Schöneweide|Schönefeld(bei Berlin)|Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="-8880007135505675114-2601191649-11">
+		<tl f="F" t="p" o="51" c="EC" n="40"/>
+		<ar pt="2601192203" pp="2" fb="EC 40" ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)"/>
+		<dp pt="2601192205" pp="2" fb="EC 40" hi="1" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="3614210875136353828-2601192138-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18234"/>
+		<ar pt="2601192216" pp="14" l="RB32" fb="RB32" ppth="Ludwigsfelde|Birkengrund|Flughafen BER|Berlin-Schöneweide"/>
+		<dp pt="2601192218" pp="14" l="RB32" fb="RB32" ppth="Berlin-Lichtenberg"/>
+	</s>
+	<s id="4153153877719876337-2601192135-8">
+		<tl f="N" t="p" o="800165" c="RB" n="18337"/>
+		<ar pt="2601192220" pp="13" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen|Berlin-Lichtenberg"/>
+		<dp pt="2601192222" pp="13" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Flughafen BER"/>
+	</s>
+</timetable>
