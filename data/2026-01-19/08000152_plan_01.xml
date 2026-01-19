@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="8350213117652823042-2601190014-11">
+		<tl t="p" o="R0" c="ENO" n="83540"/>
+		<ar pt="2601190111" pp="13" l="RE30" fb="RE30" ppth="Wolfsburg Hbf|Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte"/>
+	</s>
+	<s id="-1781439465744467581-2601190113-1">
+		<tl f="D" t="p" o="W3" c="WFB" n="95769"/>
+		<dp pt="2601190113" pp="12" l="RE70" fb="RE70" ppth="Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
+	</s>
+	<s id="541520543389924103-2601190035-5">
+		<tl t="p" o="TDHS" c="Bus" n="5503"/>
+		<ar pt="2601190125" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg"/>
+	</s>
+	<s id="2128396900209313395-2601190105-1">
+		<tl t="p" o="TDHS" c="Bus" n="5504"/>
+		<dp pt="2601190105" pp="" l="S5" fb="Bus S5" ppth="Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="3382626189202883516-2601190135-1">
+		<tl t="p" o="TDHS" c="Bus" n="5506"/>
+		<dp pt="2601190135" pp="" l="S5" fb="Bus S5" ppth="Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="7630315185751079111-2601182315-7">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2601190137" pp="13" fb="ICE 273" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf"/>
+		<dp pt="2601190210" pp="13" fb="ICE 273" ppth="Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-647018726241571682-2601190105-5">
+		<tl t="p" o="TDHS" c="Bus" n="5505"/>
+		<ar pt="2601190155" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg"/>
+	</s>
+	<s id="-2759591966346369487-2601190030-4">
+		<tl t="p" o="TDHS" c="Bus" n="4147"/>
+		<ar pt="2601190113" pp="" l="S1" fb="Bus S1" ppth="Seelze|Letter|Hannover-Leinhausen"/>
+	</s>
+	<s id="-6027587483204218492-2601190013-14">
+		<tl f="N" t="p" o="800295" c="RE" n="4445"/>
+		<ar pt="2601190140" pp="9" l="RE8" fb="RE8" ppth="Bremen Hbf|Bremen-Sebaldsbrück|Bremen-Mahndorf|Achim|Baden(Verden)|Etelsen|Langwedel|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Neustadt am Rübenberge|Wunstorf"/>
+	</s>
+	<s id="-2534056427099012540-2601190020-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="95792"/>
+		<ar pt="2601190106" pp="12" l="RE70" fb="RE70" ppth="Braunschweig Hbf|Vechelde|Peine|Vöhrum|Hämelerwald|Lehrte"/>
+	</s>
+</timetable>
