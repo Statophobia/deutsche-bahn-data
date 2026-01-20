@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="2564341677225037754-2601202120-9">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62037"/>
+		<ar pt="2601202205" pp="8" l="RE8" fb="RE8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2601202207" pp="8" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal"/>
+	</s>
+	<s id="4930757697825694726-2601202207-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21951"/>
+		<ar pt="2601202214" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601202216" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="7084557798883156041-2601202052-15">
+		<tl f="N" t="p" o="800158" c="RE" n="3358"/>
+		<ar pt="2601202209" pp="6" l="RE3" fb="RE3" ppth="Lutherstadt Wittenberg Hbf|Zörnigall|Bülzig|Zahna|Blönsdorf|Niedergörsdorf|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost"/>
+		<dp pt="2601202212" pp="6" l="RE3" fb="RE3" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf|Britz|Chorin|Angermünde|Pinnow(Uckermark)|Schwedt(Oder)Mitte|Schwedt(Oder)"/>
+	</s>
+	<s id="2428188526006200182-2601202206-8">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62034"/>
+		<ar pt="2601202251" pp="3" l="RE8" fb="RE8" ppth="Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601202254" pp="3" l="RE8" fb="RE8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)"/>
+	</s>
+	<s id="6377830093082555028-2601202152-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21949"/>
+		<ar pt="2601202159" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601202201" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-7724390263517347378-2601201711-9">
+		<tl f="F" t="p" o="80" c="ICE" n="702"/>
+		<ar pt="2601202158" pp="6" fb="ICE 702" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Nürnberg Hbf|Bamberg|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2601202200" pp="6" fb="ICE 702" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="5603990717934885519-2601201910-28">
+		<tl f="N" t="p" o="800158" c="RE" n="91436"/>
+		<ar pt="2601202247" pp="" l="RE3" fb="RE3" ppth="Stralsund Hbf|Wüstenfelde|Miltzow|Jeeser|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz"/>
+	</s>
+	<s id="3499338043235512572-2601201934-7">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2601202217" pp="5" fb="ICE 609" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel|Berlin-Spandau|Berlin Hbf"/>
+		<dp pt="2601202219" pp="5" fb="ICE 609" ppth="Bitterfeld|Leipzig Hbf|Erfurt Hbf"/>
+	</s>
+	<s id="1720657537816613523-2601202228-6">
+		<tl f="N" t="p" o="800158" c="RE" n="3185"/>
+		<ar pt="2601202253" pp="6" l="RE4" fb="RE4" ppth="Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost"/>
+		<dp pt="2601202255" pp="6" l="RE4" fb="RE4" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+</timetable>
