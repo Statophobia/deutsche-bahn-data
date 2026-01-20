@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Neuss Hbf">
+	<s id="4256158639402550599-2601200324-6">
+		<tl t="p" o="B2" c="Bus" n="8021"/>
+		<ar pt="2601200410" pp="" l="S8" fb="Bus S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen"/>
+		<dp pt="2601200410" pp="" l="S8" fb="Bus S8" ppth="Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf"/>
+	</s>
+	<s id="6682368924305768659-2601200431-2">
+		<tl t="p" o="NX" c="Bus" n="4501"/>
+		<ar pt="2601200448" pp="" l="RE4" fb="Bus RE4" ppth="Düsseldorf-Bilk"/>
+	</s>
+	<s id="-6338991634231442913-2601200442-2">
+		<tl t="p" o="NXRE" c="NX" n="26800"/>
+		<ar pt="2601200454" pp="" l="RE1" fb="RE1" ppth="Düsseldorf Hbf"/>
+		<dp pt="2601200455" pp="" l="RE1" fb="RE1" ppth="Dormagen|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="8205932318525825771-2601200350-2">
+		<tl t="p" o="NX" c="Bus" n="6002"/>
+		<ar pt="2601200410" pp="" l="RE6" fb="Bus RE6" ppth="Düsseldorf-Bilk"/>
+		<dp pt="2601200410" pp="" l="RE6" fb="Bus RE6" ppth="Dormagen|Köln Hbf (Breslauer Platz)"/>
+	</s>
+	<s id="1570659174873802584-2601200346-8">
+		<tl t="p" o="B2" c="Bus" n="1152"/>
+		<ar pt="2601200435" pp="" l="S11" fb="Bus S11" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser"/>
+		<dp pt="2601200435" pp="" l="S11" fb="Bus S11" ppth="Neuss Süd|Norf"/>
+	</s>
+</timetable>
