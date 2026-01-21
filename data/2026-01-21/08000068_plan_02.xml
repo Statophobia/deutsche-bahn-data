@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Darmstadt Hbf">
+	<s id="-7363861252398759561-2601202118-10">
+		<tl f="F" t="p" o="80" c="ICE" n="699"/>
+		<ar pt="2601210239" pp="10" fb="ICE 699" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Eisenach Hbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2601210241" pp="10" fb="ICE 699" ppth="Mannheim Hbf|Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="7582314568044505717-2601202033-6">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2601210248" pp="" fb="IC 60403" hi="1" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Köln Hbf|Frankfurt(Main)West"/>
+		<dp pt="2601210250" pp="" fb="IC 60403" hi="1" ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-5851721557238592488-2601202033-6">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2601210248" pp="" fb="NJ 403" hi="1" wings="7582314568044505717-2601202033" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Köln Hbf|Frankfurt(Main)West"/>
+		<dp pt="2601210250" pp="" fb="NJ 403" hi="1" wings="7582314568044505717-2601202033" ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Wuppertal Hbf">
+	<s id="5534443729456046615-2601210453-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30907"/>
+		<dp pt="2601210453" pp="4" l="S9" fb="S9" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Wülfrath-Aprath|Velbert Rosenhügel|Velbert-Neviges|Velbert-Langenberg|Velbert-Nierenhof|Essen-Kupferdreh|Essen-Holthausen|Essen-Überruhr|Essen-Steele|Essen Hbf|Essen West|Essen-Borbeck Süd|Essen-Borbeck|Essen-Gerschede|Essen-Dellwig Ost|Bottrop Hbf"/>
+	</s>
+	<s id="3588822242466392988-2601210448-4">
+		<tl f="S" t="p" o="800354" c="S" n="30810"/>
+		<ar pt="2601210457" pp="4" l="S8" fb="S8" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+		<dp pt="2601210458" pp="4" l="S8" fb="S8" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern|Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-1822966271854478829-2601210400-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1028"/>
+		<ar pt="2601210430" pp="2" fb="ICE 1028" ppth="Köln Hbf|Köln Messe/Deutz"/>
+		<dp pt="2601210431" pp="2" fb="ICE 1028" ppth="Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-3176167325421694305-2601210446-1">
+		<tl t="p" o="B2" c="Bus" n="8084"/>
+		<dp pt="2601210446" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern|Düsseldorf Hbf"/>
+	</s>
+	<s id="-518184410679007479-2601210428-4">
+		<tl f="S" t="p" o="800354" c="S" n="30808"/>
+		<ar pt="2601210437" pp="4" l="S8" fb="S8" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="-114554791870101326-2601210440-3">
+		<tl t="p" o="NXRB" c="NX" n="17307"/>
+		<ar pt="2601210447" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2601210448" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem"/>
+	</s>
+</timetable>

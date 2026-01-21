@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Mannheim Hbf">
+	<s id="7108274583246193747-2601202217-7">
+		<tl f="F" t="p" o="80" c="ICE" n="698"/>
+		<ar pt="2601210215" pp="2" fb="ICE 698" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf"/>
+		<dp pt="2601210225" pp="2" fb="ICE 698" ppth="Frankfurt(Main)Hbf|Eisenach Hbf|Erfurt Hbf|Halle(Saale)Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="5926473462606976417-2601201926-15">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2601210201" pp="5" fb="ICE 619" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2601210204" pp="5" fb="ICE 619" ppth="Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="4753870957390372842-2601202159-8">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2601210201" pp="2" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf"/>
+		<dp pt="2601210208" pp="2" fb="IC 60402" ppth="Frankfurt(Main)West|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="8868050453695511606-2601202159-8">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2601210201" pp="2" fb="NJ 402" hi="1" wings="4753870957390372842-2601202159" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf"/>
+		<dp pt="2601210208" pp="2" fb="NJ 402" hi="1" wings="4753870957390372842-2601202159" ppth="Frankfurt(Main)West|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+</timetable>

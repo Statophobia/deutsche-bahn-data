@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Köln Messe/Deutz">
+	<s id="-4782980400620953302-2601210111-15">
+		<tl t="p" o="TR" c="TR" n="25400"/>
+		<ar pt="2601210208" pp="4" l="RB26" fb="RB26" ppth="Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf"/>
+	</s>
+	<s id="-6441496525007930668-2601210050-5">
+		<tl t="p" o="NX" c="Bus" n="1000"/>
+		<ar pt="2601210205" pp="" l="RE1" fb="Bus RE1" ppth="Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim"/>
+		<dp pt="2601210205" pp="" l="RE1" fb="Bus RE1" ppth="Köln Hbf (Breslauer Platz)"/>
+	</s>
+	<s id="6086433097284689991-2601210153-7">
+		<tl f="S" t="p" o="8003S" c="S" n="33167"/>
+		<ar pt="2601210210" pp="10" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst"/>
+		<dp pt="2601210211" pp="10" l="S11" fb="S11" ppth="Köln Hbf"/>
+	</s>
+	<s id="1506411504588296319-2601210250-1">
+		<tl t="p" o="TR" c="TR" n="25405"/>
+		<dp pt="2601210250" pp="7" l="RB26" fb="RB26" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf"/>
+	</s>
+</timetable>
