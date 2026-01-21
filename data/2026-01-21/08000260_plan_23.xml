@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="3319753175041874068-2601211953-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1021"/>
+		<ar pt="2601212344" pp="5" fb="ICE 1021" ppth="Köln Hbf|Bonn Hbf|Koblenz Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf"/>
+		<dp pt="2601212346" pp="5" fb="ICE 1021" ppth="Nürnberg Hbf"/>
+	</s>
+	<s id="3735011379937895109-2601212340-1">
+		<tl f="N" t="p" o="800772" c="RE" n="4638"/>
+		<dp pt="2601212340" pp="10" l="RE55" fb="RE55" ppth="Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf"/>
+	</s>
+	<s id="-3787369247461600367-2601212141-3">
+		<tl t="p" o="B7" c="Bus" n="18404"/>
+		<ar pt="2601212326" pp="" l="EV" fb="Bus EV" ppth="Bamberg|Schweinfurt Hbf"/>
+	</s>
+	<s id="2454826157285726462-2601212128-29">
+		<tl f="N" t="p" o="800772" c="RE" n="4633"/>
+		<ar pt="2601212333" pp="11" l="RE54" fb="RE54" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf|Kahl(Main)|Dettingen(Main)|Kleinostheim|Aschaffenburg Hbf|Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Wernfeld|Karlstadt(Main)|Himmelstadt|Retzbach-Zellingen|Thüngersheim|Veitshöchheim|Würzburg-Zell"/>
+	</s>
+	<s id="8573811631662133764-2601212018-3">
+		<tl f="F" t="p" o="80" c="ICE" n="520"/>
+		<ar pt="2601212316" pp="6" fb="ICE 520" ppth="München Hbf|Nürnberg Hbf"/>
+		<dp pt="2601212318" pp="6" fb="ICE 520" ppth="Aschaffenburg Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="4944821663867669731-2601212205-12">
+		<tl f="N" t="p" o="800714" c="RE" n="58236"/>
+		<ar pt="2601212315" pp="8" l="RE10" fb="RE10" ppth="Nürnberg Hbf|Fürth(Bay)Hbf|Siegelsdorf|Emskirchen|Neustadt(Aisch)Bahnhof|Markt Bibart|Iphofen|Kitzingen|Buchbrunn-Mainstockheim|Dettelbach Bahnhof|Rottendorf"/>
+	</s>
+</timetable>

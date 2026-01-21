@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<timetable station="Leipzig Hbf">
+	<s id="-8572647521164952896-2601211831-9">
+		<tl f="F" t="p" o="54" c="EC" n="458"/>
+		<ar pt="2601212221" pp="13" fb="EC 458" wings="-8716776747589038458-2601211831" ppth="Praha hl.n.|Praha-Holesovice|Usti nad Labem hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Dresden-Neustadt|Riesa"/>
+		<dp pt="2601212349" pp="12" fb="EC 458" hi="1" wings="-8716776747589038458-2601211831|-1197270886930040789-2601212053|5331894847185138451-2601212053" ppth="Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="2602863243309502954-2601212104-21">
+		<tl f="D" t="p" o="EX" c="EB" n="80872"/>
+		<ar pt="2601212300" pp="6" l="RE12" fb="RE12" ppth="Saalfeld(Saale)|Unterwellenborn|Pößneck ob Bf|Oppurg|Neustadt(Orla)|Triptis|Niederpöllnitz|Weida|Gera Süd|Gera Hbf|Bad Köstritz|Crossen a d Elster|Crossen Ort|Wetterzeube|Zeitz|Profen|Pegau|Zwenkau-Großdalzig|Leipzig-Knauthain|Leipzig-Plagwitz"/>
+	</s>
+	<s id="7771983361239727028-2601212231-7">
+		<tl f="D" t="p" o="CXRE" c="MRB" n="74197"/>
+		<ar pt="2601212333" pp="20" l="RE6" fb="RE6" ppth="Chemnitz Hbf|Burgstädt|Narsdorf|Geithain|Bad Lausick|Leipzig-Liebertwolkwitz"/>
+	</s>
+	<s id="2598380441240695505-2601212203-24">
+		<tl f="N" t="p" o="8004A9" c="RE" n="16137"/>
+		<ar pt="2601212344" pp="17" l="RE13" fb="RE13" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Königsborn|Wahlitz|Gommern|Prödel|Lübs(Magdeburg)|Güterglück|Zerbst/Anhalt|Rodleben|Roßlau(Elbe)|Dessau Hbf|Dessau Süd|Marke|Raguhn|Jeßnitz(Anh)|Wolfen(Bitterfeld)|Greppin|Bitterfeld|Delitzsch unt Bf|Leipzig Messe"/>
+	</s>
+	<s id="-1484487473076034862-2601212337-1">
+		<tl f="D" t="p" o="CXRE" c="MRB" n="74196"/>
+		<dp pt="2601212337" pp="23" l="RE6" fb="RE6" ppth="Leipzig-Liebertwolkwitz|Bad Lausick|Geithain|Narsdorf|Burgstädt|Chemnitz Hbf"/>
+	</s>
+	<s id="-1197270886930040789-2601212053-5">
+		<tl f="F" t="p" o="NZ" c="IC" n="60408"/>
+		<ar pt="2601212222" pp="12" fb="IC 60408" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld"/>
+		<dp pt="2601212349" pp="12" fb="IC 60408" ppth="Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5331894847185138451-2601212053-5">
+		<tl t="p" o="81" c="NJ" n="408"/>
+		<ar pt="2601212222" pp="12" fb="NJ 408" hi="1" wings="-1197270886930040789-2601212053" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld"/>
+		<dp pt="2601212349" pp="12" fb="NJ 408" wings="-1197270886930040789-2601212053" ppth="Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-8716776747589038458-2601211831-9">
+		<tl f="F" t="p" o="81" c="EN" n="40458"/>
+		<ar pt="2601212221" pp="13" fb="EN 40458" hi="1" ppth="Praha hl.n.|Praha-Holesovice|Usti nad Labem hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Dresden-Neustadt|Riesa"/>
+		<dp pt="2601212349" pp="12" fb="EN 40458" ppth="Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-3701482207676024576-2601212312-1">
+		<tl f="D" t="p" o="EB" c="EB" n="80871"/>
+		<dp pt="2601212312" pp="6" l="RB22" fb="RB22" ppth="Leipzig-Plagwitz|Leipzig-Knauthain|Zwenkau-Großdalzig|Pegau|Profen|Zeitz|Wetterzeube|Crossen Ort|Bad Köstritz|Gera-Langenberg|Gera Hbf|Gera Süd|Gera-Zwötzen"/>
+	</s>
+	<s id="6589381384001950484-2601212303-14">
+		<tl f="S" t="p" o="800486" c="S" n="37673"/>
+		<ar pt="2601212352" pp="7" l="S6" fb="S6" ppth="Naumburg(Saale)Hbf|Leißling|Weißenfels|Großkorbetha|Bad Dürrenberg|Kötzschau|Großlehna|Markranstädt|Leipzig-Miltitz|Leipzig-Rückmarsdorf|Leipzig-Leutzsch|Leipzig-Möckern|Leipzig Coppiplatz"/>
+	</s>
+	<s id="-4895800001039546385-2601212309-5">
+		<tl t="p" o="CX" c="Bus" n="31757"/>
+		<ar pt="2601212334" pp="" l="EV" fb="Bus EV" ppth="Borsdorf(Sachs)|Leipzig-Engelsdorf|Leipzig-Paunsdorf|Leipzig-Sellerhausen"/>
+	</s>
+	<s id="-3572760221681257349-2601212331-1">
+		<tl f="N" t="p" o="800166" c="RE" n="18398"/>
+		<dp pt="2601212331" pp="10" l="RE10" fb="RE10" ppth="Taucha(Leipzig)|Eilenburg|Eilenburg Ost|Doberschütz|Mockrehna|Torgau|Beilrode|Rehfeld(Falkenberg)|Falkenberg(Elster)|Doberlug-Kirchhain|Finsterwalde(Niederlausitz)|Calau(Nl)|Cottbus Hbf"/>
+	</s>
+	<s id="3499338043235512572-2601211934-9">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2601212358" pp="11" fb="ICE 609" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Bitterfeld"/>
+		<dp pt="2601220006" pp="11" fb="ICE 609" ppth="Erfurt Hbf"/>
+	</s>
+	<s id="-6834903613144548462-2601212233-15">
+		<tl f="N" t="p" o="800413" c="RB" n="16696"/>
+		<ar pt="2601212323" pp="22" l="RB113" fb="RB113" ppth="Geithain|Tautenhain|Hopfgarten(Sachs)|Bad Lausick|Lauterbach-Steinbach|Otterwisch|Belgershain|Oberholz|Großpösna|Leipzig-Liebertwolkwitz|Leipzig-Holzhausen|Leipzig-Mölkau|Leipzig Werkstättenstraße|Leipzig-Paunsdorf"/>
+	</s>
+</timetable>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="2055963282129101463-2601212115-13">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90038"/>
+		<ar pt="2601212208" pp="2" l="RB89" fb="RB89" ppth="Paderborn Hbf|Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest|Borgeln|Welver|Hamm-Westtünnen"/>
+		<dp pt="2601212226" pp="2" l="RB89" fb="RB89" ppth="Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-8472182561269213337-2601212228-2">
+		<tl f="F" t="p" o="80" c="IC" n="2349"/>
+		<ar pt="2601212243" pp="9" fb="IC 2349" ppth="Dortmund Hbf"/>
+		<dp pt="2601212244" pp="9" fb="IC 2349" ppth="Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf"/>
+	</s>
+	<s id="-2949724243121316784-2601212210-7">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90041"/>
+		<ar pt="2601212237" pp="3" l="RB89" fb="RB89" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Rinkerode|Drensteinfurt|Mersch(Westf)|Hamm-Bockum-Hövel"/>
+		<dp pt="2601212309" pp="3" l="RB89" fb="RB89" ppth="Hamm-Westtünnen|Welver|Borgeln|Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede|Paderborn Hbf"/>
+	</s>
+	<s id="-6223935341310678335-2601212235-4">
+		<tl t="p" o="NXRE" c="NX" n="17439"/>
+		<ar pt="2601212258" pp="5" l="RE7" fb="RE7" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Drensteinfurt"/>
+		<dp pt="2601212300" pp="5" l="RE7" fb="RE7" ppth="Bönen|Unna|Holzwickede|Schwerte(Ruhr)|Hagen Hbf"/>
+	</s>
+	<s id="8951689831344452570-2601212114-8">
+		<tl t="p" o="NXRE" c="NX" n="89737"/>
+		<ar pt="2601212213" pp="9" l="RE6" fb="RE6" ppth="Oberhausen Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Kamen"/>
+		<dp pt="2601212215" pp="9" l="RE6" fb="RE6" ppth="Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Bielefeld Hbf|Herford|Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="4827538040549303051-2601212035-19">
+		<tl t="p" o="NXRE" c="NX" n="17434"/>
+		<ar pt="2601212257" pp="4" l="RE7" fb="RE7" ppth="Krefeld Hbf|Krefeld-Oppum|Meerbusch-Osterath|Neuss Hbf|Dormagen|Köln Hbf|Köln Messe/Deutz|Opladen|Solingen Hbf|Wuppertal Hbf|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf|Schwerte(Ruhr)|Holzwickede|Unna|Bönen"/>
+		<dp pt="2601212259" pp="4" l="RE7" fb="RE7" ppth="Drensteinfurt|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-998628836587348347-2601212135-4">
+		<tl t="p" o="NXRE" c="NX" n="17437"/>
+		<ar pt="2601212158" pp="5" l="RE7" fb="RE7" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Drensteinfurt"/>
+		<dp pt="2601212203" pp="5" l="RE7" fb="RE7" ppth="Bönen|Unna|Holzwickede|Schwerte(Ruhr)|Hagen Hbf"/>
+	</s>
+	<s id="624684981040080406-2601211932-6">
+		<tl f="F" t="p" o="80" c="ICE" n="842"/>
+		<ar pt="2601212249" pp="10" fb="ICE 842" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf"/>
+		<dp pt="2601212254" pp="10" fb="ICE 842" ppth="Dortmund Hbf|Bochum Hbf|Essen Hbf"/>
+	</s>
+	<s id="4923549252039808007-2601212218-1">
+		<tl t="p" o="NXRE" c="NX" n="22058"/>
+		<dp pt="2601212218" pp="1" l="RE1" fb="RE1" ppth="Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Oberhausen Hbf"/>
+	</s>
+	<s id="-5316686016740250063-2601212137-12">
+		<tl t="p" o="NXRE" c="NX" n="22055"/>
+		<ar pt="2601212240" pp="6" l="RE1" fb="RE1" ppth="Oberhausen Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge"/>
+	</s>
+	<s id="-2972151921087485206-2601212258-1">
+		<tl t="p" o="NXRE" c="NX" n="92766"/>
+		<dp pt="2601212258" pp="8" l="RE11" fb="RE11" ppth="Kamen|Dortmund Hbf"/>
+	</s>
+	<s id="-4519176135719284661-2601212137-9">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90090"/>
+		<ar pt="2601212219" pp="12" l="RB69" fb="RB69" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+	</s>
+	<s id="2445365610332320219-2601212128-13">
+		<tl t="p" o="NXRE" c="NX" n="89740"/>
+		<ar pt="2601212242" pp="10" l="RE6" fb="RE6" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+		<dp pt="2601212244" pp="10" l="RE6" fb="RE6" ppth="Kamen|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Oberhausen Hbf"/>
+	</s>
+</timetable>
