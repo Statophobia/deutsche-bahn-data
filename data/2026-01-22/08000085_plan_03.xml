@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="-7502145383808606519-2601220238-9">
+		<tl t="p" o="B2" c="Bus" n="1005"/>
+		<ar pt="2601220332" pp="" l="S1" fb="Bus S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten"/>
+	</s>
+	<s id="-7077376547267783966-2601220216-26">
+		<tl f="S" t="p" o="800354" c="S" n="31846"/>
+		<ar pt="2601220330" pp="12" l="S8" fb="S8" tra="-4964921095657007412-2601220335-1" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen|Wuppertal Hbf|Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern"/>
+	</s>
+	<s id="1570659174873802584-2601220346-1">
+		<tl t="p" o="B2" c="Bus" n="1152"/>
+		<dp pt="2601220346" pp="" l="S11" fb="Bus S11" ppth="Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Neuss Süd|Norf"/>
+	</s>
+	<s id="-4088111439412616546-2601220147-13">
+		<tl t="p" o="B2" c="Bus" n="8019"/>
+		<ar pt="2601220320" pp="" l="S8" fb="Bus S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt"/>
+	</s>
+	<s id="4015815038032108709-2601220350-1">
+		<tl t="p" o="NX" c="Bus" n="1004"/>
+		<dp pt="2601220350" pp="" l="RE1" fb="Bus RE1" ppth="Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf (Breslauer Platz)"/>
+	</s>
+	<s id="3200456803853493029-2601220340-1">
+		<tl t="p" o="NXRE" c="NX" n="26848"/>
+		<dp pt="2601220340" pp="10" l="RE1" fb="RE1" ppth="Neuss Hbf|Dormagen|Köln Hbf"/>
+	</s>
+	<s id="-4964921095657007412-2601220335-1">
+		<tl f="S" t="p" o="800354" c="S" n="31848"/>
+		<dp pt="2601220335" pp="12" l="S8" fb="S8" tra="-7077376547267783966-2601220216-26" ppth="Düsseldorf Flughafen Terminal"/>
+	</s>
+	<s id="-4337146541292555466-2601220200-13">
+		<tl t="p" o="B2" c="Bus" n="56300"/>
+		<ar pt="2601220332" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum|Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+	<s id="-6460516812909385421-2601220337-1">
+		<tl f="S" t="p" o="800337" c="S" n="30107"/>
+		<dp pt="2601220337" pp="14" l="S1" fb="S1" ppth="Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk|Duisburg Hbf"/>
+	</s>
+</timetable>

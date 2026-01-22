@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="8209469800275406026-2601212210-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2601220114" pp="6" fb="ICE 1080" ppth="München Hbf|Nürnberg Hbf"/>
+		<dp pt="2601220117" pp="6" fb="ICE 1080" ppth="Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2044723357159653206-2601211955-8">
+		<tl t="p" o="81" c="NJ" n="491"/>
+		<ar pt="2601220128" pp="4" fb="NJ 491" wings="6992012378128167215-2601211955" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2601220148" pp="4" fb="NJ 491" wings="6992012378128167215-2601211955" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="6992012378128167215-2601211955-8">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2601220128" pp="4" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2601220148" pp="4" fb="NJ 40491" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf"/>
+	</s>
+	<s id="-6432507084130550811-2601220007-7">
+		<tl t="p" o="B7" c="Bus" n="18272"/>
+		<ar pt="2601220134" pp="" l="EV" fb="Bus EV" ppth="Schweinfurt Hbf|Waigolshausen|Eßleben|Bergtheim|Seligenstadt(b Würzburg)|Rottendorf"/>
+	</s>
+</timetable>
