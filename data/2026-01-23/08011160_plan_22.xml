@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="6671021895463998450-2601232105-19">
+		<tl f="N" t="p" o="800165" c="RE" n="3738"/>
+		<ar pt="2601232244" pp="12" l="RE7" fb="RE7" ppth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601232246" pp="12" l="RE7" fb="RE7" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="3499338043235512572-2601231934-6">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2601232210" pp="12" fb="ICE 609" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel|Berlin-Spandau"/>
+		<dp pt="2601232214" pp="12" fb="ICE 609" ppth="Berlin Ostbahnhof|Bitterfeld|Leipzig Hbf|Erfurt Hbf"/>
+	</s>
+	<s id="-5288888049774324788-2601232144-9">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73787"/>
+		<ar pt="2601232235" pp="12" l="RE1" fb="RE1" ppth="Brandenburg Hbf|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601232237" pp="12" l="RE1" fb="RE1" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-5978303486513211708-2601231809-12">
+		<tl f="F" t="p" o="80" c="ICE" n="792"/>
+		<ar pt="2601232239" pp="11" fb="ICE 792" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601232242" pp="11" fb="ICE 792" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-701183337962167358-2601231748-9">
+		<tl f="F" t="p" o="80" c="ICE" n="955"/>
+		<ar pt="2601232219" pp="12" fb="ICE 955" wings="-4172695077965106331-2601231821" ppth="Düsseldorf Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601232223" pp="12" fb="ICE 955" hi="1" wings="-4172695077965106331-2601231821" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-5588544921829922925-2601232219-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73792"/>
+		<ar pt="2601232253" pp="14" l="RE1" fb="RE1" ppth="Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2601232255" pp="14" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-3272021131219238243-2601231749-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1159"/>
+		<ar pt="2601232226" pp="11" fb="ICE 1159" ppth="Bonn Hbf|Köln Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601232229" pp="11" fb="ICE 1159" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-4172695077965106331-2601231821-9">
+		<tl f="F" t="p" o="80" c="ICE" n="945"/>
+		<ar pt="2601232219" pp="12" fb="ICE 945" ppth="Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601232223" pp="12" fb="ICE 945" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="7035209816659338176-2601232054-22">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73747"/>
+		<ar pt="2601232257" pp="11" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601232259" pp="11" l="RE1" fb="RE1" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner"/>
+	</s>
+	<s id="3927248305596800871-2601232238-2">
+		<tl f="F" t="p" o="80" c="ICE" n="905"/>
+		<ar pt="2601232246" pp="14" fb="ICE 905" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2601232249" pp="14" fb="ICE 905" ppth="Bitterfeld|Leipzig Hbf|Naumburg(Saale)Hbf|Jena Paradies|Jena-Göschwitz|Saalfeld(Saale)|Lichtenfels|Bamberg|Erlangen|Nürnberg Hbf|Treuchtlingen|Donauwörth|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-8784812517696267066-2601232202-7">
+		<tl f="N" t="p" o="800165" c="RE" n="3136"/>
+		<ar pt="2601232251" pp="11" l="RE2" fb="RE2" ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601232253" pp="11" l="RE2" fb="RE2" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Cottbus Hbf"/>
+	</s>
+	<s id="612366278194031955-2601232103-13">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2601232235" pp="14" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2601232237" pp="14" l="RE2" fb="RE2" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Hennigsdorf(b Berlin)"/>
+	</s>
+	<s id="8510220935223586141-2601232014-22">
+		<tl f="N" t="p" o="800165" c="RE" n="3741"/>
+		<ar pt="2601232216" pp="13" l="RE7" fb="RE7" ppth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2601232218" pp="13" l="RE7" fb="RE7" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+</timetable>

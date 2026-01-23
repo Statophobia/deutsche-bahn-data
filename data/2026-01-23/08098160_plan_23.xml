@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="3265133052771071185-2601232204-13">
+		<tl f="N" t="p" o="800158" c="RE" n="3359"/>
+		<ar pt="2601232333" pp="4" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin Gesundbrunnen"/>
+		<dp pt="2601232335" pp="4" l="RE3" fb="RE3" ppth="Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-4311660409771390843-2601231830-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1502"/>
+		<ar pt="2601232301" pp="3" fb="ICE 1502" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf"/>
+	</s>
+	<s id="3758306345876291613-2601232307-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62036"/>
+		<ar pt="2601232339" pp="2" l="RE8" fb="RE8" ppth="Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide"/>
+		<dp pt="2601232343" pp="2" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Südkreuz|Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)"/>
+	</s>
+	<s id="-7046504936651524928-2601232334-3">
+		<tl f="N" t="p" o="800158" c="RE" n="3522"/>
+		<ar pt="2601232343" pp="5" l="RE5" fb="RE5" ppth="Berlin Südkreuz|Berlin Potsdamer Platz"/>
+		<dp pt="2601232346" pp="5" l="RE5" fb="RE5" ppth="Berlin Gesundbrunnen|Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Blankensee(Meckl)|Cammin(Meckl)|Burg Stargard(Meckl)|Neubrandenburg"/>
+	</s>
+	<s id="-8044096731421800142-2601232221-11">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62039"/>
+		<ar pt="2601232313" pp="7" l="RE8" fb="RE8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Berlin Südkreuz|Berlin Potsdamer Platz"/>
+	</s>
+	<s id="-315375058425876729-2601232324-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3320"/>
+		<dp pt="2601232324" pp="6" l="RE3" fb="RE3" ppth="Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="6524097521449315873-2601232037-11">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2601232311" pp="4" l="RE5" fb="RE5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg|Berlin Gesundbrunnen"/>
+		<dp pt="2601232314" pp="4" l="RE5" fb="RE5" ppth="Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="8603949856800861913-2601232337-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21963"/>
+		<dp pt="2601232337" pp="1" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Südkreuz|Flughafen BER"/>
+	</s>
+</timetable>
