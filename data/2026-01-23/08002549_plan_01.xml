@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="-3927096025170759993-2601230138-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11292"/>
+		<dp pt="2601230138" pp="13D-F" l="RE7" fb="RE7" ppth="Hamburg Dammtor|Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-6711307188089838742-2601230005-11">
+		<tl f="N" t="p" o="800201" c="RE" n="11293"/>
+		<ar pt="2601230124" pp="13D-F" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg|Hamburg Dammtor"/>
+	</s>
+	<s id="4760651137475633059-2601222358-13">
+		<tl f="D" t="p" o="R1" c="ME" n="81644"/>
+		<ar pt="2601230109" pp="11A-C" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-730051901955407455-2601222238-7">
+		<tl f="F" t="p" o="80" c="ICE" n="900"/>
+		<ar pt="2601230101" pp="13" fb="ICE 900" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Uelzen|Lüneburg|Hamburg-Harburg"/>
+		<dp pt="2601230104" pp="13" fb="ICE 900" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+</timetable>

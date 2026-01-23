@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Duisburg Hbf">
+	<s id="2654457762756752587-2601230307-3">
+		<tl t="p" o="NX" c="Bus" n="112"/>
+		<ar pt="2601230342" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="-221756544095723879-2601230355-1">
+		<tl f="S" t="p" o="800337" c="S" n="31594"/>
+		<dp pt="2601230355" pp="6" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf"/>
+	</s>
+	<s id="-2994212479768574922-2601230315-1">
+		<tl t="p" o="NX" c="Bus" n="115"/>
+		<dp pt="2601230315" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="3127040168691613675-2601230237-3">
+		<tl t="p" o="NX" c="Bus" n="110"/>
+		<ar pt="2601230312" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="2774174590951633862-2601222225-9">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2601230339" pp="2" fb="ICE 921" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Dortmund Hbf|Gelsenkirchen Hbf"/>
+		<dp pt="2601230340" pp="2" fb="ICE 921" ppth="Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-2189305055050128376-2601230346-1">
+		<tl t="p" o="B2" c="Bus" n="30107"/>
+		<dp pt="2601230346" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum"/>
+	</s>
+	<s id="-7813096778877530179-2601230345-1">
+		<tl t="p" o="NX" c="Bus" n="117"/>
+		<dp pt="2601230345" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+</timetable>
