@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="8055140796578231506-2601240004-12">
+		<tl f="N" t="p" o="800158" c="RE" n="3361"/>
+		<ar pt="2601240126" pp="7" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)"/>
+		<dp pt="2601240128" pp="7" l="RE3" fb="RE3" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-885623945868688596-2601231909-12">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2601240118" pp="10" fb="ICE 700" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Treuchtlingen|Nürnberg Hbf|Erlangen|Bamberg|Coburg|Erfurt Hbf|Halle(Saale)Hbf"/>
+	</s>
+	<s id="7269044803299643306-2601240123-1">
+		<tl f="N" t="p" o="800161" c="RE" n="3642"/>
+		<dp pt="2601240123" pp="9" l="RE6" fb="RE6" ppth="Oranienburg|Löwenberg(Mark)|Neuruppin Rheinsberger Tor|Neuruppin West"/>
+	</s>
+	<s id="-5083558051405008269-2601232028-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1500"/>
+		<ar pt="2601240125" pp="8" fb="ICE 1500" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Leipzig Hbf"/>
+	</s>
+</timetable>
