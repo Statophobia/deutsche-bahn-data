@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="-5006102303128292040-2601252239-1">
+		<tl t="p" o="GYRE" c="ARV" n="57235"/>
+		<dp pt="2601252239" pp="2" l="RE80" fb="RE80" ppth="Würzburg Süd|Würzburg-Heidingsfeld Ost|Winterhausen|Goßmannsdorf|Ochsenfurt|Marktbreit|Uffenheim|Steinach(bei Rothenburg ob der Tauber)|Burgbernheim-Wildbad|Oberdachstetten|Ansbach"/>
+	</s>
+	<s id="-5237849817126403084-2601252040-16">
+		<tl f="N" t="p" o="800714" c="RB" n="58077"/>
+		<ar pt="2601252200" pp="5A-D" l="RB53" fb="RB53" ppth="Flieden|Sterbfritz|Jossa|Obersinn|Mittelsinn|Burgsinn|Rieneck|Gemünden(Main)|Wernfeld|Karlstadt(Main)|Himmelstadt|Retzbach-Zellingen|Thüngersheim|Veitshöchheim|Würzburg-Zell"/>
+	</s>
+	<s id="-6180147823932367125-2601252200-2">
+		<tl f="F" t="p" o="80" c="ICE" n="520"/>
+		<ar pt="2601252254" pp="6" fb="ICE 520" ppth="Nürnberg Hbf"/>
+		<dp pt="2601252256" pp="6" fb="ICE 520" ppth="Aschaffenburg Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-5857458160932928528-2601252242-1">
+		<tl f="N" t="p" o="800714" c="RE" n="58239"/>
+		<dp pt="2601252242" pp="8" l="RE10" fb="RE10" ppth="Rottendorf|Dettelbach Bahnhof|Buchbrunn-Mainstockheim|Kitzingen|Iphofen|Markt Bibart|Neustadt(Aisch)Bahnhof|Neustadt(Aisch)Mitte|Emskirchen|Hagenbüchach|Puschendorf|Siegelsdorf|Fürth(Bay)Hbf|Nürnberg Hbf"/>
+	</s>
+	<s id="9117006994590991223-2601252236-1">
+		<tl f="N" t="p" o="800772" c="RE" n="4636"/>
+		<dp pt="2601252236" pp="10A-C" l="RE54" fb="RE54" ppth="Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach|Aschaffenburg Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="8388537054998746810-2601252105-12">
+		<tl f="N" t="p" o="800714" c="RE" n="58234"/>
+		<ar pt="2601252219" pp="9" l="RE10" fb="RE10" ppth="Nürnberg Hbf|Fürth(Bay)Hbf|Siegelsdorf|Emskirchen|Neustadt(Aisch)Bahnhof|Markt Bibart|Iphofen|Kitzingen|Buchbrunn-Mainstockheim|Dettelbach Bahnhof|Rottendorf"/>
+	</s>
+	<s id="-524151628723159576-2601251853-9">
+		<tl f="F" t="p" o="80" c="ICE" n="685"/>
+		<ar pt="2601252228" pp="4" fb="ICE 685" wings="4781449848509029885-2601251853" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda"/>
+		<dp pt="2601252229" pp="4" fb="ICE 685" wings="4781449848509029885-2601251853" ppth="Nürnberg Hbf|Augsburg Hbf|München Hbf"/>
+	</s>
+	<s id="-8728315404525185962-2601252235-1">
+		<tl f="N" t="p" o="800755" c="RE" n="4797"/>
+		<dp pt="2601252235" pp="10 D-F" l="RE20" fb="RE20" ppth="Schweinfurt Hbf|Haßfurt|Bamberg"/>
+	</s>
+	<s id="-5516896756132872421-2601252141-15">
+		<tl f="N" t="p" o="800772" c="RE" n="58404"/>
+		<ar pt="2601252251" pp="10" l="RE55" fb="RE55" ppth="Bamberg|Oberhaid|Ebelsbach-Eltmann|Zeil|Haßfurt|Schonungen|Schweinfurt Stadt|Schweinfurt Mitte|Schweinfurt Hbf|Waigolshausen|Eßleben|Bergtheim|Seligenstadt(b Würzburg)|Rottendorf"/>
+	</s>
+	<s id="-3738461847412237185-2601251922-7">
+		<tl f="F" t="p" o="80" c="ICE" n="821"/>
+		<ar pt="2601252202" pp="4" fb="ICE 821" ppth="Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Aschaffenburg Hbf"/>
+		<dp pt="2601252203" pp="4" fb="ICE 821" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="5903101010412136106-2601251713-10">
+		<tl f="F" t="p" o="81" c="ICE" n="20"/>
+		<ar pt="2601252225" pp="6" fb="ICE 20" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Plattling|Regensburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2601252227" pp="6" fb="ICE 20" ppth="Aschaffenburg Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-8535181229836363177-2601252035-19">
+		<tl f="N" t="p" o="800772" c="RE" n="4631"/>
+		<ar pt="2601252221" pp="11A-C" l="RE55" fb="RE55" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Kleinostheim|Aschaffenburg Hbf|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen"/>
+	</s>
+</timetable>
