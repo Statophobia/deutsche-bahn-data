@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="-7916009803308872845-2601242123-7">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2601250234" pp="7" fb="NJ 40420" ppth="Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2601250236" pp="7" fb="NJ 40420" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-7547304040443208216-2601242010-9">
+		<tl t="p" o="81" c="NJ" n="490"/>
+		<ar pt="2601250234" pp="7" fb="NJ 490" wings="-7916009803308872845-2601242123" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Regensburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2601250236" pp="7" fb="NJ 490" wings="-7916009803308872845-2601242123" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-6813803786124510421-2601242010-9">
+		<tl t="p" o="81" c="NJ" n="40490"/>
+		<ar pt="2601250229" pp="6" fb="NJ 40490" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Passau Hbf|Regensburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2601250231" pp="6" fb="NJ 40490" ppth="Kassel-Wilhelmshöhe|Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-3165414770566394182-2601242123-7">
+		<tl t="p" o="81" c="NJ" n="420"/>
+		<ar pt="2601250229" pp="6" fb="NJ 420" wings="-6813803786124510421-2601242010" ppth="Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2601250231" pp="6" fb="NJ 420" wings="-6813803786124510421-2601242010" ppth="Kassel-Wilhelmshöhe|Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal"/>
+	</s>
+</timetable>

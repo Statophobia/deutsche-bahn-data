@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Landshut(Bay)Hbf">
+	<s id="5686030603787371028-2601242342-6">
+		<tl t="p" o="A8N" c="Bus" n="60866"/>
+		<ar pt="2601250104" pp="" l="RE25" fb="Bus RE25" ppth="Regensburg Hbf|Obertraubling|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+	</s>
+	<s id="9184381363798117937-2601250100-1">
+		<tl f="N" t="p" o="8007H3" c="RE" n="59671"/>
+		<dp pt="2601250100" pp="6" l="RE2" fb="RE2" ppth="Moosburg|Freising|München Hbf"/>
+	</s>
+	<s id="-1891793200280049754-2601250112-1">
+		<tl f="D" t="p" o="A8N" c="ALX" n="79866"/>
+		<dp pt="2601250112" pp="6" l="RE25" fb="RE25" ppth="Freising|München Hbf"/>
+	</s>
+	<s id="-7342652457950091174-2601250052-11">
+		<tl f="N" t="p" o="800767" c="RB" n="59292"/>
+		<ar pt="2601250153" pp="1" l="RB33" fb="RB33" ppth="München Hbf|München-Moosach|München-Feldmoching|Unterschleißheim|Freising|Marzling|Langenbach(Oberbay)|Moosburg|Bruckberg|Gündlkofen"/>
+	</s>
+	<s id="-4938598332694422456-2601242327-9">
+		<tl t="p" o="B7" c="Bus" n="57949"/>
+		<ar pt="2601250103" pp="" l="EV" fb="Bus EV" ppth="Regensburg Hbf|Regensburg-Burgweinting|Obertraubling|Köfering|Hagelstadt|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+	</s>
+	<s id="1297659665869895600-2601250112-1">
+		<tl t="p" o="B7" c="Bus" n="57944"/>
+		<dp pt="2601250112" pp="" l="EV" fb="Bus EV" ppth="Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Hagelstadt|Köfering|Obertraubling|Regensburg-Burgweinting|Regensburg Hbf"/>
+	</s>
+</timetable>
