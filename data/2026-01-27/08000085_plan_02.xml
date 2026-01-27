@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="283016663548802152-2601270105-12">
+		<tl t="p" o="B2" c="Bus" n="1012"/>
+		<ar pt="2601270227" pp="" l="S1" fb="Bus S1" ppth="Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+	<s id="2774174590951633862-2601262225-11">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2601270253" pp="16" fb="ICE 921" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Gelsenkirchen Hbf"/>
+		<dp pt="2601270254" pp="16" fb="ICE 921" ppth="Köln Messe/Deutz Gl.11-12|Koblenz Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-2852794612513594288-2601270131-21">
+		<tl f="S" t="p" o="8003S" c="S" n="31657"/>
+		<ar pt="2601270229" pp="14" l="S6" fb="S6" ppth="Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Stammheim|Leverkusen Chempark|Leverkusen Mitte|Leverkusen-Küppersteg|Leverkusen-Rheindorf|Langenfeld(Rhld)|Langenfeld(Rhld)-Berghausen|Düsseldorf-Hellerhof|Düsseldorf-Garath|Düsseldorf-Benrath|Düsseldorf-Reisholz|Düsseldorf-Eller Süd|Düsseldorf-Oberbilk|Düsseldorf Volksgarten"/>
+	</s>
+	<s id="8503777394879306018-2601262323-4">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2601270249" pp="16" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Koblenz Hbf|Köln Hbf"/>
+		<dp pt="2601270250" pp="16" fb="ICE 920" ppth="Gelsenkirchen Hbf|Dortmund Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+</timetable>
