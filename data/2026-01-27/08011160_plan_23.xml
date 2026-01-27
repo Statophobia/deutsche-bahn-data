@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="2952296863083283051-2601271921-10">
+		<tl f="F" t="p" o="80" c="ICE" n="645"/>
+		<ar pt="2601272317" pp="12" fb="ICE 645" ppth="Essen Hbf|Bochum Hbf|Dortmund Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601272321" pp="12" fb="ICE 645" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="8617305306705083970-2601271345-24">
+		<tl f="F" t="p" o="85" c="ICE" n="276"/>
+		<ar pt="2601272334" pp="12" fb="ICE 276" ppth="Brig|Visp|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601272338" pp="12" fb="ICE 276" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-6238175347891583359-2601272337-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2601272347" pp="13" fb="ICE 1540" hi="1" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2601272352" pp="13" fb="ICE 1540" ppth="Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="1140779865956290650-2601271445-12">
+		<tl f="F" t="p" o="80" c="ICE" n="594"/>
+		<ar pt="2601272308" pp="11" fb="ICE 594" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf"/>
+		<dp pt="2601272311" pp="11" fb="ICE 594" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-7086205197014788988-2601272304-4">
+		<tl f="N" t="p" o="800165" c="RE" n="3743"/>
+		<ar pt="2601272313" pp="13" l="RE7" fb="RE7" ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2601272315" pp="13" l="RE7" fb="RE7" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig|Wiesenburg(Mark)|Medewitz(Mark)"/>
+	</s>
+	<s id="9016403526930832374-2601271844-8">
+		<tl f="F" t="p" o="80" c="ICE" n="655"/>
+		<ar pt="2601272303" pp="12" fb="ICE 655" ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Bielefeld Hbf|Hannover Hbf|Berlin-Spandau|Berlin Zoologischer Garten"/>
+		<dp pt="2601272306" pp="12" fb="ICE 655" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="2189750772710052864-2601272228-16">
+		<tl f="N" t="p" o="800165" c="RE" n="3740"/>
+		<ar pt="2601272344" pp="12" l="RE7" fb="RE7" ppth="Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601272346" pp="12" l="RE7" fb="RE7" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-3358955665222819472-2601272239-14">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73749"/>
+		<ar pt="2601272357" pp="11" l="RE1" fb="RE1" ppth="Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2601272359" pp="11" l="RE1" fb="RE1" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)"/>
+	</s>
+	<s id="8281172890829755543-2601272215-8">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73824"/>
+		<ar pt="2601272307" pp="14" l="RE1" fb="RE1" ppth="Fürstenwalde(Spree)|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2601272309" pp="14" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="7630315185751079111-2601272315-2">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2601272324" pp="14" fb="ICE 273" hi="1" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2601272328" pp="14" fb="ICE 273" ppth="Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Hannover Messe/Laatzen|Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>
