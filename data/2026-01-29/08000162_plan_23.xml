@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Herford">
+	<s id="-3378075480279763314-2601292218-5">
+		<tl t="p" o="R2" c="Bus" n="7256"/>
+		<ar pt="2601292306" pp="" l="RB72" fb="Bus RB72" ppth="Lage(Lippe)|Bad Salzuflen-Sylbach|Schötmar|Bad Salzuflen"/>
+	</s>
+	<s id="-8472182561269213337-2601292228-5">
+		<tl f="F" t="p" o="80" c="IC" n="2349"/>
+		<ar pt="2601292327" pp="4" fb="IC 2349" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf"/>
+		<dp pt="2601292328" pp="4" fb="IC 2349" ppth="Bad Oeynhausen|Minden(Westf)|Hannover Hbf"/>
+	</s>
+	<s id="-7013037139523072032-2601292324-2">
+		<tl t="p" o="R2" c="Bus" n="7805"/>
+		<ar pt="2601292354" pp="" l="RE78" fb="Bus RE78" ppth="Bielefeld Hbf"/>
+		<dp pt="2601292354" pp="" l="RE78" fb="Bus RE78" ppth="Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="8603629168954908346-2601292234-3">
+		<tl t="p" o="R2" c="Bus" n="6126"/>
+		<ar pt="2601292304" pp="" l="RB61" fb="Bus RB61" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2601292304" pp="" l="RB61" fb="Bus RB61" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)"/>
+	</s>
+	<s id="5643191915384566432-2601292323-2">
+		<tl t="p" o="NX" c="Bus" n="6303"/>
+		<ar pt="2601292341" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)"/>
+		<dp pt="2601292341" pp="" l="RE6" fb="Bus RE6" ppth="Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf|Kamen|Dortmund Hbf"/>
+	</s>
+	<s id="783198136541852877-2601292321-4">
+		<tl t="p" o="R2" c="Bus" n="6131"/>
+		<ar pt="2601292353" pp="" l="RB61" fb="Bus RB61" ppth="Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
+		<dp pt="2601292353" pp="" l="RB61" fb="Bus RB61" ppth="Brake(b Bielefeld)|Bielefeld Hbf"/>
+	</s>
+	<s id="3961996393056911961-2601292330-2">
+		<tl t="p" o="W3" c="Bus" n="70838"/>
+		<ar pt="2601292350" pp="" l="EV" fb="Bus EV" ppth="Löhne(Westf)"/>
+		<dp pt="2601292350" pp="" l="EV" fb="Bus EV" ppth="Bielefeld Hbf"/>
+	</s>
+</timetable>

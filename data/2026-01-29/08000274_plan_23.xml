@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<timetable station="Neuss Hbf">
+	<s id="3779272868791416634-2601292334-4">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56636"/>
+		<ar pt="2601292351" pp="6" l="RB39" fb="RB39" ppth="Grevenbroich|Kapellen-Wevelinghoven|Holzheim(b Neuss)"/>
+		<dp pt="2601292353" pp="6" l="RB39" fb="RB39" ppth="Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="-8532013164058672850-2601292327-3">
+		<tl t="p" o="NX" c="Bus" n="4605"/>
+		<ar pt="2601292356" pp="" l="RE4" fb="Bus RE4" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2601292356" pp="" l="RE4" fb="Bus RE4" ppth="Mönchengladbach Hbf"/>
+	</s>
+	<s id="-8932483459437749441-2601292315-5">
+		<tl t="p" o="M2" c="Bus" n="4983"/>
+		<ar pt="2601292337" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+	<s id="6009246506473847368-2601292319-1">
+		<tl t="p" o="B2" c="Bus" n="8005"/>
+		<dp pt="2601292319" pp="" l="S8" fb="Bus S8" ppth="Neuss Am Kaiser|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf"/>
+	</s>
+	<s id="-4170144647087673867-2601292153-24">
+		<tl f="S" t="p" o="8003S" c="S" n="33149"/>
+		<ar pt="2601292302" pp="2" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz|Köln Hbf|Köln Hansaring|Köln-Nippes|Köln Geldernstr./Parkgürtel|Köln-Longerich|Köln Volkhovener Weg|Köln-Chorweiler|Köln-Chorweiler Nord|Köln-Blumenberg|Köln-Worringen|Dormagen Chempark|Dormagen|Nievenheim|Neuss Allerheiligen|Norf|Neuss Süd"/>
+	</s>
+	<s id="-6150764872741083156-2601292326-1">
+		<tl f="S" t="p" o="8003S" c="S" n="33156"/>
+		<dp pt="2601292326" pp="2" l="S11" fb="S11" ppth="Neuss Süd|Norf|Neuss Allerheiligen|Nievenheim|Dormagen|Dormagen Chempark|Köln-Worringen|Köln-Blumenberg|Köln-Chorweiler Nord|Köln-Chorweiler|Köln Volkhovener Weg|Köln-Longerich|Köln Geldernstr./Parkgürtel|Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Holweide|Köln-Dellbrück|Duckterath|Bergisch Gladbach"/>
+	</s>
+	<s id="-4356889765861201900-2601292321-1">
+		<tl t="p" o="M2" c="Bus" n="4982"/>
+		<dp pt="2601292321" pp="" l="S28" fb="Bus S28" ppth="Kaarst IKEA|Kaarst Mitte/Holzbüttgen|Kaarster Bahnhof|Kaarster See"/>
+	</s>
+	<s id="8209307808073733674-2601292349-1">
+		<tl f="S" t="p" o="800354" c="S" n="92856"/>
+		<dp pt="2601292349" pp="7" l="S8" fb="S8" ppth="Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-5232551162888827209-2601292244-7">
+		<tl t="p" o="B2" c="Bus" n="8002"/>
+		<ar pt="2601292326" pp="" l="S8" fb="Bus S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Am Kaiser"/>
+	</s>
+	<s id="6477935428052892888-2601292356-1">
+		<tl f="S" t="p" o="8003S" c="S" n="33158"/>
+		<dp pt="2601292356" pp="3" l="S11" fb="S11" ppth="Neuss Süd|Norf|Neuss Allerheiligen|Nievenheim|Dormagen|Dormagen Chempark|Köln-Worringen|Köln-Blumenberg|Köln-Chorweiler Nord|Köln-Chorweiler|Köln Volkhovener Weg|Köln-Longerich|Köln Geldernstr./Parkgürtel|Köln-Nippes|Köln Hansaring|Köln Hbf|Köln Messe/Deutz|Köln-Buchforst|Köln-Mülheim|Köln-Holweide|Köln-Dellbrück|Duckterath|Bergisch Gladbach"/>
+	</s>
+	<s id="2341858372682719014-2601292336-1">
+		<tl t="p" o="NXRE" c="NX" n="26438"/>
+		<dp pt="2601292336" pp="5" l="RE4" fb="RE4" ppth="Mönchengladbach Hbf|Rheydt Hbf"/>
+	</s>
+	<s id="5981982512215217277-2601292335-4">
+		<tl t="p" o="NXRE" c="NX" n="17440"/>
+		<ar pt="2601292351" pp="4" l="RE7" fb="RE7" ppth="Krefeld Hbf|Krefeld-Oppum|Meerbusch-Osterath"/>
+		<dp pt="2601292352" pp="4" l="RE7" fb="RE7" ppth="Dormagen|Köln Hbf|Köln Messe/Deutz"/>
+	</s>
+	<s id="4811162762134259239-2601292223-24">
+		<tl f="S" t="p" o="8003S" c="S" n="33151"/>
+		<ar pt="2601292332" pp="3" l="S11" fb="S11" ppth="Bergisch Gladbach|Duckterath|Köln-Dellbrück|Köln-Holweide|Köln-Mülheim|Köln-Buchforst|Köln Messe/Deutz|Köln Hbf|Köln Hansaring|Köln-Nippes|Köln Geldernstr./Parkgürtel|Köln-Longerich|Köln Volkhovener Weg|Köln-Chorweiler|Köln-Chorweiler Nord|Köln-Blumenberg|Köln-Worringen|Dormagen Chempark|Dormagen|Nievenheim|Neuss Allerheiligen|Norf|Neuss Süd"/>
+	</s>
+	<s id="8583750373592154860-2601292351-1">
+		<tl t="p" o="M2" c="Bus" n="4192"/>
+		<dp pt="2601292351" pp="" l="S28" fb="Bus S28" ppth="Kaarst IKEA|Kaarst Mitte/Holzbüttgen|Kaarster Bahnhof|Kaarster See"/>
+	</s>
+	<s id="-4017370318955762212-2601292314-7">
+		<tl t="p" o="B2" c="Bus" n="8004"/>
+		<ar pt="2601292356" pp="" l="S8" fb="Bus S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Am Kaiser"/>
+	</s>
+	<s id="4304161649403805065-2601292254-3">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56637"/>
+		<ar pt="2601292305" pp="3" l="RB39" fb="RB39" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2601292306" pp="3" l="RB39" fb="RB39" ppth="Holzheim(b Neuss)|Kapellen-Wevelinghoven|Grevenbroich"/>
+	</s>
+	<s id="2159777820977552674-2601292245-5">
+		<tl t="p" o="M2" c="Bus" n="4183"/>
+		<ar pt="2601292307" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+	<s id="5726637459789144414-2601292254-6">
+		<tl f="S" t="p" o="800354" c="S" n="92855"/>
+		<ar pt="2601292311" pp="6" l="S8" fb="S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen"/>
+	</s>
+	<s id="1615470678967437392-2601292233-3">
+		<tl t="p" o="NX" c="Bus" n="4603"/>
+		<ar pt="2601292302" pp="" l="RE4" fb="Bus RE4" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+	</s>
+	<s id="7080391667760596770-2601292023-20">
+		<tl t="p" o="NXRE" c="NX" n="17435"/>
+		<ar pt="2601292311" pp="1" l="RE7" fb="RE7" ppth="Greven|Münster(Westf)Hbf|Münster-Hiltrup|Drensteinfurt|Hamm(Westf)Hbf|Bönen|Unna|Holzwickede|Schwerte(Ruhr)|Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal Hbf|Solingen Hbf|Opladen|Köln Messe/Deutz|Köln Hbf|Dormagen"/>
+		<dp pt="2601292312" pp="1" l="RE7" fb="RE7" ppth="Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf"/>
+	</s>
+	<s id="-8612182548336491332-2601292319-1">
+		<tl f="S" t="p" o="800354" c="S" n="92854"/>
+		<dp pt="2601292319" pp="7" l="S8" fb="S8" ppth="Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+</timetable>
