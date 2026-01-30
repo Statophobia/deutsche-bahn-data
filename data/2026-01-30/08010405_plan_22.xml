@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Wannsee">
+	<s id="6671021895463998450-2601302105-16">
+		<tl f="N" t="p" o="800165" c="RE" n="3738"/>
+		<ar pt="2601302225" pp="6" l="RE7" fb="RE7" ppth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg"/>
+	</s>
+	<s id="-5288888049774324788-2601302144-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73787"/>
+		<ar pt="2601302216" pp="6" l="RE1" fb="RE1" tra="-4995765957316992165-2601302219-1" ppth="Brandenburg Hbf|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+	</s>
+	<s id="-8187473657250858533-2601301918-5">
+		<tl t="p" o="NYUEX" c="UEX" n="1305"/>
+		<ar pt="2601302259" pp="5" fb="UEX 1305" hi="1" ppth="Hamburg-Altona|Hamburg Hbf|Stendal Hbf|Berlin-Spandau"/>
+		<dp pt="2601302259" pp="5" fb="UEX 1305" ppth="Halle(Saale)Hbf|Augsburg Hbf|München-Pasing|München Süd|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf|Ötztal|Imst-Pitztal|Landeck-Zams|St. Anton am Arlberg"/>
+	</s>
+	<s id="7035209816659338176-2601302054-19">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73747"/>
+		<ar pt="2601302238" pp="5" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+		<dp pt="2601302239" pp="5" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg"/>
+	</s>
+	<s id="-3416616841384150002-2601302236-1">
+		<tl f="N" t="p" o="800165" c="RE" n="99041"/>
+		<dp pt="2601302236" pp="6" l="RE7" fb="RE7" ppth="Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+	<s id="-4995765957316992165-2601302219-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="93787"/>
+		<dp pt="2601302219" pp="6" l="RE1" fb="RE1" tra="-5288888049774324788-2601302144-6" ppth="Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-7251885751540887781-2601302206-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73790"/>
+		<ar pt="2601302214" pp="5" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2601302216" pp="5" l="RE1" fb="RE1" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+</timetable>
