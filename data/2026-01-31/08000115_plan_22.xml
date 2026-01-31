@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Fulda">
+	<s id="-4048236207803693531-2601312111-17">
+		<tl f="D" t="p" o="N4" c="CAN" n="24247"/>
+		<ar pt="2601312237" pp="4" l="RB5" fb="RB5" ppth="Kassel Hbf|Kassel-Wilhelmshöhe|Guxhagen|Melsungen|Malsfeld|Malsfeld-Beiseförth|Altmorschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen|Bebra|Ludwigsau-Friedlos|Bad Hersfeld|Haunetal-Neukirchen|Burghaun(Hünfeld)|Hünfeld"/>
+	</s>
+	<s id="6228365463182028347-2601311917-8">
+		<tl f="F" t="p" o="80" c="ICE" n="697"/>
+		<ar pt="2601312247" pp="3" fb="ICE 697" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach Hbf"/>
+		<dp pt="2601312249" pp="3" fb="ICE 697" ppth="Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-4423381423476802903-2601312221-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24246"/>
+		<dp pt="2601312221" pp="8" l="RB5" fb="RB5" ppth="Hünfeld|Burghaun(Hünfeld)|Haunetal-Neukirchen|Bad Hersfeld|Ludwigsau-Friedlos|Bebra|Lispenhausen|Rotenburg a.d. Fulda|Heinebach|Altmorschen|Malsfeld-Beiseförth|Malsfeld|Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren|Kassel-Wilhelmshöhe|Kassel Hbf"/>
+	</s>
+	<s id="3628914589520382436-2601312212-1">
+		<tl f="N" t="p" o="8005KG" c="RE" n="15561"/>
+		<dp pt="2601312212" pp="1" l="RE50" fb="RE50" ppth="Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach"/>
+	</s>
+	<s id="1903558985796802192-2601312207-7">
+		<tl f="N" t="p" o="8005KG" c="RE" n="15568"/>
+		<ar pt="2601312248" pp="1" l="RE50" fb="RE50" ppth="Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)"/>
+	</s>
+	<s id="-426563178143330492-2601312209-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="29340"/>
+		<dp pt="2601312209" pp="38" l="RB45" fb="RB45" ppth="Oberbimbach|Großenlüder|Bad Salzschlirf|Angersbach|Lauterbach(Hess)Nord|Alsfeld(Oberhess)"/>
+	</s>
+	<s id="728614492332009381-2601312119-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1659"/>
+		<ar pt="2601312254" pp="7" fb="ICE 1659" ppth="Frankfurt(Main)Hbf"/>
+		<dp pt="2601312256" pp="7" fb="ICE 1659" ppth="Bad Hersfeld|Eisenach Hbf|Gotha|Erfurt Hbf|Leipzig Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<timetable station="Kaiserslautern Hbf">
+	<s id="8280296046192255306-2601312239-6">
+		<tl f="N" t="p" o="800640" c="RE" n="4149"/>
+		<ar pt="2601312327" pp="3" l="RE1" fb="RE1" ppth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Neustadt(Weinstr)Hbf|Lambrecht(Pfalz)|Hochspeyer"/>
+		<dp pt="2601312329" pp="3" l="RE1" fb="RE1" ppth="Einsiedlerhof|Kindsbach|Landstuhl|Hauptstuhl|Bruchmühlbach-Miesau|Homburg(Saar)Hbf|St Ingbert|Saarbrücken Hbf"/>
+	</s>
+	<s id="-6806130438857863025-2601312327-1">
+		<tl f="S" t="p" o="801539" c="S" n="38889"/>
+		<dp pt="2601312327" pp="4" l="S44" fb="S44" ppth="Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf"/>
+	</s>
+	<s id="-8595860005808443663-2601312301-1">
+		<tl f="S" t="p" o="801539" c="S" n="38267"/>
+		<dp pt="2601312301" pp="2" l="S3" fb="S3" pde="Karlsruhe Hbf" ppth="Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf"/>
+	</s>
+	<s id="5871650019292533464-2601312320-1">
+		<tl f="N" t="p" o="800520" c="RB" n="18655"/>
+		<dp pt="2601312320" pp="5" l="RB64" fb="RB64" ppth="Kaiserslautern Galgenschanze|Kaiserslautern-Hohenecken|Schopp|Steinalben|Waldfischbach|Pirmasens Nord|Pirmasens Hbf"/>
+	</s>
+	<s id="8547477928156144105-2601312310-1">
+		<tl f="N" t="p" o="8015A1" c="RB" n="18648"/>
+		<dp pt="2601312310" pp="8" l="RB70" fb="RB70" ppth="Homburg(Saar)Hbf|St Ingbert"/>
+	</s>
+	<s id="5517143096621342795-2601312332-1">
+		<tl f="N" t="p" o="8005L2" c="RB" n="12759"/>
+		<dp pt="2601312332" pp="1" l="RB65" fb="RB65" ppth="Enkenbach|Münchweiler(Alsenz)|Winnweiler|Imsweiler|Rockenhausen|Alsenz|Hochstätten(Pfalz)|Altenbamberg|Bad Münster a Stein|Bad Kreuznach"/>
+	</s>
+	<s id="-1122561778278931087-2601312315-1">
+		<tl f="N" t="p" o="8015A1" c="RB" n="18650"/>
+		<dp pt="2601312315" pp="5" l="RB70" fb="RB70" ppth="Kennelgarten|Vogelweh|Einsiedlerhof|Kindsbach|Landstuhl|Hauptstuhl|Bruchmühlbach-Miesau|Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|St Ingbert|Scheidt(Saar)|Saarbrücken Ost|Saarbrücken Hbf"/>
+	</s>
+	<s id="-3132662194425759387-2601312300-1">
+		<tl f="N" t="p" o="800520" c="RB" n="12835"/>
+		<dp pt="2601312300" pp="5" l="RB64" fb="RB64" ppth="Kaiserslautern Galgenschanze|Kaiserslautern-Hohenecken|Schopp|Steinalben|Waldfischbach|Pirmasens Nord|Pirmasens Hbf"/>
+	</s>
+	<s id="4860641318484041254-2601312340-1">
+		<tl f="N" t="p" o="800520" c="RB" n="18657"/>
+		<dp pt="2601312340" pp="5" l="RB67" fb="RB67" ppth="Landstuhl"/>
+	</s>
+	<s id="-3262088647455626854-2601312315-1">
+		<tl f="N" t="p" o="800520" c="RB" n="18654"/>
+		<dp pt="2601312315" pp="40" l="RB66" fb="RB66" ppth="Kaiserslautern Pfaffwerk|Kaiserslautern West|Lampertsmühle-Otterbach|Katzweiler|Hirschhorn(Pfalz)|Sulzbachtal|Olsbrücken|Kreimbach-Kaulbach|Roßbach(Pfalz)|Wolfstein|Reckweilerhof|Heinzenhausen|Lohnweiler|Lauterecken-Grumbach"/>
+	</s>
+	<s id="-1465552321714012705-2601312320-1">
+		<tl f="N" t="p" o="800520" c="RB" n="18652"/>
+		<dp pt="2601312320" pp="2" l="RB67" fb="RB67" ppth="Kennelgarten|Vogelweh|Einsiedlerhof|Kindsbach|Landstuhl|Ramstein|Steinwenden|Obermohr|Niedermohr|Glan-Münchweiler|Rehweiler|Matzenbach|Theisbergstegen|Altenglan|Rammelsbach|Kusel"/>
+	</s>
+	<s id="-5528571416681856482-2601312310-1">
+		<tl f="N" t="p" o="8005L2" c="RB" n="18653"/>
+		<dp pt="2601312310" pp="1" l="RB65" fb="RB65" ppth="Enkenbach|Münchweiler(Alsenz)|Winnweiler|Imsweiler|Rockenhausen|Alsenz|Hochstätten(Pfalz)|Altenbamberg|Bad Münster a Stein|Bad Kreuznach|Bretzenheim(Nahe)|Langenlonsheim|Laubenheim(Nahe)|Münster-Sarmsheim|Bingen(Rhein) Hbf"/>
+	</s>
+	<s id="7887917735695822981-2601312121-11">
+		<tl f="S" t="p" o="801539" c="S" n="38258"/>
+		<ar pt="2601312358" pp="2" l="S2" fb="S2" pde="Karlsruhe Hbf" ppth="Schifferstadt|Böhl-Iggelheim|Haßloch(Pfalz)|Neustadt-Böbig|Neustadt(Weinstr)Hbf|Lambrecht(Pfalz)|Neidenfels|Weidenthal|Frankenstein(Pfalz)|Hochspeyer"/>
+	</s>
+	<s id="6563084577676520445-2601312315-1">
+		<tl f="S" t="p" o="801539" c="S" n="38887"/>
+		<dp pt="2601312315" pp="4" l="S44" fb="S44" ppth="Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf"/>
+	</s>
+</timetable>
