@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="8218544619443085427-2601301654-14">
+		<tl f="F" t="p" o="80" c="ICE" n="502"/>
+		<ar pt="2601310100" pp="14" fb="ICE 502" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Hannover Hbf"/>
+		<dp pt="2601310104" pp="14" fb="ICE 502" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-8941932149309778658-2601301923-7">
+		<tl f="F" t="p" o="80" c="ICE" n="572"/>
+		<ar pt="2601310133" pp="11" fb="ICE 572" ppth="Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+	</s>
+	<s id="9095766634084152066-2601310015-15">
+		<tl f="D" t="p" o="R1" c="ME" n="81944"/>
+		<ar pt="2601310144" pp="12A-B" l="RB41" fb="RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-2529627520637122615-2601310133-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81601"/>
+		<dp pt="2601310133" pp="8" l="RB31" fb="RB31" ppth="Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="6955285929637652486-2601310156-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81901"/>
+		<dp pt="2601310156" pp="11A-C" l="RB41" fb="RB41" ppth="Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt"/>
+	</s>
+	<s id="4760651137475633059-2601302358-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81644"/>
+		<ar pt="2601310109" pp="11A-C" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-730051901955407455-2601302238-8">
+		<tl f="F" t="p" o="80" c="ICE" n="900"/>
+		<ar pt="2601310149" pp="13" fb="ICE 900" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Hannover Hbf|Uelzen|Lüneburg|Hamburg-Harburg"/>
+		<dp pt="2601310152" pp="13" fb="ICE 900" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+</timetable>

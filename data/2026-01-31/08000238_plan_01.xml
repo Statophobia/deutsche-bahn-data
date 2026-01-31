@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-6343647441292652630-2601310033-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81647"/>
+		<ar pt="2601310124" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+		<dp pt="2601310125" pp="1" l="RB31" fb="RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="-8493433741928369285-2601310101-4">
+		<tl f="D" t="p" o="R1" c="ME" n="81658"/>
+		<ar pt="2601310124" pp="6" l="RB31" fb="RB31" pde="Hannover Hbf" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2601310134" pp="6" l="RB31" fb="RB31" ppth="Radbruch|Winsen(Luhe)|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-730051901955407455-2601302238-6">
+		<tl f="F" t="p" o="80" c="ICE" n="900"/>
+		<ar pt="2601310119" pp="6" fb="ICE 900" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Hannover Hbf|Uelzen"/>
+		<dp pt="2601310121" pp="6" fb="ICE 900" hi="1" ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+</timetable>

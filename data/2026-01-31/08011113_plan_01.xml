@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="7405559427692908296-2601310052-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21967"/>
+		<ar pt="2601310059" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2601310101" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-5083558051405008269-2601302028-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1500"/>
+		<ar pt="2601310118" pp="7" fb="ICE 1500" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Leipzig Hbf|Bitterfeld"/>
+		<dp pt="2601310123" pp="7" fb="ICE 1500" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="8610979477949163491-2601310153-1">
+		<tl f="N" t="p" o="800158" c="RE" n="91762"/>
+		<dp pt="2601310153" pp="6" l="RE3" fb="RE3" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>

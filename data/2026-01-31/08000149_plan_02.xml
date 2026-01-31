@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Hamm(Westf)Hbf">
+	<s id="-99649518547509699-2601310207-1">
+		<tl t="p" o="R2" c="Bus" n="6915"/>
+		<dp pt="2601310207" pp="" l="RB69" fb="Bus RB69" ppth="Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Isselhorst-Avenwedde|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="-3630700166177917958-2601302323-10">
+		<tl t="p" o="NX" c="Bus" n="6305"/>
+		<ar pt="2601310219" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)|Herford|Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+	</s>
+	<s id="5832261083262569469-2601310218-1">
+		<tl t="p" o="NXRE" c="NX" n="22068"/>
+		<dp pt="2601310218" pp="8" l="RE1" fb="RE1" ppth="Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Oberhausen Hbf"/>
+	</s>
+	<s id="-4843053219834541521-2601310133-7">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90047"/>
+		<ar pt="2601310200" pp="4" l="RB89" fb="RB89" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Rinkerode|Drensteinfurt|Mersch(Westf)|Hamm-Bockum-Hövel"/>
+		<dp pt="2601310204" pp="4" l="RB89" fb="RB89" ppth="Hamm-Westtünnen|Welver|Borgeln|Soest|Bad Sassendorf|Lippstadt"/>
+	</s>
+	<s id="-862052386742764166-2601310137-12">
+		<tl t="p" o="NXRE" c="NX" n="22063"/>
+		<ar pt="2601310241" pp="8" l="RE1" fb="RE1" ppth="Oberhausen Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge"/>
+	</s>
+	<s id="768031236959987180-2601310007-10">
+		<tl t="p" o="R2" c="Bus" n="6910"/>
+		<ar pt="2601310236" pp="" l="RB69" fb="Bus RB69" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Isselhorst-Avenwedde|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen"/>
+	</s>
+</timetable>

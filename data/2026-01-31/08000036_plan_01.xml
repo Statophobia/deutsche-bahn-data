@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Bielefeld Hbf">
+	<s id="-1009831818713255920-2601310023-13">
+		<tl f="D" t="p" o="N1" c="NWB" n="75088"/>
+		<ar pt="2601310117" pp="8" l="RB74" fb="RB74" ppth="Paderborn Hbf|Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede"/>
+	</s>
+	<s id="-8229529264883464127-2601310010-7">
+		<tl t="p" o="R2" c="Bus" n="7808"/>
+		<ar pt="2601310154" pp="" l="RE78" fb="Bus RE78" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Brake(b Bielefeld)"/>
+	</s>
+	<s id="-5352020649229838134-2601310021-6">
+		<tl t="p" o="R2" c="Bus" n="6133"/>
+		<ar pt="2601310123" pp="" l="RB61" fb="Bus RB61" ppth="Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln|Herford|Brake(b Bielefeld)"/>
+	</s>
+	<s id="2500599301806943775-2601302314-8">
+		<tl t="p" o="NX" c="Bus" n="6308"/>
+		<ar pt="2601310126" pp="" l="RE6" fb="Bus RE6" ppth="Hamm(Westf)Hbf|Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf"/>
+		<dp pt="2601310126" pp="" l="RE6" fb="Bus RE6" ppth="Herford|Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="6509448246643938393-2601310051-2">
+		<tl t="p" o="R2" c="Bus" n="7306"/>
+		<ar pt="2601310105" pp="" l="RB73" fb="Bus RB73" ppth="Bielefeld Ost"/>
+	</s>
+	<s id="4451931938928134601-2601310107-1">
+		<tl t="p" o="R2" c="Bus" n="6912"/>
+		<dp pt="2601310107" pp="" l="RB69" fb="Bus RB69" ppth="Bielefeld-Brackwede|Isselhorst-Avenwedde|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="5987880351959364904-2601302327-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1541"/>
+		<ar pt="2601310134" pp="2" fb="ICE 1541" ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf"/>
+		<dp pt="2601310136" pp="2" fb="ICE 1541" ppth="Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+</timetable>
