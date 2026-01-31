@@ -1,0 +1,2985 @@
+<?xml version="1.0" ?><timetable station="Bremen Hbf" eva="8000050">
+
+<s id="937531600424895578-2601310549-11" eva="8000050">
+    <m id="r2565610" t="h" from="2601310630" to="2601311000" cat="Störung" ts="2601310719" ts-tts="26-01-31 07:19:27.568" pr="1"/>
+    <m id="r2508589" t="h" from="2512141100" to="2612122359" cat="Information" ts="2512242302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601311120">
+        <m id="r44755351" t="d" c="38" ts="2601310705" ts-tts="26-01-31 07:05:15.677"/>
+        <m id="r44755353" t="d" c="38" ts="2601310705" ts-tts="26-01-31 07:05:15.677"/>
+    </ar>
+    <dp ct="2601311123">
+        <m id="r44755351" t="d" c="38" ts="2601310705" ts-tts="26-01-31 07:05:15.677"/>
+        <m id="r44755353" t="d" c="38" ts="2601310705" ts-tts="26-01-31 07:05:15.677"/>
+    </dp>
+</s>
+
+
+<s id="3000579961468184016-2601310732-8" eva="8000050">
+    <ar cp="5" ct="2601310803" l="RS1"/>
+    <dp cp="5" ct="2601310805" l="RS1"/>
+</s>
+
+
+<s id="4351184699707306192-2601310723-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310806" l="RE8">
+        <m id="r44749448" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:35:11.370"/>
+        <m id="r44749450" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:35:11.370"/>
+        <m id="r44758042" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:51.241"/>
+        <m id="r44758044" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:51.241"/>
+    </ar>
+    <dp ct="2601310817" l="RE8">
+        <m id="r44749448" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:35:11.370"/>
+        <m id="r44749450" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:35:11.370"/>
+        <m id="r44758042" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:51.241"/>
+        <m id="r44758044" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:51.241"/>
+    </dp>
+</s>
+
+
+<s id="-8006605815468256544-2601310711-15" eva="8000050">
+    <ar ct="2601310756" l="RS1"/>
+    <dp ct="2601310758" l="RS1"/>
+</s>
+
+
+<s id="6377312335026775072-2601310720-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310847" l="RE1">
+        <m id="r44758013" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:35.421"/>
+        <m id="r44758015" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:35.421"/>
+    </ar>
+    <dp ct="2601310853" l="RE1">
+        <m id="r44758013" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:35.421"/>
+        <m id="r44758015" t="d" c="43" ts="2601310738" ts-tts="26-01-31 07:38:35.421"/>
+    </dp>
+</s>
+
+
+<s id="1003446772902483359-2601302059-14" eva="8000050">
+    <ar ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf" cp="10" pp="9" ct="2601310843" pt="2601310642" wings="-5591597380485360579-2601302059" fb="NJ 470">
+        <m id="r44732698" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732701" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732705" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44735897" t="f" c="0" ts="2601302231" ts-tts="26-01-30 22:31:12.479"/>
+        <m id="r44743635" t="f" c="0" ts="2601310045" ts-tts="26-01-31 00:45:43.360"/>
+        <m id="r44744449" t="f" c="0" ts="2601310102" ts-tts="26-01-31 01:03:05.402"/>
+    </ar>
+    <dp ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cp="10" pp="9" ct="2601310847" pt="2601310646" wings="-5591597380485360579-2601302059" fb="NJ 470">
+        <m id="r44732698" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732701" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732705" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44735897" t="f" c="0" ts="2601302231" ts-tts="26-01-30 22:31:12.479"/>
+        <m id="r44743635" t="f" c="0" ts="2601310045" ts-tts="26-01-31 00:45:43.360"/>
+        <m id="r44744449" t="f" c="0" ts="2601310102" ts-tts="26-01-31 01:03:05.402"/>
+    </dp>
+    <tl t="p" o="85" c="NJ" n="470"/>
+</s>
+
+
+<s id="-5591597380485360579-2601302059-14" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-29 23:16:05.167" pr="2"/>
+    <ar ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf" cp="10" pp="9" ct="2601310843" pt="2601310642" fb="IC 60470">
+        <m id="r44583204" t="f" c="0" ts="2601300723" ts-tts="26-01-30 07:23:51.659"/>
+        <m id="r44732700" t="f" c="0" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732703" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44735896" t="f" c="0" ts="2601302231" ts-tts="26-01-30 22:31:12.479"/>
+    </ar>
+    <dp ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cp="10" pp="9" ct="2601310847" pt="2601310646" fb="IC 60470">
+        <m id="r44583204" t="f" c="0" ts="2601300723" ts-tts="26-01-30 07:23:51.659"/>
+        <m id="r44732700" t="f" c="0" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44732703" t="d" c="24" ts="2601302145" ts-tts="26-01-30 21:45:38.831"/>
+        <m id="r44735896" t="f" c="0" ts="2601302231" ts-tts="26-01-30 22:31:12.479"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+</s>
+
+
+<s id="6237728704004002861-2601310536-13" eva="8000050">
+    <m id="r2565591" t="h" from="2601310530" to="2601311000" cat="Störung" ts="2601310618" ts-tts="26-01-31 06:18:14.560" pr="1"/>
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar cpth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn|Oldenburg(Oldb)Hbf|Hude|Delmenhorst" ct="2601310806">
+        <m id="r44754659" t="d" c="38" ts="2601310654" ts-tts="26-01-31 06:54:33.070"/>
+        <m id="r44754661" t="d" c="38" ts="2601310654" ts-tts="26-01-31 06:54:33.070"/>
+    </ar>
+    <dp cpth="Verden(Aller)|Nienburg(Weser)|Hannover Hbf" ct="2601310810">
+        <m id="r44754659" t="d" c="38" ts="2601310654" ts-tts="26-01-31 06:54:33.070"/>
+        <m id="r44754661" t="d" c="38" ts="2601310654" ts-tts="26-01-31 06:54:33.070"/>
+    </dp>
+</s>
+
+
+<s id="3026783247237424636-2601310536-13" eva="8000050">
+    <ar ct="2601310806" l="IC56"/>
+</s>
+
+
+<s id="-6549065777404175041-2601310618-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310739" l="RE8"/>
+    <dp ct="2601310756" l="RE8"/>
+</s>
+
+
+<s id="-3500545049874534285-2601310626-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+    <ar cp="10" ct="2601310740"/>
+    <dp cp="10" ct="2601310744"/>
+</s>
+
+
+<s id="9019086110774831856-2601310644-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310759" l="RS4"/>
+</s>
+
+
+<s id="6910711159053643835-2601311136-15" eva="8000050">
+    <ar ct="2601311306" l="RB41"/>
+</s>
+
+
+<s id="2599462261997860942-2601310546-10" eva="8000050">
+    <m id="r2565591" t="h" from="2601310530" to="2601311000" cat="Störung" ts="2601310618" ts-tts="26-01-31 06:18:14.560" pr="1"/>
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar ct="2601310950">
+        <m id="r44757813" t="f" c="0" ts="2601310736" ts-tts="26-01-31 07:36:13.828"/>
+        <m id="r44757814" t="d" c="43" ts="2601310736" ts-tts="26-01-31 07:36:13.828"/>
+    </ar>
+    <dp ct="2601310953">
+        <m id="r44757813" t="f" c="0" ts="2601310736" ts-tts="26-01-31 07:36:13.828"/>
+        <m id="r44757814" t="d" c="43" ts="2601310736" ts-tts="26-01-31 07:36:13.828"/>
+    </dp>
+</s>
+
+
+<s id="4236350436963089793-2601310724-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601310939" l="RB58"/>
+</s>
+
+
+<s id="-4826706911080869037-2601310524-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601310737" l="RB58">
+        <m id="r44757008" t="d" c="43" ts="2601310723" ts-tts="26-01-31 07:23:39.087"/>
+        <m id="r44757009" t="d" c="43" ts="2601310723" ts-tts="26-01-31 07:23:39.087"/>
+    </ar>
+</s>
+
+
+<s id="3195936054901536031-2601310734-1" eva="8000050">
+    <dp ct="2601310735" l="RS1"/>
+</s>
+
+
+<s id="2686007473625185344-2601310001-19" eva="8000050">
+    <m id="r2508015" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102303" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601310933">
+        <m id="r44753280" t="d" c="43" ts="2601310627" ts-tts="26-01-31 06:27:22.307"/>
+        <m id="r44753282" t="d" c="43" ts="2601310627" ts-tts="26-01-31 06:27:22.307"/>
+    </ar>
+    <dp ct="2601310936">
+        <m id="r44753280" t="d" c="43" ts="2601310627" ts-tts="26-01-31 06:27:22.307"/>
+        <m id="r44753282" t="d" c="43" ts="2601310627" ts-tts="26-01-31 06:27:22.307"/>
+    </dp>
+</s>
+
+
+<s id="8858343525333039083-2601311334-1" eva="8000050">
+    <dp ct="2601311334" l="RS1"/>
+</s>
+
+
+<s id="9061432001747394011-2601311521-12" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar cpth="Hannover Hbf|Nienburg(Weser)|Verden(Aller)"/>
+    <dp cpth="Delmenhorst|Hude|Oldenburg(Oldb)Hbf|Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf|Marienhafe|Norden|Norddeich"/>
+</s>
+
+
+<s id="63634424795789903-2601311133-1" eva="8000050">
+    <dp ct="2601311133" l="RE4"/>
+</s>
+
+
+<s id="-8254126754840056294-2601310642-11" eva="8000050">
+    <ar ct="2601310730" l="RS2"/>
+    <dp ct="2601310733" l="RS2"/>
+</s>
+
+
+<s id="-2275836909676922659-2601310733-1" eva="8000050">
+    <dp cp="8" ct="2601310733" l="RE4">
+        <m id="r44756046" t="q" c="95" ts="2601310712" ts-tts="26-01-31 07:13:09.348"/>
+    </dp>
+</s>
+
+
+<s id="1973790254411455411-2601310511-8" eva="8000050">
+    <ar ppth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf" pp="10" ct="2601310821" pt="2601310814" fb="ICE 2810">
+        <m id="r44741926" t="f" c="0" ts="2601310010" ts-tts="26-01-31 00:10:23.392"/>
+        <m id="r44741959" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:10.326"/>
+        <m id="r44741973" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:25.968"/>
+        <m id="r44747399" t="f" c="0" ts="2601310213" ts-tts="26-01-31 02:13:31.774"/>
+        <m id="r44750109" t="f" c="0" ts="2601310504" ts-tts="26-01-31 05:04:16.522"/>
+        <m id="r44752006" t="d" c="43" ts="2601310606" ts-tts="26-01-31 06:06:29.847"/>
+        <m id="r44752008" t="d" c="43" ts="2601310606" ts-tts="26-01-31 06:06:29.847"/>
+        <m id="r44752314" t="f" c="0" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+        <m id="r44752315" t="f" c="0" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+    </ar>
+    <dp ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" pp="10" ct="2601310824" pt="2601310817" fb="ICE 2810">
+        <m id="r44741926" t="f" c="0" ts="2601310010" ts-tts="26-01-31 00:10:23.392"/>
+        <m id="r44741959" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:10.326"/>
+        <m id="r44741973" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:25.968"/>
+        <m id="r44747399" t="f" c="0" ts="2601310213" ts-tts="26-01-31 02:13:31.774"/>
+        <m id="r44750109" t="f" c="0" ts="2601310504" ts-tts="26-01-31 05:04:16.522"/>
+        <m id="r44752006" t="d" c="43" ts="2601310606" ts-tts="26-01-31 06:06:29.847"/>
+        <m id="r44752008" t="d" c="43" ts="2601310606" ts-tts="26-01-31 06:06:29.847"/>
+        <m id="r44752314" t="f" c="0" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+        <m id="r44752315" t="f" c="0" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2810"/>
+</s>
+
+
+<s id="1179810196779242077-2601310511-8" eva="8000050">
+    <m id="r2565380" t="h" from="2601310511" to="2601310934" cat="Information" ts="2601310215" ts-tts="26-01-31 02:15:19.241" pr="2"/>
+    <m id="r2508014" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601310821">
+        <m id="r44741972" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:25.968"/>
+        <m id="r44747398" t="f" c="0" ts="2601310213" ts-tts="26-01-31 02:13:31.774"/>
+        <m id="r44750107" t="f" c="0" ts="2601310503" ts-tts="26-01-31 05:03:45.557"/>
+        <m id="r44752316" t="d" c="43" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+        <m id="r44752320" t="d" c="43" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+    </ar>
+    <dp ct="2601310824">
+        <m id="r44741972" t="f" c="0" ts="2601310011" ts-tts="26-01-31 00:11:25.968"/>
+        <m id="r44747398" t="f" c="0" ts="2601310213" ts-tts="26-01-31 02:13:31.774"/>
+        <m id="r44750107" t="f" c="0" ts="2601310503" ts-tts="26-01-31 05:03:45.557"/>
+        <m id="r44752316" t="d" c="43" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+        <m id="r44752320" t="d" c="43" ts="2601310610" ts-tts="26-01-31 06:11:11.854"/>
+    </dp>
+</s>
+
+
+<s id="-72970454878240252-2601310731-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601310732" l="RS3"/>
+</s>
+
+
+<s id="-4377582730750961407-2601311332-8" eva="8000050">
+    <ar ct="2601311402" l="RS1"/>
+    <dp ct="2601311404" l="RS1"/>
+</s>
+
+
+<s id="6416267678471925823-2601310624-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601310838" l="RB58"/>
+</s>
+
+
+<s id="-2625649902437070746-2601310645-6" eva="8000050">
+    <ar ct="2601310732" l="RS30"/>
+</s>
+
+
+<s id="4815630258383514912-2601310626-10" eva="8000050">
+    <ar cp="6" ct="2601310750" l="RE9">
+        <m id="r44754291" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:31.988"/>
+        <m id="r44754293" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:31.988"/>
+    </ar>
+</s>
+
+
+<s id="-1211218468119279951-2601310813-1" eva="8000050">
+    <dp cp="6" l="RE9"/>
+</s>
+
+
+<s id="5555371111259384160-2601310759-16" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+    <m id="r2508010" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf" ct="2601311613">
+        <m id="r44715661" t="f" c="0" ts="2601301934" ts-tts="26-01-30 19:34:25.450"/>
+    </ar>
+    <dp cpth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" ct="2601311617">
+        <m id="r44715661" t="f" c="0" ts="2601301934" ts-tts="26-01-30 19:34:25.450"/>
+    </dp>
+</s>
+
+
+<s id="5172155216031178123-2601310649-9" eva="8000050">
+    <ar cp="6" ct="2601310732" l="RS2"/>
+    <dp cp="6" ct="2601310741" l="RS2"/>
+</s>
+
+
+<s id="3252533140265970650-2601310726-1" eva="8000050">
+    <dp ct="2601310727" l="RS30"/>
+</s>
+
+
+<s id="-6655623527873823030-2601310649-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310728" l="RS3">
+        <m id="r44754893" t="d" c="43" ts="2601310657" ts-tts="26-01-31 06:57:56.692"/>
+        <m id="r44756080" t="d" c="45" ts="2601310713" ts-tts="26-01-31 07:13:40.929"/>
+    </ar>
+</s>
+
+
+<s id="6073005251834123685-2601310615-6" eva="8000050">
+    <ar cp="9" ct="2601310727" l="RE4"/>
+</s>
+
+
+<s id="-2468169875783246556-2601310641-15" eva="8000050">
+    <ar ct="2601310725" l="RS1"/>
+</s>
+
+
+<s id="-1822966271854478829-2601310400-9" eva="8000050">
+    <ar ct="2601310719">
+        <m id="r44752600" t="d" c="43" ts="2601310615" ts-tts="26-01-31 06:15:38.318"/>
+        <m id="r44752602" t="d" c="43" ts="2601310615" ts-tts="26-01-31 06:15:38.318"/>
+    </ar>
+    <dp ct="2601310723">
+        <m id="r44752600" t="d" c="43" ts="2601310615" ts-tts="26-01-31 06:15:38.318"/>
+        <m id="r44752602" t="d" c="43" ts="2601310615" ts-tts="26-01-31 06:15:38.318"/>
+    </dp>
+</s>
+
+
+<s id="7939103560568356746-2601311320-8" eva="8000050">
+    <ar ct="2601311339" l="RS1"/>
+</s>
+
+
+<s id="6041615626494508088-2601310719-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601310719" l="RB58"/>
+</s>
+
+
+<s id="8518232099080018263-2601310426-5" eva="8000050">
+    <m id="r2565610" t="h" from="2601310630" to="2601311000" cat="Störung" ts="2601310719" ts-tts="26-01-31 07:19:27.568" pr="1"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+    <ar ct="2601310534"/>
+    <dp ct="2601310540"/>
+</s>
+
+
+<s id="-508151058757607646-2601310716-15" eva="8000050">
+    <m id="r2565610" t="h" from="2601310630" to="2601311000" cat="Störung" ts="2601310719" ts-tts="26-01-31 07:19:27.568" pr="1"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+    <m id="r2508011" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601311413"/>
+    <dp ct="2601311417"/>
+</s>
+
+
+<s id="-3316077366275075692-2601310516-15" eva="8000050">
+    <m id="r2565610" t="h" from="2601310630" to="2601311000" cat="Störung" ts="2601310719" ts-tts="26-01-31 07:19:27.568" pr="1"/>
+    <m id="r2508012" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+    <ar ct="2601311213"/>
+    <dp ct="2601311217"/>
+</s>
+
+
+<s id="67517114520381301-2601310533-15" eva="8000050">
+    <m id="r2565610" t="h" from="2601310630" to="2601311000" cat="Störung" ts="2601310719" ts-tts="26-01-31 07:19:27.568" pr="1"/>
+    <m id="r2508586" t="h" from="2512141100" to="2612122359" cat="Information" ts="2512242302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601311313"/>
+    <dp ct="2601311317"/>
+</s>
+
+
+<s id="-7781203695895183390-2601311319-1" eva="8000050">
+    <dp ct="2601311319" l="RS1"/>
+</s>
+
+
+<s id="-4298826843563252606-2601310541-8" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310706" l="RE1">
+        <m id="r44751437" t="d" c="43" ts="2601310547" ts-tts="26-01-31 05:47:16.374"/>
+    </ar>
+    <dp ct="2601310718" l="RE1">
+        <m id="r44751437" t="d" c="43" ts="2601310547" ts-tts="26-01-31 05:47:16.374"/>
+    </dp>
+</s>
+
+
+<s id="7042552500258897940-2601310942-10" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar cpth="Hannover Hbf|Nienburg(Weser)|Verden(Aller)"/>
+    <dp cpth="Delmenhorst|Hude|Oldenburg(Oldb)Hbf|Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+</s>
+
+
+<s id="-7292474497301786678-2601311115-6" eva="8000050">
+    <ar ct="2601311226" l="RE4"/>
+</s>
+
+
+<s id="1282899926668995600-2601312315-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601312315" l="RS3"/>
+</s>
+
+
+<s id="-1491077561497992764-2601312345-12" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Bad Zwischenahn|Oldenburg-Wechloy|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2602010043" l="RS3"/>
+</s>
+
+
+<s id="1398657565942359637-2601312319-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601312319" l="RB58"/>
+</s>
+
+
+<s id="3133245188127562085-2601312344-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2602010057" l="RS4"/>
+</s>
+
+
+<s id="3731645877869987353-2601312320-14" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="2699967051539796801-2601312310-1" eva="8000050">
+    <dp ct="2601312310" l="RS4"/>
+</s>
+
+
+<s id="1395130344936572940-2601312334-1" eva="8000050">
+    <dp ct="2601312334" l="RS1"/>
+</s>
+
+
+<s id="5257254896741087246-2601310745-2" eva="8000050">
+    <ar ct="2601310845"/>
+</s>
+
+
+<s id="-7722253513980986811-2601310623-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <ar ct="2601310707" l="RE9">
+        <m id="r44755646" t="d" c="43" ts="2601310707" ts-tts="26-01-31 07:07:54.396"/>
+        <m id="r44755648" t="d" c="43" ts="2601310707" ts-tts="26-01-31 07:07:54.396"/>
+    </ar>
+    <dp ct="2601310714" l="RE9">
+        <m id="r44755646" t="d" c="43" ts="2601310707" ts-tts="26-01-31 07:07:54.396"/>
+        <m id="r44755648" t="d" c="43" ts="2601310707" ts-tts="26-01-31 07:07:54.396"/>
+    </dp>
+</s>
+
+
+<s id="1221649411598224077-2601312131-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601312131" l="RS3"/>
+</s>
+
+
+<s id="-6334456358777717026-2601311949-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312028" l="RS3"/>
+</s>
+
+
+<s id="-1152789564725074756-2601311824-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601312038" l="RB58"/>
+</s>
+
+
+<s id="6207373327667132844-2601311324-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311538" l="RB58"/>
+</s>
+
+
+<s id="-5839426258394697899-2601311319-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311319" l="RB58"/>
+</s>
+
+
+<s id="-3387072353685088286-2601311444-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311557" l="RS4"/>
+</s>
+
+
+<s id="-8587215001484448830-2601311944-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312057" l="RS4"/>
+</s>
+
+
+<s id="-4945646633414071022-2601311508-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311627" l="RS3"/>
+</s>
+
+
+<s id="-531224339571687366-2601311731-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311731" l="RS3"/>
+</s>
+
+
+<s id="-761666943157698647-2601312201-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601312201" l="RS4"/>
+</s>
+
+
+<s id="-8751234015714752-2601311631-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven" ct="2601311631" l="RS3"/>
+</s>
+
+
+<s id="4997158513274893626-2601312031-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601312031" l="RS3"/>
+</s>
+
+
+<s id="6363974156884627712-2601311424-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311638" l="RB58"/>
+</s>
+
+
+<s id="-7096954098658435228-2601311531-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311531" l="RS3"/>
+</s>
+
+
+<s id="1380759757832461304-2601311749-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311827" l="RS3"/>
+</s>
+
+
+<s id="-5907612080216769929-2601311419-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311419" l="RB58"/>
+</s>
+
+
+<s id="2233970100015403145-2601312120-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601312120" l="RB58"/>
+</s>
+
+
+<s id="8640977477598852181-2601311519-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311519" l="RB58"/>
+</s>
+
+
+<s id="8762091338256790667-2601312049-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312127" l="RS3"/>
+</s>
+
+
+<s id="89327468491748476-2601311608-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311727" l="RS3"/>
+</s>
+
+
+<s id="1971288261328865296-2601311644-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311757" l="RS4"/>
+</s>
+
+
+<s id="-3716388928394116380-2601312019-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601312019" l="RB58"/>
+</s>
+
+
+<s id="8003093281443561066-2601312101-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601312101" l="RS4"/>
+</s>
+
+
+<s id="-4955886035339517861-2601311849-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311927" l="RS3"/>
+</s>
+
+
+<s id="-359903384280750579-2601312144-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312257" l="RS4"/>
+</s>
+
+
+<s id="5937756542030741136-2601311844-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311957" l="RS4"/>
+</s>
+
+
+<s id="-804972485919469502-2601311924-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601312138" l="RB58"/>
+</s>
+
+
+<s id="-4575098678736068926-2601311401-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311401" l="RS4"/>
+</s>
+
+
+<s id="6304319330411413376-2601311724-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311938" l="RB58"/>
+</s>
+
+
+<s id="3915600002698702931-2601312124-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601312338" l="RB58"/>
+</s>
+
+
+<s id="-284686805979059546-2601312145-12" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Bad Zwischenahn|Oldenburg-Wechloy|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312242" l="RS3"/>
+</s>
+
+
+<s id="2998601252456799182-2601312001-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601312001" l="RS4"/>
+</s>
+
+
+<s id="6696502240236503127-2601311449-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311527" l="RS3"/>
+</s>
+
+
+<s id="-1719775177669500995-2601311524-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311738" l="RB58"/>
+</s>
+
+
+<s id="-7109607098580604320-2601312244-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312357" l="RS4"/>
+</s>
+
+
+<s id="-7384757143238235427-2601311919-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311919" l="RB58"/>
+</s>
+
+
+<s id="-6966301750002709857-2601311701-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311701" l="RS4"/>
+</s>
+
+
+<s id="1056184314334435202-2601311831-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311831" l="RS3"/>
+</s>
+
+
+<s id="-90586087161988806-2601311719-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311719" l="RB58"/>
+</s>
+
+
+<s id="5273261723219176758-2601311901-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311901" l="RS4"/>
+</s>
+
+
+<s id="4369804963794161144-2601312219-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601312219" l="RB58"/>
+</s>
+
+
+<s id="8451478705662062837-2601311624-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311838" l="RB58"/>
+</s>
+
+
+<s id="-2072288376909806478-2601311431-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven" ct="2601311431" l="RS3"/>
+</s>
+
+
+<s id="-1739100572114530584-2601311619-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311619" l="RB58"/>
+</s>
+
+
+<s id="5111134250618636076-2601311349-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311426" l="RS3"/>
+</s>
+
+
+<s id="8133677848871379809-2601312245-12" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Bad Zwischenahn|Oldenburg-Wechloy|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312343" l="RS3"/>
+</s>
+
+
+<s id="-1240551320194417150-2601311744-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311857" l="RS4"/>
+</s>
+
+
+<s id="8640730009299758955-2601311819-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311819" l="RB58"/>
+</s>
+
+
+<s id="-4443169506245752420-2601311931-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311931" l="RS3"/>
+</s>
+
+
+<s id="6896229478596031975-2601311344-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311457" l="RS4"/>
+</s>
+
+
+<s id="-8838465904153774178-2601312044-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601312157" l="RS4"/>
+</s>
+
+
+<s id="-2719898487844050584-2601311544-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311657" l="RS4"/>
+</s>
+
+
+<s id="2089131063100742432-2601312024-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601312238" l="RB58"/>
+</s>
+
+
+<s id="1414782036546226549-2601311331-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven" ct="2601311331" l="RS3"/>
+</s>
+
+
+<s id="-3257462199123114788-2601311801-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311801" l="RS4"/>
+</s>
+
+
+<s id="8714869185297357730-2601312215-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Oldenburg-Wechloy|Bad Zwischenahn" ct="2601312215" l="RS3"/>
+</s>
+
+
+<s id="6360461216913677447-2601311501-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311501" l="RS4"/>
+</s>
+
+
+<s id="959508428107670410-2601311601-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311601" l="RS4"/>
+</s>
+
+
+<s id="8178384434894849156-2601311745-6" eva="8000050">
+    <ar ct="2601311832" l="RS30"/>
+</s>
+
+
+<s id="7715848693661637054-2601312126-1" eva="8000050">
+    <dp ct="2601312126" l="RS30"/>
+</s>
+
+
+<s id="7236642098731316790-2601311826-1" eva="8000050">
+    <dp ct="2601311826" l="RS30"/>
+</s>
+
+
+<s id="6201896208813817162-2601311526-1" eva="8000050">
+    <dp ct="2601311526" l="RS30"/>
+</s>
+
+
+<s id="1975248802804556778-2601311445-6" eva="8000050">
+    <ar ct="2601311532" l="RS30"/>
+</s>
+
+
+<s id="1504581385498380232-2601311426-1" eva="8000050">
+    <dp ct="2601311426" l="RS30"/>
+</s>
+
+
+<s id="-8088043699388371997-2601311326-1" eva="8000050">
+    <dp ct="2601311326" l="RS30"/>
+</s>
+
+
+<s id="-8015359067881734793-2601312026-1" eva="8000050">
+    <dp ct="2601312026" l="RS30"/>
+</s>
+
+
+<s id="-796990853323571803-2601311645-6" eva="8000050">
+    <ar ct="2601311732" l="RS30"/>
+</s>
+
+
+<s id="-7300448254602458086-2601312045-6" eva="8000050">
+    <ar ct="2601312132" l="RS30"/>
+</s>
+
+
+<s id="-6339181069810945320-2601311545-6" eva="8000050">
+    <ar ct="2601311632" l="RS30"/>
+</s>
+
+
+<s id="-5641696860464808564-2601311945-6" eva="8000050">
+    <ar ct="2601312032" l="RS30"/>
+</s>
+
+
+<s id="-5369829845127094548-2601311926-1" eva="8000050">
+    <dp ct="2601311926" l="RS30"/>
+</s>
+
+
+<s id="-5078865251842535078-2601311726-1" eva="8000050">
+    <dp ct="2601311726" l="RS30"/>
+</s>
+
+
+<s id="-5010322400940622739-2601311626-1" eva="8000050">
+    <dp ct="2601311626" l="RS30"/>
+</s>
+
+
+<s id="-2063438234814372497-2601311345-6" eva="8000050">
+    <ar ct="2601311432" l="RS30"/>
+</s>
+
+
+<s id="-149316687054142330-2601311845-6" eva="8000050">
+    <ar ct="2601311932" l="RS30"/>
+</s>
+
+
+<s id="6835777048024630772-2601310824-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311038" l="RB58"/>
+</s>
+
+
+<s id="8968129209532449891-2601310849-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310927" l="RS3"/>
+</s>
+
+
+<s id="-2704274969203916929-2601311001-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311001" l="RS4"/>
+</s>
+
+
+<s id="-8313141762774930635-2601311201-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311201" l="RS4"/>
+</s>
+
+
+<s id="5928527161393208836-2601311144-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311257" l="RS4"/>
+</s>
+
+
+<s id="4557519924571095537-2601311119-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311119" l="RB58"/>
+</s>
+
+
+<s id="-1596276796529281653-2601311249-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311327" l="RS3"/>
+</s>
+
+
+<s id="-8903784507965862638-2601310944-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311057" l="RS4"/>
+</s>
+
+
+<s id="6783866674800017091-2601310831-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601310831" l="RS3"/>
+</s>
+
+
+<s id="8481092248981318521-2601311244-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.963" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311357" l="RS4"/>
+</s>
+
+
+<s id="-8845263293139994138-2601310931-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven" ct="2601310931" l="RS3"/>
+</s>
+
+
+<s id="-1144873394371789754-2601311231-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311231" l="RS3"/>
+</s>
+
+
+<s id="6120361471533657620-2601311044-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311157" l="RS4"/>
+</s>
+
+
+<s id="4190720198858716421-2601311108-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311227" l="RS3"/>
+</s>
+
+
+<s id="-6371103732643719670-2601310819-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601310819" l="RB58"/>
+</s>
+
+
+<s id="3365433031089575725-2601310924-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311138" l="RB58"/>
+</s>
+
+
+<s id="5413415740367734002-2601310801-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601310801" l="RS4"/>
+</s>
+
+
+<s id="5184303736999911094-2601310844-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310957" l="RS4"/>
+</s>
+
+
+<s id="-8054234565198125732-2601311007-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede|Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311127" l="RS3"/>
+</s>
+
+
+<s id="7919279442003017356-2601311101-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311101" l="RS4"/>
+</s>
+
+
+<s id="-2550134337495929876-2601311030-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311030" l="RS3"/>
+</s>
+
+
+<s id="-6908373587493351198-2601311301-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601311301" l="RS4"/>
+</s>
+
+
+<s id="-9006038124029457123-2601310919-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601310919" l="RB58"/>
+</s>
+
+
+<s id="2600232703718549742-2601311224-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311438" l="RB58"/>
+</s>
+
+
+<s id="8846225547106147283-2601311219-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311219" l="RB58"/>
+</s>
+
+
+<s id="3459307915443065758-2601311019-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601311019" l="RB58"/>
+</s>
+
+
+<s id="641427483870099438-2601310949-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601311027" l="RS3"/>
+</s>
+
+
+<s id="-8299028596561190279-2601311124-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311338" l="RB58"/>
+</s>
+
+
+<s id="-7441148732617081249-2601311131-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601311131" l="RS3"/>
+</s>
+
+
+<s id="5551038196001530428-2601310901-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601310901" l="RS4"/>
+</s>
+
+
+<s id="-1298721350851720042-2601311024-22" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Osnabrück Hbf|Osnabrück Altstadt|Halen|Achmer|Bramsche|Hesepe|Rieste|Neuenkirchen(Oldb)|Holdorf(Oldb)|Steinfeld(Oldb)|Mühlen(Oldb)|Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601311238" l="RB58"/>
+</s>
+
+
+<s id="4805591792615767335-2601310612-6" eva="8000050">
+    <ar ct="2601310713" l="RB37"/>
+</s>
+
+
+<s id="-3210932761148854271-2601311311-15" eva="8000050">
+    <ar ct="2601311354" l="RS1"/>
+    <dp ct="2601311357" l="RS1"/>
+</s>
+
+
+<s id="1780005861133435626-2601310633-1" eva="8000050">
+    <dp ct="2601310636" l="RE4">
+        <m id="r44755779" t="d" c="45" ts="2601310710" ts-tts="26-01-31 07:10:16.199"/>
+    </dp>
+</s>
+
+
+<s id="-179612895181768261-2601310742-10" eva="8000050">
+    <m id="r2565591" t="h" from="2601310530" to="2601311000" cat="Störung" ts="2601310618" ts-tts="26-01-31 06:18:14.560" pr="1"/>
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar cpth="Hannover Hbf|Nienburg(Weser)|Verden(Aller)" ct="2601311150">
+        <m id="r44755684" t="d" c="38" ts="2601310708" ts-tts="26-01-31 07:08:41.729"/>
+        <m id="r44755686" t="d" c="38" ts="2601310708" ts-tts="26-01-31 07:08:41.729"/>
+    </ar>
+    <dp cpth="Delmenhorst|Hude|Oldenburg(Oldb)Hbf|Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf|Marienhafe|Norden|Norddeich|Norddeich Mole" ct="2601311153">
+        <m id="r44755684" t="d" c="38" ts="2601310708" ts-tts="26-01-31 07:08:41.729"/>
+        <m id="r44755686" t="d" c="38" ts="2601310708" ts-tts="26-01-31 07:08:41.729"/>
+    </dp>
+</s>
+
+
+<s id="2561691165128388624-2601310949-5" eva="8000050">
+    <m id="r2565606" t="h" from="2601310600" to="2601311200" cat="Störung" ts="2601310707" ts-tts="26-01-31 07:07:06.971" pr="1"/>
+    <ar cpth="" cs="c" clt="2601310636">
+        <m id="r44753714" t="d" c="38" ts="2601310636" ts-tts="26-01-31 06:36:46.384"/>
+        <m id="r44753716" t="d" c="38" ts="2601310636" ts-tts="26-01-31 06:36:46.384"/>
+    </ar>
+</s>
+
+
+<s id="8446270469286348917-2601310640-3" eva="8000050">
+    <m id="r2565606" t="h" from="2601310600" to="2601311200" cat="Störung" ts="2601310707" ts-tts="26-01-31 07:07:06.971" pr="1"/>
+    <ar cpth="" ct="2601310709" cs="c" clt="2601310636">
+        <m id="r44753701" t="d" c="38" ts="2601310636" ts-tts="26-01-31 06:36:30.762"/>
+        <m id="r44753703" t="d" c="38" ts="2601310636" ts-tts="26-01-31 06:36:30.762"/>
+    </ar>
+    <dp cpth="" ct="2601310715" cs="c" clt="2601310635">
+        <m id="r44753662" t="d" c="38" ts="2601310635" ts-tts="26-01-31 06:35:27.892"/>
+        <m id="r44753664" t="d" c="38" ts="2601310635" ts-tts="26-01-31 06:35:27.892"/>
+    </dp>
+</s>
+
+
+<s id="4616564882545328985-2601310736-13" eva="8000050">
+    <ar ct="2601311004" l="IC56"/>
+</s>
+
+
+<s id="1181392732754916068-2601310736-13" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar ct="2601311004"/>
+    <dp ct="2601311009"/>
+</s>
+
+
+<s id="-2764506636756390745-2601310632-8" eva="8000050">
+    <ar ct="2601310704" l="RS1"/>
+    <dp ct="2601310705" l="RS1"/>
+</s>
+
+
+<s id="5099391762562748347-2601310536-15" eva="8000050">
+    <ar ct="2601310705" l="RB41"/>
+</s>
+
+
+<s id="6365289854589139755-2601310712-8" eva="8000050">
+    <ar ct="2601311056">
+        <m id="r44754311" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44754313" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44754315" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44755201" t="f" c="0" ts="2601310703" ts-tts="26-01-31 07:03:41.127"/>
+    </ar>
+    <dp ct="2601311100">
+        <m id="r44754311" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44754313" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44754315" t="d" c="48" ts="2601310648" ts-tts="26-01-31 06:48:47.777"/>
+        <m id="r44755201" t="f" c="0" ts="2601310703" ts-tts="26-01-31 07:03:41.127"/>
+    </dp>
+</s>
+
+
+<s id="-31622216612410801-2601310701-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601310702" l="RS4"/>
+</s>
+
+
+<s id="1361633804245822835-2601310757-1" eva="8000050">
+    <dp cp="9" ct="2601310757" l="RB41"/>
+</s>
+
+
+<s id="5795328241854656879-2601310657-1" eva="8000050">
+    <dp cp="9" ct="2601310658" l="RB41"/>
+</s>
+
+
+<s id="234615869703459117-2601310611-15" eva="8000050">
+    <ar ct="2601310654" l="RS1"/>
+    <dp ct="2601310658" l="RS1"/>
+</s>
+
+
+<s id="461842432856454146-2601311057-1" eva="8000050">
+    <dp ct="2601311057" l="RB41"/>
+</s>
+
+
+<s id="-7184453857839759572-2601310728-15" eva="8000050">
+    <m id="r2508584" t="h" from="2512141100" to="2612122359" cat="Information" ts="2512242302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601311513"/>
+    <dp ct="2601311517"/>
+</s>
+
+
+<s id="6255239801765934808-2601310526-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <ar cp="8" ct="2601310648" l="RE9">
+        <m id="r44754305" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:47.778"/>
+        <m id="r44754307" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:47.778"/>
+    </ar>
+    <dp cp="8" ct="2601310656" l="RE9">
+        <m id="r44754305" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:47.778"/>
+        <m id="r44754307" t="d" c="43" ts="2601310648" ts-tts="26-01-31 06:48:47.778"/>
+    </dp>
+</s>
+
+
+<s id="-4602427783665327588-2601310726-5" eva="8000050">
+    <ar ct="2601310840"/>
+    <dp ct="2601310844"/>
+</s>
+
+
+<s id="-3686261204451498895-2601310726-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <ar ct="2601310845" l="RE9"/>
+    <dp ct="2601310856" l="RE9"/>
+</s>
+
+
+<s id="8272031565884770338-2601310537-12" eva="8000050">
+    <ar ct="2601310635" l="RS2">
+        <m id="r44754127" t="d" c="45" ts="2601310644" ts-tts="26-01-31 06:44:51.947"/>
+        <m id="r44754566" t="d" c="99" ts="2601310653" ts-tts="26-01-31 06:53:45.842"/>
+        <m id="r44754567" t="d" c="99" ts="2601310653" ts-tts="26-01-31 06:53:45.842"/>
+    </ar>
+    <dp cp="7" ct="2601310654" l="RS2">
+        <m id="r44754127" t="d" c="45" ts="2601310644" ts-tts="26-01-31 06:44:51.947"/>
+        <m id="r44754566" t="d" c="99" ts="2601310653" ts-tts="26-01-31 06:53:45.842"/>
+        <m id="r44754567" t="d" c="99" ts="2601310653" ts-tts="26-01-31 06:53:45.842"/>
+    </dp>
+</s>
+
+
+<s id="1124650206287990946-2601310544-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310656" l="RS4"/>
+</s>
+
+
+<s id="7656714157081379427-2601310520-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310640" l="RE1">
+        <m id="r44751727" t="d" c="43" ts="2601310600" ts-tts="26-01-31 06:01:01.159"/>
+        <m id="r44751729" t="d" c="43" ts="2601310600" ts-tts="26-01-31 06:01:01.159"/>
+    </ar>
+    <dp ct="2601310653" l="RE1">
+        <m id="r44751727" t="d" c="43" ts="2601310600" ts-tts="26-01-31 06:01:01.159"/>
+        <m id="r44751729" t="d" c="43" ts="2601310600" ts-tts="26-01-31 06:01:01.159"/>
+    </dp>
+</s>
+
+
+<s id="6512354943507599026-2601310526-5" eva="8000050">
+    <m id="r2565345" t="h" from="2601310526" to="2601311429" cat="Information" ts="2601310010" ts-tts="26-01-31 00:11:10.120" pr="2"/>
+    <m id="r2565305" t="h" from="2601310526" to="2601311211" cat="Information" ts="2601302306" ts-tts="26-01-30 23:06:58.606" pr="3"/>
+    <m id="r2565306" t="h" from="2601311217" to="2601311429" cat="Information" ts="2601302306" ts-tts="26-01-30 23:06:58.606" pr="3"/>
+    <m id="r2565595" t="h" from="2601310526" to="2601310832" cat="Information" ts="2601310646" ts-tts="26-01-31 06:46:10.264" pr="2"/>
+    <ar cp="10" ct="2601310641">
+        <m id="r44735778" t="f" c="0" ts="2601302229" ts-tts="26-01-30 22:29:05.699"/>
+        <m id="r44736389" t="f" c="0" ts="2601302235" ts-tts="26-01-30 22:35:43.564"/>
+        <m id="r44749731" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44749736" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44749738" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44753778" t="q" c="98" ts="2601310637" ts-tts="26-01-31 06:38:04.833"/>
+        <m id="r44753780" t="q" c="98" ts="2601310637" ts-tts="26-01-31 06:38:04.833"/>
+    </ar>
+    <dp cp="10" ct="2601310651">
+        <m id="r44735778" t="f" c="0" ts="2601302229" ts-tts="26-01-30 22:29:05.699"/>
+        <m id="r44736389" t="f" c="0" ts="2601302235" ts-tts="26-01-30 22:35:43.564"/>
+        <m id="r44749731" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44749736" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44749738" t="d" c="36" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+        <m id="r44753778" t="q" c="98" ts="2601310637" ts-tts="26-01-31 06:38:04.833"/>
+        <m id="r44753780" t="q" c="98" ts="2601310637" ts-tts="26-01-31 06:38:04.833"/>
+    </dp>
+</s>
+
+
+<s id="-775316054258794957-2601310526-5" eva="8000050">
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg" cp="10" pp="8" ct="2601310641" pt="2601310641" fb="ICE 2819">
+        <m id="r44735716" t="f" c="0" ts="2601302227" ts-tts="26-01-30 22:28:02.003"/>
+        <m id="r44735755" t="f" c="0" ts="2601302228" ts-tts="26-01-30 22:28:49.731"/>
+        <m id="r44736393" t="f" c="0" ts="2601302235" ts-tts="26-01-30 22:35:43.564"/>
+        <m id="r44749733" t="f" c="0" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+    </ar>
+    <dp ppth="Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf|München-Pasing|München Hbf" cp="10" pp="8" ct="2601310651" pt="2601310644" fb="ICE 2819">
+        <m id="r44735716" t="f" c="0" ts="2601302227" ts-tts="26-01-30 22:28:02.003"/>
+        <m id="r44735755" t="f" c="0" ts="2601302228" ts-tts="26-01-30 22:28:49.731"/>
+        <m id="r44736393" t="f" c="0" ts="2601302235" ts-tts="26-01-30 22:35:43.564"/>
+        <m id="r44749733" t="f" c="0" ts="2601310449" ts-tts="26-01-31 04:49:20.493"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2819"/>
+</s>
+
+
+<s id="-6732170563605881559-2601311250-8" eva="8000050">
+    <ar ct="2601311309" l="RS1"/>
+</s>
+
+
+<s id="5331003605469884091-2601311249-1" eva="8000050">
+    <dp ct="2601311249" l="RS1"/>
+</s>
+
+
+<s id="-2559606706739144109-2601310646-1" eva="8000050">
+    <dp ct="2601310647" l="RB37"/>
+</s>
+
+
+<s id="-4316483268636948792-2601311246-9" eva="8000050">
+    <ar ct="2601311328" l="RS2"/>
+    <dp ct="2601311340" l="RS2"/>
+</s>
+
+
+<s id="3210556284235630641-2601311245-6" eva="8000050">
+    <ar ct="2601311332" l="RS30"/>
+</s>
+
+
+<s id="2169902729647941930-2601311242-11" eva="8000050">
+    <ar ct="2601311330" l="RS2"/>
+    <dp ct="2601311333" l="RS2"/>
+</s>
+
+
+<s id="6135728412348303878-2601310711-8" eva="8000050">
+    <m id="r2508013" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar ct="2601311013"/>
+    <dp ct="2601311017"/>
+</s>
+
+
+<s id="4827846368099937599-2601311241-15" eva="8000050">
+    <ar ct="2601311324" l="RS1"/>
+</s>
+
+
+<s id="-8392489270134782260-2601310553-9" eva="8000050">
+    <ar ct="2601310628" l="RS2"/>
+    <dp ct="2601310640" l="RS2"/>
+</s>
+
+
+<s id="792354910763714110-2601310707-10" eva="8000050">
+    <ar ct="2601310913" l="RB37"/>
+</s>
+
+
+<s id="8933240648819221096-2601311036-15" eva="8000050">
+    <ar ct="2601311206" l="RB41"/>
+</s>
+
+
+<s id="-7069137584780202924-2601310634-1" eva="8000050">
+    <dp ct="2601310635" l="RS1"/>
+</s>
+
+
+<s id="-1392234361502612225-2601310521-11" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Lohne(Oldb)|Vechta|Lutten|Goldenstedt(Oldb)|Rechterfeld|Wildeshausen|Brettorf|Ganderkesee|Delmenhorst" ct="2601310637" l="RB58"/>
+</s>
+
+
+<s id="-2237215623864269191-2601311234-1" eva="8000050">
+    <dp ct="2601311234" l="RS1"/>
+</s>
+
+
+<s id="-8011164337776733770-2601311033-1" eva="8000050">
+    <dp ct="2601311033" l="RE4"/>
+</s>
+
+
+<s id="3912172823124337390-2601310456-15" eva="8000050">
+    <ar cp="9" ct="2601310634" l="RB41">
+        <m id="r44750311" t="d" c="45" ts="2601310514" ts-tts="26-01-31 05:14:36.345"/>
+    </ar>
+</s>
+
+
+<s id="-4457225193341187262-2601311232-8" eva="8000050">
+    <ar ct="2601311302" l="RS1"/>
+    <dp ct="2601311304" l="RS1"/>
+</s>
+
+
+<s id="-2248351131049730060-2601310549-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310630" l="RS3">
+        <m id="r44751644" t="d" c="43" ts="2601310556" ts-tts="26-01-31 05:57:08.080"/>
+        <m id="r44751645" t="d" c="43" ts="2601310556" ts-tts="26-01-31 05:57:08.080"/>
+    </ar>
+</s>
+
+
+<s id="1883236960510105633-2601310619-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)|Mühlen(Oldb)|Steinfeld(Oldb)|Holdorf(Oldb)|Neuenkirchen(Oldb)|Rieste|Hesepe|Bramsche|Achmer|Halen|Osnabrück Altstadt|Osnabrück Hbf" ct="2601310627" l="RB58"/>
+</s>
+
+
+<s id="-2906767670295112458-2601311226-1" eva="8000050">
+    <dp ct="2601311226" l="RS30"/>
+</s>
+
+
+<s id="-8504128411544051838-2601310541-15" eva="8000050">
+    <ar ct="2601310626" l="RS1"/>
+</s>
+
+
+<s id="-7005224503936966760-2601311220-8" eva="8000050">
+    <ar ct="2601311239" l="RS1"/>
+</s>
+
+
+<s id="-2090521174447425740-2601311219-1" eva="8000050">
+    <dp ct="2601311219" l="RS1"/>
+</s>
+
+
+<s id="-5530041370018062477-2601310523-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310604" l="RE8"/>
+    <dp ct="2601310618" l="RE8"/>
+</s>
+
+
+<s id="7109186111814105543-2601310416-9" eva="8000050">
+    <m id="r2565591" t="h" from="2601310530" to="2601311000" cat="Störung" ts="2601310618" ts-tts="26-01-31 06:18:14.560" pr="1"/>
+    <m id="r2563336" t="h" from="2601310416" to="2601311015" cat="Bauarbeiten" ts="2601302306" ts-tts="26-01-30 23:06:26.786" pr="1"/>
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar cpth="" cs="c" clt="2601300153">
+        <m id="r44575418" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+        <m id="r44575419" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+        <m id="r44575420" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2601300153">
+        <m id="r44575418" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+        <m id="r44575419" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+        <m id="r44575420" t="d" c="38" ts="2601300615" ts-tts="26-01-30 06:16:07.581"/>
+    </dp>
+</s>
+
+
+<s id="-5752091588323550718-2601310613-1" eva="8000050">
+    <dp ct="2601310616" l="RE9"/>
+</s>
+
+
+<s id="-5897633443992855156-2601311015-6" eva="8000050">
+    <ar ct="2601311126" l="RE4"/>
+</s>
+
+
+<s id="8665047482682038790-2601312220-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="-6794928621684071417-2601312217-1" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="-5598921627012959285-2601310615-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Oldenburg-Wechloy|Bad Zwischenahn" ct="2601310615" l="RS3"/>
+</s>
+
+
+<s id="9209109443594774997-2601310645-4" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar ct="2601310750"/>
+    <dp ct="2601310753"/>
+</s>
+
+
+<s id="8863466736973729393-2601310753-1" eva="8000050">
+    <dp ct="2601310753" l="IC56"/>
+</s>
+
+
+<s id="-8896355923152139343-2601311211-15" eva="8000050">
+    <ar ct="2601311254" l="RS1"/>
+    <dp ct="2601311257" l="RS1"/>
+</s>
+
+
+<s id="-4129988064242388118-2601310639-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar ct="2601310904" l="RE1"/>
+    <dp ct="2601310917" l="RE1"/>
+</s>
+
+
+<s id="8503777394879306018-2601302322-11" eva="8000050">
+    <m id="r1338532296" t="c" ts="2601310550" ts-tts="26-01-31 05:50:07.628"/>
+    <ar ct="2601310604">
+        <m id="r44737776" t="d" c="21" ts="2601302249" ts-tts="26-01-30 22:50:02.555"/>
+        <m id="r44737778" t="d" c="21" ts="2601302249" ts-tts="26-01-30 22:50:02.555"/>
+        <m id="r44745605" t="d" c="43" ts="2601310145" ts-tts="26-01-31 01:45:43.448"/>
+        <m id="r44745607" t="d" c="43" ts="2601310145" ts-tts="26-01-31 01:45:43.448"/>
+        <m id="r44747273" t="f" c="0" ts="2601310204" ts-tts="26-01-31 02:04:48.502"/>
+        <m id="r44747274" t="f" c="0" ts="2601310204" ts-tts="26-01-31 02:04:48.502"/>
+        <m id="r44747743" t="f" c="0" ts="2601310233" ts-tts="26-01-31 02:34:05.470"/>
+    </ar>
+    <dp ct="2601310607">
+        <m id="r44737776" t="d" c="21" ts="2601302249" ts-tts="26-01-30 22:50:02.555"/>
+        <m id="r44737778" t="d" c="21" ts="2601302249" ts-tts="26-01-30 22:50:02.555"/>
+        <m id="r44745605" t="d" c="43" ts="2601310145" ts-tts="26-01-31 01:45:43.448"/>
+        <m id="r44745607" t="d" c="43" ts="2601310145" ts-tts="26-01-31 01:45:43.448"/>
+        <m id="r44747273" t="f" c="0" ts="2601310204" ts-tts="26-01-31 02:04:48.502"/>
+        <m id="r44747274" t="f" c="0" ts="2601310204" ts-tts="26-01-31 02:04:48.502"/>
+        <m id="r44747743" t="f" c="0" ts="2601310233" ts-tts="26-01-31 02:34:05.470"/>
+    </dp>
+</s>
+
+
+<s id="6268263093955937503-2601310532-8" eva="8000050">
+    <ar ct="2601310602" l="RS1"/>
+    <dp ct="2601310604" l="RS1">
+        <m id="r44751487" t="f" c="0" ts="2601310550" ts-tts="26-01-31 05:50:07.736"/>
+    </dp>
+</s>
+
+
+<s id="5436529836599019489-2601310601-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" ct="2601310601" l="RS4"/>
+</s>
+
+
+<s id="-2298726232551513565-2601310957-1" eva="8000050">
+    <dp ct="2601310957" l="RB41"/>
+</s>
+
+
+<s id="-135934637287446585-2601310557-1" eva="8000050">
+    <dp cp="10" ct="2601310557" l="RB41"/>
+</s>
+
+
+<s id="-1669043368143623376-2601310511-15" eva="8000050">
+    <ar ct="2601310556" l="RS1"/>
+    <dp ct="2601310557" l="RS1"/>
+</s>
+
+
+<s id="6934699668924356050-2601310420-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <ar ct="2601310539" l="RE8">
+        <m id="r44749256" t="d" c="43" ts="2601310425" ts-tts="26-01-31 04:25:26.237"/>
+        <m id="r44749258" t="d" c="43" ts="2601310425" ts-tts="26-01-31 04:25:26.237"/>
+        <m id="r44749420" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:34:40.444"/>
+        <m id="r44749422" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:34:40.444"/>
+    </ar>
+    <dp ct="2601310557" l="RE8">
+        <m id="r44749256" t="d" c="43" ts="2601310425" ts-tts="26-01-31 04:25:26.237"/>
+        <m id="r44749258" t="d" c="43" ts="2601310425" ts-tts="26-01-31 04:25:26.237"/>
+        <m id="r44749420" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:34:40.444"/>
+        <m id="r44749422" t="q" c="95" ts="2601310434" ts-tts="26-01-31 04:34:40.444"/>
+    </dp>
+</s>
+
+
+<s id="-3011290278229936684-2601310553-1" eva="8000050">
+    <dp ct="2601310553"/>
+</s>
+
+
+<s id="-7462435019044774591-2601311150-8" eva="8000050">
+    <ar ct="2601311209" l="RS1"/>
+</s>
+
+
+<s id="8263836819294573004-2601311149-1" eva="8000050">
+    <dp ct="2601311149" l="RS1"/>
+</s>
+
+
+<s id="987437275701653552-2601310417-14" eva="8000050">
+    <ar ct="2601310548" l="RE9"/>
+</s>
+
+
+<s id="1584952746012151311-2601311145-6" eva="8000050">
+    <ar ct="2601311232" l="RS30"/>
+</s>
+
+
+<s id="-2219451915632335541-2601310517-1" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <dp ct="2601310518" l="RE1">
+        <m id="r44751339" t="d" c="43" ts="2601310544" ts-tts="26-01-31 05:44:25.068"/>
+        <m id="r44751341" t="d" c="43" ts="2601310544" ts-tts="26-01-31 05:44:25.068"/>
+    </dp>
+</s>
+
+
+<s id="-8254192162192392096-2601311142-9" eva="8000050">
+    <ar ct="2601311228" l="RS2"/>
+    <dp ct="2601311240" l="RS2"/>
+</s>
+
+
+<s id="-3212433618345619448-2601311142-11" eva="8000050">
+    <ar ct="2601311230" l="RS2"/>
+    <dp ct="2601311233" l="RS2"/>
+</s>
+
+
+<s id="6441753149996966782-2601311141-15" eva="8000050">
+    <ar ct="2601311224" l="RS1"/>
+</s>
+
+
+<s id="5202117527705002566-2601310453-9" eva="8000050">
+    <ar ct="2601310527" l="RS2"/>
+    <dp ct="2601310540" l="RS2"/>
+</s>
+
+
+<s id="-2913939111924380934-2601310936-15" eva="8000050">
+    <ar ct="2601311108" l="RB41">
+        <m id="r44751151" t="q" c="95" ts="2601310537" ts-tts="26-01-31 05:37:25.249"/>
+        <m id="r44751152" t="q" c="95" ts="2601310537" ts-tts="26-01-31 05:37:40.813"/>
+    </ar>
+</s>
+
+
+<s id="-6940844531307125841-2601310534-1" eva="8000050">
+    <dp ct="2601310535" l="RS1"/>
+</s>
+
+
+<s id="-8882657082382035783-2601310933-1" eva="8000050">
+    <dp ct="2601310933" l="RE4"/>
+</s>
+
+
+<s id="2073649357887971810-2601310412-11" eva="8000050">
+    <ar ct="2601310519" l="RS2">
+        <m id="r44750454" t="d" c="31" ts="2601310518" ts-tts="26-01-31 05:18:45.119"/>
+    </ar>
+    <dp ct="2601310533" l="RS2">
+        <m id="r44750454" t="d" c="31" ts="2601310518" ts-tts="26-01-31 05:18:45.119"/>
+    </dp>
+</s>
+
+
+<s id="2054121222758831857-2601311134-1" eva="8000050">
+    <dp ct="2601311134" l="RS1"/>
+</s>
+
+
+<s id="1569834689256666090-2601311132-8" eva="8000050">
+    <ar ct="2601311202" l="RS1"/>
+    <dp ct="2601311204" l="RS1"/>
+</s>
+
+
+<s id="-8610298812356750769-2601311126-1" eva="8000050">
+    <dp ct="2601311126" l="RS30"/>
+</s>
+
+
+<s id="9002161108577232102-2601310441-15" eva="8000050">
+    <ar ct="2601310526" l="RS1"/>
+</s>
+
+
+<s id="5769559680701882536-2601310553-1" eva="8000050">
+    <dp ct="2601310553" l="IC56"/>
+</s>
+
+
+<s id="-4696947796805407599-2601311120-8" eva="8000050">
+    <ar ct="2601311139" l="RS1"/>
+</s>
+
+
+<s id="2516157904376720486-2601311119-1" eva="8000050">
+    <dp ct="2601311119" l="RS1"/>
+</s>
+
+
+<s id="-7765166677687682764-2601310515-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf|Oldenburg-Wechloy|Bad Zwischenahn" ct="2601310516" l="RS3"/>
+</s>
+
+
+<s id="-7348890688439832548-2601310915-6" eva="8000050">
+    <ar ct="2601311026" l="RE4"/>
+</s>
+
+
+<s id="5489382238418385337-2601312156-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="-7123580108217034731-2601312120-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="-2623950280655537487-2601310513-1" eva="8000050">
+    <dp ct="2601310513" l="RE9"/>
+</s>
+
+
+<s id="1271247141507133448-2601310442-3" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar ct="2601310509"/>
+    <dp ct="2601310512"/>
+</s>
+
+
+<s id="-2748285659366059256-2601311111-15" eva="8000050">
+    <ar ct="2601311154" l="RS1"/>
+    <dp ct="2601311157" l="RS1"/>
+</s>
+
+
+<s id="2435214237768417634-2601310504-1" eva="8000050">
+    <dp cp="3" ct="2601310504" l="RS1"/>
+</s>
+
+
+<s id="1281388068759757233-2601310859-1" eva="8000050">
+    <dp ct="2601310859" l="RB41"/>
+</s>
+
+
+<s id="-6761625813998259675-2601310457-1" eva="8000050">
+    <dp cp="1" ct="2601310457" l="RE1"/>
+</s>
+
+
+<s id="-1906309101737004298-2601310457-1" eva="8000050">
+    <dp ct="2601310457" l="RB41"/>
+</s>
+
+
+<s id="-5259354590134648830-2601310435-8" eva="8000050">
+    <ar cp="3" ct="2601310455" l="RS1"/>
+</s>
+
+
+<s id="-1991829227472480541-2601311050-8" eva="8000050">
+    <ar ct="2601311109" l="RS1"/>
+</s>
+
+
+<s id="-3038450782782946402-2601311049-1" eva="8000050">
+    <dp ct="2601311049" l="RS1"/>
+</s>
+
+
+<s id="1570670549223519802-2601311046-9" eva="8000050">
+    <ar ct="2601311128" l="RS2"/>
+    <dp ct="2601311140" l="RS2"/>
+</s>
+
+
+<s id="-1447007898964692951-2601311045-6" eva="8000050">
+    <ar ct="2601311132" l="RS30"/>
+</s>
+
+
+<s id="1622036853913333945-2601311042-11" eva="8000050">
+    <ar ct="2601311130" l="RS2"/>
+    <dp ct="2601311133" l="RS2"/>
+</s>
+
+
+<s id="3059205438763457805-2601311041-15" eva="8000050">
+    <ar ct="2601311124" l="RS1"/>
+</s>
+
+
+<s id="-5025476155296310346-2601310836-15" eva="8000050">
+    <ar ct="2601311006" l="RB41"/>
+</s>
+
+
+<s id="-5818242921205761099-2601311034-1" eva="8000050">
+    <dp ct="2601311034" l="RS1"/>
+</s>
+
+
+<s id="1007082014350364628-2601310833-1" eva="8000050">
+    <dp ct="2601310833" l="RE4"/>
+</s>
+
+
+<s id="8073413877751615740-2601311032-8" eva="8000050">
+    <ar ct="2601311102" l="RS1"/>
+    <dp ct="2601311104" l="RS1"/>
+</s>
+
+
+<s id="3249441419841077948-2601311026-1" eva="8000050">
+    <dp ct="2601311026" l="RS30"/>
+</s>
+
+
+<s id="-1381810858979617966-2601310256-15" eva="8000050">
+    <ar ct="2601310424" l="RB41"/>
+</s>
+
+
+<s id="7442694512029413112-2601311020-8" eva="8000050">
+    <ar ct="2601311039" l="RS1"/>
+</s>
+
+
+<s id="8610700612539744294-2601310408-1" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <dp cp="3" ct="2601310413" l="RE8">
+        <m id="r44749084" t="d" c="43" ts="2601310416" ts-tts="26-01-31 04:16:42.265"/>
+        <m id="r44749086" t="d" c="43" ts="2601310416" ts-tts="26-01-31 04:16:42.265"/>
+    </dp>
+</s>
+
+
+<s id="-6812705754883244725-2601310815-6" eva="8000050">
+    <ar ct="2601310926" l="RE4"/>
+</s>
+
+
+<s id="-7095795228517801950-2601312020-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <ar l="RE8">
+        <m id="r44593914" t="f" c="1000" ts="2601300836" ts-tts="26-01-30 08:36:23.454"/>
+        <m id="r44735149" t="f" c="0" ts="2601302219" ts-tts="26-01-30 22:19:16.185"/>
+        <m id="r44735150" t="f" c="0" ts="2601302219" ts-tts="26-01-30 22:19:16.185"/>
+    </ar>
+</s>
+
+
+<s id="-1386281072657210962-2601312023-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-5591597380485360579-2601312059-14" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="3915801585133935916-2601312039-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="903370002871247298-2601311153-1" eva="8000050">
+    <dp ct="2601311153" l="IC57"/>
+</s>
+
+
+<s id="-1925290509494048953-2601310414-1" eva="8000050">
+    <dp ct="2601310415" l="RE9"/>
+</s>
+
+
+<s id="-6416848818531596856-2601311011-15" eva="8000050">
+    <ar ct="2601311054" l="RS1"/>
+    <dp ct="2601311057" l="RS1"/>
+</s>
+
+
+<s id="289360457579093628-2601310406-1" eva="8000050">
+    <dp ct="2601310406" l="RS1"/>
+</s>
+
+
+<s id="-6452407069337976676-2601311128-15" eva="8000050">
+    <m id="r2508500" t="h" from="2512140000" to="2612122359" cat="Information" ts="2512232303" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <m id="r2565483" t="h" from="2601311128" to="2601312034" cat="Information" ts="2601310337" ts-tts="26-01-31 03:37:32.116" pr="2"/>
+    <ar>
+        <m id="r44748908" t="q" c="95" ts="2601310357" ts-tts="26-01-31 03:57:45.425"/>
+        <m id="r44748910" t="q" c="95" ts="2601310357" ts-tts="26-01-31 03:57:45.425"/>
+    </ar>
+    <dp>
+        <m id="r44748908" t="q" c="95" ts="2601310357" ts-tts="26-01-31 03:57:45.425"/>
+        <m id="r44748910" t="q" c="95" ts="2601310357" ts-tts="26-01-31 03:57:45.425"/>
+    </dp>
+</s>
+
+
+<s id="-88363180659537718-2601310335-8" eva="8000050">
+    <ar ct="2601310355" l="RS1"/>
+</s>
+
+
+<s id="8065819421752961917-2601311715-1" eva="8000050">
+    <dp>
+        <m id="r44748805" t="q" c="95" ts="2601310349" ts-tts="26-01-31 03:50:04.917"/>
+        <m id="r44748807" t="q" c="95" ts="2601310349" ts-tts="26-01-31 03:50:04.917"/>
+    </dp>
+</s>
+
+
+<s id="8451534624403744431-2601310217-18" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <ar cp="7" ct="2601310351" l="RE8"/>
+</s>
+
+
+<s id="3703604872744330177-2601311349-5" eva="8000050">
+    <ar>
+        <m id="r44748797" t="q" c="95" ts="2601310349" ts-tts="26-01-31 03:49:49.576"/>
+        <m id="r44748799" t="q" c="95" ts="2601310349" ts-tts="26-01-31 03:49:49.576"/>
+    </ar>
+</s>
+
+
+<s id="6116538541019691806-2601310841-15" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+    <ar>
+        <m id="r44748767" t="q" c="95" ts="2601310348" ts-tts="26-01-31 03:48:17.342"/>
+        <m id="r44748769" t="q" c="95" ts="2601310348" ts-tts="26-01-31 03:48:17.342"/>
+    </ar>
+</s>
+
+
+<s id="-8643009115264352416-2601311515-1" eva="8000050">
+    <dp>
+        <m id="r44748755" t="q" c="95" ts="2601310347" ts-tts="26-01-31 03:48:01.971"/>
+        <m id="r44748757" t="q" c="95" ts="2601310347" ts-tts="26-01-31 03:48:01.971"/>
+    </dp>
+</s>
+
+
+<s id="2042576105475018970-2601310945-6" eva="8000050">
+    <ar ct="2601311032" l="RS30"/>
+</s>
+
+
+<s id="-4879742734184543920-2601310943-9" eva="8000050">
+    <ar ct="2601311028" l="RS2"/>
+    <dp ct="2601311040" l="RS2"/>
+</s>
+
+
+<s id="-135687787862673808-2601310942-11" eva="8000050">
+    <ar ct="2601311030" l="RS2"/>
+    <dp ct="2601311033" l="RS2"/>
+</s>
+
+
+<s id="760395658371613771-2601310941-15" eva="8000050">
+    <ar ct="2601311024" l="RS1"/>
+</s>
+
+
+<s id="8088489625262557114-2601311536-13" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+    <ar>
+        <m id="r44748586" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.069"/>
+        <m id="r44748588" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.069"/>
+    </ar>
+    <dp>
+        <m id="r44748586" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.069"/>
+        <m id="r44748588" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.069"/>
+    </dp>
+</s>
+
+
+<s id="-3655617723199753548-2601311536-13" eva="8000050">
+    <ar l="IC56">
+        <m id="r44748582" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.068"/>
+        <m id="r44748584" t="q" c="95" ts="2601310339" ts-tts="26-01-31 03:39:35.068"/>
+    </ar>
+</s>
+
+
+<s id="-3541038362100725228-2601310736-15" eva="8000050">
+    <ar ct="2601310908" l="RB41"/>
+</s>
+
+
+<s id="-3003036767488184573-2601310934-1" eva="8000050">
+    <dp ct="2601310934" l="RS1"/>
+</s>
+
+
+<s id="-6482446541496010499-2601310932-8" eva="8000050">
+    <ar ct="2601311002" l="RS1"/>
+    <dp ct="2601311004" l="RS1"/>
+</s>
+
+
+<s id="8485646671640090420-2601310926-1" eva="8000050">
+    <dp ct="2601310926" l="RS30"/>
+</s>
+
+
+<s id="6304674726863401124-2601310953-1" eva="8000050">
+    <dp ct="2601310953" l="IC56"/>
+</s>
+
+
+<s id="8548092139598032876-2601310715-6" eva="8000050">
+    <ar ct="2601310826" l="RE4"/>
+</s>
+
+
+<s id="2181744144753754594-2601311926-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-7646897072759743527-2601311923-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="5790672125460812679-2601311920-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="-8838656926973727934-2601310314-1" eva="8000050">
+    <dp ct="2601310315" l="RB41"/>
+</s>
+
+
+<s id="-4649495773428312716-2601310911-15" eva="8000050">
+    <ar ct="2601310954" l="RS1"/>
+    <dp ct="2601310957" l="RS1"/>
+</s>
+
+
+<s id="-8033056437698551203-2601310306-1" eva="8000050">
+    <dp ct="2601310306" l="RS1"/>
+</s>
+
+
+<s id="-1767743048437712360-2601310235-8" eva="8000050">
+    <ar ct="2601310254" l="RS1"/>
+</s>
+
+
+<s id="-5040855886902453859-2601311528-15" eva="8000050">
+    <m id="r2508486" t="h" from="2512140000" to="2612122359" cat="Information" ts="2512232303" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+    <ar>
+        <m id="r44748064" t="f" c="0" ts="2601310251" ts-tts="26-01-31 02:51:30.323"/>
+    </ar>
+    <dp>
+        <m id="r44748064" t="f" c="0" ts="2601310251" ts-tts="26-01-31 02:51:30.323"/>
+    </dp>
+</s>
+
+
+<s id="6610086332469437335-2601311026-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+    <ar>
+        <m id="r44748062" t="f" c="0" ts="2601310251" ts-tts="26-01-31 02:51:14.839"/>
+    </ar>
+    <dp>
+        <m id="r44748062" t="f" c="0" ts="2601310251" ts-tts="26-01-31 02:51:14.839"/>
+    </dp>
+</s>
+
+
+<s id="-8471873024121272354-2601310926-5" eva="8000050">
+    <ar>
+        <m id="r44748042" t="f" c="0" ts="2601310250" ts-tts="26-01-31 02:50:44.096"/>
+    </ar>
+    <dp>
+        <m id="r44748042" t="f" c="0" ts="2601310250" ts-tts="26-01-31 02:50:44.096"/>
+    </dp>
+</s>
+
+
+<s id="8531312574243295678-2601310208-1" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <dp ppth="Bremen-Sebaldsbrück|Bremen-Mahndorf|Achim|Baden(Verden)|Etelsen|Langwedel|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Linsburg|Hagen(Han)|Eilvese|Neustadt am Rübenberge|Poggenhagen|Wunstorf|Hannover Hbf" pp="7" ct="2601310247" pt="2601310208" l="RE8" fb="RE8">
+        <m id="r44745719" t="f" c="0" ts="2601310148" ts-tts="26-01-31 01:48:24.830"/>
+    </dp>
+    <tl f="N" t="p" o="800295" c="RE" n="4447"/>
+</s>
+
+
+<s id="-4546982887047700743-2601310846-9" eva="8000050">
+    <ar ct="2601310928" l="RS2"/>
+    <dp ct="2601310940" l="RS2"/>
+</s>
+
+
+<s id="-7517609427710522924-2601310845-6" eva="8000050">
+    <ar ct="2601310932" l="RS30"/>
+</s>
+
+
+<s id="-6665776289847338626-2601310842-11" eva="8000050">
+    <ar ct="2601310930" l="RS2"/>
+    <dp ct="2601310933" l="RS2"/>
+</s>
+
+
+<s id="4436736980724601631-2601310841-15" eva="8000050">
+    <ar ct="2601310924" l="RS1"/>
+</s>
+
+
+<s id="5049160830677505746-2601310636-15" eva="8000050">
+    <ar ct="2601310808" l="RB41"/>
+</s>
+
+
+<s id="160799333398817743-2601310834-1" eva="8000050">
+    <dp ct="2601310834" l="RS1"/>
+</s>
+
+
+<s id="-5883404840137227849-2601310832-8" eva="8000050">
+    <ar ct="2601310902" l="RS1"/>
+    <dp ct="2601310904" l="RS1"/>
+</s>
+
+
+<s id="-8703825651317550232-2601310826-1" eva="8000050">
+    <dp ct="2601310826" l="RS30"/>
+</s>
+
+
+<s id="-3970723350205974760-2601310056-15" eva="8000050">
+    <ar ct="2601310225" l="RB41"/>
+</s>
+
+
+<s id="4908882781747718145-2601310215-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" ct="2601310215" l="RS3"/>
+</s>
+
+
+<s id="7511239805744604710-2601311820-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar l="RE8">
+        <m id="r44726471" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:54.331"/>
+    </ar>
+    <dp l="RE8">
+        <m id="r44726471" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:54.331"/>
+    </dp>
+</s>
+
+
+<s id="2826148899581439825-2601311823-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <ar l="RE9">
+        <m id="r44726345" t="f" c="0" ts="2601302040" ts-tts="26-01-30 20:40:16.881"/>
+    </ar>
+    <dp l="RE9">
+        <m id="r44726345" t="f" c="0" ts="2601302040" ts-tts="26-01-30 20:40:16.881"/>
+    </dp>
+</s>
+
+
+<s id="-8727695344452138119-2601311815-16" eva="8000050">
+    <ar>
+        <m id="r44130756" t="f" c="1000" ts="2601270844" ts-tts="26-01-28 11:07:52.325"/>
+        <m id="r44256114" t="f" c="1000" ts="2601280148" ts-tts="26-01-28 11:07:52.325"/>
+        <m id="r44403474" t="f" c="1000" ts="2601290147" ts-tts="26-01-29 01:47:13.131"/>
+        <m id="r44564866" t="f" c="1000" ts="2601300146" ts-tts="26-01-30 01:46:41.055"/>
+        <m id="r44722911" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722913" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722915" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722917" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722919" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722921" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+    </ar>
+    <dp>
+        <m id="r44130756" t="f" c="1000" ts="2601270844" ts-tts="26-01-28 11:07:52.325"/>
+        <m id="r44256114" t="f" c="1000" ts="2601280148" ts-tts="26-01-28 11:07:52.325"/>
+        <m id="r44403474" t="f" c="1000" ts="2601290147" ts-tts="26-01-29 01:47:13.131"/>
+        <m id="r44564866" t="f" c="1000" ts="2601300146" ts-tts="26-01-30 01:46:41.055"/>
+        <m id="r44722911" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722913" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722915" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722917" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722919" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+        <m id="r44722921" t="f" c="0" ts="2601302013" ts-tts="26-01-30 20:13:57.154"/>
+    </dp>
+</s>
+
+
+<s id="5587922004740547299-2601311816-9" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="-4214840516201313153-2601311839-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+</s>
+
+
+<s id="-6241348418917699802-2601310211-1" eva="8000050">
+    <dp ct="2601310211" l="RS2"/>
+</s>
+
+
+<s id="-2203517615588817721-2601310811-15" eva="8000050">
+    <ar ct="2601310854" l="RS1"/>
+    <dp ct="2601310857" l="RS1"/>
+</s>
+
+
+<s id="-5126147763734923782-2601310206-1" eva="8000050">
+    <dp ct="2601310206" l="RS1"/>
+</s>
+
+
+<s id="5142071021298782760-2601310135-8" eva="8000050">
+    <ar ct="2601310155" l="RS1"/>
+</s>
+
+
+<s id="-1252051744963861539-2601310118-9" eva="8000050">
+    <ar ct="2601310153" l="RS2"/>
+</s>
+
+
+<s id="2103026705683734524-2601310020-14" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <ar ct="2601310148" l="RE8"/>
+</s>
+
+
+<s id="-5583658932473751121-2601310743-9" eva="8000050">
+    <ar ct="2601310825" l="RS2"/>
+    <dp ct="2601310840" l="RS2"/>
+</s>
+
+
+<s id="-1713698353451340245-2601310742-11" eva="8000050">
+    <ar ct="2601310830" l="RS2"/>
+    <dp ct="2601310833" l="RS2"/>
+</s>
+
+
+<s id="-5239323668622956405-2601310741-15" eva="8000050">
+    <ar ct="2601310824" l="RS1"/>
+</s>
+
+
+<s id="-8508938717181330460-2601310105-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310142" l="RS3"/>
+</s>
+
+
+<s id="-5811679906873251448-2601311726-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="325698627901211834-2601311723-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="-7763686466636471476-2601311742-10" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="1783494979915097951-2601311720-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="8318915494781457819-2601310115-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Wüsting|Oldenburg(Oldb)Hbf" cp="2" ct="2601310115" l="RS3"/>
+</s>
+
+
+<s id="-7435298694842252862-2601310111-1" eva="8000050">
+    <dp cp="3" ct="2601310111" l="RS2"/>
+</s>
+
+
+<s id="-8905141342580661692-2601310111-1" eva="8000050">
+    <dp cp="6" ct="2601310111" l="RS1"/>
+</s>
+
+
+<s id="-5040855886902453859-2601301528-15" eva="8000050">
+    <m id="r2508486" t="h" from="2512140000" to="2612122359" cat="Information" ts="2512232303" ts-tts="26-01-29 23:16:04.949" pr="2"/>
+    <m id="r2564923" t="h" from="2601302011" to="2601310034" cat="Information" ts="2601300901" ts-tts="26-01-30 09:01:40.277" pr="2"/>
+    <m id="r2564922" t="h" from="2601302005" to="2601302011" cat="Information" ts="2601300859" ts-tts="26-01-30 09:00:02.960" pr="2"/>
+    <m id="r2565088" t="h" from="2601302011" to="2601310034" cat="Information" ts="2601301331" ts-tts="26-01-30 13:32:11.489" pr="3"/>
+    <m id="r2565089" t="h" from="2601302005" to="2601302011" cat="Information" ts="2601301333" ts-tts="26-01-30 13:33:18.015" pr="2"/>
+    <m id="r2565234" t="h" from="2601301528" to="2601302005" cat="Information" ts="2601301756" ts-tts="26-01-30 17:56:36.853" pr="2"/>
+    <ar ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf" cp="9" pp="10" ct="2601310105" pt="2601302314" fb="ICE 514">
+        <m id="r44583042" t="f" c="0" ts="2601300722" ts-tts="26-01-30 07:22:46.093"/>
+        <m id="r44643158" t="q" c="82" ts="2601301331" ts-tts="26-01-30 13:31:55.272"/>
+        <m id="r44643162" t="q" c="82" ts="2601301331" ts-tts="26-01-30 13:31:55.272"/>
+        <m id="r44643564" t="f" c="0" ts="2601301334" ts-tts="26-01-30 13:34:24.406"/>
+        <m id="r44643810" t="d" c="36" ts="2601301335" ts-tts="26-01-30 13:35:47.018"/>
+        <m id="r44643812" t="d" c="36" ts="2601301335" ts-tts="26-01-30 13:35:47.018"/>
+        <m id="r44686811" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44686812" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44686813" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44698143" t="f" c="0" ts="2601301759" ts-tts="26-01-30 17:59:38.446"/>
+        <m id="r44698145" t="f" c="0" ts="2601301759" ts-tts="26-01-30 17:59:38.446"/>
+        <m id="r44739090" t="f" c="0" ts="2601302311" ts-tts="26-01-30 23:11:13.936"/>
+        <m id="r44739093" t="f" c="0" ts="2601302311" ts-tts="26-01-30 23:11:13.936"/>
+        <m id="r44739124" t="f" c="0" ts="2601302312" ts-tts="26-01-30 23:12:32.981"/>
+        <m id="r44739539" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739540" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739541" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739542" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739543" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739544" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739675" t="f" c="0" ts="2601302322" ts-tts="26-01-30 23:22:36.748"/>
+        <m id="r44739898" t="f" c="0" ts="2601302327" ts-tts="26-01-30 23:27:21.564"/>
+        <m id="r44742033" t="f" c="0" ts="2601310012" ts-tts="26-01-31 00:12:28.550"/>
+        <m id="r44742828" t="f" c="0" ts="2601310029" ts-tts="26-01-31 00:29:23.532"/>
+        <m id="r44743053" t="f" c="0" ts="2601310031" ts-tts="26-01-31 00:31:43.875"/>
+        <m id="r44743129" t="f" c="0" ts="2601310032" ts-tts="26-01-31 00:32:30.689"/>
+        <m id="r44743844" t="f" c="0" ts="2601310050" ts-tts="26-01-31 00:50:07.550"/>
+    </ar>
+    <dp ppth="Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cp="9" pp="10" ct="2601310109" pt="2601302317" fb="ICE 514">
+        <m id="r44583042" t="f" c="0" ts="2601300722" ts-tts="26-01-30 07:22:46.093"/>
+        <m id="r44643158" t="q" c="82" ts="2601301331" ts-tts="26-01-30 13:31:55.272"/>
+        <m id="r44643162" t="q" c="82" ts="2601301331" ts-tts="26-01-30 13:31:55.272"/>
+        <m id="r44643564" t="f" c="0" ts="2601301334" ts-tts="26-01-30 13:34:24.406"/>
+        <m id="r44643810" t="d" c="36" ts="2601301335" ts-tts="26-01-30 13:35:47.018"/>
+        <m id="r44643812" t="d" c="36" ts="2601301335" ts-tts="26-01-30 13:35:47.018"/>
+        <m id="r44686811" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44686812" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44686813" t="f" c="0" ts="2601301702" ts-tts="26-01-30 17:02:11.141"/>
+        <m id="r44698143" t="f" c="0" ts="2601301759" ts-tts="26-01-30 17:59:38.446"/>
+        <m id="r44698145" t="f" c="0" ts="2601301759" ts-tts="26-01-30 17:59:38.446"/>
+        <m id="r44739090" t="f" c="0" ts="2601302311" ts-tts="26-01-30 23:11:13.936"/>
+        <m id="r44739093" t="f" c="0" ts="2601302311" ts-tts="26-01-30 23:11:13.936"/>
+        <m id="r44739124" t="f" c="0" ts="2601302312" ts-tts="26-01-30 23:12:32.981"/>
+        <m id="r44739539" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739540" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739541" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739542" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739543" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739544" t="f" c="0" ts="2601302320" ts-tts="26-01-30 23:20:45.662"/>
+        <m id="r44739675" t="f" c="0" ts="2601302322" ts-tts="26-01-30 23:22:36.748"/>
+        <m id="r44739898" t="f" c="0" ts="2601302327" ts-tts="26-01-30 23:27:21.564"/>
+        <m id="r44742033" t="f" c="0" ts="2601310012" ts-tts="26-01-31 00:12:28.550"/>
+        <m id="r44742828" t="f" c="0" ts="2601310029" ts-tts="26-01-31 00:29:23.532"/>
+        <m id="r44743053" t="f" c="0" ts="2601310031" ts-tts="26-01-31 00:31:43.875"/>
+        <m id="r44743129" t="f" c="0" ts="2601310032" ts-tts="26-01-31 00:32:30.689"/>
+        <m id="r44743844" t="f" c="0" ts="2601310050" ts-tts="26-01-31 00:50:07.550"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="514"/>
+</s>
+
+
+<s id="-3381879246070446505-2601310106-1" eva="8000050">
+    <dp ct="2601310106" l="RS1"/>
+</s>
+
+
+<s id="3133245188127562085-2601302344-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 20:10:40.707" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 11:05:55.201" pr="1"/>
+    <ar ct="2601310104" l="RS4">
+        <m id="r44741821" t="d" c="43" ts="2601310006" ts-tts="26-01-31 00:06:59.804"/>
+    </ar>
+</s>
+
+
+<s id="-1737298073980626747-2601310023-9" eva="8000050">
+    <ar ct="2601310102" l="RS2">
+        <m id="r44742703" t="d" c="33" ts="2601310027" ts-tts="26-01-31 00:27:50.117"/>
+        <m id="r44742704" t="d" c="33" ts="2601310027" ts-tts="26-01-31 00:27:50.117"/>
+    </ar>
+</s>
+
+
+<s id="-1393600387676819720-2601310626-9" eva="8000050">
+    <ar ct="2601311045"/>
+</s>
+
+
+<s id="9095766634084152066-2601310015-1" eva="8000050">
+    <dp ct="2601310019" l="RB41">
+        <m id="r44743305" t="d" c="48" ts="2601310035" ts-tts="26-01-31 00:35:06.722"/>
+    </dp>
+</s>
+
+
+<s id="-6027587483204218492-2601310013-1" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.461" pr="3"/>
+    <dp ct="2601310024" l="RE8"/>
+</s>
+
+
+<s id="-3024815793160970333-2601310019-1" eva="8000050">
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <dp cpth="Delmenhorst|Ganderkesee|Brettorf|Wildeshausen|Rechterfeld|Goldenstedt(Oldb)|Lutten|Vechta|Lohne(Oldb)" ct="2601310019" l="RB58"/>
+</s>
+
+
+<s id="7702481692019596064-2601310838-19" eva="8000050">
+    <m id="r2508009" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.458" pr="2"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+    <m id="r2565350" t="h" from="2601310838" to="2601311934" cat="Information" ts="2601310018" ts-tts="26-01-31 00:18:43.235" pr="2"/>
+</s>
+
+
+<s id="-6711388416932745535-2601311623-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="5723512830700480294-2601311620-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="-6235789055676348186-2601311626-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="4671002087373834566-2601311639-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="1018747300710142532-2601310010-1" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.946" pr="1"/>
+    <dp cpth="Heidkrug|Delmenhorst|Hoykenkamp|Schierbrok|Bookholzberg|Hude|Berne|Elsfleth|Kirchhammelwarden|Brake(Unterweser)|Rodenkirchen(Oldb)|Kleinensiel|Nordenham" cp="1" ct="2601310011" l="RS4"/>
+</s>
+
+
+<s id="-4242578966244765569-2601312205-1" eva="8000050">
+    <dp ppth="Osterholz-Scharmbeck|Bremerhaven Hbf|Bremerhaven-Lehe" pt="2601312205" l="SEV" fb="Bus SEV">
+        <m id="r44741674" t="f" c="0" ts="2601310002" ts-tts="26-01-31 00:02:48.882"/>
+    </dp>
+    <tl t="s" o="B1NIWE" c="Bus" n="94432"/>
+</s>
+
+
+<s id="6370718449906428070-2601312205-1" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <dp cpth="" ppth="Osterholz-Scharmbeck|Bremerhaven Hbf|Bremerhaven-Lehe" pt="2601312205" cs="c" clt="2601301247" l="SEV" fb="Bus SEV">
+        <m id="r44741662" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741664" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741665" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741667" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741668" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741670" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741671" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+        <m id="r44741673" t="d" c="31" ts="2601310002" ts-tts="26-01-31 00:02:48.881"/>
+    </dp>
+    <tl t="s" o="B1NIWE" c="Bus" n="84432"/>
+</s>
+
+
+<s id="-4040939006420560852-2601310114-1" eva="8000050">
+    <dp cpth="" ct="2601310114" cs="c" clt="2601310001" l="RB41">
+        <m id="r44741643" t="d" c="51" ts="2601310001" ts-tts="26-01-31 00:01:45.864"/>
+    </dp>
+</s>
+
+
+<s id="2774174590951633862-2601302219-5" eva="8000050">
+    <ar ct="2601302333">
+        <m id="r44740996" t="f" c="0" ts="2601302346" ts-tts="26-01-30 23:46:19.086"/>
+    </ar>
+    <dp ct="2601302349">
+        <m id="r44740996" t="f" c="0" ts="2601302346" ts-tts="26-01-30 23:46:19.086"/>
+    </dp>
+</s>
+
+
+<s id="5489382238418385337-2601302156-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-29 23:16:05.167" pr="2"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg" pp="7" ct="2601302341" pt="2601302307" fb="IC 60471">
+        <m id="r44734001" t="f" c="0" ts="2601302201" ts-tts="26-01-30 22:01:08.447"/>
+        <m id="r44734002" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:08.447"/>
+    </ar>
+    <dp ppth="Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="7" ct="2601302344" pt="2601302310" fb="IC 60471">
+        <m id="r44734001" t="f" c="0" ts="2601302201" ts-tts="26-01-30 22:01:08.447"/>
+        <m id="r44734002" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:08.447"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60471"/>
+</s>
+
+
+<s id="-521217330813819261-2601302156-5" eva="8000050">
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg" pp="7" ct="2601302341" pt="2601302307" wings="5489382238418385337-2601302156" fb="NJ 471">
+        <m id="r44734004" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+        <m id="r44734006" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+        <m id="r44734008" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+    </ar>
+    <dp ppth="Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="7" ct="2601302344" pt="2601302310" wings="5489382238418385337-2601302156" fb="NJ 471">
+        <m id="r44734004" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+        <m id="r44734006" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+        <m id="r44734008" t="d" c="47" ts="2601302201" ts-tts="26-01-30 22:01:24.480"/>
+    </dp>
+    <tl t="p" o="81" c="NJ" n="471"/>
+</s>
+
+
+<s id="-2240562093796049647-2601310744-15" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Nordenham|Kleinensiel|Rodenkirchen(Oldb)|Brake(Unterweser)|Kirchhammelwarden|Elsfleth|Berne|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310857" l="RS4"/>
+</s>
+
+
+<s id="-8873770964512943071-2601310749-10" eva="8000050">
+    <m id="r2565280" t="h" from="2601302009" to="2602042359" cat="Information" ts="2601302010" ts-tts="26-01-30 23:16:04.962" pr="3"/>
+    <m id="r2565002" t="h" from="2601301103" to="2602102359" cat="Information" ts="2601301105" ts-tts="26-01-30 23:16:04.945" pr="1"/>
+    <ar cpth="Oldenburg(Oldb)Hbf|Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug" ct="2601310827" l="RS3"/>
+</s>
+
+
+<s id="-1992722090288239569-2601310820-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="5085062897054794518-2601312032-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+    <ar ppth="Bremerhaven-Lehe|Bremerhaven Hbf|Osterholz-Scharmbeck" pt="2601312157" l="SEV" fb="Bus SEV">
+        <m id="r44735770" t="f" c="0" ts="2601302228" ts-tts="26-01-30 22:29:05.699"/>
+    </ar>
+    <tl t="s" o="B1NIWE" c="Bus" n="84437"/>
+</s>
+
+
+<s id="-3173835147474976418-2601311423-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-350618513588707994-2601311223-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="3838176069916942636-2601311023-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-7303449384110378485-2601310823-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-6159924678846710035-2601311526-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="4687176063881535341-2601311326-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="9160215714316272429-2601311126-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="3029482324965840650-2601310926-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.948" pr="3"/>
+</s>
+
+
+<s id="-5448700349423776324-2601311523-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar l="RE8">
+        <m id="r44724290" t="f" c="0" ts="2601302023" ts-tts="26-01-30 20:23:29.184"/>
+        <m id="r44726413" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:21.856"/>
+    </ar>
+    <dp l="RE8">
+        <m id="r44724290" t="f" c="0" ts="2601302023" ts-tts="26-01-30 20:23:29.184"/>
+        <m id="r44726413" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:21.856"/>
+    </dp>
+</s>
+
+
+<s id="2141360230809167391-2601311323-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="-5338661897164179532-2601311123-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="6957029625618749347-2601310923-4" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="8000944323800059120-2601311420-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="6956859578373426794-2601311220-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="2334510045756190526-2601311020-10" eva="8000050">
+    <m id="r2565086" t="h" from="2601301324" to="2602022359" cat="Information" ts="2601301325" ts-tts="26-01-30 23:16:04.947" pr="3"/>
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="-8796610692411741434-2601311416-9" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="-4512211485092713032-2601311142-10" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="4409286963365678022-2601311201-10" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="7707971615618156348-2601310936-13" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="-1154466046196233813-2601311342-10" eva="8000050">
+    <m id="r2563234" t="h" from="2601271337" to="2602022359" cat="Information" ts="2601271338" ts-tts="26-01-30 23:16:04.903" pr="3"/>
+</s>
+
+
+<s id="-5703640496454004355-2601310825-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+</s>
+
+
+<s id="-8705107722613527627-2601311059-22" eva="8000050">
+    <m id="r2508008" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.458" pr="2"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+</s>
+
+
+<s id="-4758242349678413284-2601311238-20" eva="8000050">
+    <m id="r2508007" t="h" from="2601100000" to="2610302359" cat="Information" ts="2601102302" ts-tts="26-01-30 23:16:04.458" pr="2"/>
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.762" pr="2"/>
+</s>
+
+
+<s id="-7956047615718350819-2601311426-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="-762086226758254325-2601311226-5" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="6981062773394189308-2601311241-15" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="-3368120460331749567-2601310915-1" eva="8000050">
+    <m id="r2557907" t="h" from="2601190000" to="2602192359" cat="Information" ts="2601182306" ts-tts="26-01-30 23:16:04.761" pr="2"/>
+</s>
+
+
+<s id="-6364364010955178729-2601311439-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="6093943806994168079-2601311520-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="-4024876283071378009-2601311239-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="2847706844180514194-2601311039-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="8982563108078925395-2601310839-13" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="7252316897530371232-2601311320-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+    <ar l="RE1">
+        <m id="r44724169" t="f" c="0" ts="2601302022" ts-tts="26-01-30 20:22:40.241"/>
+        <m id="r44726438" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:38.115"/>
+    </ar>
+    <dp l="RE1">
+        <m id="r44724169" t="f" c="0" ts="2601302022" ts-tts="26-01-30 20:22:40.241"/>
+        <m id="r44726438" t="f" c="0" ts="2601302041" ts-tts="26-01-30 20:41:38.115"/>
+    </dp>
+</s>
+
+
+<s id="-3862718574500346031-2601311120-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="8141540876536489961-2601310920-10" eva="8000050">
+    <m id="r2512714" t="h" from="2510241344" to="2602162359" cat="Information" ts="2510241345" ts-tts="26-01-30 23:16:04.460" pr="3"/>
+</s>
+
+
+<s id="9011011619156863439-2601310928-15" eva="8000050">
+    <m id="r2508582" t="h" from="2512141100" to="2612122359" cat="Information" ts="2512242302" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+</s>
+
+
+<s id="6954924236955692259-2601311328-15" eva="8000050">
+    <m id="r2508491" t="h" from="2512140000" to="2612122359" cat="Information" ts="2512232303" ts-tts="26-01-30 23:16:04.459" pr="2"/>
+</s>
+
+
+<s id="-2021997217480572690-2601302312-1" eva="8000050">
+    <m id="r2564579" t="h" from="2601291905" to="2602022359" cat="Information" ts="2601291906" ts-tts="26-01-29 23:16:05.203" pr="3"/>
+    <dp ct="2601302312" l="RE9"/>
+</s>
+
+
+<s id="-4260948404223494624-2601302336-15" eva="8000050">
+    <ar cpth="" ct="2601310106" cs="c" clt="2601302257" l="RB41">
+        <m id="r44738302" t="d" c="51" ts="2601302257" ts-tts="26-01-30 22:57:58.940"/>
+    </ar>
+</s>
+
+
+<s id="-4463983841688751065-2601302026-5" eva="8000050">
+    <m id="r1336377728alt" t="c" ts="2601302155" ts-tts="26-01-30 21:55:48.240"/>
+    <m id="r1336377724" t="c" ts="2601302155" ts-tts="26-01-30 21:55:47.846"/>
+    <m id="r1336377727alt" t="c" ts="2601302155" ts-tts="26-01-30 21:55:48.240"/>
+    <m id="r1336377725" t="c" ts="2601302155" ts-tts="26-01-30 21:55:47.846"/>
+    <m id="r1336377726alt" t="c" ts="2601302155" ts-tts="26-01-30 21:55:48.240"/>
+    <m id="r1336377726" t="c" ts="2601302155" ts-tts="26-01-30 21:55:47.846"/>
+    <m id="r1336377724alt" t="c" ts="2601302155" ts-tts="26-01-30 21:55:48.240"/>
+    <m id="r1336377727" t="c" ts="2601302155" ts-tts="26-01-30 21:55:47.846"/>
+    <m id="r1336377725alt" t="c" ts="2601302155" ts-tts="26-01-30 21:55:48.240"/>
+    <m id="r1336377728" t="c" ts="2601302155" ts-tts="26-01-30 21:55:47.846"/>
+    <ar ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg" pp="9" ct="2601302217" pt="2601302141" fb="ICE 209">
+        <m id="r44727953" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.090"/>
+        <m id="r44727955" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.090"/>
+        <m id="r44727956" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.091"/>
+        <m id="r44733443" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733445" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733444" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733446" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733448" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733447" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733451" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733453" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+        <m id="r44733452" t="f" c="0" ts="2601302155" ts-tts="26-01-30 21:56:04.116"/>
+    </ar>
+    <dp ppth="Diepholz|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf" pp="9" ct="2601302220" pt="2601302144" fb="ICE 209">
+        <m id="r44727953" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.091"/>
+        <m id="r44727955" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.091"/>
+        <m id="r44727956" t="d" c="43" ts="2601302053" ts-tts="26-01-30 20:53:48.091"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="209"/>
+</s>
+
+
+<s id="5926473462606976417-2601301926-5" eva="8000050">
+    <m id="r2565283" t="h" from="2601301926" to="2601310603" cat="Information" ts="2601302018" ts-tts="26-01-30 20:18:18.851" pr="2"/>
+    <m id="r1336377345" t="c" ts="2601302052" ts-tts="26-01-30 20:52:10.781"/>
+    <m id="r1336377346" t="c" ts="2601302052" ts-tts="26-01-30 20:52:10.781"/>
+    <m id="r1336377342" t="c" ts="2601302052" ts-tts="26-01-30 20:52:10.781"/>
+    <m id="r1336377343" t="c" ts="2601302052" ts-tts="26-01-30 20:52:10.781"/>
+    <ar cp="10" ct="2601302110">
+        <m id="r44700003" t="f" c="0" ts="2601301806" ts-tts="26-01-30 18:06:16.556"/>
+        <m id="r44700004" t="d" c="37" ts="2601301806" ts-tts="26-01-30 18:06:16.556"/>
+        <m id="r44723539" t="q" c="95" ts="2601302016" ts-tts="26-01-30 20:16:57.097"/>
+        <m id="r44723541" t="q" c="95" ts="2601302016" ts-tts="26-01-30 20:16:57.098"/>
+    </ar>
+    <dp cp="10" ct="2601302113">
+        <m id="r44700003" t="f" c="0" ts="2601301806" ts-tts="26-01-30 18:06:16.556"/>
+        <m id="r44700004" t="d" c="37" ts="2601301806" ts-tts="26-01-30 18:06:16.556"/>
+        <m id="r44723539" t="q" c="95" ts="2601302016" ts-tts="26-01-30 20:16:57.098"/>
+        <m id="r44723541" t="q" c="95" ts="2601302016" ts-tts="26-01-30 20:16:57.098"/>
+    </dp>
+</s>
+
+
+<s id="-8636832709416990866-2601310901-6" eva="8000050">
+    <ar l="20">
+        <m id="r44706465" t="f" c="1000" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706466" t="f" c="0" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706467" t="f" c="0" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706480" t="q" c="95" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706506" t="q" c="93" ts="2601301840" ts-tts="26-01-30 18:40:49.397"/>
+    </ar>
+    <dp l="20">
+        <m id="r44706465" t="f" c="1000" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706466" t="f" c="0" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706467" t="f" c="0" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706480" t="q" c="95" ts="2601301840" ts-tts="26-01-30 18:40:32.745"/>
+        <m id="r44706506" t="q" c="93" ts="2601301840" ts-tts="26-01-30 18:40:49.397"/>
+    </dp>
+</s>
+
+
+<s id="-4956399162740083947-2601310850-3" eva="8000050">
+    <ar l="20">
+        <m id="r44706317" t="f" c="1000" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706334" t="f" c="0" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706335" t="f" c="0" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706379" t="q" c="95" ts="2601301839" ts-tts="26-01-30 18:39:26.337"/>
+        <m id="r44706413" t="q" c="93" ts="2601301839" ts-tts="26-01-30 18:39:42.819"/>
+    </ar>
+    <dp l="20">
+        <m id="r44706317" t="f" c="1000" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706334" t="f" c="0" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706335" t="f" c="0" ts="2601301839" ts-tts="26-01-30 18:39:09.800"/>
+        <m id="r44706379" t="q" c="95" ts="2601301839" ts-tts="26-01-30 18:39:26.337"/>
+        <m id="r44706413" t="q" c="93" ts="2601301839" ts-tts="26-01-30 18:39:42.819"/>
+    </dp>
+</s>
+
+
+<s id="7250538864972190576-2601310745-6" eva="8000050">
+    <ar ct="2601310832" l="RS30"/>
+</s>
+
+</timetable>
