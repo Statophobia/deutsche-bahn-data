@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Darmstadt Hbf">
+	<s id="7675029310240990618-2602010435-1">
+		<tl f="S" t="p" o="800528" c="S" n="22294"/>
+		<dp pt="2602010435" pp="3" l="S6" fb="S6" ppth="Darmstadt-Arheilgen|Darmstadt-Wixhausen|Erzhausen|Egelsbach|Langen(Hess)"/>
+	</s>
+	<s id="-5632008299077702804-2602010405-1">
+		<tl f="S" t="p" o="800528" c="S" n="22292"/>
+		<dp pt="2602010405" pp="3" l="S6" fb="S6" ppth="Darmstadt-Arheilgen|Darmstadt-Wixhausen|Erzhausen|Egelsbach|Langen(Hess)"/>
+	</s>
+	<s id="-7925573021864738494-2602010442-6">
+		<tl f="S" t="p" o="800528" c="S" n="22201"/>
+		<ar pt="2602010456" pp="3" l="S6" fb="S6" ppth="Langen(Hess)|Egelsbach|Erzhausen|Darmstadt-Wixhausen|Darmstadt-Arheilgen"/>
+	</s>
+	<s id="3864357022787389605-2602010412-6">
+		<tl f="S" t="p" o="800528" c="S" n="22291"/>
+		<ar pt="2602010426" pp="3" l="S6" fb="S6" ppth="Langen(Hess)|Egelsbach|Erzhausen|Darmstadt-Wixhausen|Darmstadt-Arheilgen"/>
+	</s>
+	<s id="195016442212784038-2602010433-1">
+		<tl f="N" t="p" o="800574" c="RB" n="15301"/>
+		<dp pt="2602010433" pp="10" l="RB68" fb="RB68" ppth="Darmstadt Süd|Darmstadt-Eberstadt|Bickenbach(Bergstr)|Hähnlein-Alsbach|Zwingenberg(Bergstr)|Bensheim-Auerbach|Bensheim|Heppenheim(Bergstr)|Laudenbach(Bergstr)|Hemsbach|Weinheim-Sulzbach|Weinheim(Bergstr)Hbf|Weinheim-Lützelsachsen|Heddesheim/Hirschberg|Ladenburg|Neu-Edingen/Friedrichsfeld|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf"/>
+	</s>
+	<s id="-1197270886930040789-2601312053-7">
+		<tl f="F" t="p" o="NZ" c="IC" n="60408"/>
+		<ar pt="2602010440" pp="10" fb="IC 60408" ppth="Berlin Hbf|Berlin Südkreuz|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Fulda"/>
+		<dp pt="2602010442" pp="10" fb="IC 60408" ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5331894847185138451-2601312053-7">
+		<tl t="p" o="81" c="NJ" n="408"/>
+		<ar pt="2602010440" pp="10" fb="NJ 408" wings="-1197270886930040789-2601312053" ppth="Berlin Hbf|Berlin Südkreuz|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Fulda"/>
+		<dp pt="2602010442" pp="10" fb="NJ 408" hi="1" wings="-1197270886930040789-2601312053" ppth="Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>
