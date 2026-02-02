@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="2546276175697436247-2602022209-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18336"/>
+		<ar pt="2602022239" pp="14" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Schönefeld(bei Berlin)|Berlin-Schöneweide"/>
+		<dp pt="2602022241" pp="14" l="RB24" fb="RB24" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="4153153877719876337-2602022135-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18337"/>
+		<ar pt="2602022217" pp="13" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)"/>
+		<dp pt="2602022222" pp="13" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Schönefeld(bei Berlin)|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-5562432759744699257-2602022204-9">
+		<tl t="p" o="NBRB25" c="NEB" n="61216"/>
+		<ar pt="2602022242" pp="7" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde|Berlin-Lichtenberg"/>
+	</s>
+	<s id="8641365883405941010-2602022143-2">
+		<tl t="p" o="BB" c="Bus" n="83741"/>
+		<ar pt="2602022228" pp="" l="RE7" fb="Bus RE7" ppth="Königs Wusterhausen"/>
+	</s>
+	<s id="6775109912662563005-2602022230-1">
+		<tl t="p" o="BB" c="Bus" n="83136"/>
+		<dp pt="2602022230" pp="" l="RE2" fb="Bus RE2" ppth="Königs Wusterhausen"/>
+	</s>
+</timetable>
