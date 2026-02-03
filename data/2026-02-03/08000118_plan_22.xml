@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="6100354067616748635-2602032158-2">
+		<tl t="p" o="B2" c="Bus" n="201"/>
+		<ar pt="2602032216" pp="" l="S2" fb="Bus S2" ppth="Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2602032216" pp="" l="S2" fb="Bus S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+	</s>
+	<s id="3742440961287674842-2602031832-9">
+		<tl f="F" t="p" o="80" c="ICE" n="542"/>
+		<ar pt="2602032236" pp="5" fb="ICE 542" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Dortmund Hbf"/>
+		<dp pt="2602032237" pp="5" fb="ICE 542" ppth="Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="1288835920384952848-2602032226-2">
+		<tl t="p" o="B2" c="Bus" n="4225"/>
+		<ar pt="2602032246" pp="" l="RE42" fb="Bus RE42" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus"/>
+		<dp pt="2602032246" pp="" l="RE42" fb="Bus RE42" ppth="Herne-Wanne-Eickel Hbf|Recklinghausen Süd|Recklinghausen Hbf|Marl-Sinsen|Haltern am See"/>
+	</s>
+	<s id="3827232439201155119-2602032216-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89899"/>
+		<ar pt="2602032228" pp="6" l="RE3" fb="RE3" ppth="Oberhausen Hbf|Essen-Altenessen"/>
+		<dp pt="2602032229" pp="6" l="RE3" fb="RE3" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="50770787591072936-2602031650-10">
+		<tl f="F" t="p" o="80" c="ICE" n="528"/>
+		<ar pt="2602032220" pp="6" fb="ICE 528" ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf"/>
+		<dp pt="2602032221" pp="6" fb="ICE 528" ppth="Dortmund Hbf"/>
+	</s>
+	<s id="-3432942875825561985-2602032049-11">
+		<tl f="N" t="p" o="800349" c="RE" n="10234"/>
+		<ar pt="2602032208" pp="5" l="RE2" fb="RE2" ppth="Osnabrück Hbf|Hasbergen|Lengerich(Westf)|Ostbevern|Westbevern|Münster(Westf)Hbf|Dülmen|Haltern am See|Recklinghausen Hbf|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2602032209" pp="5" l="RE2" fb="RE2" ppth="Essen Hbf"/>
+	</s>
+	<s id="1853560848745830173-2602032133-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31277"/>
+		<ar pt="2602032200" pp="5" l="RB32" fb="RB32" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2602032201" pp="5" l="RB32" fb="RB32" ppth="Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf"/>
+	</s>
+	<s id="7403536901619736939-2602032107-13">
+		<tl f="N" t="p" o="800349" c="RE" n="10168"/>
+		<ar pt="2602032203" pp="4" l="RE42" fb="RE42" ppth="Münster(Westf)Hbf|Münster-Albachten|Senden-Bösensell|Nottuln-Appelhülsen|Buldern|Dülmen|Sythen|Haltern am See|Marl-Sinsen|Recklinghausen Hbf|Recklinghausen Süd|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2602032204" pp="4" l="RE42" fb="RE42" ppth="Essen Hbf"/>
+	</s>
+	<s id="-9034999726724842712-2602032203-4">
+		<tl t="p" o="B2" c="Bus" n="200"/>
+		<ar pt="2602032229" pp="" l="S2" fb="Bus S2" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2602032229" pp="" l="S2" fb="Bus S2" ppth="Herne-Wanne-Eickel Hbf"/>
+	</s>
+</timetable>
