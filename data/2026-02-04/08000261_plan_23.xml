@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="München Hbf">
+	<s id="3272146161175325165-2602042046-6">
+		<tl t="p" o="81" c="NJ" n="420"/>
+		<ar pt="2602042251" pp="14" fb="NJ 420" wings="-8677182982400525824-2602042046" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim"/>
+		<dp pt="2602042307" pp="14" fb="NJ 420" wings="-8677182982400525824-2602042046" ppth="Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe|Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-7621712260142359390-2602041534-16">
+		<tl f="F" t="p" o="80" c="ICE" n="605"/>
+		<ar pt="2602042328" pp="18" fb="ICE 605" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf"/>
+	</s>
+	<s id="2686007473625185344-2602042351-1">
+		<tl f="F" t="p" o="80" c="ICE" n="618"/>
+		<dp pt="2602042351" pp="18" fb="ICE 618" ppth="München-Pasing|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Solingen Hbf|Wuppertal Hbf|Hagen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-3019965818182152821-2602041822-9">
+		<tl f="F" t="p" o="80" c="ICE" n="729"/>
+		<ar pt="2602042328" pp="22" fb="ICE 729" ppth="Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf"/>
+	</s>
+	<s id="-8677182982400525824-2602042046-6">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2602042251" pp="14" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim"/>
+		<dp pt="2602042307" pp="14" fb="NJ 40420" ppth="Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="2998770966738646951-2602041517-14">
+		<tl f="F" t="p" o="80" c="ICE" n="693"/>
+		<ar pt="2602042336" pp="13" fb="ICE 693" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach Hbf|Fulda|Frankfurt(Main)Hbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf"/>
+	</s>
+	<s id="-3880380850482353172-2602042328-1">
+		<tl f="N" t="p" o="8013D" c="RB" n="27075"/>
+		<dp pt="2602042328" pp="11" l="RB40" fb="RB40" ppth="München Ost|Markt Schwaben|Hörlkofen|Walpertskirchen|Thann-Matzbach|Dorfen Bahnhof|Schwindegg|Ampfing|Mühldorf(Oberbay)"/>
+	</s>
+</timetable>
