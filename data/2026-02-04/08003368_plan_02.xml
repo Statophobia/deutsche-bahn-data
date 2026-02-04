@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<timetable station="Köln Messe/Deutz">
+	<s id="1506411504588296319-2602040250-1">
+		<tl t="p" o="TR" c="TR" n="25405"/>
+		<dp pt="2602040250" pp="7" l="RB26" fb="RB26" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf"/>
+	</s>
+	<s id="5614152672466660081-2602040110-8">
+		<tl t="p" o="B2" c="Bus" n="243"/>
+		<ar pt="2602040231" pp="" l="S19" fb="Bus S19" ppth="Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Köln/Bonn Flughafen|Köln Frankfurter Straße"/>
+		<dp pt="2602040231" pp="" l="S19" fb="Bus S19" ppth="Köln Hbf (Breslauer Platz)|Köln Hansaring|Köln-Ehrenfeld"/>
+	</s>
+	<s id="-4782980400620953302-2602040111-15">
+		<tl t="p" o="TR" c="TR" n="25400"/>
+		<ar pt="2602040208" pp="4" l="RB26" fb="RB26" ppth="Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf"/>
+	</s>
+	<s id="1575042318733565130-2602040040-8">
+		<tl t="p" o="B2" c="Bus" n="241"/>
+		<ar pt="2602040201" pp="" l="S19" fb="Bus S19" ppth="Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Köln/Bonn Flughafen|Köln Frankfurter Straße"/>
+		<dp pt="2602040201" pp="" l="S19" fb="Bus S19" ppth="Köln Hbf (Breslauer Platz)|Köln Hansaring|Köln-Ehrenfeld"/>
+	</s>
+	<s id="8551601094089585146-2602040212-4">
+		<tl t="p" o="B2" c="Bus" n="262"/>
+		<ar pt="2602040242" pp="" l="S19" fb="Bus S19" ppth="Köln-Ehrenfeld|Köln Hansaring|Köln Hbf (Breslauer Platz)"/>
+		<dp pt="2602040242" pp="" l="S19" fb="Bus S19" ppth="Köln Frankfurter Straße|Köln/Bonn Flughafen|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)"/>
+	</s>
+	<s id="6140076832609369616-2602040129-5">
+		<tl t="p" o="B2" c="Bus" n="265"/>
+		<ar pt="2602040204" pp="" l="S12" fb="Bus S12" ppth="Porz-Wahn|Porz(Rhein)|Köln Steinstraße|Köln Frankfurter Straße"/>
+		<dp pt="2602040204" pp="" l="S12" fb="Bus S12" ppth="Köln Hbf (Breslauer Platz)"/>
+	</s>
+	<s id="4306866796743888960-2602040142-4">
+		<tl t="p" o="B2" c="Bus" n="260"/>
+		<ar pt="2602040212" pp="" l="S19" fb="Bus S19" ppth="Köln-Ehrenfeld|Köln Hansaring|Köln Hbf (Breslauer Platz)"/>
+		<dp pt="2602040212" pp="" l="S19" fb="Bus S19" ppth="Köln Frankfurter Straße|Köln/Bonn Flughafen|Porz-Wahn|Spich|Troisdorf|Siegburg/Bonn|Hennef(Sieg)"/>
+	</s>
+	<s id="4891844356149092164-2602040140-5">
+		<tl t="p" o="NXRE" c="NX" n="26844"/>
+		<ar pt="2602040207" pp="4" l="RE1" fb="RE1" ppth="Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim"/>
+		<dp pt="2602040208" pp="4" l="RE1" fb="RE1" ppth="Köln Hbf"/>
+	</s>
+</timetable>

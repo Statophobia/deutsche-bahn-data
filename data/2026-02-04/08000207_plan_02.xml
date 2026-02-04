@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<timetable station="Köln Hbf">
+	<s id="-4782980400620953302-2602040111-14">
+		<tl t="p" o="TR" c="TR" n="25400"/>
+		<ar pt="2602040202" pp="2 A-C" l="RB26" fb="RB26" ppth="Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West"/>
+		<dp pt="2602040205" pp="2 A-C" l="RB26" fb="RB26" ppth="Köln Messe/Deutz"/>
+	</s>
+	<s id="8503777394879306018-2602032322-7">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2602040212" pp="4 A-C" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf"/>
+		<dp pt="2602040216" pp="4 A-C" fb="ICE 920" ppth="Düsseldorf Hbf|Gelsenkirchen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-4383803236760390820-2602031951-10">
+		<tl f="F" t="p" o="80" c="ICE" n="522"/>
+		<ar pt="2602040200" pp="5 D-G" fb="ICE 522" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Koblenz Hbf"/>
+	</s>
+	<s id="4891844356149092164-2602040140-6">
+		<tl t="p" o="NXRE" c="NX" n="26844"/>
+		<ar pt="2602040211" pp="5 D-G" l="RE1" fb="RE1" ppth="Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz"/>
+	</s>
+	<s id="1506411504588296319-2602040250-2">
+		<tl t="p" o="TR" c="TR" n="25405"/>
+		<ar pt="2602040253" pp="9 D-G" l="RB26" fb="RB26" ppth="Köln Messe/Deutz"/>
+		<dp pt="2602040256" pp="9 D-G" l="RB26" fb="RB26" ppth="Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf"/>
+	</s>
+</timetable>
