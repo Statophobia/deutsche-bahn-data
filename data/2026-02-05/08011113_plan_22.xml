@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="-7724390263517347378-2602051711-9">
+		<tl f="F" t="p" o="80" c="ICE" n="702"/>
+		<ar pt="2602052158" pp="6" fb="ICE 702" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Nürnberg Hbf|Bamberg|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2602052200" pp="6" fb="ICE 702" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="3499338043235512572-2602051934-7">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2602052233" pp="5" fb="ICE 609" ppth="Hamburg-Altona|Hamburg Hbf|Uelzen|Salzwedel|Berlin-Spandau|Berlin Hbf"/>
+		<dp pt="2602052235" pp="5" fb="ICE 609" ppth="Bitterfeld|Leipzig Hbf|Erfurt Hbf"/>
+	</s>
+	<s id="-4311660409771390843-2602051830-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1502"/>
+		<ar pt="2602052240" pp="7" fb="ICE 1502" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2602052242" pp="7" fb="ICE 1502" ppth="Berlin Hbf"/>
+	</s>
+	<s id="2564341677225037754-2602052120-9">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62037"/>
+		<ar pt="2602052205" pp="8" l="RE8" fb="RE8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2602052207" pp="8" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal"/>
+	</s>
+	<s id="410819220737616700-2602051910-28">
+		<tl f="N" t="p" o="800158" c="RE" n="93317"/>
+		<ar pt="2602052247" pp="4" l="RE3" fb="RE3" ppth="Stralsund Hbf|Wüstenfelde|Miltzow|Jeeser|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz"/>
+	</s>
+	<s id="6850087350808601376-2602052201-3">
+		<tl f="N" t="p" o="800158" c="RE" n="93358"/>
+		<ar pt="2602052210" pp="6" l="RE3" fb="RE3" ppth="Teltow|Berlin-Lichterfelde Ost"/>
+		<dp pt="2602052212" pp="6" l="RE3" fb="RE3" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf|Britz|Chorin|Angermünde|Pinnow(Uckermark)|Schwedt(Oder)Mitte|Schwedt(Oder)"/>
+	</s>
+</timetable>

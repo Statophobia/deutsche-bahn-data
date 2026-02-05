@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="1026453642466058867-2602051902-5">
+		<tl f="F" t="p" o="80" c="ICE" n="832"/>
+		<ar pt="2602052329" pp="7" fb="ICE 832" ppth="Frankfurt(Main)Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="-9062453103731034880-2602051855-9">
+		<tl f="F" t="p" o="80" c="ICE" n="500"/>
+		<ar pt="2602052356" pp="6" fb="ICE 500" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Berlin Südkreuz"/>
+	</s>
+	<s id="8793213226106504000-2602052036-7">
+		<tl f="F" t="p" o="80" c="ICE" n="705"/>
+		<ar pt="2602052319" pp="3" fb="ICE 705" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau"/>
+		<dp pt="2602052324" pp="3" fb="ICE 705" hi="1" ppth="Berlin Südkreuz"/>
+	</s>
+	<s id="393750974960766514-2602052331-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21960"/>
+		<ar pt="2602052353" pp="8" l="FEX" fb="FEX" pde="Blankenfelde(Teltow-Fläming)" ppth="Flughafen BER|Berlin Südkreuz|Berlin Potsdamer Platz"/>
+	</s>
+	<s id="1140779865956290650-2602051445-13">
+		<tl f="F" t="p" o="80" c="ICE" n="594"/>
+		<ar pt="2602052323" pp="5" fb="ICE 594" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz"/>
+		<dp pt="2602052335" pp="5" fb="ICE 594" ppth="Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-315375058425876729-2602052324-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3320"/>
+		<dp pt="2602052324" pp="6" l="RE3" fb="RE3" ppth="Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>
