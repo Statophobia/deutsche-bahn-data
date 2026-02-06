@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <timetable station="Duisburg Hbf">
-	<s id="8288265491630414928-2602060653-20">
-		<tl f="S" t="p" o="800337" c="S" n="30141"/>
-		<ar pt="2602060747" pp="9" l="S1" fb="S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten|Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk"/>
-	</s>
 	<s id="-8363857900852627382-2602060613-20">
 		<tl f="S" t="p" o="800337" c="S" n="30133"/>
 		<ar pt="2602060706" pp="9" l="S1" fb="S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten|Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk"/>
@@ -12,30 +8,13 @@
 		<tl t="p" o="R4NRN" c="Bus" n="40"/>
 		<ar pt="2602060708" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
 	</s>
-	<s id="-8666922013525541445-2602060743-1">
-		<tl t="p" o="TDRR" c="RRB" n="21364"/>
-		<dp pt="2602060743" pp="6" l="RB31" fb="RB31" ppth="Rheinhausen|Rumeln|Trompet|Moers"/>
-	</s>
-	<s id="-3205337618851039499-2602060712-3">
-		<tl t="p" o="NX" c="Bus" n="146"/>
-		<ar pt="2602060755" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
-	</s>
 	<s id="-7601973216026993006-2602060740-2">
 		<tl t="p" o="R4NRN" c="Bus" n="248"/>
 		<ar pt="2602060758" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
 	</s>
-	<s id="-5832794469817350520-2602060709-6">
-		<tl t="p" o="NXRE" c="NX" n="28507"/>
-		<ar pt="2602060740" pp="5" l="RE5" fb="RE5" ppth="Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
-		<dp pt="2602060742" pp="5" l="RE5" fb="RE5" ppth="Düsseldorf Hbf|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf"/>
-	</s>
 	<s id="-4517169031339566195-2602060715-1">
 		<tl t="p" o="NX" c="Bus" n="149"/>
 		<dp pt="2602060715" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
-	</s>
-	<s id="-2369616766678912331-2602060755-1">
-		<tl t="p" o="NX" c="Bus" n="157"/>
-		<dp pt="2602060755" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
 	</s>
 	<s id="-3676902740577658632-2602060516-18">
 		<tl t="p" o="NXRE" c="NX" n="28504"/>
@@ -50,6 +29,92 @@
 		<tl f="D" t="p" o="R4NRN" c="VIA" n="77009"/>
 		<ar pt="2602060715" pp="6" l="RE19" fb="RE19" ppth="Bocholt|Hamminkeln-Dingden|Hamminkeln|Wesel-Blumenkamp|Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
 		<dp pt="2602060717" pp="6" l="RE19" fb="RE19" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-9106280772781189561-2602060633-20">
+		<tl f="S" t="p" o="800337" c="S" n="30137"/>
+		<ar pt="2602060728" pp="11" l="S1" fb="S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten|Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk"/>
+	</s>
+	<s id="1440225916238019875-2602060729-1">
+		<tl t="p" o="R4NRN" c="Bus" n="485"/>
+		<dp pt="2602060729" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="-2187022803057735680-2602060638-13">
+		<tl f="N" t="p" o="800333" c="RB" n="10310"/>
+		<ar pt="2602060724" pp="8" l="RB33" fb="RB33" ppth="Mönchengladbach Hbf|Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd"/>
+	</s>
+	<s id="8609897688523563442-2602060717-3">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="77010"/>
+		<ar pt="2602060740" pp="8" l="RE19" fb="RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2602060742" pp="8" l="RE19" fb="RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel|Wesel-Blumenkamp|Hamminkeln|Hamminkeln-Dingden|Bocholt"/>
+	</s>
+	<s id="-4723458888876670154-2602060700-2">
+		<tl t="p" o="R4NRN" c="Bus" n="244"/>
+		<ar pt="2602060718" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="2442336460216998119-2602060710-2">
+		<tl t="p" o="R4NRN" c="Bus" n="48"/>
+		<ar pt="2602060728" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="4595239054286217962-2602060712-5">
+		<tl t="p" o="TDRR" c="RRB" n="21363"/>
+		<ar pt="2602060731" pp="8" l="RB31" fb="RB31" ppth="Moers|Trompet|Rumeln|Rheinhausen"/>
+	</s>
+	<s id="-125270389601306825-2602060720-2">
+		<tl t="p" o="R4NRN" c="Bus" n="246"/>
+		<ar pt="2602060738" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="1872840120447471982-2602060700-2">
+		<tl t="p" o="B2" c="Bus" n="56318"/>
+		<ar pt="2602060715" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum"/>
+	</s>
+	<s id="9148524114665222027-2602060622-3">
+		<tl t="p" o="NX" c="Bus" n="136"/>
+		<ar pt="2602060705" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="4547671352270682211-2602060739-1">
+		<tl t="p" o="R4NRN" c="Bus" n="271"/>
+		<dp pt="2602060739" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="7968565326430819960-2602060710-1">
+		<tl t="p" o="TDRR" c="RRB" n="26002"/>
+		<dp pt="2602060710" pp="6" l="RB31" fb="RB31" ppth="Rheinhausen|Rumeln|Trompet|Moers|Rheinberg(Rheinl)|Millingen(b Rheinb)|Alpen|Xanten"/>
+	</s>
+	<s id="8906321075631136606-2602060715-1">
+		<tl f="S" t="p" o="800337" c="S" n="30130"/>
+		<dp pt="2602060715" pp="5" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf|Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Mitte|Düsseldorf-Eller|Hilden|Hilden Süd|Solingen Vogelpark|Solingen Hbf"/>
+	</s>
+	<s id="1122359459901394770-2602060709-1">
+		<tl t="p" o="R4NRN" c="Bus" n="481"/>
+		<dp pt="2602060709" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="3958961668673360382-2602060702-3">
+		<tl t="p" o="NX" c="Bus" n="144"/>
+		<ar pt="2602060745" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="7707926964305754751-2602060652-3">
+		<tl t="p" o="NX" c="Bus" n="142"/>
+		<ar pt="2602060735" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="8288265491630414928-2602060653-20">
+		<tl f="S" t="p" o="800337" c="S" n="30141"/>
+		<ar pt="2602060747" pp="9" l="S1" fb="S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten|Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk"/>
+	</s>
+	<s id="-8666922013525541445-2602060743-1">
+		<tl t="p" o="TDRR" c="RRB" n="21364"/>
+		<dp pt="2602060743" pp="6" l="RB31" fb="RB31" ppth="Rheinhausen|Rumeln|Trompet|Moers"/>
+	</s>
+	<s id="-3205337618851039499-2602060712-3">
+		<tl t="p" o="NX" c="Bus" n="146"/>
+		<ar pt="2602060755" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
+	</s>
+	<s id="-5832794469817350520-2602060709-6">
+		<tl t="p" o="NXRE" c="NX" n="28507"/>
+		<ar pt="2602060740" pp="5" l="RE5" fb="RE5" ppth="Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
+		<dp pt="2602060742" pp="5" l="RE5" fb="RE5" ppth="Düsseldorf Hbf|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf"/>
+	</s>
+	<s id="-2369616766678912331-2602060755-1">
+		<tl t="p" o="NX" c="Bus" n="157"/>
+		<dp pt="2602060755" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
 	</s>
 	<s id="961011608895198010-2602060717-3">
 		<tl f="D" t="p" o="R4NRN" c="VIA" n="20010"/>
@@ -71,23 +136,6 @@
 	<s id="-2815974012639267859-2602060728-1">
 		<tl f="S" t="p" o="800337" c="S" n="30134"/>
 		<dp pt="2602060728" pp="6" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf|Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Mitte|Düsseldorf-Eller|Hilden|Hilden Süd|Solingen Vogelpark|Solingen Hbf"/>
-	</s>
-	<s id="-9106280772781189561-2602060633-20">
-		<tl f="S" t="p" o="800337" c="S" n="30137"/>
-		<ar pt="2602060728" pp="11" l="S1" fb="S1" ppth="Solingen Hbf|Solingen Vogelpark|Hilden Süd|Hilden|Düsseldorf-Eller|Düsseldorf-Eller Mitte|Düsseldorf-Oberbilk|Düsseldorf Volksgarten|Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Unterrath|Düsseldorf Flughafen|Angermund|Duisburg-Rahm|Duisburg-Großenbaum|Duisburg-Buchholz|Duisburg-Schlenk"/>
-	</s>
-	<s id="1440225916238019875-2602060729-1">
-		<tl t="p" o="R4NRN" c="Bus" n="485"/>
-		<dp pt="2602060729" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
-	</s>
-	<s id="-2187022803057735680-2602060638-13">
-		<tl f="N" t="p" o="800333" c="RB" n="10310"/>
-		<ar pt="2602060724" pp="8" l="RB33" fb="RB33" ppth="Mönchengladbach Hbf|Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd"/>
-	</s>
-	<s id="8609897688523563442-2602060717-3">
-		<tl f="D" t="p" o="R4NRN" c="VIA" n="77010"/>
-		<ar pt="2602060740" pp="8" l="RE19" fb="RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
-		<dp pt="2602060742" pp="8" l="RE19" fb="RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel|Wesel-Blumenkamp|Hamminkeln|Hamminkeln-Dingden|Bocholt"/>
 	</s>
 	<s id="170255349630211586-2602060625-13">
 		<tl f="D" t="p" o="R4NRN" c="VIA" n="74496"/>
@@ -119,10 +167,6 @@
 		<tl t="p" o="NX" c="Bus" n="155"/>
 		<dp pt="2602060745" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
 	</s>
-	<s id="-4723458888876670154-2602060700-2">
-		<tl t="p" o="R4NRN" c="Bus" n="244"/>
-		<ar pt="2602060718" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
-	</s>
 	<s id="4951578325228560190-2602060759-1">
 		<tl t="p" o="R4NRN" c="Bus" n="275"/>
 		<dp pt="2602060759" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
@@ -131,22 +175,10 @@
 		<tl t="p" o="R4NRN" c="Bus" n="26"/>
 		<ar pt="2602060748" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
 	</s>
-	<s id="2442336460216998119-2602060710-2">
-		<tl t="p" o="R4NRN" c="Bus" n="48"/>
-		<ar pt="2602060728" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
-	</s>
-	<s id="4595239054286217962-2602060712-5">
-		<tl t="p" o="TDRR" c="RRB" n="21363"/>
-		<ar pt="2602060731" pp="8" l="RB31" fb="RB31" ppth="Moers|Trompet|Rumeln|Rheinhausen"/>
-	</s>
 	<s id="6365289854589139755-2602060712-3">
 		<tl f="F" t="p" o="80" c="IC" n="2310"/>
 		<ar pt="2602060754" pp="8" fb="IC 2310" ppth="Köln Hbf|Düsseldorf Hbf"/>
 		<dp pt="2602060757" pp="8" fb="IC 2310" ppth="Gelsenkirchen Hbf|Recklinghausen Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg Hbf|Itzehoe|Heide(Holst)|Husum|Niebüll|Westerland(Sylt)"/>
-	</s>
-	<s id="-125270389601306825-2602060720-2">
-		<tl t="p" o="R4NRN" c="Bus" n="246"/>
-		<ar pt="2602060738" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
 	</s>
 	<s id="-3091059903966267622-2602060730-2">
 		<tl t="p" o="B2" c="Bus" n="56320"/>
@@ -156,17 +188,9 @@
 		<tl t="p" o="B2" c="Bus" n="30145"/>
 		<dp pt="2602060746" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum"/>
 	</s>
-	<s id="1872840120447471982-2602060700-2">
-		<tl t="p" o="B2" c="Bus" n="56318"/>
-		<ar pt="2602060715" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum"/>
-	</s>
 	<s id="-3196654600082003836-2602060735-1">
 		<tl t="p" o="NX" c="Bus" n="153"/>
 		<dp pt="2602060735" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus"/>
-	</s>
-	<s id="9148524114665222027-2602060622-3">
-		<tl t="p" o="NX" c="Bus" n="136"/>
-		<ar pt="2602060705" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
 	</s>
 	<s id="-5472785304732097704-2602060755-1">
 		<tl f="S" t="p" o="800337" c="S" n="30138"/>
@@ -176,25 +200,9 @@
 		<tl t="p" o="NX" c="Bus" n="140"/>
 		<ar pt="2602060725" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
 	</s>
-	<s id="4547671352270682211-2602060739-1">
-		<tl t="p" o="R4NRN" c="Bus" n="271"/>
-		<dp pt="2602060739" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
-	</s>
-	<s id="7968565326430819960-2602060710-1">
-		<tl t="p" o="TDRR" c="RRB" n="26002"/>
-		<dp pt="2602060710" pp="6" l="RB31" fb="RB31" ppth="Rheinhausen|Rumeln|Trompet|Moers|Rheinberg(Rheinl)|Millingen(b Rheinb)|Alpen|Xanten"/>
-	</s>
 	<s id="-3510373484856683498-2602060749-1">
 		<tl t="p" o="R4NRN" c="Bus" n="273"/>
 		<dp pt="2602060749" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
-	</s>
-	<s id="8906321075631136606-2602060715-1">
-		<tl f="S" t="p" o="800337" c="S" n="30130"/>
-		<dp pt="2602060715" pp="5" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf|Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Mitte|Düsseldorf-Eller|Hilden|Hilden Süd|Solingen Vogelpark|Solingen Hbf"/>
-	</s>
-	<s id="1122359459901394770-2602060709-1">
-		<tl t="p" o="R4NRN" c="Bus" n="481"/>
-		<dp pt="2602060709" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
 	</s>
 	<s id="89789995559039526-2602060632-3">
 		<tl t="p" o="NX" c="Bus" n="138"/>
@@ -203,13 +211,5 @@
 	<s id="-8160824385565189772-2602060735-1">
 		<tl f="N" t="p" o="800333" c="RB" n="10317"/>
 		<dp pt="2602060735" pp="6" l="RB33" fb="RB33" ppth="Duisburg-Hochfeld Süd|Rheinhausen Ost|Rheinhausen|Krefeld-Hohenbudberg Chempark|Krefeld-Uerdingen|Krefeld-Linn|Krefeld-Oppum|Krefeld Hbf|Forsthaus|Anrath|Viersen|Mönchengladbach Hbf"/>
-	</s>
-	<s id="3958961668673360382-2602060702-3">
-		<tl t="p" o="NX" c="Bus" n="144"/>
-		<ar pt="2602060745" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
-	</s>
-	<s id="7707926964305754751-2602060652-3">
-		<tl t="p" o="NX" c="Bus" n="142"/>
-		<ar pt="2602060735" pp="" l="RE1" fb="Bus RE1" ppth="Essen Hbf Kruppstraße/Am Thyssenhaus|Mülheim(Ruhr)Hbf"/>
 	</s>
 </timetable>
