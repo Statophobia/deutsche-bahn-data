@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<timetable station="Köln Messe/Deutz">
+	<s id="5517527363313679777-2602060420-2">
+		<tl t="p" o="NXRB" c="NX" n="17302"/>
+		<ar pt="2602060422" pp="5" l="RB48" fb="RB48" ppth="Köln Hbf"/>
+		<dp pt="2602060423" pp="5" l="RB48" fb="RB48" ppth="Opladen"/>
+	</s>
+	<s id="2923008234865591261-2602060340-5">
+		<tl t="p" o="NXRE" c="NX" n="47110"/>
+		<ar pt="2602060407" pp="8" l="RE1" fb="RE1" ppth="Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim"/>
+		<dp pt="2602060408" pp="8" l="RE1" fb="RE1" ppth="Köln Hbf"/>
+	</s>
+	<s id="8192214262536877399-2602060443-1">
+		<tl t="p" o="B2" c="Bus" n="2512"/>
+		<dp pt="2602060443" pp="" l="RB25" fb="Bus RB25" ppth="Köln Frankfurter Straße"/>
+	</s>
+	<s id="-4659129477641518114-2602060333-9">
+		<tl t="p" o="TR" c="TR" n="25404"/>
+		<ar pt="2602060408" pp="4" l="RB26" fb="RB26" ppth="Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf"/>
+		<dp pt="2602060410" pp="4" l="RB26" fb="RB26" ppth="Köln/Bonn Flughafen"/>
+	</s>
+	<s id="3863393902937875057-2602060415-1">
+		<tl f="N" t="p" o="800352" c="RE" n="10005"/>
+		<dp pt="2602060415" pp="7" l="RE22" fb="RE22" ppth="Köln Hbf|Köln West|Köln Süd|Erftstadt|Weilerswist|Euskirchen|Mechernich|Kall"/>
+	</s>
+	<s id="-3550828330652654696-2602060422-7">
+		<tl f="S" t="p" o="8003S" c="S" n="31001"/>
+		<ar pt="2602060453" pp="5" l="S19" fb="S19" ppth="Hennef(Sieg)|Siegburg/Bonn|Troisdorf|Spich|Porz-Wahn|Köln/Bonn Flughafen"/>
+		<dp pt="2602060454" pp="5" l="S19" fb="S19" ppth="Köln Hbf|Köln Hansaring|Köln-Ehrenfeld|Köln-Müngersdorf Technologiepark|Lövenich|Köln-Weiden West|Frechen-Königsdorf|Horrem|Sindorf|Buir|Merzenich|Düren"/>
+	</s>
+	<s id="7579289435979691899-2602060448-2">
+		<tl t="p" o="NXRE" c="NX" n="22107"/>
+		<ar pt="2602060458" pp="5" l="RE6" fb="RE6" ppth="Köln/Bonn Flughafen"/>
+		<dp pt="2602060459" pp="5" l="RE6" fb="RE6" ppth="Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="-5170724410684220270-2602060438-2">
+		<tl t="p" o="TR" c="TR" n="25409"/>
+		<ar pt="2602060448" pp="7" l="RB26" fb="RB26" ppth="Köln/Bonn Flughafen"/>
+		<dp pt="2602060450" pp="7" l="RB26" fb="RB26" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf"/>
+	</s>
+	<s id="-9089370834468156186-2602060312-6">
+		<tl t="p" o="NXRE" c="NX" n="89746"/>
+		<ar pt="2602060359" pp="4" l="RE6" fb="RE6" ppth="Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf|Dormagen|Köln Hbf"/>
+		<dp pt="2602060401" pp="4" l="RE6" fb="RE6" ppth="Köln/Bonn Flughafen"/>
+	</s>
+	<s id="-4101060102221793147-2602060450-1">
+		<tl f="N" t="p" o="8003G2" c="RE" n="10800"/>
+		<dp pt="2602060450" pp="5" l="RE8" fb="RE8" ppth="Köln Hbf|Köln-Ehrenfeld|Pulheim|Stommeln|Rommerskirchen|Grevenbroich|Jüchen|Hochneukirch|Rheydt-Odenkirchen|Rheydt Hbf|Mönchengladbach Hbf"/>
+	</s>
+</timetable>
