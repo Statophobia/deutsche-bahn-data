@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="1026453642466058867-2602061902-4">
+		<tl f="F" t="p" o="80" c="ICE" n="832"/>
+		<ar pt="2602062326" pp="2" fb="ICE 832" ppth="Frankfurt(Main)Hbf|Erfurt Hbf|Halle(Saale)Hbf"/>
+	</s>
+	<s id="3265133052771071185-2602062204-13">
+		<tl f="N" t="p" o="800158" c="RE" n="3359"/>
+		<ar pt="2602062333" pp="4" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="8793213226106504000-2602062036-7">
+		<tl f="F" t="p" o="80" c="ICE" n="705"/>
+		<ar pt="2602062319" pp="3" fb="ICE 705" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf|Berlin-Spandau"/>
+	</s>
+	<s id="450159185692254127-2602062209-10">
+		<tl f="N" t="p" o="800158" c="RE" n="3162"/>
+		<ar pt="2602062305" pp="2" l="RE4" fb="RE4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide"/>
+	</s>
+	<s id="2502662779829118814-2602062309-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3185"/>
+		<dp pt="2602062309" pp="7" l="RE4" fb="RE4" ppth="Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="-315375058425876729-2602062324-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3320"/>
+		<dp pt="2602062324" pp="6" l="RE3" fb="RE3" ppth="Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+</timetable>
