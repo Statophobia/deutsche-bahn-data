@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostbahnhof">
+	<s id="-1430869917883125442-2602062323-22">
+		<tl f="N" t="p" o="800165" c="RE" n="3742"/>
+		<ar pt="2602070114" pp="2" l="RE7" fb="RE7" ppth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+		<dp pt="2602070116" pp="2" l="RE7" fb="RE7" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-5083558051405008269-2602062028-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1500"/>
+		<ar pt="2602070144" pp="" fb="ICE 1500" wings="-866745924659980854-2602062028" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Leipzig Hbf|Berlin Hbf"/>
+	</s>
+	<s id="-649058799789580020-2602062234-10">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2602070140" pp="2" fb="ICE 1707" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Lüneburg|Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf"/>
+	</s>
+	<s id="6739903574033711908-2602070122-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21800"/>
+		<ar pt="2602070147" pp="7" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2602070149" pp="7" l="FEX" fb="FEX" ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-885623945868688596-2602061909-13">
+		<tl f="F" t="p" o="80" c="ICE" n="700"/>
+		<ar pt="2602070117" pp="3" fb="ICE 700" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Treuchtlingen|Nürnberg Hbf|Erlangen|Bamberg|Coburg|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf"/>
+	</s>
+	<s id="-5863987507087835494-2602070133-6">
+		<tl f="N" t="p" o="800165" c="RE" n="21969"/>
+		<ar pt="2602070153" pp="3" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+		<dp pt="2602070155" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-6149130288239388797-2602070042-6">
+		<tl f="N" t="p" o="800165" c="RE" n="3140"/>
+		<ar pt="2602070102" pp="1" l="RE2" fb="RE2" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+		<dp pt="2602070105" pp="1" l="RE2" fb="RE2" ppth="Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Kolkwitz|Cottbus Hbf"/>
+	</s>
+</timetable>

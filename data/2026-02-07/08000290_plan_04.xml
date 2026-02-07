@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="9151403644576679171-2602062047-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2602070450" pp="1" fb="IC 60403" ppth="Utrecht Centraal|Eindhoven Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden"/>
+		<dp pt="2602070452" pp="1" fb="IC 60403" ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="8091060315035183564-2602062047-11">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2602070450" pp="1" fb="NJ 403" wings="9151403644576679171-2602062047" ppth="Utrecht Centraal|Eindhoven Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden"/>
+		<dp pt="2602070452" pp="1" fb="NJ 403" hi="1" wings="9151403644576679171-2602062047" ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-522102261798380111-2602070447-1">
+		<tl f="N" t="p" o="800647" c="RE" n="4700"/>
+		<dp pt="2602070447" pp="5" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Muggensturm|Malsch|Bruchhausen(b Ettlingen)|Ettlingen West|Karlsruhe Hbf"/>
+	</s>
+</timetable>
