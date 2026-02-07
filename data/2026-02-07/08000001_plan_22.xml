@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Aachen Hbf">
+	<s id="5678133201420590456-2602071920-26">
+		<tl t="p" o="NXRE" c="NX" n="26832"/>
+		<ar pt="2602072207" pp="2" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde"/>
+	</s>
+	<s id="1476217225797495981-2602072108-2">
+		<tl f="S" t="p" o="88" c="S" n="5021"/>
+		<ar pt="2602072222" pp="9" l="S41" fb="S41" pde="Liège-Saint-Lambert" ppth="Hergenrath"/>
+	</s>
+	<s id="-1252736774691066995-2602072251-1">
+		<tl t="p" o="NXRE" c="NX" n="26841"/>
+		<dp pt="2602072251" pp="2" l="RE1" fb="RE1" ppth="Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="-1205068434198482951-2602072124-6">
+		<tl t="p" o="B2" c="Bus" n="1857"/>
+		<ar pt="2602072227" pp="" l="RE18" fb="Bus RE18" ppth="Heerlen|Landgraaf|Eygelshoven Markt|Herzogenrath|Aachen West"/>
+	</s>
+	<s id="-1331844576850405885-2602072237-1">
+		<tl f="S" t="p" o="800310" c="S" n="5043"/>
+		<dp pt="2602072237" pp="9" l="S41" fb="S41" pde="Liège-Guillemins" ppth="Hergenrath"/>
+	</s>
+	<s id="1555483896112278137-2602071956-7">
+		<tl f="F" t="p" o="80" c="ICE" n="318"/>
+		<ar pt="2602072200" pp="9" fb="ICE 318" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Limburg Süd|Montabaur|Siegburg/Bonn|Köln Hbf"/>
+		<dp pt="2602072218" pp="9" fb="ICE 318" ppth="Liège-Guillemins|Bruxelles-Nord|Bruxelles Midi"/>
+	</s>
+	<s id="-7832277895379954734-2602072230-1">
+		<tl t="p" o="B2" c="Bus" n="1860"/>
+		<dp pt="2602072230" pp="" l="RE18" fb="Bus RE18" ppth="Aachen West|Herzogenrath|Eygelshoven Markt|Landgraaf|Heerlen"/>
+	</s>
+</timetable>
