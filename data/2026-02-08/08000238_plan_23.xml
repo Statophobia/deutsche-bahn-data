@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="4233605495763225145-2602082306-3">
+		<tl f="D" t="p" o="X1" c="erx" n="82407"/>
+		<ar pt="2602082321" pp="5" l="RE83" fb="RE83" ppth="Lauenburg(Elbe)|Echem"/>
+	</s>
+	<s id="-649058799789580020-2602082234-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2602082314" pp="1" fb="ICE 1707" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2602082316" pp="1" fb="ICE 1707" ppth="Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="1645690183033695457-2602082233-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81643"/>
+		<ar pt="2602082324" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="3807530202244831567-2602082338-1">
+		<tl f="D" t="p" o="X1" c="erx" n="82410"/>
+		<dp pt="2602082338" pp="5" l="RE83" fb="RE83" ppth="Echem|Lauenburg(Elbe)"/>
+	</s>
+	<s id="-1290839640796586839-2602081811-9">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2602082325" pp="2" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+		<dp pt="2602082327" pp="2" fb="ICE 782" ppth="Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2614635043189967845-2602082334-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81642"/>
+		<dp pt="2602082334" pp="3" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7605444045761975293-2602082332-1">
+		<tl t="p" o="R1" c="Bus" n="3143"/>
+		<dp pt="2602082332" pp="" l="RB31" fb="Bus RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+</timetable>
