@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="-2137324586588502697-2602080311-1">
+		<tl f="N" t="p" o="8005L2" c="RB" n="13960"/>
+		<dp pt="2602080311" pp="4a" l="RB26" fb="RB26" ppth="Mainz-Mombach|Budenheim|Uhlerborn|Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf"/>
+	</s>
+	<s id="-2696361723584649992-2602080310-1">
+		<tl t="p" o="V6RB" c="vlx" n="29282"/>
+		<dp pt="2602080310" pp="8" l="RB31" fb="RB31" ppth="Mainz Waggonfabrik|Mainz-Gonsenheim|Mainz-Marienborn|Klein Winternheim-Ober Olm|Nieder Olm|Saulheim|Wörrstadt|Armsheim|Albig|Alzey"/>
+	</s>
+	<s id="8868050453695511606-2602072159-9">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2602080347" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2602072159" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf"/>
+		<dp pt="2602080349" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2602072159" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal"/>
+	</s>
+	<s id="4753870957390372842-2602072159-9">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2602080347" pp="1a/b" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf"/>
+		<dp pt="2602080349" pp="1a/b" fb="IC 60402" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal"/>
+	</s>
+	<s id="9092617554207509932-2602080308-1">
+		<tl f="S" t="p" o="801518" c="S" n="38667"/>
+		<dp pt="2602080308" pp="6a" l="S6" fb="S6" ppth="Mainz Römisches Theater|Mainz-Laubenheim|Bodenheim|Nackenheim|Nierstein|Oppenheim|Dienheim|Guntersblum|Alsheim|Mettenheim|Osthofen|Worms Hbf"/>
+	</s>
+</timetable>
