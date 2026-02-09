@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="-2457668782100636725-2602090446-5">
+		<tl t="p" o="TDRR" c="RRB" n="26077"/>
+		<ar pt="2602090458" pp="15" l="RB36" fb="RB36" ppth="Duisburg-Ruhrort|Duisburg-Meiderich Süd|Duisburg-Meiderich Ost|Duisburg-Obermeiderich"/>
+	</s>
+	<s id="3007715070900035392-2602090431-1">
+		<tl t="p" o="TDRR" c="RRB" n="26078"/>
+		<dp pt="2602090431" pp="15" l="RB36" fb="RB36" ppth="Duisburg-Obermeiderich|Duisburg-Meiderich Ost|Duisburg-Meiderich Süd|Duisburg-Ruhrort"/>
+	</s>
+	<s id="6295926956655463216-2602090438-1">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31242"/>
+		<dp pt="2602090438" pp="13" l="RB32" fb="RB32" ppth="Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="5169140490269121951-2602090447-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30304"/>
+		<dp pt="2602090447" pp="11" l="S3" fb="S3" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)West|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Horst|Bochum-Dahlhausen|Hattingen(Ruhr)|Hattingen(Ruhr) Mitte"/>
+	</s>
+	<s id="-389765114355125159-2602090343-6">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20003"/>
+		<ar pt="2602090407" pp="12" l="RE19" fb="RE19" ppth="Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
+		<dp pt="2602090408" pp="12" l="RE19" fb="RE19" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="-8641597560079827523-2602090340-3">
+		<tl t="p" o="R2" c="Bus" n="3078"/>
+		<ar pt="2602090425" pp="" l="RE3" fb="Bus RE3" ppth="Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2602090425" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="-5341290488582403088-2602090402-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31287"/>
+		<ar pt="2602090422" pp="13" l="RB32" fb="RB32" ppth="Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig"/>
+	</s>
+</timetable>
