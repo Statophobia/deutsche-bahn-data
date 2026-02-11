@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Zoologischer Garten">
+	<s id="3148099292812783603-2602112211-5">
+		<tl f="N" t="p" o="800165" c="RE" n="92741"/>
+		<ar pt="2602112227" pp="4" l="RE7" fb="RE7" ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2602112229" pp="4" l="RE7" fb="RE7" ppth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+	<s id="7035209816659338176-2602112054-21">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73747"/>
+		<ar pt="2602112251" pp="3" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-7645201488230247562-2602112202-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73790"/>
+		<dp pt="2602112202" pp="3" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-5978303486513211708-2602111809-10">
+		<tl f="F" t="p" o="80" c="ICE" n="792"/>
+		<ar pt="2602112233" pp="1" fb="ICE 792" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf"/>
+		<dp pt="2602112235" pp="1" fb="ICE 792" hi="1" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-441589796404228076-2602111724-11">
+		<tl f="F" t="p" o="80" c="ICE" n="945"/>
+		<ar pt="2602112212" pp="2" fb="ICE 945" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf"/>
+		<dp pt="2602112214" pp="2" fb="ICE 945" hi="1" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="612366278194031955-2602112103-13">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2602112242" pp="4" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2602112244" pp="4" l="RE2" fb="RE2" ppth="Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Hennigsdorf(b Berlin)"/>
+	</s>
+</timetable>

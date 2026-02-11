@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="3148099292812783603-2602112211-4">
+		<tl f="N" t="p" o="800165" c="RE" n="92741"/>
+		<ar pt="2602112221" pp="13" l="RE7" fb="RE7" ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2602112223" pp="13" l="RE7" fb="RE7" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+	<s id="-5978303486513211708-2602111809-11">
+		<tl f="F" t="p" o="80" c="ICE" n="792"/>
+		<ar pt="2602112239" pp="11" fb="ICE 792" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2602112242" pp="11" fb="ICE 792" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-441589796404228076-2602111724-12">
+		<tl f="F" t="p" o="80" c="ICE" n="945"/>
+		<ar pt="2602112219" pp="12" fb="ICE 945" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2602112223" pp="12" fb="ICE 945" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="612366278194031955-2602112103-12">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2602112235" pp="14" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2602112237" pp="14" l="RE2" fb="RE2" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Hennigsdorf(b Berlin)"/>
+	</s>
+</timetable>
