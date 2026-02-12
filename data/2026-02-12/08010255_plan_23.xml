@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostbahnhof">
+	<s id="4201110043858422061-2602122304-1">
+		<tl f="N" t="p" o="800165" c="RE" n="93743"/>
+		<dp pt="2602122304" pp="7" l="RE7" fb="RE7" ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-6238175347891583359-2602122337-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<dp pt="2602122337" pp="6" fb="ICE 1540" ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Gelsenkirchen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="7696674432816068782-2602121825-15">
+		<tl f="F" t="p" o="80" c="ICE" n="645"/>
+		<ar pt="2602122329" pp="2" fb="ICE 645" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf"/>
+	</s>
+	<s id="1803816001739031859-2602122310-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21958"/>
+		<ar pt="2602122331" pp="7" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Ostkreuz"/>
+		<dp pt="2602122333" pp="7" l="FEX" fb="FEX" ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="935907070015440052-2602122335-6">
+		<tl f="N" t="p" o="800165" c="RE" n="93740"/>
+		<ar pt="2602122356" pp="3" l="RE7" fb="RE7" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+	</s>
+	<s id="7630315185751079111-2602122315-1">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<dp pt="2602122315" pp="6" fb="ICE 273" ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-5328965667779335365-2602122200-10">
+		<tl f="N" t="p" o="800165" c="RE" n="3139"/>
+		<ar pt="2602122322" pp="6" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kolkwitz|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz"/>
+		<dp pt="2602122324" pp="6" l="RE2" fb="RE2" ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-8784812517696267066-2602122202-10">
+		<tl f="N" t="p" o="800165" c="RE" n="3136"/>
+		<ar pt="2602122303" pp="2" l="RE2" fb="RE2" ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz"/>
+		<dp pt="2602122305" pp="2" l="RE2" fb="RE2" ppth="Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Kolkwitz|Cottbus Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Harburg">
+	<s id="2522783045729922795-2602121945-6">
+		<tl t="p" o="NY" c="MSM" n="332"/>
+		<ar pt="2602122347" pp="2" fb="MSM 332" ppth="Köln Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Tostedt"/>
+		<dp pt="2602122347" pp="2" fb="MSM 332" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-4758242349678413284-2602121238-22">
+		<tl f="F" t="p" o="85" c="ICE" n="104"/>
+		<ar pt="2602122304" pp="2" fb="ICE 104" ppth="Chur|Landquart|Sargans|Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf"/>
+		<dp pt="2602122306" pp="2" fb="ICE 104" hi="1" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="8991210418572699482-2602122348-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81945"/>
+		<dp pt="2602122348" pp="2" l="RB41" fb="RB41" ppth="Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland|Bremen Hbf"/>
+	</s>
+	<s id="6460993900723984023-2602122333-2">
+		<tl f="D" t="p" o="R1" c="ME" n="81645"/>
+		<ar pt="2602122343" pp="4" l="RB31" fb="RB31" ppth="Hamburg Hbf"/>
+		<dp pt="2602122346" pp="4" l="RB31" fb="RB31" ppth="Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="-5374722233891050366-2602122228-9">
+		<tl f="D" t="p" o="R1" c="ME" n="81940"/>
+		<ar pt="2602122313" pp="2" l="RB41" fb="RB41" ppth="Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld"/>
+		<dp pt="2602122314" pp="2" l="RB41" fb="RB41" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-1290839640796586839-2602121811-10">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2602122344" pp="1" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Lüneburg"/>
+		<dp pt="2602122346" pp="1" fb="ICE 782" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="908614775785589596-2602122300-1">
+		<tl t="p" o="R1" c="Bus" n="4243"/>
+		<dp pt="2602122300" pp="" l="RB41" fb="Bus RB41" ppth="Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze"/>
+	</s>
+	<s id="-1004081785502781755-2602122255-2">
+		<tl f="D" t="p" o="R1" c="ME" n="81677"/>
+		<ar pt="2602122305" pp="4" l="RE3" fb="RE3" ppth="Hamburg Hbf"/>
+		<dp pt="2602122306" pp="4" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Lüneburg"/>
+	</s>
+	<s id="3655846017428359643-2602122234-9">
+		<tl f="D" t="p" o="R1" c="ME" n="81640"/>
+		<ar pt="2602122309" pp="1" l="RB31" fb="RB31" ppth="Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+		<dp pt="2602122310" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf"/>
+	</s>
+</timetable>
