@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Spandau">
+	<s id="-8398605960620882941-2602132238-5">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62084"/>
+		<ar pt="2602132259" pp="3" l="RB10" fb="RB10" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide"/>
+		<dp pt="2602132303" pp="3" l="RB10" fb="RB10" ppth="Dallgow-Döberitz|Wustermark"/>
+	</s>
+	<s id="4512456530991552636-2602132130-22">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62039"/>
+		<ar pt="2602132335" pp="3" l="RE8" fb="RE8" ppth="Elsterwerda|Hohenleipisch|Rückersdorf|Doberlug-Kirchhain|Walddrehna|Luckau-Uckro|Drahnsdorf|Golßen(Niederlausitz)|Klasdorf Glashütte|Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide"/>
+		<dp pt="2602132337" pp="3" l="RE8" fb="RE8" ppth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark"/>
+	</s>
+	<s id="-3223884582589861350-2602132050-9">
+		<tl t="p" o="BB" c="Bus" n="73180"/>
+		<ar pt="2602132319" pp="" l="RE4" fb="Bus RE4" ppth="Stendal Hbf|Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+	</s>
+	<s id="-3791277548252315104-2602132355-1">
+		<tl t="p" o="BB" c="Bus" n="73185"/>
+		<dp pt="2602132355" pp="" l="RE4" fb="Bus RE4" ppth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="5409537624591854520-2602132300-4">
+		<tl f="N" t="p" o="800165" c="RE" n="91522"/>
+		<ar pt="2602132331" pp="5" l="RE2" fb="RE2" ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2602132334" pp="5" l="RE2" fb="RE2" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz"/>
+	</s>
+	<s id="8617305306705083970-2602131345-22">
+		<tl f="F" t="p" o="85" c="ICE" n="276"/>
+		<ar pt="2602132316" pp="6" fb="ICE 276" ppth="Brig|Visp|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf"/>
+		<dp pt="2602132318" pp="6" fb="ICE 276" hi="1" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-5042203322256685863-2602132238-4">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62085"/>
+		<ar pt="2602132259" pp="6" l="RB10" fb="RB10" ppth="Wustermark|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2602132301" pp="6" l="RB10" fb="RB10" ppth="Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-8233080425459993931-2602132210-8">
+		<tl t="p" o="BB" c="Bus" n="78274"/>
+		<ar pt="2602132337" pp="" l="RB21" fb="Bus RB21" ppth="Science Park/Universität, Potsdam|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+	</s>
+	<s id="1116582127434716517-2602132200-8">
+		<tl t="p" o="BB" c="Bus" n="73162"/>
+		<ar pt="2602132349" pp="" l="RE4" fb="Bus RE4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+	</s>
+	<s id="-3544638752701180106-2602132126-6">
+		<tl f="F" t="p" o="80" c="ICE" n="901"/>
+		<ar pt="2602132356" pp="5" fb="ICE 901" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Uelzen|Salzwedel"/>
+		<dp pt="2602132359" pp="5" fb="ICE 901" hi="1" ppth="Berlin Hbf"/>
+	</s>
+	<s id="8793213226106504000-2602132036-6">
+		<tl f="F" t="p" o="80" c="ICE" n="705"/>
+		<ar pt="2602132304" pp="5" fb="ICE 705" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Salzwedel|Stendal Hbf"/>
+		<dp pt="2602132306" pp="5" fb="ICE 705" hi="1" ppth="Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="7630315185751079111-2602132315-4">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2602132343" pp="4" fb="ICE 273" hi="1" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2602132344" pp="4" fb="ICE 273" ppth="Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-4125762717351133926-2602132316-7">
+		<tl f="N" t="p" o="800158" c="RE" n="3182"/>
+		<ar pt="2602132352" pp="6" l="RE4" fb="RE4" ppth="Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2602132354" pp="6" l="RE4" fb="RE4" ppth="Berlin Jungfernheide|Berlin Hbf"/>
+	</s>
+</timetable>
