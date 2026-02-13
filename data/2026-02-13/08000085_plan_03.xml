@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Düsseldorf Hbf">
+	<s id="1895439589008764550-2602130204-4">
+		<tl t="p" o="B2" c="Bus" n="1116"/>
+		<ar pt="2602130310" pp="" l="S1X" fb="Bus S1X" ppth="Mülheim(Ruhr)Styrum|Duisburg Hbf|Düsseldorf Flughafen"/>
+	</s>
+	<s id="-9089370834468156186-2602130312-1">
+		<tl t="p" o="NXRE" c="NX" n="89746"/>
+		<dp pt="2602130312" pp="4" l="RE6" fb="RE6" ppth="Düsseldorf-Bilk|Neuss Hbf|Dormagen|Köln Hbf|Köln Messe/Deutz|Köln/Bonn Flughafen"/>
+	</s>
+	<s id="-8214317746230822278-2602130245-8">
+		<tl t="p" o="NXRE" c="NX" n="26848"/>
+		<ar pt="2602130342" pp="16" l="RE1" fb="RE1" ppth="Dortmund Hbf|Herne|Gelsenkirchen Hbf|Essen-Altenessen|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2602130344" pp="16" l="RE1" fb="RE1" ppth="Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="5068053034128732252-2602130345-1">
+		<tl t="p" o="B2" c="Bus" n="800"/>
+		<dp pt="2602130345" pp="" l="S8" fb="Bus S8" ppth="Düsseldorf Flughafen Terminal"/>
+	</s>
+	<s id="6118321984426606616-2602130328-2">
+		<tl t="p" o="B2" c="Bus" n="1115"/>
+		<ar pt="2602130353" pp="" l="S1X" fb="Bus S1X" ppth="Solingen Hbf"/>
+		<dp pt="2602130353" pp="" l="S1X" fb="Bus S1X" ppth="Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Styrum"/>
+	</s>
+	<s id="6324906204717704453-2602130159-13">
+		<tl t="p" o="B2" c="Bus" n="1016"/>
+		<ar pt="2602130337" pp="" l="S1" fb="Bus S1" ppth="Mülheim(Ruhr)Styrum|Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn"/>
+	</s>
+	<s id="8927388835332386698-2602130356-1">
+		<tl t="p" o="R2" c="Bus" n="3067"/>
+		<dp pt="2602130356" pp="" l="RE3" fb="Bus RE3" ppth="Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf"/>
+	</s>
+</timetable>

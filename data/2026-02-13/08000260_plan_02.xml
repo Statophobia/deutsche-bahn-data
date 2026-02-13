@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="593335192046346983-2602130100-6">
+		<tl t="p" o="B7" c="Bus" n="4645"/>
+		<ar pt="2602130211" pp="" l="EV" fb="Bus EV" ppth="Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen"/>
+	</s>
+	<s id="-3823254010841261196-2602121859-7">
+		<tl t="p" o="84" c="NJ" n="421"/>
+		<ar pt="2602130208" pp="4" fb="NJ 421" wings="-4272298498907669914-2602121859" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2602130229" pp="4" fb="NJ 421" wings="-4272298498907669914-2602121859" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="-4272298498907669914-2602121859-7">
+		<tl t="p" o="81" c="NJ" n="40421"/>
+		<ar pt="2602130208" pp="4" fb="NJ 40421" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2602130229" pp="4" fb="NJ 40421" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+</timetable>
