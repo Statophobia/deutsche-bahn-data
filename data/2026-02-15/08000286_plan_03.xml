@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="1980330664937697871-2602150344-2">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20004"/>
+		<ar pt="2602150349" pp="9" l="RE19" fb="RE19" ppth="Duisburg Hbf"/>
+		<dp pt="2602150350" pp="9" l="RE19" fb="RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Wesel"/>
+	</s>
+	<s id="2782841253448245741-2602150246-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89909"/>
+		<ar pt="2602150317" pp="6" l="RE3" fb="RE3" ppth="Düsseldorf Hbf|Duisburg Hbf"/>
+		<dp pt="2602150318" pp="6" l="RE3" fb="RE3" ppth="Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="1092014454866930735-2602150317-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30384"/>
+		<dp pt="2602150317" pp="10" l="S3" fb="S3" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)West|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf"/>
+	</s>
+	<s id="-8970868249737110826-2602150240-3">
+		<tl t="p" o="R2" c="Bus" n="3076"/>
+		<ar pt="2602150325" pp="" l="RE3" fb="Bus RE3" ppth="Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2602150325" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="-1616687389182706992-2602150301-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31285"/>
+		<ar pt="2602150320" pp="13" l="RB32" fb="RB32" ppth="Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig"/>
+	</s>
+	<s id="968678521329545848-2602150338-1">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31286"/>
+		<dp pt="2602150338" pp="13" l="RB32" fb="RB32" ppth="Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="6618046751448825884-2602150218-11">
+		<tl t="p" o="NXRE" c="NX" n="26848"/>
+		<ar pt="2602150321" pp="12" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Herne|Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2602150322" pp="12" l="RE1" fb="RE1" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+</timetable>
