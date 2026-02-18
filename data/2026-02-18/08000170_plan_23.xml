@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<timetable station="Ulm Hbf">
+	<s id="5672459220125803729-2602182317-1">
+		<tl f="N" t="p" o="8007D4" c="RE" n="57617"/>
+		<dp pt="2602182317" pp="3 Süd" l="RE75" fb="RE75" ppth="Neu-Ulm|Senden|Vöhringen|Bellenberg|Illertissen|Altenstadt(Iller)|Kellmünz|Memmingen|Bad Grönenbach|Dietmannsried|Kempten(Allgäu)Ost|Kempten(Allgäu)Hbf"/>
+	</s>
+	<s id="3811693663186821261-2602182324-1">
+		<tl t="p" o="GYRE" c="ARV" n="57191"/>
+		<dp pt="2602182324" pp="25" l="RE9" fb="RE9" ppth="Neu-Ulm|Nersingen|Leipheim|Günzburg|Offingen|Mindelaltheim|Burgau(Schwab)|Jettingen|Freihalden|Dinkelscherben"/>
+	</s>
+	<s id="3231093823922762694-2602182234-12">
+		<tl f="N" t="p" o="8007D4" c="RE" n="57616"/>
+		<ar pt="2602182349" pp="3 Süd" l="RE75" fb="RE75" ppth="Kempten(Allgäu)Hbf|Kempten(Allgäu)Ost|Dietmannsried|Bad Grönenbach|Memmingen|Kellmünz|Altenstadt(Iller)|Illertissen|Vöhringen|Senden|Neu-Ulm"/>
+	</s>
+	<s id="-6359880546842402672-2602182238-8">
+		<tl f="N" t="p" o="800622" c="RB" n="32648"/>
+		<ar pt="2602182323" pp="7 Süd" l="RS21" fb="RS21" ppth="Biberach(Riß)|Warthausen|Schemmerberg|Laupheim Stadt|Laupheim West|Erbach(Württ)|Ulm-Donautal"/>
+	</s>
+	<s id="-3296415407172355355-2602182205-8">
+		<tl f="N" t="p" o="800693" c="RE" n="4826"/>
+		<ar pt="2602182340" pp="4 Süd" l="RE3" fb="RE3" ppth="Lindau-Reutin|Nonnenhorn|Langenargen|Friedrichshafen Stadt|Ravensburg|Aulendorf|Biberach(Riß)"/>
+	</s>
+	<s id="2827801615959436419-2602182335-1">
+		<tl f="N" t="p" o="800622" c="RB" n="32679"/>
+		<dp pt="2602182335" pp="7 Süd" l="RS21" fb="RS21" ppth="Ulm-Donautal|Erbach(Württ)|Laupheim West|Laupheim Stadt|Schemmerberg|Warthausen|Biberach(Riß)|Biberach(Riß) Süd|Bad Schussenried|Aulendorf"/>
+	</s>
+	<s id="2515064770390304228-2602182140-22">
+		<tl t="p" o="GAMEX" c="ARV" n="19177"/>
+		<ar pt="2602182322" pp="4 Nord" l="MEX16" fb="MEX16" ppth="Stuttgart Hbf|Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Reichenbach(Fils)|Ebersbach(Fils)|Uhingen|Faurndau|Göppingen|Eislingen(Fils)|Salach|Süßen|Gingen(Fils)|Kuchen|Geislingen(Steige)West|Geislingen(Steige)|Amstetten(Württ)|Urspring|Lonsee|Westerstetten|Beimerstetten"/>
+	</s>
+	<s id="-3852490567873853424-2602182204-8">
+		<tl f="N" t="p" o="800694" c="RE" n="4236"/>
+		<ar pt="2602182311" pp="4 Nord" l="RE5" fb="RE5" ppth="Friedrichshafen Stadt|Meckenbeuren|Ravensburg|Aulendorf|Bad Schussenried|Biberach(Riß)|Laupheim West"/>
+	</s>
+	<s id="3771413610024713123-2602182247-8">
+		<tl f="N" t="p" o="8007DU" c="RB" n="57796"/>
+		<ar pt="2602182316" pp="5b" l="RS7" fb="RS7" ppth="Illertissen|Bellenberg|Vöhringen|Senden|Gerlenhofen|Finningerstraße|Neu-Ulm"/>
+	</s>
+	<s id="-7770106795527191469-2602182329-1">
+		<tl f="N" t="p" o="800693" c="RE" n="32477"/>
+		<dp pt="2602182329" pp="8" l="RE3" fb="RE3" ppth="Biberach(Riß)|Aulendorf|Ravensburg|Meckenbeuren|Friedrichshafen Stadt"/>
+	</s>
+	<s id="7108274583246193747-2602182246-4">
+		<tl f="F" t="p" o="80" c="ICE" n="698"/>
+		<ar pt="2602182358" pp="1" fb="ICE 698" wings="4620996463609059711-2602182246" ppth="München Hbf|München-Pasing|Augsburg Hbf"/>
+		<dp pt="2602190001" pp="1" fb="ICE 698" wings="4620996463609059711-2602182246" ppth="Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf"/>
+	</s>
+	<s id="-8110080223308383203-2602182329-1">
+		<tl f="N" t="p" o="800659" c="RE" n="16080"/>
+		<dp pt="2602182329" pp="3 Nord" l="RE200" fb="RE200" ppth="Merklingen - Schwäbische Alb"/>
+	</s>
+	<s id="-5425302918995479956-2602181526-17">
+		<tl f="F" t="p" o="80" c="ICE" n="615"/>
+		<ar pt="2602182256" pp="2" fb="ICE 615" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Stuttgart Hbf"/>
+		<dp pt="2602182315" pp="2" fb="ICE 615" ppth="Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+</timetable>
