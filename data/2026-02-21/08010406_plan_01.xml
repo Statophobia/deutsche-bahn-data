@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Zoologischer Garten">
+	<s id="8507068905053970602-2602210030-7">
+		<tl f="N" t="p" o="800165" c="RE" n="21968"/>
+		<ar pt="2602210109" pp="4" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2602210111" pp="4" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg"/>
+	</s>
+	<s id="-5863987507087835494-2602210133-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21969"/>
+		<ar pt="2602210136" pp="1" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2602210137" pp="1" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="-649058799789580020-2602202234-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2602210123" pp="1" fb="ICE 1707" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Lüneburg|Uelzen|Stendal Hbf|Berlin-Spandau"/>
+		<dp pt="2602210125" pp="1" fb="ICE 1707" hi="1" ppth="Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="5793871200974661106-2602210043-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73796"/>
+		<ar pt="2602210101" pp="4" l="RE1" fb="RE1" ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf"/>
+		<dp pt="2602210102" pp="4" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-3629430125727262868-2602210158-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73752"/>
+		<dp pt="2602210158" pp="2" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf"/>
+	</s>
+	<s id="669501661664395735-2602202316-21">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73791"/>
+		<ar pt="2602210115" pp="2" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg"/>
+	</s>
+</timetable>

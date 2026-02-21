@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="-6480598992464714368-2602210410-6">
+		<tl f="N" t="p" o="800165" c="RE" n="21806"/>
+		<ar pt="2602210444" pp="14" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2602210445" pp="14" l="FEX" fb="FEX" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="3129031456741493070-2602210409-2">
+		<tl f="F" t="p" o="80" c="ICE" n="646"/>
+		<ar pt="2602210420" pp="14" fb="ICE 646" hi="1" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2602210423" pp="14" fb="ICE 646" ppth="Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Minden(Westf)|Herford|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="2477749981969278135-2602210413-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21811"/>
+		<ar pt="2602210422" pp="12" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2602210423" pp="12" l="FEX" fb="FEX" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="-6590367885320235709-2602210355-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21809"/>
+		<ar pt="2602210404" pp="12" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2602210405" pp="12" l="FEX" fb="FEX" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+	<s id="4765314229129660793-2602210423-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73756"/>
+		<ar pt="2602210437" pp="14" l="RE1" fb="RE1" ppth="Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2602210439" pp="14" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Brandenburg Hbf"/>
+	</s>
+	<s id="3322611981666503815-2602210429-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21813"/>
+		<ar pt="2602210438" pp="12" l="FEX" fb="FEX" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten"/>
+		<dp pt="2602210439" pp="12" l="FEX" fb="FEX" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER"/>
+	</s>
+</timetable>
