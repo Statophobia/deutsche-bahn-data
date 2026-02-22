@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="-5581957853624905709-2602222310-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="75336"/>
+		<ar pt="2602222350" pp="8" l="RE18" fb="RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-1491077561497992764-2602222345-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83389"/>
+		<ar pt="2602222357" pp="1" l="RS3" fb="RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2602230005" pp="1" l="RS3" fb="RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Hbf"/>
+	</s>
+	<s id="2720401028599613398-2602222139-10">
+		<tl f="N" t="p" o="800295" c="RE" n="4271"/>
+		<ar pt="2602222323" pp="1" l="RE1" fb="RE1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+		<dp pt="2602222348" pp="1" l="RE1" fb="RE1" ppth="Hude|Delmenhorst|Bremen Hbf"/>
+	</s>
+	<s id="7869933892339461781-2602222336-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="28947"/>
+		<dp pt="2602222336" pp="4" l="RE18" fb="RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="-7123580108217034731-2602222120-13">
+		<tl f="N" t="p" o="800295" c="RE" n="4434"/>
+		<ar pt="2602222323" pp="8" l="RE1" fb="RE1" ppth="Hannover Hbf|Wunstorf|Neustadt am Rübenberge|Nienburg(Weser)|Eystrup|Dörverden|Verden(Aller)|Achim|Bremen-Mahndorf|Bremen Hbf|Delmenhorst|Hude"/>
+		<dp pt="2602222333" pp="8" l="RE1" fb="RE1" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+	</s>
+	<s id="8133677848871379809-2602222245-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="83387"/>
+		<ar pt="2602222257" pp="3" l="RS3" fb="RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+		<dp pt="2602222305" pp="3" l="RS3" fb="RS3" ppth="Wüsting|Hude|Bookholzberg|Schierbrok|Hoykenkamp|Delmenhorst|Heidkrug|Bremen Hbf"/>
+	</s>
+</timetable>
