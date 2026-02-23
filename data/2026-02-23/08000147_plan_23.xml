@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Harburg">
+	<s id="-5374722233891050366-2602232228-9">
+		<tl f="D" t="p" o="R1" c="ME" n="81940"/>
+		<ar pt="2602232313" pp="2" l="RB41" fb="RB41" ppth="Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld"/>
+	</s>
+	<s id="-5995920960837217810-2602232257-6">
+		<tl t="p" o="R1" c="Bus" n="3240"/>
+		<ar pt="2602232342" pp="" l="RB31" fb="Bus RB31" ppth="Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+	</s>
+	<s id="-2345871439640296356-2602232306-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81677"/>
+		<dp pt="2602232306" pp="4" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Lüneburg"/>
+	</s>
+	<s id="-1290839640796586839-2602231811-10">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2602232344" pp="1" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Lüneburg"/>
+		<dp pt="2602232346" pp="1" fb="ICE 782" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="8991210418572699482-2602232348-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81945"/>
+		<dp pt="2602232348" pp="3" l="RB41" fb="RB41" ppth="Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland|Bremen Hbf"/>
+	</s>
+	<s id="-4758242349678413284-2602231238-22">
+		<tl f="F" t="p" o="85" c="ICE" n="104"/>
+		<ar pt="2602232304" pp="2" fb="ICE 104" ppth="Chur|Landquart|Sargans|Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf"/>
+		<dp pt="2602232306" pp="2" fb="ICE 104" hi="1" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-6626730638215943618-2602232346-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81645"/>
+		<dp pt="2602232346" pp="4" l="RB31" fb="RB31" ppth="Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+</timetable>
