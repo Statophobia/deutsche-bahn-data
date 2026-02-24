@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Wiesbaden Hbf">
+	<s id="2393388770980405844-2602242308-1">
+		<tl f="S" t="p" o="800528" c="S" n="22581"/>
+		<dp pt="2602242308" pp="3" l="S8" fb="S8" ppth="Wiesbaden Ost|Mainz Nord|Mainz Hbf"/>
+	</s>
+	<s id="-2700447706250054632-2602242338-4">
+		<tl f="S" t="p" o="800528" c="S" n="22576"/>
+		<ar pt="2602242350" pp="3" l="S8" fb="S8" ppth="Mainz Hbf|Mainz Nord|Wiesbaden Ost"/>
+	</s>
+	<s id="3864375000992578991-2602242133-25">
+		<tl f="D" t="p" o="R4RH" c="VIA" n="25037"/>
+		<ar pt="2602242325" pp="8" l="RB10" fb="RB10" ppth="Neuwied|Koblenz Stadtmitte|Koblenz Hbf|Niederlahnstein|Oberlahnstein|Braubach|Osterspai|Filsen|Kamp-Bornhofen|Kestert|St Goarshausen|Kaub|Lorchhausen|Lorch(Rhein)|Assmannshausen|Rüdesheim(Rhein)|Geisenheim|Oestrich-Winkel|Hattenheim|Erbach(Rheingau)|Eltville|Niederwalluf|Wiesbaden-Schierstein|Wiesbaden-Biebrich"/>
+		<dp pt="2602242332" pp="8" l="RB10" fb="RB10" ppth="Mainz-Kastel|Frankfurt-Höchst|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="5750241878903777710-2602242305-5">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24473"/>
+		<ar pt="2602242327" pp="10" l="RB21" fb="RB21" ppth="Niedernhausen(Taunus)|Auringen-Medenbach|Wiesbaden-Igstadt|Wiesbaden-Erbenheim"/>
+	</s>
+	<s id="9086079040805459067-2602242336-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24476"/>
+		<dp pt="2602242336" pp="10" l="RB21" fb="RB21" ppth="Wiesbaden-Erbenheim|Wiesbaden-Igstadt|Auringen-Medenbach|Niedernhausen(Taunus)"/>
+	</s>
+	<s id="-6717839496730661081-2602242253-4">
+		<tl f="D" t="p" o="R4RH" c="VIA" n="25036"/>
+		<ar pt="2602242328" pp="1" l="RB10" fb="RB10" ppth="Frankfurt(Main)Hbf|Frankfurt-Höchst|Mainz-Kastel"/>
+		<dp pt="2602242333" pp="1" l="RB10" fb="RB10" ppth="Wiesbaden-Biebrich|Wiesbaden-Schierstein|Niederwalluf|Eltville|Erbach(Rheingau)|Hattenheim|Oestrich-Winkel|Geisenheim|Rüdesheim(Rhein)"/>
+	</s>
+</timetable>
