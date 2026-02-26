@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="7582314568044505717-2602252033-7">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2602260216" pp="4a/b" fb="IC 60403" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf"/>
+		<dp pt="2602260219" pp="4a/b" fb="IC 60403" ppth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-5851721557238592488-2602252033-7">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2602260216" pp="4a/b" fb="NJ 403" hi="1" wings="7582314568044505717-2602252033" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Köln Hbf|Bonn-Beuel|Koblenz Hbf"/>
+		<dp pt="2602260219" pp="4a/b" fb="NJ 403" hi="1" wings="7582314568044505717-2602252033" ppth="Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-5424583035249340331-2602260208-4">
+		<tl f="S" t="p" o="800528" c="S" n="22593"/>
+		<ar pt="2602260219" pp="5a" l="S8" fb="S8" ppth="Wiesbaden Hbf|Wiesbaden Ost|Mainz Nord"/>
+	</s>
+	<s id="-3249933502192713549-2602260238-1">
+		<tl f="S" t="p" o="800528" c="S" n="22588"/>
+		<dp pt="2602260238" pp="1a" l="S8" fb="S8" ppth="Mainz Nord|Wiesbaden Ost|Wiesbaden Hbf"/>
+	</s>
+</timetable>
