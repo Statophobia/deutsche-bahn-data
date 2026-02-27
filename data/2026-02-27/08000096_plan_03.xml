@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Stuttgart Hbf">
+	<s id="7883229003508533581-2602270225-2">
+		<tl t="p" o="GA" c="Bus" n="260"/>
+		<ar pt="2602270300" pp="" l="EV" fb="Bus EV" ppth="Waiblingen Bahnhof (Dammstraße)"/>
+	</s>
+	<s id="5926473462606976417-2602261926-19">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2602270333" pp="16" fb="ICE 619" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Heidelberg Hbf"/>
+		<dp pt="2602270339" pp="16" fb="ICE 619" ppth="Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-758599197442019253-2602270337-1">
+		<tl t="p" o="GA" c="Bus" n="405"/>
+		<dp pt="2602270337" pp="" l="EV" fb="Bus EV" ppth="Bad Cannstatt Bahnhof, Stuttgart|Waiblingen Bahnhof (Dammstraße)|Winnenden|ZOB, Backnang"/>
+	</s>
+</timetable>
