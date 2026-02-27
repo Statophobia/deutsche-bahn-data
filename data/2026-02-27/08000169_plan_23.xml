@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<timetable station="Hildesheim Hbf">
+	<s id="-633731631509345181-2602272306-1">
+		<tl t="p" o="R0" c="Bus" n="5387"/>
+		<dp pt="2602272306" pp="" l="RE50" fb="Bus RE50" ppth="Hoheneggelsen|Woltwiesche|Lengede-Broistedt|Braunschweig Hbf"/>
+	</s>
+	<s id="553437030209216106-2602272251-5">
+		<tl t="p" o="TDHS" c="SBH" n="34337"/>
+		<ar pt="2602272313" pp="5" l="S3" fb="S3" ppth="Lehrte|Sehnde|Algermissen|Harsum"/>
+	</s>
+	<s id="4274346670787595007-2602272303-7">
+		<tl f="N" t="p" o="RSNM" c="RB" n="14452"/>
+		<ar pt="2602272327" pp="3" l="RB79" fb="RB79" ppth="Bodenburg|Bad Salzdetfurth|Bad Salzdetfurth Solebad|Wesseln|Groß Düngen|Hildesheim Ost"/>
+	</s>
+	<s id="1508715186879440174-2602272251-17">
+		<tl t="p" o="TDHS" c="SBH" n="34475"/>
+		<ar pt="2602272349" pp="5" l="S4" fb="S4" ppth="Bennemühlen|Mellendorf|Bissendorf|Langenhagen-Kaltenweide|Langenhagen Pferdemarkt|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg|Hannover-Nordstadt|Hannover Hbf|Hannover Bismarckstr.|Hannover Messe/Laatzen|Rethen(Leine)|Sarstedt|Barnten|Emmerke"/>
+	</s>
+	<s id="-155289710077021115-2602272148-5">
+		<tl t="p" o="R0" c="Bus" n="5284"/>
+		<ar pt="2602272305" pp="" l="RE50" fb="Bus RE50" ppth="Braunschweig Hbf|Lengede-Broistedt|Woltwiesche|Hoheneggelsen"/>
+	</s>
+	<s id="9069983786449867443-2602272248-7">
+		<tl f="D" t="p" o="X2" c="erx" n="83488"/>
+		<ar pt="2602272342" pp="3" l="RE10" fb="RE10" ppth="Bad Harzburg|Goslar|Salzgitter-Ringelheim|Baddeckenstedt|Derneburg(Han)|Hildesheim Ost"/>
+		<dp pt="2602272344" pp="3" l="RE10" fb="RE10" ppth="Sarstedt|Hannover Hbf"/>
+	</s>
+	<s id="7621373856227750463-2602272248-3">
+		<tl f="D" t="p" o="X2" c="erx" n="83487"/>
+		<ar pt="2602272313" pp="2" l="RE10" fb="RE10" ppth="Hannover Hbf|Sarstedt"/>
+		<dp pt="2602272314" pp="2" l="RE10" fb="RE10" ppth="Hildesheim Ost|Derneburg(Han)|Baddeckenstedt|Salzgitter-Ringelheim|Goslar|Bad Harzburg"/>
+	</s>
+	<s id="5244158326467960645-2602272306-1">
+		<tl t="p" o="TDHS" c="SBH" n="34478"/>
+		<dp pt="2602272306" pp="5" l="S4" fb="S4" ppth="Emmerke|Barnten|Sarstedt|Rethen(Leine)|Hannover Messe/Laatzen|Hannover Bismarckstr.|Hannover Hbf|Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Langenhagen Pferdemarkt|Langenhagen-Kaltenweide|Bissendorf|Mellendorf|Bennemühlen"/>
+	</s>
+	<s id="2383363580158164119-2602272343-1">
+		<tl t="p" o="TDHS" c="SBH" n="34338"/>
+		<dp pt="2602272343" pp="5" l="S3" fb="S3" ppth="Harsum|Algermissen|Sehnde|Lehrte"/>
+	</s>
+	<s id="-4647379232774860431-2602272302-4">
+		<tl t="p" o="RSNM" c="Bus" n="84585"/>
+		<ar pt="2602272341" pp="" l="RB77" fb="Bus RB77" ppth="Elze(Han)|Nordstemmen|Emmerke"/>
+	</s>
+</timetable>

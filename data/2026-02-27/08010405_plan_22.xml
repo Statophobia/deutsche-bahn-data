@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Wannsee">
+	<s id="6671021895463998450-2602272105-16">
+		<tl f="N" t="p" o="800165" c="RE" n="3738"/>
+		<ar pt="2602272225" pp="6" l="RE7" fb="RE7" ppth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg"/>
+	</s>
+	<s id="-7645201488230247562-2602272157-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73790"/>
+		<ar pt="2602272209" pp="5" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+		<dp pt="2602272216" pp="5" l="RE1" fb="RE1" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)"/>
+	</s>
+	<s id="-2991830544106535318-2602272219-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73747"/>
+		<ar pt="2602272238" pp="6" l="RE1" fb="RE1" tra="1074673527321001374-2602272239-1" ppth="Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+	</s>
+	<s id="-5259397056968292741-2602272217-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="91687"/>
+		<dp pt="2602272217" pp="6" l="RE1" fb="RE1" tra="-5783168204878701408-2602272159-5" ppth="Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-5798871424539464832-2602272236-1">
+		<tl f="N" t="p" o="800165" c="RE" n="93741"/>
+		<dp pt="2602272236" pp="6" l="RE7" fb="RE7" ppth="Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+	<s id="-5783168204878701408-2602272159-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73787"/>
+		<ar pt="2602272216" pp="6" l="RE1" fb="RE1" tra="-5259397056968292741-2602272217-1" ppth="Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+	</s>
+	<s id="1074673527321001374-2602272239-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="92147"/>
+		<dp pt="2602272239" pp="6" l="RE1" fb="RE1" tra="-2991830544106535318-2602272219-5" ppth="Berlin Gesundbrunnen|Berlin-Lichtenberg|Erkner"/>
+	</s>
+</timetable>
