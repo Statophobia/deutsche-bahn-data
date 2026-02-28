@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="1595410400684371270-2602271936-8">
+		<tl t="p" o="81" c="NJ" n="498"/>
+		<ar pt="2602280307" pp="7" fb="NJ 498" wings="-8677182982400525824-2602272046" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Regensburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2602280309" pp="7" fb="NJ 498" wings="-8677182982400525824-2602272046" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="-5114500590951735202-2602272240-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2602280352" pp="5" fb="ICE 1081" ppth="Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen"/>
+		<dp pt="2602280354" pp="5" fb="ICE 1081" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-8677182982400525824-2602272046-9">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2602280307" pp="7" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2602280309" pp="7" fb="NJ 40420" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg"/>
+	</s>
+</timetable>

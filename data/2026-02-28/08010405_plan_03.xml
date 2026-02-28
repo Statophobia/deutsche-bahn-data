@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Wannsee">
+	<s id="6184252906795495805-2602280332-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73751"/>
+		<ar pt="2602280350" pp="6" l="RE1" fb="RE1" ppth="Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf"/>
+		<dp pt="2602280351" pp="6" l="RE1" fb="RE1" ppth="Berlin Gesundbrunnen|Berlin-Lichtenberg|Erkner"/>
+	</s>
+	<s id="-3355767559864070795-2602280257-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="91654"/>
+		<ar pt="2602280326" pp="5" l="RE1" fb="RE1" tra="-7446692836656803869-2602280327-1" ppth="Berlin-Lichtenberg|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-7446692836656803869-2602280327-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73754"/>
+		<dp pt="2602280327" pp="5" l="RE1" fb="RE1" tra="-3355767559864070795-2602280257-3" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+</timetable>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Bielefeld Hbf">
+	<s id="-99649518547509699-2602280207-10">
+		<tl t="p" o="R2" c="Bus" n="6915"/>
+		<ar pt="2602280441" pp="" l="RB69" fb="Bus RB69" ppth="Hamm(Westf)Hbf|Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Isselhorst-Avenwedde|Bielefeld-Brackwede"/>
+	</s>
+	<s id="6115802383700312644-2602280433-1">
+		<tl t="p" o="R2" c="Bus" n="6160"/>
+		<dp pt="2602280433" pp="" l="RB61" fb="Bus RB61" ppth="Brake(b Bielefeld)|Herford|Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)"/>
+	</s>
+	<s id="8446418061730467865-2602272350-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2602280400" pp="4" fb="ICE 1540" ppth="Berlin Hbf|Berlin-Wannsee|Potsdam Hbf|Stendal Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)"/>
+		<dp pt="2602280402" pp="4" fb="ICE 1540" ppth="Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="-6844790986754511913-2602280449-1">
+		<tl t="p" o="NX" c="Bus" n="6002"/>
+		<dp pt="2602280449" pp="" l="RE6" fb="Bus RE6" ppth="Herford|Löhne(Westf)"/>
+	</s>
+</timetable>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="412411447356109364-2602280105-8">
+		<tl f="D" t="p" o="R1" c="ME" n="83891"/>
+		<ar pt="2602280151" pp="" l="RE2" fb="RE2" ppth="Banteln|Alfeld(Leine)|Freden(Leine)|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="-5114500590951735202-2602272240-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2602280108" pp="7" fb="ICE 1081" ppth="Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf"/>
+		<dp pt="2602280112" pp="7" fb="ICE 1081" ppth="Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-3238246615504329950-2602272223-4">
+		<tl t="p" o="81" c="NJ" n="471"/>
+		<ar pt="2602280130" pp="8" fb="NJ 471" wings="-3600137003086714631-2602272223" ppth="Hamburg-Harburg|Bremen Hbf|Hannover Hbf"/>
+		<dp pt="2602280132" pp="8" fb="NJ 471" wings="-3600137003086714631-2602272223" ppth="Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-3600137003086714631-2602272223-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60471"/>
+		<ar pt="2602280130" pp="8" fb="IC 60471" ppth="Hamburg-Harburg|Bremen Hbf|Hannover Hbf"/>
+		<dp pt="2602280132" pp="8" fb="IC 60471" ppth="Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>

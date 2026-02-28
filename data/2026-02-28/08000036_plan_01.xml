@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Bielefeld Hbf">
+	<s id="-1009831818713255920-2602280023-13">
+		<tl f="D" t="p" o="N1" c="NWB" n="75088"/>
+		<ar pt="2602280117" pp="8" l="RB74" fb="RB74" ppth="Paderborn Hbf|Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede"/>
+	</s>
+	<s id="-5352020649229838134-2602280021-6">
+		<tl t="p" o="R2" c="Bus" n="6133"/>
+		<ar pt="2602280123" pp="" l="RB61" fb="Bus RB61" ppth="Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln|Herford|Brake(b Bielefeld)"/>
+	</s>
+	<s id="4451931938928134601-2602280107-1">
+		<tl t="p" o="R2" c="Bus" n="6912"/>
+		<dp pt="2602280107" pp="" l="RB69" fb="Bus RB69" ppth="Bielefeld-Brackwede|Isselhorst-Avenwedde|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="-123641265190401514-2602280010-7">
+		<tl t="p" o="NX" c="Bus" n="6201"/>
+		<ar pt="2602280155" pp="" l="RE6" fb="Bus RE6" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Brake(b Bielefeld)"/>
+	</s>
+	<s id="1913652075423788929-2602280018-3">
+		<tl t="p" o="NX" c="Bus" n="6001"/>
+		<ar pt="2602280107" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)|Herford"/>
+	</s>
+	<s id="2500599301806943775-2602272314-8">
+		<tl t="p" o="NX" c="Bus" n="6308"/>
+		<ar pt="2602280126" pp="" l="RE6" fb="Bus RE6" ppth="Hamm(Westf)Hbf|Hamm-Heessen|Ahlen(Westf)|Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf"/>
+	</s>
+	<s id="6509448246643938393-2602280051-2">
+		<tl t="p" o="R2" c="Bus" n="7306"/>
+		<ar pt="2602280105" pp="" l="RB73" fb="Bus RB73" ppth="Bielefeld Ost"/>
+	</s>
+	<s id="5987880351959364904-2602272327-10">
+		<tl f="F" t="p" o="80" c="ICE" n="1541"/>
+		<ar pt="2602280133" pp="2" fb="ICE 1541" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf"/>
+		<dp pt="2602280135" pp="2" fb="ICE 1541" ppth="Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+</timetable>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="7269044803299643306-2602280123-1">
+		<tl f="N" t="p" o="800161" c="RE" n="3642"/>
+		<dp pt="2602280123" pp="9" l="RE6" fb="RE6" ppth="Oranienburg|Löwenberg(Mark)|Neuruppin Rheinsberger Tor|Neuruppin West"/>
+	</s>
+	<s id="-5388829716437919511-2602280041-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73791"/>
+		<ar pt="2602280119" pp="7" l="RE1" fb="RE1" ppth="Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee"/>
+		<dp pt="2602280121" pp="7" l="RE1" fb="RE1" ppth="Berlin-Lichtenberg|Erkner"/>
+	</s>
+	<s id="8055140796578231506-2602280004-12">
+		<tl f="N" t="p" o="800158" c="RE" n="3361"/>
+		<ar pt="2602280126" pp="7" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)"/>
+		<dp pt="2602280128" pp="7" l="RE3" fb="RE3" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-4592084677566227726-2602280116-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73752"/>
+		<ar pt="2602280150" pp="7" l="RE1" fb="RE1" ppth="Erkner|Berlin-Lichtenberg"/>
+		<dp pt="2602280152" pp="7" l="RE1" fb="RE1" ppth="Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)"/>
+	</s>
+	<s id="-5083558051405008269-2602272021-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1500"/>
+		<ar pt="2602280102" pp="8" fb="ICE 1500" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+</timetable>

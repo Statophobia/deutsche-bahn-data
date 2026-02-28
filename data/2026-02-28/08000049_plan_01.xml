@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Braunschweig Hbf">
+	<s id="6356976108296880569-2602280000-5">
+		<tl t="p" o="R0" c="Bus" n="5189"/>
+		<ar pt="2602280117" pp="" l="RE50" fb="Bus RE50" ppth="Hildesheim Hbf|Hoheneggelsen|Woltwiesche|Lengede-Broistedt"/>
+	</s>
+	<s id="-430306391697164748-2602280014-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="95793"/>
+		<ar pt="2602280110" pp="5" l="RE70" fb="RE70" pde="Löhne(Westf)" ppth="Hannover Hbf|Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde"/>
+	</s>
+	<s id="8446418061730467865-2602272350-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<ar pt="2602280156" pp="6" fb="ICE 1540" ppth="Berlin Hbf|Berlin-Wannsee|Potsdam Hbf|Stendal Hbf"/>
+		<dp pt="2602280210" pp="6" fb="ICE 1540" ppth="Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+</timetable>

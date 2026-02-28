@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Hbf">
+	<s id="8316242409123066851-2602280129-9">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24376"/>
+		<ar pt="2602280200" pp="5" l="RB58" fb="RB58" ppth="Hanau Hbf|Hanau West|Hanau-Wilhelmsbad|Maintal Ost|Maintal West|Frankfurt-Mainkur|Frankfurt(Main)Ost|Frankfurt(Main)Süd"/>
+	</s>
+	<s id="8858984510411719527-2602280204-1">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15548"/>
+		<dp pt="2602280204" pp="8" l="RB51" fb="RB51" ppth="Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Wolfgang(Kr Hanau)|Rodenbach(b Hanau)|Langenselbold|Niedermittlau|Hailer-Meerholz|Gelnhausen|Haitz-Höchst|Wirtheim|Wächtersbach"/>
+	</s>
+	<s id="-7363861252398759561-2602272118-9">
+		<tl f="F" t="p" o="80" c="ICE" n="699"/>
+		<ar pt="2602280211" pp="8" fb="ICE 699" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Eisenach Hbf"/>
+		<dp pt="2602280225" pp="8" fb="ICE 699" ppth="Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="7193984266497492867-2602280215-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24377"/>
+		<dp pt="2602280215" pp="5" l="RB58" fb="RB58" ppth="Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf"/>
+	</s>
+	<s id="-1500176329851797383-2602280229-1">
+		<tl f="N" t="p" o="800553" c="RB" n="15296"/>
+		<dp pt="2602280229" pp="21" l="RB22" fb="RB22" ppth="Frankfurt-Höchst|Hofheim(Taunus)|Niedernhausen(Taunus)|Idstein(Taunus)|Wörsdorf|Bad Camberg|Niederselters|Oberbrechen|Niederbrechen|Lindenholzhausen|Eschhofen|Limburg(Lahn)"/>
+	</s>
+</timetable>
