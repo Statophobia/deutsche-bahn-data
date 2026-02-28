@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="-5254818801804111887-2602282314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24099"/>
+		<dp pt="2602282314" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Friedland(Han)|Eichenberg|Bad Sooden-Allendorf|Eschwege-Niederhone|Eschwege"/>
+	</s>
+	<s id="-2771848429149037972-2602282314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24039"/>
+		<dp pt="2602282314" pp="5" l="RB83" fb="RB83" wings="-5254818801804111887-2602282314" ppth="Friedland(Han)|Eichenberg|Witzenhausen Nord|Gertenbach|Hedemünden|Hann Münden|Speele|Fuldatal-Ihringshausen|Vellmar-Niedervellmar|Kassel Hbf"/>
+	</s>
+	<s id="1602752491596254760-2602282305-8">
+		<tl f="D" t="p" o="R1" c="ME" n="83887"/>
+		<ar pt="2602282353" pp="" l="RE2" fb="RE2" ppth="Banteln|Alfeld(Leine)|Freden(Leine)|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="7233032038798774885-2602282246-11">
+		<tl f="D" t="p" o="N4" c="CAN" n="24036"/>
+		<ar pt="2602282345" pp="5" l="RB83" fb="RB83" wings="-4587927172511964833-2602282305" ppth="Kassel Hbf|Vellmar-Niedervellmar|Fuldatal-Ihringshausen|Speele|Hann Münden|Hedemünden|Gertenbach|Witzenhausen Nord|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="-1307068536746403605-2602282136-11">
+		<tl f="N" t="p" o="8002A3" c="RB" n="14136"/>
+		<ar pt="2602282309" pp="7" l="RB82" fb="RB82" ppth="Bad Harzburg|Oker|Goslar|Langelsheim|Seesen|Bad Gandersheim|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="-4587927172511964833-2602282305-6">
+		<tl f="D" t="p" o="N4" c="CAN" n="24096"/>
+		<ar pt="2602282345" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Eschwege|Eschwege-Niederhone|Bad Sooden-Allendorf|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="8073260949556547762-2602282304-1">
+		<tl f="D" t="p" o="R1" c="ME" n="83888"/>
+		<dp pt="2602282304" pp="" l="RE2" fb="RE2" ppth="Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln"/>
+	</s>
+</timetable>
