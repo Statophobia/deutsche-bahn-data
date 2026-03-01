@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="-2137324586588502697-2603010311-1">
+		<tl f="N" t="p" o="8005L2" c="RB" n="13960"/>
+		<dp pt="2603010311" pp="4a" l="RB26" fb="RB26" pde="Bad Kreuznach" ppth="Mainz-Mombach|Budenheim|Uhlerborn|Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf"/>
+	</s>
+	<s id="-4616522342039781940-2603010338-1">
+		<tl f="S" t="p" o="800528" c="S" n="22592"/>
+		<dp pt="2603010338" pp="1a" l="S8" fb="S8" ppth="Mainz Nord|Wiesbaden Ost|Wiesbaden Hbf"/>
+	</s>
+	<s id="-2696361723584649992-2603010310-1">
+		<tl t="p" o="V6RB" c="vlx" n="29282"/>
+		<dp pt="2603010310" pp="8" l="RB31" fb="RB31" ppth="Mainz Waggonfabrik|Mainz-Gonsenheim|Mainz-Marienborn|Klein Winternheim-Ober Olm|Nieder Olm|Saulheim|Wörrstadt|Armsheim|Albig|Alzey"/>
+	</s>
+	<s id="8868050453695511606-2602282159-10">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2603010347" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2602282159" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2603010349" pp="1a/b" fb="NJ 402" hi="1" wings="4753870957390372842-2602282159" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-5336423508219530325-2603010308-4">
+		<tl f="S" t="p" o="800528" c="S" n="22501"/>
+		<ar pt="2603010319" pp="5a" l="S8" fb="S8" ppth="Wiesbaden Hbf|Wiesbaden Ost|Mainz Nord"/>
+	</s>
+	<s id="4753870957390372842-2602282159-10">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2603010347" pp="1a/b" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2603010349" pp="1a/b" fb="IC 60402" ppth="Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="9092617554207509932-2603010308-1">
+		<tl f="S" t="p" o="801518" c="S" n="38667"/>
+		<dp pt="2603010308" pp="6a" l="S6" fb="S6" ppth="Mainz Römisches Theater|Mainz-Laubenheim|Bodenheim|Nackenheim|Nierstein|Oppenheim|Dienheim|Guntersblum|Alsheim|Mettenheim|Osthofen|Worms Hbf"/>
+	</s>
+</timetable>
