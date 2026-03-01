@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-4550435493069381661-2603012300-4">
+		<tl f="D" t="p" o="R1" c="ME" n="81642"/>
+		<ar pt="2603012323" pp="3" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2603012334" pp="3" l="RB31" fb="RB31" ppth="Winsen(Luhe)|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="8218544619443085427-2603011647-15">
+		<tl f="F" t="p" o="80" c="ICE" n="502"/>
+		<ar pt="2603012358" pp="2" fb="ICE 502" wings="4456009358061919461-2603011647" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen"/>
+		<dp pt="2603020000" pp="2" fb="ICE 502" wings="4456009358061919461-2603011647" ppth="Hamburg-Harburg"/>
+	</s>
+	<s id="1645690183033695457-2603012233-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81643"/>
+		<ar pt="2603012324" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+		<dp pt="2603012325" pp="1" l="RB31" fb="RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="4233605495763225145-2603012306-3">
+		<tl f="D" t="p" o="X1" c="erx" n="82407"/>
+		<ar pt="2603012321" pp="5" l="RE83" fb="RE83" ppth="Lauenburg(Elbe)|Echem"/>
+	</s>
+	<s id="3807530202244831567-2603012338-1">
+		<tl f="D" t="p" o="X1" c="erx" n="82410"/>
+		<dp pt="2603012338" pp="5" l="RE83" fb="RE83" ppth="Echem|Lauenburg(Elbe)"/>
+	</s>
+	<s id="4142525125625626678-2603012258-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2603012314" pp="1" fb="ICE 1707" ppth="Hamburg-Harburg"/>
+		<dp pt="2603012316" pp="1" fb="ICE 1707" ppth="Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="6036255390028863598-2603012330-1">
+		<tl t="p" o="R1" c="Bus" n="3442"/>
+		<dp pt="2603012330" pp="" l="RB31" fb="Bus RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)"/>
+	</s>
+</timetable>
