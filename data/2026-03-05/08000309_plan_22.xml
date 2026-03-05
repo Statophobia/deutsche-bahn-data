@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<timetable station="Regensburg Hbf">
+	<s id="2293676751143498483-2603052237-1">
+		<tl f="D" t="p" o="A9" c="ag" n="84350"/>
+		<dp pt="2603052237" pp="5" l="RB17" fb="RB17" ppth="Regensburg-Prüfening|Sinzing|Gundelshausen|Poikam|Bad Abbach|Saal(Donau)|Abensberg|Neustadt(Donau)|Münchsmünster|Vohburg-Rockolding|Ernsgaden|Ingolstadt Hbf"/>
+	</s>
+	<s id="3643792588322858058-2603052040-6">
+		<tl f="N" t="p" o="8007H3" c="RE" n="4871"/>
+		<ar pt="2603052238" pp="1" l="RE2" fb="RE2" ppth="Hof Hbf|Marktredwitz|Wiesau(Oberpf)|Weiden(Oberpf)|Schwandorf"/>
+	</s>
+	<s id="-6492721954183781684-2603051920-5">
+		<tl t="p" o="A8N" c="Bus" n="60867"/>
+		<ar pt="2603052211" pp="" l="RE25" fb="Bus RE25" ppth="München Hbf|Freising|Landshut(Bay)Hbf|Neufahrn(Niederbay)"/>
+	</s>
+	<s id="-7434591923124175376-2603052217-1">
+		<tl f="N" t="p" o="800767" c="RE" n="57939"/>
+		<dp pt="2603052217" pp="8" l="RE22" fb="RE22" ppth="Obertraubling|Köfering|Hagelstadt|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach|Landshut(Bay)Hbf|Gündlkofen|Bruckberg|Moosburg|Langenbach(Oberbay)|Marzling|Freising|München Flughafen Terminal"/>
+	</s>
+	<s id="3981431534414485188-2603052001-2">
+		<tl t="p" o="A8N" c="Bus" n="61867"/>
+		<ar pt="2603052211" pp="" l="RE25" fb="Bus RE25" ppth="München Hbf"/>
+	</s>
+	<s id="222703561285385172-2603052243-1">
+		<tl f="N" t="p" o="800759" c="RE" n="3588"/>
+		<dp pt="2603052243" pp="4 A-C" l="RE40" fb="RE40" ppth="Schwandorf|Amberg|Sulzbach-Rosenberg|Neukirchen(b Sulzb)|Etzelwang|Hartmannshof|Hersbruck(r Pegnitz)|Nürnberg Hbf"/>
+	</s>
+	<s id="-6379876737835516962-2603052041-9">
+		<tl f="N" t="p" o="800759" c="RE" n="3583"/>
+		<ar pt="2603052223" pp="4" l="RE40" fb="RE40" ppth="Nürnberg Hbf|Hersbruck(r Pegnitz)|Hartmannshof|Etzelwang|Neukirchen(b Sulzb)|Sulzbach-Rosenberg|Amberg|Schwandorf"/>
+	</s>
+	<s id="-6762703495941889021-2603052218-1">
+		<tl f="D" t="p" o="A8N" c="ALX" n="79867"/>
+		<dp pt="2603052218" pp="4" l="RE25" fb="RE25" ppth="Regenstauf|Maxhütte-Haidhof|Schwandorf"/>
+	</s>
+	<s id="1763350715697927589-2603052015-18">
+		<tl t="p" o="O9" c="OPB" n="79745"/>
+		<ar pt="2603052210" pp="101" l="RB23" fb="RB23" ppth="Marktredwitz|Pechbrunn|Wiesau(Oberpf)|Reuth(b Erbendorf)|Windischeschenbach|Altenstadt(Waldnaab)|Weiden(Oberpf)|Luhe-Wildenau|Luhe|Wernberg|Pfreimd|Nabburg|Schwarzenfeld(Opf)|Irrenlohe|Schwandorf|Maxhütte-Haidhof|Regenstauf"/>
+	</s>
+	<s id="-7499971919004950316-2603052246-1">
+		<tl t="p" o="B7" c="Bus" n="4871"/>
+		<dp pt="2603052246" pp="" l="EV" fb="Bus EV" ppth="Eggmühl|Neufahrn(Niederbay)|Ergoldsbach|Landshut(Bay)Hbf"/>
+	</s>
+	<s id="-7743249835641173221-2603052210-1">
+		<tl f="D" t="p" o="S9" c="ag" n="63079"/>
+		<dp pt="2603052210" pp="9" l="RE50" fb="RE50" ppth="Regensburg-Burgweinting|Obertraubling|Sünching"/>
+	</s>
+	<s id="8643215521875928282-2603052234-4">
+		<tl f="D" t="p" o="A9" c="ag" n="84214"/>
+		<ar pt="2603052252" pp="9" l="RB51" fb="RB51" ppth="Sünching|Obertraubling|Regensburg-Burgweinting"/>
+	</s>
+	<s id="-6504454885369756980-2603052001-2">
+		<tl t="p" o="B7" c="Bus" n="10867"/>
+		<ar pt="2603052211" pp="" l="EV" fb="Bus EV" ppth="München Hbf"/>
+	</s>
+	<s id="-3672917486041306632-2603052103-8">
+		<tl t="p" o="B7" c="Bus" n="57936"/>
+		<ar pt="2603052240" pp="" l="EV" fb="Bus EV" ppth="Landshut(Bay)Hbf|Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Hagelstadt|Köfering|Obertraubling"/>
+	</s>
+	<s id="-1941895341269285263-2603052251-1">
+		<tl t="p" o="O9" c="OPB" n="79746"/>
+		<dp pt="2603052251" pp="101" l="RB23" fb="RB23" ppth="Regenstauf|Maxhütte-Haidhof|Schwandorf|Irrenlohe|Schwarzenfeld(Opf)|Nabburg|Pfreimd|Wernberg|Luhe|Luhe-Wildenau|Weiden(Oberpf)"/>
+	</s>
+</timetable>
