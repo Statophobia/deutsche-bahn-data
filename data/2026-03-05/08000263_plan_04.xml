@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<timetable station="Münster(Westf)Hbf">
+	<s id="-5818085348478122907-2603050415-1">
+		<tl t="p" o="B2" c="Bus" n="4214"/>
+		<dp pt="2603050415" pp="" l="RE42" fb="Bus RE42" ppth="Münster-Albachten|Senden-Bösensell|Nottuln-Appelhülsen|Buldern"/>
+	</s>
+	<s id="9074822526482774648-2603050103-13">
+		<tl t="p" o="B2" c="Bus" n="10241"/>
+		<ar pt="2603050404" pp="" l="RE2" fb="Bus RE2" ppth="Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Recklinghausen Süd|Recklinghausen Hbf|Marl-Sinsen|Haltern am See|Sythen|Dülmen|Buldern|Nottuln-Appelhülsen|Senden-Bösensell|Münster-Albachten"/>
+	</s>
+	<s id="5608610575478965748-2603050440-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89917"/>
+		<dp pt="2603050440" pp="17" l="RB50" fb="RB50" ppth="Münster-Amelsbüren|Davensberg|Ascheberg(Westf)|Capelle(Westf)|Werne a d Lippe|Lünen Hbf|Lünen-Preußen|Dortmund-Derne|Dortmund-Kirchderne|Dortmund Hbf"/>
+	</s>
+	<s id="8503777394879306018-2603042326-15">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2603050413" pp="3" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Bingen(Rhein) Hbf|Koblenz Hbf|Andernach|Remagen|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf"/>
+		<dp pt="2603050414" pp="3" fb="ICE 920" ppth="Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="2272226042723113358-2603050425-1">
+		<tl f="N" t="p" o="800349" c="RE" n="10200"/>
+		<dp pt="2603050425" pp="9" l="RE2" fb="RE2" ppth="Dülmen|Haltern am See|Recklinghausen Hbf|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+</timetable>
