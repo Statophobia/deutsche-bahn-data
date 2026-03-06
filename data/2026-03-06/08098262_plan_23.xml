@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="München Hbf Gl.5-10">
+	<s id="-2232177955352499845-2603062247-11">
+		<tl f="D" t="p" o="T8" c="BRB" n="87002"/>
+		<ar pt="2603062355" pp="11" l="RB56" fb="RB56" wings="3797614755450422074-2603062252" ppth="Lenggries|Obergries|Gaißach|Bad Tölz|Reichersbeuern|Schaftlach|Warngau|Holzkirchen|München Siemenswerke|München Harras"/>
+	</s>
+	<s id="3797614755450422074-2603062252-10">
+		<tl f="D" t="p" o="T8" c="BRB" n="87022"/>
+		<ar pt="2603062355" pp="11" l="RB57" fb="RB57" ppth="Tegernsee|Gmund(Tegernsee)|Finsterwald|Moosrain|Schaftlach|Warngau|Holzkirchen|München Siemenswerke|München Harras"/>
+	</s>
+	<s id="-5652708052565312131-2603062107-16">
+		<tl f="D" t="p" o="M8" c="BRB" n="79046"/>
+		<ar pt="2603062317" pp="12" l="RE5" fb="RE5" ppth="Salzburg Hbf|Freilassing|Teisendorf|Traunstein|Bergen(Oberbay)|Übersee|Bernau a Chiemsee|Prien am Chiemsee|Bad Endorf|Rosenheim|Großkarolinenfeld|Ostermünchen|Aßling(Oberbay)|Grafing Bahnhof|München Ost"/>
+	</s>
+	<s id="5234055593872767788-2603062310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="87003"/>
+		<dp pt="2603062310" pp="11" l="RB56" fb="RB56" wings="-3088423352729323141-2603062310" ppth="München Harras|München Siemenswerke|Holzkirchen|Warngau|Schaftlach|Reichersbeuern|Bad Tölz|Gaißach|Obergries|Lenggries"/>
+	</s>
+	<s id="241569602601144008-2603062310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="86783"/>
+		<dp pt="2603062310" pp="11" l="RB55" fb="RB55" wings="-3088423352729323141-2603062310|5234055593872767788-2603062310" ppth="München Harras|München Siemenswerke|Holzkirchen|Darching|Miesbach|Agatharied|Hausham|Schliersee|Fischhausen-Neuhaus|Fischbachau|Geitau|Osterhofen(Oberbay)|Bayrischzell"/>
+	</s>
+	<s id="-923369996711241312-2603062232-14">
+		<tl f="D" t="p" o="T8" c="BRB" n="86782"/>
+		<ar pt="2603062355" pp="11" l="RB55" fb="RB55" wings="-2232177955352499845-2603062247|3797614755450422074-2603062252" ppth="Bayrischzell|Osterhofen(Oberbay)|Geitau|Fischbachau|Fischhausen-Neuhaus|Schliersee|Hausham|Agatharied|Miesbach|Darching|Holzkirchen|München Siemenswerke|München Harras"/>
+	</s>
+	<s id="-3088423352729323141-2603062310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="87023"/>
+		<dp pt="2603062310" pp="11" l="RB57" fb="RB57" ppth="München Harras|München Siemenswerke|Holzkirchen|Warngau|Schaftlach|Moosrain|Finsterwald|Gmund(Tegernsee)|Tegernsee"/>
+	</s>
+	<s id="-276896031776243712-2603062351-1">
+		<tl f="D" t="p" o="M8" c="BRB" n="79049"/>
+		<dp pt="2603062351" pp="12" l="RE5" fb="RE5" ppth="München Ost|Grafing Bahnhof|Aßling(Oberbay)|Ostermünchen|Großkarolinenfeld|Rosenheim|Bad Endorf|Prien am Chiemsee|Bernau a Chiemsee|Übersee|Bergen(Oberbay)|Traunstein|Teisendorf|Freilassing|Salzburg Hbf"/>
+	</s>
+</timetable>
