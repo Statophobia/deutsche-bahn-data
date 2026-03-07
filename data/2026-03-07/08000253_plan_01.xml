@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<timetable station="Mönchengladbach Hbf">
+	<s id="-1757639106589556002-2603070116-1">
+		<tl t="p" o="NX" c="Bus" n="4401"/>
+		<dp pt="2603070116" pp="" l="RE4" fb="Bus RE4" ppth="Rheydt Hbf"/>
+	</s>
+	<s id="3802086854857564828-2603070035-13">
+		<tl f="N" t="p" o="800333" c="RB" n="10301"/>
+		<ar pt="2603070120" pp="2" l="RB33" fb="RB33" ppth="Duisburg Hbf|Duisburg-Hochfeld Süd|Rheinhausen Ost|Rheinhausen|Krefeld-Hohenbudberg Chempark|Krefeld-Uerdingen|Krefeld-Linn|Krefeld-Oppum|Krefeld Hbf|Forsthaus|Anrath|Viersen"/>
+	</s>
+	<s id="7411373046205877-2603070154-1">
+		<tl f="S" t="p" o="800354" c="S" n="31847"/>
+		<dp pt="2603070154" pp="9" l="S8" fb="S8" ppth="Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf"/>
+	</s>
+	<s id="-7256863530164596083-2603070032-13">
+		<tl f="S" t="p" o="800354" c="S" n="31840"/>
+		<ar pt="2603070106" pp="9" l="S8" fb="S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="973067434069969934-2603070110-8">
+		<tl f="N" t="p" o="800333" c="RB" n="10300"/>
+		<ar pt="2603070137" pp="2" l="RB33" fb="RB33" ppth="Lindern|Brachelen|Hückelhoven-Baal|Erkelenz|Herrath|Wickrath|Rheydt Hbf"/>
+		<dp pt="2603070138" pp="2" l="RB33" fb="RB33" ppth="Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd|Duisburg Hbf"/>
+	</s>
+</timetable>

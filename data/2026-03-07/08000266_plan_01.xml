@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Wuppertal Hbf">
+	<s id="6133686961916078916-2603070028-15">
+		<tl t="p" o="B2" c="Bus" n="8044"/>
+		<ar pt="2603070145" pp="" l="S8" fb="Bus S8" ppth="Hagen Hbf|Hagen-Wehringhausen|Hagen-Heubing|Hagen-Westerbauer|Gevelsberg-Knapp|Gevelsberg Hbf|Gevelsberg-Kipp|Gevelsberg West|Schwelm|Schwelm West|Wuppertal-Langerfeld|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="-1164527750647752966-2603070120-1">
+		<tl t="p" o="B2" c="Bus" n="8033"/>
+		<dp pt="2603070120" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Langerfeld|Schwelm West|Schwelm|Gevelsberg West|Gevelsberg-Kipp|Gevelsberg Hbf|Gevelsberg-Knapp|Hagen-Westerbauer|Hagen-Heubing|Hagen-Wehringhausen|Hagen Hbf"/>
+	</s>
+	<s id="-2491327797209008558-2603070114-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="92180"/>
+		<dp pt="2603070114" pp="5" l="S9" fb="S9" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="-7852819169551141295-2603062338-12">
+		<tl t="p" o="B2" c="Bus" n="8025"/>
+		<ar pt="2603070108" pp="" l="S8" fb="Bus S8" ppth="Düsseldorf Hbf|Düsseldorf-Flingern|Düsseldorf-Gerresheim|Erkrath|Hochdahl|Hochdahl-Millrath|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal-Sonnborn|Wuppertal-Zoologischer Garten|Wuppertal-Steinbeck"/>
+	</s>
+	<s id="-9026113969362043516-2603070139-4">
+		<tl f="S" t="p" o="8003L1" c="S" n="92191"/>
+		<ar pt="2603070147" pp="4" l="S9" fb="S9" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="1104474668063217088-2603070040-2">
+		<tl t="p" o="B2" c="Bus" n="8035"/>
+		<ar pt="2603070115" pp="" l="S8X" fb="Bus S8X" ppth="Düsseldorf Hbf"/>
+		<dp pt="2603070116" pp="" l="S8X" fb="Bus S8X" ppth="Hagen Hbf"/>
+	</s>
+	<s id="3279552729222433189-2603070110-1">
+		<tl t="p" o="B2" c="Bus" n="8046"/>
+		<dp pt="2603070110" pp="" l="S8" fb="Bus S8" ppth="Wuppertal-Steinbeck|Wuppertal-Zoologischer Garten|Wuppertal-Sonnborn|Wuppertal-Vohwinkel|Haan-Gruiten|Hochdahl-Millrath|Hochdahl|Erkrath|Düsseldorf-Gerresheim|Düsseldorf-Flingern|Düsseldorf Hbf"/>
+	</s>
+	<s id="-1377447061012802204-2603070149-3">
+		<tl t="p" o="NXRE" c="NX" n="26444"/>
+		<ar pt="2603070155" pp="4" l="RE4" fb="RE4" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2603070157" pp="4" l="RE4" fb="RE4" ppth="Wuppertal-Vohwinkel|Düsseldorf Hbf"/>
+	</s>
+	<s id="-3822909348969106179-2603070030-2">
+		<tl t="p" o="B2" c="Bus" n="8048"/>
+		<ar pt="2603070100" pp="" l="S8X" fb="Bus S8X" ppth="Hagen Hbf"/>
+		<dp pt="2603070101" pp="" l="S8X" fb="Bus S8X" ppth="Düsseldorf Hbf"/>
+	</s>
+	<s id="-181755238271094477-2603070042-3">
+		<tl t="p" o="NXRE" c="NX" n="26441"/>
+		<ar pt="2603070105" pp="4" l="RE4" fb="RE4" ppth="Düsseldorf Hbf|Wuppertal-Vohwinkel"/>
+		<dp pt="2603070107" pp="4" l="RE4" fb="RE4" ppth="Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+</timetable>

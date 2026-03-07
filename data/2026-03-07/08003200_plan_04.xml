@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="3623891462421364293-2603070440-1">
+		<tl t="p" o="K4" c="Bus" n="8611"/>
+		<dp pt="2603070440" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)"/>
+	</s>
+	<s id="3272146161175325165-2603062046-10">
+		<tl t="p" o="81" c="NJ" n="420"/>
+		<ar pt="2603070446" pp="3" fb="NJ 420" wings="-6813803786124510421-2603061936" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Nürnberg Hbf|Würzburg Hbf"/>
+		<dp pt="2603070448" pp="3" fb="NJ 420" wings="-6813803786124510421-2603061936" ppth="Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal"/>
+	</s>
+	<s id="-774717188513343349-2603070440-1">
+		<tl t="p" o="K4" c="Bus" n="8612"/>
+		<dp pt="2603070440" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)"/>
+	</s>
+	<s id="-5345571436503521740-2603070435-1">
+		<tl t="p" o="K4" c="Bus" n="30861"/>
+		<dp pt="2603070435" pp="" l="EV" fb="Bus EV" ppth="Wabern(Bz Kassel)|Am Rathaus, Borken (Hessen)|Treysa|Neustadt(Kr Marburg)|Busbahnhof, Stadtallendorf|Bahnhof, Kirchhain|Marburg(Lahn)"/>
+	</s>
+	<s id="-6813803786124510421-2603061936-9">
+		<tl t="p" o="81" c="NJ" n="40490"/>
+		<ar pt="2603070446" pp="3" fb="NJ 40490" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Regensburg Hbf|Nürnberg Hbf|Würzburg Hbf"/>
+		<dp pt="2603070448" pp="3" fb="NJ 40490" ppth="Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal"/>
+	</s>
+</timetable>

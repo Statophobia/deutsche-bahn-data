@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="2704621859177063388-2603062023-5">
+		<tl t="p" o="81" c="NJ" n="499"/>
+		<ar pt="2603070128" pp="4" fb="NJ 499" wings="-1830150766494017803-2603062023" ppth="Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2603070148" pp="4" fb="NJ 499" wings="-1830150766494017803-2603062023" ppth="Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="-1830150766494017803-2603062023-5">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2603070128" pp="4" fb="NJ 40491" ppth="Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2603070148" pp="4" fb="NJ 40491" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="5002808764059930451-2603062328-27">
+		<tl f="N" t="p" o="800772" c="RE" n="4645"/>
+		<ar pt="2603070127" pp="9" l="RE54" fb="RE54" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf|Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim|Aschaffenburg Hbf|Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen"/>
+	</s>
+	<s id="-5496349338530059192-2603070004-6">
+		<tl t="p" o="B7" c="Bus" n="4635"/>
+		<ar pt="2603070115" pp="" l="EV" fb="Bus EV" ppth="Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen"/>
+	</s>
+	<s id="8209469800275406026-2603062252-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2603070114" pp="6" fb="ICE 1080" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf"/>
+		<dp pt="2603070117" pp="6" fb="ICE 1080" ppth="Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+</timetable>
