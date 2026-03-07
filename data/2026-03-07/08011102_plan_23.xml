@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="-5141327365512533884-2603072103-15">
+		<tl f="N" t="p" o="800161" c="RE" n="3639"/>
+		<ar pt="2603072334" pp="" l="RE6" fb="RE6" ppth="Perleberg|Groß Pankow|Pritzwalk|Heiligengrabe|Liebenthal(Prignitz)|Wittstock(Dosse)|Dossow(Prign)|Fretzdorf|Netzeband|Walsleben|Neuruppin West|Neuruppin Rheinsberger Tor|Löwenberg(Mark)|Oranienburg"/>
+	</s>
+	<s id="-492016829557023117-2603072323-1">
+		<tl f="N" t="p" o="800161" c="RE" n="3640"/>
+		<dp pt="2603072323" pp="" l="RE6" fb="RE6" ppth="Oranienburg|Löwenberg(Mark)|Neuruppin Rheinsberger Tor|Neuruppin West"/>
+	</s>
+	<s id="-7046504936651524928-2603072334-4">
+		<tl f="N" t="p" o="800158" c="RE" n="3522"/>
+		<ar pt="2603072351" pp="9" l="RE5" fb="RE5" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+		<dp pt="2603072354" pp="9" l="RE5" fb="RE5" ppth="Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Blankensee(Meckl)|Cammin(Meckl)|Burg Stargard(Meckl)|Neubrandenburg"/>
+	</s>
+	<s id="6524097521449315873-2603072037-10">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2603072303" pp="6" l="RE5" fb="RE5" ppth="Rostock Hbf|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg"/>
+		<dp pt="2603072306" pp="6" l="RE5" fb="RE5" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-315375058425876729-2603072324-2">
+		<tl f="N" t="p" o="800158" c="RE" n="3320"/>
+		<ar pt="2603072328" pp="9" l="RE3" fb="RE3" ppth="Berlin Hbf"/>
+		<dp pt="2603072331" pp="9" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="-7138410051225202863-2603072320-1">
+		<tl f="F" t="p" o="80" c="ICE" n="905"/>
+		<dp pt="2603072320" pp="7" fb="ICE 905" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Naumburg(Saale)Hbf|Jena Paradies|Jena-Göschwitz|Saalfeld(Saale)|Lichtenfels|Bamberg|Erlangen|Nürnberg Hbf|Treuchtlingen|Donauwörth|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="3265133052771071185-2603072204-12">
+		<tl f="N" t="p" o="800158" c="RE" n="3359"/>
+		<ar pt="2603072326" pp="6" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)"/>
+		<dp pt="2603072328" pp="6" l="RE3" fb="RE3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog"/>
+	</s>
+</timetable>

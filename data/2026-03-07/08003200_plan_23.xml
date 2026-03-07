@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="7763769655345713510-2603072310-1">
+		<tl t="p" o="K4" c="Bus" n="98023"/>
+		<dp pt="2603072310" pp="" l="EV" fb="Bus EV" ppth="Bahnhof Oberzwehren, Kassel|Rengershausen Kirche, Baunatal|Baunatal-Guntershausen|Grifte Bahnhof, Edermünde|Wolfershausen, Felsberg|Altenbrunslar, Felsberg|Felsberg-Gensungen|Wabern(Bz Kassel)|Singlis, Borken (Hessen)|Am Rathaus, Borken (Hessen)|Zimmersrode|Schlierbach Bahnhof, Neuental|Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Busbahnhof, Stadtallendorf|Bahnhof, Kirchhain|Anzefahr Möhrengarten, Kirchhain|Bürgeln Rennweg, Cölbe|Cölbe|Marburg(Lahn)|Bahnhof, Gießen"/>
+	</s>
+	<s id="-4423381423476802903-2603072221-23">
+		<tl f="D" t="p" o="N4" c="CAN" n="24246"/>
+		<ar pt="2603072351" pp="9" l="RB5" fb="RB5" ppth="Fulda|Hünfeld|Burghaun(Hünfeld)|Haunetal-Neukirchen|Bad Hersfeld|Ludwigsau-Friedlos|Bebra|Lispenhausen|Rotenburg a.d. Fulda|Heinebach|Altmorschen|Malsfeld-Beiseförth|Malsfeld|Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2603072352" pp="9" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+	</s>
+	<s id="-659489155084802137-2603072321-3">
+		<tl t="p" o="H4" c="Bus" n="4"/>
+		<ar pt="2603072333" pp="B" l="EVRT5" fb="Bus EVRT5" ppth="Kassel Hauptbahnhof Nord|Hauptbahnhof, Kassel"/>
+		<dp pt="2603072333" pp="B" l="EVRT5" fb="Bus EVRT5" ppth="Kassel-Oberzwehren|Rengershausen Kirche, Baunatal|Guntershausen Bahnhof, Baunatal|Guxhagen|Körle Mülmischtal|Melsungen-Röhrenfurth Mitte|Schwarzenberg Mitte, Melsungen|Am Huberg, Melsungen|Melsungen"/>
+	</s>
+	<s id="-4334052269293178025-2603072335-1">
+		<tl f="D" t="p" o="H4" c="RT" n="20550"/>
+		<dp pt="2603072335" pp="9" l="RT5" fb="RT5" ppth="Kassel Hbf (tief)|Scheidemannplatz, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Rathaus/Fünffensterstraße, Kassel|Am Weinberg, Kassel|Heinrich-Heine-Straße, Kassel|Auestadion, Kassel"/>
+	</s>
+	<s id="6630707905924152860-2603072307-8">
+		<tl f="D" t="p" o="H4" c="RT" n="20555"/>
+		<ar pt="2603072322" pp="7" l="RT5" fb="RT5" ppth="Auestadion, Kassel|Heinrich-Heine-Straße, Kassel|Am Weinberg, Kassel|Rathaus/Fünffensterstraße, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Scheidemannplatz, Kassel|Kassel Hbf (tief)"/>
+	</s>
+	<s id="-1986527794838830381-2603072130-2">
+		<tl t="p" o="K4" c="Bus" n="80202"/>
+		<ar pt="2603072310" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)"/>
+	</s>
+	<s id="-3036403212113664493-2603072204-5">
+		<tl t="p" o="NXRE" c="NX" n="91605"/>
+		<ar pt="2603072301" pp="8" l="RE11" fb="RE11" ppth="Altenbeken|Willebadessen|Warburg(Westf)|Hofgeismar"/>
+	</s>
+	<s id="-1436610652451537016-2603072201-10">
+		<tl t="p" o="H4" c="Bus" n="1"/>
+		<ar pt="2603072307" pp="B" l="EVRT5" fb="Bus EVRT5" ppth="Melsungen|Am Huberg, Melsungen|Schwarzenberg Mitte, Melsungen|Melsungen-Röhrenfurth Mitte|Körle Mülmischtal|Guxhagen|Guntershausen Bahnhof, Baunatal|Rengershausen Kirche, Baunatal|Kassel-Oberzwehren"/>
+		<dp pt="2603072307" pp="B" l="EVRT5" fb="Bus EVRT5" ppth="Kassel Hauptbahnhof Nord"/>
+	</s>
+	<s id="-5051126456758708936-2603072302-2">
+		<tl f="D" t="p" o="N4" c="CAN" n="24253"/>
+		<ar pt="2603072305" pp="7" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+		<dp pt="2603072306" pp="7" l="RB5" fb="RB5" ppth="Guxhagen|Melsungen|Malsfeld|Malsfeld-Beiseförth|Altmorschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen|Bebra|Ludwigsau-Friedlos|Bad Hersfeld"/>
+	</s>
+	<s id="2846203579408858695-2603072035-8">
+		<tl t="p" o="K4" c="Bus" n="30874"/>
+		<ar pt="2603072306" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)|Bahnhof, Kirchhain|Busbahnhof, Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Am Rathaus, Borken (Hessen)|Wabern(Bz Kassel)"/>
+	</s>
+</timetable>
