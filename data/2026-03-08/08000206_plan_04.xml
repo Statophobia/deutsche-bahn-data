@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Koblenz Hbf">
+	<s id="4753870957390372842-2603071815-9">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2603080438" pp="3" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf"/>
+		<dp pt="2603080443" pp="3" fb="IC 60402" ppth="Bonn-Beuel|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Arnhem Centraal|Utrecht Centraal"/>
+	</s>
+	<s id="6561451174507366599-2603072245-15">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2603080457" pp="5" fb="ICE 921" ppth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach"/>
+		<dp pt="2603080531" pp="5" fb="ICE 921" ppth="Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="8868050453695511606-2603071815-9">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2603080438" pp="3" fb="NJ 402" hi="1" wings="4753870957390372842-2603071815" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf"/>
+		<dp pt="2603080443" pp="3" fb="NJ 402" hi="1" wings="4753870957390372842-2603071815" ppth="Bonn-Beuel|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Arnhem Centraal|Utrecht Centraal"/>
+	</s>
+</timetable>

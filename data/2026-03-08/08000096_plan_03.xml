@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Stuttgart Hbf">
+	<s id="2341795462491341556-2603080342-1">
+		<tl t="p" o="GAMEX" c="ARV" n="19107"/>
+		<dp pt="2603080342" pp="13" l="MEX16" fb="MEX16" ppth="Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Reichenbach(Fils)|Ebersbach(Fils)|Uhingen|Faurndau|Göppingen|Eislingen(Fils)|Salach|Süßen|Gingen(Fils)|Kuchen|Geislingen(Steige)West|Geislingen(Steige)"/>
+	</s>
+	<s id="-3853709709212806878-2603080217-16">
+		<tl t="p" o="GAMEX" c="ARV" n="19104"/>
+		<ar pt="2603080316" pp="13" l="MEX16" fb="MEX16" ppth="Geislingen(Steige)|Geislingen(Steige)West|Kuchen|Gingen(Fils)|Süßen|Salach|Eislingen(Fils)|Göppingen|Faurndau|Uhingen|Ebersbach(Fils)|Reichenbach(Fils)|Plochingen|Esslingen(Neckar)|Stuttgart-Bad Cannstatt"/>
+	</s>
+	<s id="-4197316340764410909-2603080307-9">
+		<tl f="N" t="p" o="SBSMEX" c="RE" n="19201"/>
+		<ar pt="2603080355" pp="15" l="MEX12" fb="MEX12" ppth="Heilbronn Hbf|Nordheim(Württ)|Lauffen(Neckar)|Kirchheim(Neckar)|Walheim(Württ)|Besigheim|Bietigheim-Bissingen|Ludwigsburg"/>
+		<dp pt="2603080408" pp="15" l="MEX12" fb="MEX12" ppth="Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Wendlingen(Neckar)|Oberboihingen|Nürtingen|Bempflingen|Metzingen(Württ)|Reutlingen Hbf|Tübingen Hbf"/>
+	</s>
+	<s id="-1696482145472978640-2603071815-15">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2603080339" pp="16" fb="ICE 619" ppth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Heidelberg Hbf"/>
+		<dp pt="2603080345" pp="16" fb="ICE 619" ppth="Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+</timetable>
