@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="8218544619443085427-2603081647-15">
+		<tl f="F" t="p" o="80" c="ICE" n="502"/>
+		<ar pt="2603082359" pp="2" fb="ICE 502" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen"/>
+		<dp pt="2603090002" pp="2" fb="ICE 502" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="4233605495763225145-2603082306-3">
+		<tl f="D" t="p" o="X1" c="erx" n="82407"/>
+		<ar pt="2603082321" pp="5" l="RE83" fb="RE83" ppth="Lauenburg(Elbe)|Echem"/>
+	</s>
+	<s id="-1290839640796586839-2603081811-9">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2603082325" pp="2" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+		<dp pt="2603082327" pp="2" fb="ICE 782" ppth="Hamburg-Harburg"/>
+	</s>
+	<s id="1645690183033695457-2603082233-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81643"/>
+		<ar pt="2603082324" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-7765232958931757926-2603082250-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2603082314" pp="1" fb="ICE 1707" ppth="Hamburg Hbf"/>
+		<dp pt="2603082316" pp="1" fb="ICE 1707" ppth="Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="3807530202244831567-2603082338-1">
+		<tl f="D" t="p" o="X1" c="erx" n="82410"/>
+		<dp pt="2603082338" pp="5" l="RE83" fb="RE83" ppth="Echem|Lauenburg(Elbe)"/>
+	</s>
+	<s id="-2614635043189967845-2603082334-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81642"/>
+		<dp pt="2603082334" pp="3" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7605444045761975293-2603082332-1">
+		<tl t="p" o="R1" c="Bus" n="3143"/>
+		<dp pt="2603082332" pp="" l="RB31" fb="Bus RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+</timetable>
