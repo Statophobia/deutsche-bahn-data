@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Pforzheim Hbf">
+	<s id="-8784335190639872074-2603092344-1">
+		<tl f="N" t="p" o="SBSMEX" c="RE" n="19373"/>
+		<dp pt="2603092344" pp="2" l="MEX17" fb="MEX17" ppth="Eutingen(Baden)|Niefern|Enzberg|Mühlacker|Mühlacker Rößlesweg|Illingen(Württ)|Vaihingen(Enz)|Sersheim|Sachsenheim|Ellental|Bietigheim-Bissingen|Ludwigsburg|Stuttgart Hbf"/>
+	</s>
+	<s id="-2524886537496923871-2603092246-13">
+		<tl f="N" t="p" o="SBSMEX" c="RE" n="19582"/>
+		<ar pt="2603092342" pp="5" l="MEX17" fb="MEX17" ppth="Stuttgart Hbf|Ludwigsburg|Bietigheim-Bissingen|Ellental|Sachsenheim|Sersheim|Vaihingen(Enz)|Illingen(Württ)|Mühlacker Rößlesweg|Mühlacker|Niefern|Eutingen(Baden)"/>
+	</s>
+	<s id="8360011642813021894-2603092232-4">
+		<tl t="p" o="GARE" c="ARV" n="19034"/>
+		<ar pt="2603092301" pp="4" l="RE1" fb="RE1" ppth="Stuttgart Hbf|Vaihingen(Enz)|Mühlacker"/>
+		<dp pt="2603092303" pp="4" l="RE1" fb="RE1" ppth="Wilferdingen-Singen|Karlsruhe-Durlach"/>
+	</s>
+	<s id="-8244358054095141575-2603092258-13">
+		<tl f="N" t="p" o="800632" c="RB" n="17960"/>
+		<ar pt="2603092351" pp="103" l="RB74" fb="RB74" ppth="Nagold Stadtmitte|Nagold|Wildberg(Württ)|Bad Teinach-Neubulach|Calw|Hirsau|Bad Liebenzell|Monbach-Neuhausen|Unterreichenbach|Pforzheim-Weißenstein|Brötzingen Mitte|Pforzheim Maihälden"/>
+	</s>
+	<s id="-8313789277266846411-2603092325-3">
+		<tl t="p" o="GARE" c="ARV" n="19037"/>
+		<ar pt="2603092343" pp="3" l="RE1" fb="RE1" ppth="Karlsruhe-Durlach|Wilferdingen-Singen"/>
+		<dp pt="2603092347" pp="3" l="RE1" fb="RE1" ppth="Mühlacker|Vaihingen(Enz)|Bietigheim-Bissingen|Ludwigsburg|Stuttgart Hbf"/>
+	</s>
+	<s id="-1702444323451852327-2603092313-4">
+		<tl t="p" o="GARE" c="ARV" n="19686"/>
+		<ar pt="2603092347" pp="4" l="RE1" fb="RE1" ppth="Stuttgart Hbf|Vaihingen(Enz)|Mühlacker"/>
+		<dp pt="2603092348" pp="4" l="RE1" fb="RE1" ppth="Wilferdingen-Singen|Karlsruhe-Durlach|Karlsruhe Hbf"/>
+	</s>
+</timetable>
