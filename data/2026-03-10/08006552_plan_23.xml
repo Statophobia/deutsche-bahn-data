@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Wolfsburg Hbf">
+	<s id="5597303123860052865-2603101927-11">
+		<tl f="F" t="p" o="80" c="ICE" n="947"/>
+		<ar pt="2603102303" pp="5" fb="ICE 947" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf"/>
+		<dp pt="2603102305" pp="5" fb="ICE 947" ppth="Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-1653210131841273505-2603102248-11">
+		<tl t="p" o="R0" c="ENO" n="83537"/>
+		<ar pt="2603102343" pp="8" l="RE30" fb="RE30" ppth="Hannover Hbf|Lehrte|Immensen-Arpke|Dollbergen|Dedenhausen|Meinersen|Leiferde(b Gifhorn)|Gifhorn|Calberlah|Fallersleben"/>
+	</s>
+	<s id="-6285697392036082056-2603102320-1">
+		<tl t="p" o="RSMD" c="RSM" n="80385"/>
+		<dp pt="2603102320" pp="9" l="RB36" fb="RB36" ppth="Oebisfelde|Bösdorf(Sachs-Anh)|Rätzlingen|Wegenstedt|Flechtingen|Haldensleben|Vahldorf|Groß Ammensleben|Meitzendorf|Barleben|Magdeburg-Eichenweiler|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-6743768385420850532-2603102330-1">
+		<tl t="p" o="R0" c="Bus" n="5290"/>
+		<dp pt="2603102330" pp="" l="RE50" fb="Bus RE50" ppth="Fallersleben|Braunschweiger Straße, Lehre|Weddel(Braunschw)|Braunschweig Hbf"/>
+	</s>
+	<s id="2121877044531283563-2603102132-6">
+		<tl f="F" t="p" o="80" c="ICE" n="840"/>
+		<ar pt="2603102308" pp="1" fb="ICE 840" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf"/>
+		<dp pt="2603102309" pp="1" fb="ICE 840" ppth="Hannover Hbf"/>
+	</s>
+	<s id="6690315715971123804-2603102230-4">
+		<tl t="p" o="R0" c="Bus" n="5185"/>
+		<ar pt="2603102326" pp="" l="RE50" fb="Bus RE50" ppth="Braunschweig Hbf|Weddel(Braunschw)|Fallersleben"/>
+	</s>
+	<s id="5845049446990543970-2603102314-1">
+		<tl t="p" o="R0" c="ENO" n="83538"/>
+		<dp pt="2603102314" pp="4" l="RE30" fb="RE30" ppth="Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte|Hannover Hbf"/>
+	</s>
+</timetable>
