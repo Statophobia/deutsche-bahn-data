@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Nürnberg Hbf">
+	<s id="7919139153560376686-2603110033-10">
+		<tl f="N" t="p" o="800720" c="RB" n="58554"/>
+		<ar pt="2603110107" pp="17" l="RB30" fb="RB30" ppth="Hersbruck(r Pegnitz)|Reichenschwand|Neunkirchen a Sand|Lauf(rechts Pegnitz)|Ludwigshöhe|Rückersdorf(Mfr)|Behringersdorf|Nürnberg-Erlenstegen|Nürnberg Ost"/>
+	</s>
+	<s id="-3624101683211730103-2603101855-11">
+		<tl f="F" t="p" o="80" c="ICE" n="1021"/>
+		<ar pt="2603110105" pp="12" fb="ICE 1021" ppth="Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf"/>
+	</s>
+	<s id="3520712047194972268-2603110108-7">
+		<tl f="S" t="p" o="800721" c="S" n="39392"/>
+		<ar pt="2603110125" pp="2" l="S3" fb="S3" ppth="Feucht|Fischbach(Nürnberg)|Nürnberg Frankenstadion|Nürnberg-Dutzendteich|Nürnberg-Gleißhammer|Nürnberg-Dürrenhof"/>
+	</s>
+	<s id="-6813803786124510421-2603101936-7">
+		<tl t="p" o="81" c="NJ" n="40490"/>
+		<ar pt="2603110152" pp="5" fb="NJ 40490" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Regensburg Hbf"/>
+		<dp pt="2603110232" pp="5" fb="NJ 40490" ppth="Würzburg Hbf|Kassel-Wilhelmshöhe|Hamm(Westf)Hbf|Münster(Westf)Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="3264490092671239288-2603102348-9">
+		<tl f="N" t="p" o="800759" c="RE" n="3590"/>
+		<ar pt="2603110115" pp="19" l="RE40" fb="RE40" ppth="Regensburg Hbf|Schwandorf|Amberg|Sulzbach-Rosenberg|Neukirchen(b Sulzb)|Etzelwang|Hartmannshof|Hersbruck(r Pegnitz)"/>
+	</s>
+	<s id="1595410400684371270-2603101936-7">
+		<tl t="p" o="81" c="NJ" n="498"/>
+		<ar pt="2603110152" pp="5" fb="NJ 498" wings="-6813803786124510421-2603101936" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Regensburg Hbf"/>
+		<dp pt="2603110237" pp="4" fb="NJ 498" wings="-8677182982400525824-2603102046" ppth="Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="4271244772063134211-2603110106-1">
+		<tl f="S" t="p" o="800721" c="S" n="39494"/>
+		<dp pt="2603110106" pp="22" l="S4" fb="S4" ppth="Nürnberg-Schweinau|Nürnberg-Stein|Unterasbach|Oberasbach|Anwanden|Roßtal|Roßtal Wegbrücke|Raitersaich|Heilsbronn|Petersaurach Nord|Wicklesgreuth|Sachsen(b Ansbach)|Ansbach"/>
+	</s>
+	<s id="-4806817207890998144-2603102312-5">
+		<tl f="F" t="p" o="80" c="ICE" n="904"/>
+		<ar pt="2603110111" pp="7" fb="ICE 904" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth"/>
+		<dp pt="2603110124" pp="7" fb="ICE 904" ppth="Erlangen|Bamberg|Lichtenfels|Saalfeld(Saale)|Jena-Göschwitz|Jena Paradies|Naumburg(Saale)Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+</timetable>
