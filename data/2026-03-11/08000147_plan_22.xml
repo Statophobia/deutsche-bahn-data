@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Harburg">
+	<s id="7468334744528629490-2603111710-9">
+		<tl f="F" t="p" o="80" c="ICE" n="584"/>
+		<ar pt="2603112244" pp="1" fb="ICE 584" ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Lüneburg"/>
+	</s>
+	<s id="-7193636000516531658-2603112200-6">
+		<tl f="D" t="p" o="R1" c="ME" n="82140"/>
+		<ar pt="2603112252" pp="2" l="RE3" fb="RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)"/>
+	</s>
+	<s id="5247884099362609685-2603112109-12">
+		<tl t="p" o="RSUE" c="RSU" n="14532"/>
+		<ar pt="2603112237" pp="6" l="RE5" fb="RE5" ppth="Cuxhaven|Otterndorf|Cadenberge|Wingst|Hemmoor|Hechthausen|Himmelpforten|Hammah|Stade|Horneburg|Buxtehude"/>
+	</s>
+	<s id="6954924236955692259-2603111328-17">
+		<tl f="F" t="p" o="80" c="ICE" n="516"/>
+		<ar pt="2603112202" pp="2" fb="ICE 516" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf"/>
+		<dp pt="2603112204" pp="2" fb="ICE 516" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-5839843614205870894-2603112250-1">
+		<tl t="p" o="R1" c="Bus" n="3143"/>
+		<dp pt="2603112250" pp="" l="RB31" fb="Bus RB31" ppth="Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)"/>
+	</s>
+	<s id="1204654506606833060-2603112250-1">
+		<tl t="p" o="R1" c="Bus" n="4343"/>
+		<dp pt="2603112250" pp="" l="RB41" fb="Bus RB41" ppth="Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt"/>
+	</s>
+	<s id="6561451174507366599-2603112245-2">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2603112255" pp="3" fb="ICE 921" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2603112257" pp="3" fb="ICE 921" ppth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-2991242414688689415-2603112058-14">
+		<tl f="D" t="p" o="R1" c="ME" n="81938"/>
+		<ar pt="2603112213" pp="2" l="RB41" fb="RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld"/>
+		<dp pt="2603112214" pp="2" l="RB41" fb="RB41" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="1983981787191650824-2603112227-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2603112237" pp="3" fb="ICE 1081" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2603112239" pp="3" fb="ICE 1081" ppth="Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-5776617363706178690-2603112156-2">
+		<tl f="D" t="p" o="R1" c="ME" n="82141"/>
+		<ar pt="2603112205" pp="3" l="RE3" fb="RE3" ppth="Hamburg Hbf"/>
+		<dp pt="2603112206" pp="3" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="-7327105199152929658-2603112157-6">
+		<tl t="p" o="R1" c="Bus" n="3238"/>
+		<ar pt="2603112242" pp="" l="RB31" fb="Bus RB31" ppth="Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+	</s>
+	<s id="-442030753204357910-2603112223-1">
+		<tl t="p" o="RSUE" c="RSU" n="14537"/>
+		<dp pt="2603112223" pp="6" l="RE5" fb="RE5" ppth="Buxtehude|Horneburg|Stade|Hammah|Himmelpforten|Hechthausen|Hemmoor|Wingst|Cadenberge|Otterndorf|Cuxhaven"/>
+	</s>
+	<s id="-3600137003086714631-2603112223-1">
+		<tl f="F" t="p" o="NZ" c="IC" n="60471"/>
+		<dp pt="2603112223" pp="3" fb="IC 60471" ppth="Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-3238246615504329950-2603112223-1">
+		<tl t="p" o="81" c="NJ" n="471"/>
+		<dp pt="2603112223" pp="3" fb="NJ 471" wings="-3600137003086714631-2603112223" ppth="Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>
