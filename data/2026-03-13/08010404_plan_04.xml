@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Spandau">
+	<s id="1817481756781611586-2603130415-4">
+		<tl f="F" t="p" o="80" c="ICE" n="277"/>
+		<ar pt="2603130444" pp="3" fb="ICE 277" hi="1" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2603130446" pp="3" fb="ICE 277" ppth="Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+	</s>
+	<s id="-8255514918493473226-2603130438-5">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62094"/>
+		<ar pt="2603130459" pp="3" l="RB10" fb="RB10" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide"/>
+		<dp pt="2603130503" pp="3" l="RB10" fb="RB10" ppth="Dallgow-Döberitz|Wustermark"/>
+	</s>
+	<s id="5314339732344412113-2603130429-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1706"/>
+		<ar pt="2603130447" pp="4" fb="ICE 1706" hi="1" ppth="Berlin Südkreuz|Berlin Hbf"/>
+		<dp pt="2603130448" pp="4" fb="ICE 1706" ppth="Stendal Hbf|Uelzen|Lüneburg|Hamburg Hbf"/>
+	</s>
+	<s id="5987638080143716618-2603130444-2">
+		<tl f="N" t="p" o="800165" c="RE" n="3101"/>
+		<ar pt="2603130453" pp="3" l="RE2" fb="RE2" ppth="Berlin Gesundbrunnen"/>
+		<dp pt="2603130455" pp="3" l="RE2" fb="RE2" ppth="Dallgow-Döberitz|Hennigsdorf(b Berlin)"/>
+	</s>
+	<s id="3129031456741493070-2603130409-4">
+		<tl f="F" t="p" o="80" c="ICE" n="646"/>
+		<ar pt="2603130438" pp="4" fb="ICE 646" hi="1" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2603130439" pp="4" fb="ICE 646" ppth="Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Minden(Westf)|Herford|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+</timetable>
