@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-7765232958931757926-2603132250-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1707"/>
+		<ar pt="2603132314" pp="1" fb="ICE 1707" ppth="Hamburg Hbf"/>
+		<dp pt="2603132316" pp="1" fb="ICE 1707" ppth="Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="3807530202244831567-2603132338-1">
+		<tl f="D" t="p" o="X1" c="erx" n="82410"/>
+		<dp pt="2603132338" pp="5" l="RE83" fb="RE83" ppth="Echem|Lauenburg(Elbe)"/>
+	</s>
+	<s id="4233605495763225145-2603132306-3">
+		<tl f="D" t="p" o="X1" c="erx" n="82407"/>
+		<ar pt="2603132321" pp="5" l="RE83" fb="RE83" ppth="Lauenburg(Elbe)|Echem"/>
+	</s>
+	<s id="1645690183033695457-2603132233-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81643"/>
+		<ar pt="2603132324" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+		<dp pt="2603132325" pp="1" l="RB31" fb="RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="-1290839640796586839-2603131811-9">
+		<tl f="F" t="p" o="80" c="ICE" n="782"/>
+		<ar pt="2603132325" pp="2" fb="ICE 782" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hannover Messe/Laatzen"/>
+		<dp pt="2603132327" pp="2" fb="ICE 782" ppth="Hamburg-Harburg"/>
+	</s>
+	<s id="-2345871439640296356-2603132306-3">
+		<tl f="D" t="p" o="R1" c="ME" n="81677"/>
+		<ar pt="2603132334" pp="1" l="RE3" fb="RE3" ppth="Hamburg-Harburg|Winsen(Luhe)"/>
+		<dp pt="2603132335" pp="1" l="RE3" fb="RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="8218544619443085427-2603131647-15">
+		<tl f="F" t="p" o="80" c="ICE" n="502"/>
+		<ar pt="2603132359" pp="2" fb="ICE 502" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen"/>
+		<dp pt="2603140002" pp="2" fb="ICE 502" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-4550435493069381661-2603132300-4">
+		<tl f="D" t="p" o="R1" c="ME" n="81642"/>
+		<ar pt="2603132323" pp="3" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2603132334" pp="3" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+</timetable>

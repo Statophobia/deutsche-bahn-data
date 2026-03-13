@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="6608893062311257962-2603132236-12">
+		<tl f="D" t="p" o="R1" c="ME" n="82837"/>
+		<ar pt="2603132349" pp="6" l="RE2" fb="RE2" ppth="Hannover Hbf|Sarstedt|Nordstemmen|Elze(Han)|Banteln|Alfeld(Leine)|Freden(Leine)|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="-5254818801804111887-2603132314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24099"/>
+		<dp pt="2603132314" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Friedland(Han)|Eichenberg|Bad Sooden-Allendorf|Eschwege-Niederhone|Eschwege"/>
+	</s>
+	<s id="7489453152844990512-2603132331-3">
+		<tl f="D" t="p" o="N4" c="CAN" n="24036"/>
+		<ar pt="2603132345" pp="5" l="RB83" fb="RB83" ppth="Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="-2771848429149037972-2603132314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24039"/>
+		<dp pt="2603132314" pp="5" l="RB83" fb="RB83" wings="-5254818801804111887-2603132314" ppth="Friedland(Han)|Eichenberg|Witzenhausen Nord|Gertenbach|Hedemünden|Hann Münden|Speele|Fuldatal-Ihringshausen|Vellmar-Niedervellmar|Kassel Hbf"/>
+	</s>
+	<s id="-6720494044942028133-2603132311-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82848"/>
+		<dp pt="2603132311" pp="6" l="RE2" fb="RE2" ppth="Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln|Elze(Han)|Nordstemmen|Sarstedt|Hannover Hbf"/>
+	</s>
+</timetable>
