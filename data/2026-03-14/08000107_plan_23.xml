@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Freiburg(Breisgau) Hbf">
+	<s id="1728977312733273859-2603141615-15">
+		<tl f="F" t="p" o="80" c="ICE" n="379"/>
+		<ar pt="2603142316" pp="3" fb="ICE 379" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg"/>
+	</s>
+	<s id="-5591597380485360579-2603142059-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2603142256" pp="1" fb="IC 60470" ppth="Zürich HB|Basel SBB|Basel Bad Bf"/>
+		<dp pt="2603142300" pp="1" fb="IC 60470" ppth="Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="4753870957390372842-2603142032-4">
+		<tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+		<ar pt="2603142357" pp="1" fb="IC 60402" ppth="Zürich HB|Basel SBB|Basel Bad Bf"/>
+		<dp pt="2603150007" pp="1" fb="IC 60402" ppth="Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="405276722125221237-2603142316-14">
+		<tl f="D" t="p" o="S6" c="SWE" n="88381"/>
+		<ar pt="2603142354" pp="5" l="S2" fb="S2" ppth="Elzach|Oberwinden|Niederwinden|Bleibach|Gutach(Breisgau)|Kollnau|Waldkirch|Batzenhäusle|Buchholz(Baden)|Denzlingen|Gundelfingen(Breisgau)|Freiburg-Zähringen|Freiburg-Herdern"/>
+	</s>
+	<s id="-9039475216128576846-2603142340-1">
+		<tl f="S" t="p" o="8006C6" c="S" n="9747"/>
+		<dp pt="2603142340" pp="7" l="S10" fb="S10" ppth="Freiburg-Wiehre|Freiburg-Littenweiler|Kirchzarten|Himmelreich|Hinterzarten|Titisee|Neustadt(Schwarzw)"/>
+	</s>
+	<s id="801873325753466307-2603142134-16">
+		<tl f="S" t="p" o="8006C6" c="S" n="9742"/>
+		<ar pt="2603142318" pp="6" l="S1" fb="S1" ppth="Villingen(Schwarzw)|Donaueschingen|Hüfingen Mitte|Döggingen|Unadingen|Bachheim|Löffingen|Rötenbach(Baden)|Neustadt(Schwarzw)|Titisee|Hinterzarten|Himmelreich|Kirchzarten|Freiburg-Littenweiler|Freiburg-Wiehre"/>
+	</s>
+	<s id="8091272933772303376-2603142218-20">
+		<tl f="N" t="p" o="8006C4" c="RB" n="17136"/>
+		<ar pt="2603142318" pp="1" l="RB27" fb="RB27" ppth="Basel Bad Bf|Weil am Rhein|Haltingen|Eimeldingen|Efringen-Kirchen|Istein|Kleinkems|Rheinweiler|Bad Bellingen|Schliengen|Auggen|Müllheim im Markgräflerland|Buggingen|Heitersheim|Bad Krozingen|Norsingen|Schallstadt|Ebringen|Freiburg-St Georgen"/>
+		<dp pt="2603142320" pp="1" l="RB27" fb="RB27" ppth="Gundelfingen(Breisgau)|Denzlingen|Kollmarsreute|Emmendingen|Teningen-Mundingen|Köndringen|Riegel-Malterdingen|Kenzingen|Herbolzheim(Breisg)|Ringsheim/Europa-Park|Orschweier|Lahr(Schwarzw)|Friesenheim(Baden)|Offenburg"/>
+	</s>
+	<s id="1003446772902483359-2603142059-4">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2603142256" pp="1" fb="NJ 470" wings="-5591597380485360579-2603142059" ppth="Zürich HB|Basel SBB|Basel Bad Bf"/>
+		<dp pt="2603142300" pp="1" fb="NJ 470" wings="-5591597380485360579-2603142059" ppth="Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="8868050453695511606-2603142032-4">
+		<tl t="p" o="85" c="NJ" n="402"/>
+		<ar pt="2603142357" pp="1" fb="NJ 402" hi="1" wings="4753870957390372842-2603142032" ppth="Zürich HB|Basel SBB|Basel Bad Bf"/>
+		<dp pt="2603150007" pp="1" fb="NJ 402" wings="4753870957390372842-2603142032" ppth="Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn-Beuel|Köln Hbf|Eindhoven Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="297034518942030962-2603142246-15">
+		<tl f="N" t="p" o="8006C4" c="RB" n="17139"/>
+		<ar pt="2603142336" pp="4" l="RB27" fb="RB27" ppth="Offenburg|Friesenheim(Baden)|Lahr(Schwarzw)|Orschweier|Ringsheim/Europa-Park|Herbolzheim(Breisg)|Kenzingen|Riegel-Malterdingen|Köndringen|Teningen-Mundingen|Emmendingen|Kollmarsreute|Denzlingen|Gundelfingen(Breisgau)"/>
+		<dp pt="2603142342" pp="4" l="RB27" fb="RB27" ppth="Freiburg-St Georgen|Ebringen|Schallstadt|Norsingen|Bad Krozingen|Heitersheim|Buggingen|Müllheim im Markgräflerland|Auggen|Schliengen|Bad Bellingen|Rheinweiler|Kleinkems|Istein|Efringen-Kirchen"/>
+	</s>
+	<s id="-8830303160438025370-2603142338-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="88382"/>
+		<dp pt="2603142338" pp="5" l="S2" fb="S2" ppth="Freiburg-Herdern|Freiburg-Zähringen|Gundelfingen(Breisgau)|Denzlingen|Buchholz(Baden)|Batzenhäusle|Waldkirch|Kollnau|Gutach(Breisgau)|Bleibach|Niederwinden|Oberwinden|Elzach"/>
+	</s>
+</timetable>
