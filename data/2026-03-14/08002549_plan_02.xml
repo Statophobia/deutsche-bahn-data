@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="-4040939006420560852-2603140114-15">
+		<tl f="D" t="p" o="R1" c="ME" n="81946"/>
+		<ar pt="2603140243" pp="11A-C" l="RB41" fb="RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-6852983376901572911-2603140209-5">
+		<tl f="N" t="p" o="800292" c="RE" n="11445"/>
+		<ar pt="2603140253" pp="8" l="RE8" fb="RE8" ppth="Lübeck Hbf|Lübeck-Moisling|Reinfeld(Holst)|Bad Oldesloe"/>
+	</s>
+	<s id="-2626031881044219001-2603140215-1">
+		<tl t="p" o="R1" c="Bus" n="3103"/>
+		<dp pt="2603140215" pp="" l="RB31" fb="Bus RB31" ppth="Hamburg-Harburg"/>
+	</s>
+	<s id="-4809130541041426229-2603140155-5">
+		<tl f="N" t="p" o="800293" c="RB" n="11343"/>
+		<ar pt="2603140218" pp="7A-D" l="RB81" fb="RB81" ppth="Ahrensburg|Hamburg-Rahlstedt|Hamburg-Tonndorf|Hamburg Hasselbrook"/>
+	</s>
+	<s id="-1394073854374429104-2603140204-1">
+		<tl f="N" t="p" o="800292" c="RE" n="11444"/>
+		<dp pt="2603140204" pp="7A-D" l="RE8" fb="RE8" ppth="Bad Oldesloe|Reinfeld(Holst)|Lübeck-Moisling|Lübeck Hbf"/>
+	</s>
+	<s id="-1381810858979617966-2603140256-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81903"/>
+		<dp pt="2603140256" pp="11A-C" l="RB41" fb="RB41" ppth="Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland|Bremen Hbf"/>
+	</s>
+	<s id="5635586286535375897-2603140241-1">
+		<tl f="N" t="p" o="800293" c="RB" n="11346"/>
+		<dp pt="2603140241" pp="7A-D" l="RB81" fb="RB81" ppth="Hamburg Hasselbrook|Hamburg-Tonndorf|Hamburg-Rahlstedt|Ahrensburg"/>
+	</s>
+</timetable>

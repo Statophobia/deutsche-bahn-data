@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="4788166721631719015-2603140305-5">
+		<tl t="p" o="TDHS" c="Bus" n="5513"/>
+		<ar pt="2603140355" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg"/>
+	</s>
+	<s id="1827734000145981457-2603140338-5">
+		<tl t="p" o="TDHS" c="SBH" n="34047"/>
+		<ar pt="2603140358" pp="1" l="S4" fb="S4" ppth="Bennemühlen|Mellendorf|Langenhagen Mitte|Hannover-Nordstadt"/>
+		<dp pt="2603140400" pp="1" l="S4" fb="S4" ppth="Hannover Messe/Laatzen|Rethen(Leine)|Sarstedt|Barnten|Emmerke|Hildesheim Hbf"/>
+	</s>
+	<s id="-3194090255167566486-2603140220-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="89789"/>
+		<ar pt="2603140304" pp="11" l="RE70" fb="RE70" ppth="Braunschweig Hbf|Vechelde|Peine|Vöhrum|Hämelerwald|Lehrte"/>
+	</s>
+	<s id="-6515261671927136147-2603140238-5">
+		<tl t="p" o="TDHS" c="SBH" n="34045"/>
+		<ar pt="2603140258" pp="1" l="S4" fb="S4" ppth="Bennemühlen|Mellendorf|Langenhagen Mitte|Hannover-Nordstadt"/>
+		<dp pt="2603140300" pp="1" l="S4" fb="S4" ppth="Hannover Messe/Laatzen|Rethen(Leine)|Sarstedt|Barnten|Emmerke|Hildesheim Hbf"/>
+	</s>
+	<s id="7917836244737636123-2603140314-1">
+		<tl f="D" t="p" o="W3" c="WFB" n="95845"/>
+		<dp pt="2603140314" pp="11" l="RE70" fb="RE70" ppth="Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
+	</s>
+	<s id="-8298138692841775259-2603140235-3">
+		<tl t="p" o="TDHS" c="SBH" n="34046"/>
+		<ar pt="2603140300" pp="7" l="S4" fb="S4" ppth="Hildesheim Hbf|Sarstedt"/>
+		<dp pt="2603140302" pp="7" l="S4" fb="S4" ppth="Hannover-Nordstadt|Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Langenhagen Pferdemarkt|Langenhagen-Kaltenweide|Bissendorf|Mellendorf|Bennemühlen"/>
+	</s>
+	<s id="5816486980024903099-2603140348-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82856"/>
+		<dp pt="2603140348" pp="8" l="RE3" fb="RE3" pde="Hamburg Hbf" ppth="Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg|Uelzen"/>
+	</s>
+	<s id="8309264005908621253-2603140307-1">
+		<tl t="p" o="TDHS" c="Bus" n="50221"/>
+		<dp pt="2603140307" pp="" l="S2" fb="Bus S2" ppth="Hannover-Leinhausen|Letter|Seelze|Dedensen-Gümmer|Wunstorf"/>
+	</s>
+	<s id="8531312574243295678-2603140208-18">
+		<tl f="N" t="p" o="800295" c="RE" n="4447"/>
+		<ar pt="2603140341" pp="11" l="RE8" fb="RE8" ppth="Bremen Hbf|Bremen-Sebaldsbrück|Bremen-Mahndorf|Achim|Baden(Verden)|Etelsen|Langwedel|Verden(Aller)|Dörverden|Eystrup|Nienburg(Weser)|Linsburg|Hagen(Han)|Eilvese|Neustadt am Rübenberge|Poggenhagen|Wunstorf"/>
+	</s>
+	<s id="-858881387925014485-2603140237-16">
+		<tl t="p" o="TDHS" c="SBH" n="34004"/>
+		<ar pt="2603140325" pp="3" l="S1" fb="S1" tra="6380968148235760086-2603140335-1" ppth="Haste|Bad Nenndorf|Bantorf|Winninghausen|Barsinghausen|Kirchdorf(Deister)|Egestorf(Deister)|Wennigsen(Deister)|Lemmie|Weetzen|Ronnenberg|Empelde|Hannover-Bornum|Hannover-Linden/Fischerhof|Hannover Bismarckstr."/>
+	</s>
+	<s id="-6719281443139587546-2603140311-8">
+		<tl t="p" o="TDHS" c="SBH" n="34017"/>
+		<ar pt="2603140358" pp="9" l="S1" fb="S1" ppth="Minden(Westf)|Bückeburg|Kirchhorsten|Stadthagen|Lindhorst(Schaumb-Lippe)|Haste|Wunstorf"/>
+	</s>
+	<s id="8744044758936817497-2603140121-12">
+		<tl t="p" o="TDHS" c="Bus" n="5025"/>
+		<ar pt="2603140329" pp="" l="S2" fb="Bus S2" ppth="Nienburg(Weser)|Linsburg|Hagen(Han)|Eilvese|Neustadt am Rübenberge|Poggenhagen|Wunstorf|Dedensen-Gümmer|Seelze|Letter|Hannover-Leinhausen"/>
+	</s>
+	<s id="-2529627520637122615-2603140133-21">
+		<tl f="D" t="p" o="R1" c="ME" n="81601"/>
+		<ar pt="2603140356" pp="3" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte"/>
+	</s>
+	<s id="6380968148235760086-2603140335-1">
+		<tl t="p" o="TDHS" c="SBH" n="34005"/>
+		<dp pt="2603140335" pp="3" l="S1" fb="S1" tra="-858881387925014485-2603140237-16" ppth="Hannover Bismarckstr.|Hannover-Linden/Fischerhof|Hannover-Bornum|Empelde|Ronnenberg|Weetzen|Lemmie|Wennigsen(Deister)|Egestorf(Deister)|Kirchdorf(Deister)|Barsinghausen|Winninghausen|Bantorf|Bad Nenndorf|Haste"/>
+	</s>
+	<s id="1574019731431315273-2603140300-11">
+		<tl t="p" o="TDHS" c="SBH" n="34074"/>
+		<ar pt="2603140348" pp="13" l="S7" fb="S7" ppth="Celle|Ehlershausen|Otze|Burgdorf|Aligse|Lehrte|Ahlten|Hannover Anderten-Misburg|Hannover Karl-Wiechert-Allee|Hannover-Kleefeld"/>
+	</s>
+	<s id="3075544900275479427-2603140300-1">
+		<tl t="p" o="TDHS" c="SBH" n="34075"/>
+		<dp pt="2603140300" pp="13" l="S7" fb="S7" ppth="Hannover-Kleefeld|Hannover Karl-Wiechert-Allee|Hannover Anderten-Misburg|Ahlten|Lehrte|Aligse|Burgdorf|Otze|Ehlershausen|Celle"/>
+	</s>
+	<s id="-4768330375831781564-2603140335-1">
+		<tl t="p" o="TDHS" c="Bus" n="5514"/>
+		<dp pt="2603140335" pp="" l="S5" fb="Bus S5" ppth="Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="-7760418834858959960-2603132335-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1272"/>
+		<ar pt="2603140353" pp="10" fb="ICE 1272" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Göttingen"/>
+		<dp pt="2603140417" pp="10" fb="ICE 1272" ppth="Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+</timetable>
