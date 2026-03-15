@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Dresden-Neustadt">
+	<s id="6506276749387385258-2603150434-1">
+		<tl f="D" t="p" o="CXRE" c="MRB" n="92302"/>
+		<dp pt="2603150434" pp="6" l="RE3" fb="RE3" ppth="Chemnitz Hbf|Hohenstein-Ernstthal|Glauchau(Sachs)|Zwickau(Sachs)Hbf|Reichenbach(Vogtl) ob Bf|Plauen(Vogtl) ob Bf|Hof Hbf"/>
+	</s>
+	<s id="-8189471229602757764-2603150417-13">
+		<tl f="S" t="p" o="800469" c="S" n="31703"/>
+		<ar pt="2603150449" pp="2" l="S1" fb="S1" ppth="Meißen Triebischtal|Meißen Altstadt|Meißen|Neusörnewitz|Coswig(b Dresden)|Radebeul-Zitzschewig|Radebeul-Kötzschenbroda|Radebeul-Weintraube|Radebeul Ost|Dresden-Trachau|Dresden-Pieschen|Dresden Bischofsplatz"/>
+		<dp pt="2603150450" pp="2" l="S1" fb="S1" ppth="Dresden Mitte|Dresden Freiberger Straße|Dresden Hbf|Dresden-Strehlen|Dresden-Reick|Dresden-Dobritz|Dresden-Niedersedlitz|Dresden-Zschachwitz|Heidenau|Heidenau Süd|Heidenau-Großsedlitz|Pirna|Obervogelgesang|Stadt Wehlen(Sachs)|Kurort Rathen|Königstein(Sächs Schw)|Bad Schandau"/>
+	</s>
+	<s id="-5473708243188108961-2603150422-2">
+		<tl f="S" t="p" o="800469" c="S" n="32702"/>
+		<ar pt="2603150424" pp="3" l="S2" fb="S2" ppth="Dresden Mitte"/>
+		<dp pt="2603150425" pp="3" l="S2" fb="S2" ppth="Dresden Industriegelände|Dresden-Klotzsche|Dresden Grenzstraße|Dresden Flughafen"/>
+	</s>
+	<s id="8361024111046560388-2603150430-4">
+		<tl f="S" t="p" o="800469" c="S" n="31700"/>
+		<ar pt="2603150436" pp="1" l="S1" fb="S1" ppth="Dresden Hbf|Dresden Freiberger Straße|Dresden Mitte"/>
+		<dp pt="2603150437" pp="1" l="S1" fb="S1" ppth="Dresden Bischofsplatz|Dresden-Pieschen|Dresden-Trachau|Radebeul Ost|Radebeul-Weintraube|Radebeul-Kötzschenbroda|Radebeul-Zitzschewig|Coswig(b Dresden)|Neusörnewitz|Meißen|Meißen Altstadt|Meißen Triebischtal"/>
+	</s>
+	<s id="5004556306292940630-2603150452-2">
+		<tl f="S" t="p" o="800469" c="S" n="32704"/>
+		<ar pt="2603150454" pp="3" l="S2" fb="S2" pde="Dresden Hbf" ppth="Dresden Mitte"/>
+		<dp pt="2603150455" pp="3" l="S2" fb="S2" ppth="Dresden Industriegelände|Dresden-Klotzsche|Dresden Grenzstraße|Dresden Flughafen"/>
+	</s>
+	<s id="-3539849397710705080-2603150356-3">
+		<tl t="p" o="LD" c="TL" n="76501"/>
+		<ar pt="2603150401" pp="2" l="RB60" fb="RB60" ppth="Dresden Hbf|Dresden Mitte"/>
+		<dp pt="2603150402" pp="2" l="RB60" fb="RB60" ppth="Dresden Industriegelände|Dresden-Klotzsche|Langebrück(Sachs)|Radeberg|Arnsdorf(Dresden)|Großharthau|Weickersdorf(Sachs)|Bischofswerda"/>
+	</s>
+</timetable>
