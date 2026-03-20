@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Essen Hbf">
+	<s id="2774174590951633862-2603192225-10">
+		<tl f="F" t="p" o="80" c="ICE" n="921"/>
+		<ar pt="2603200322" pp="1" fb="ICE 921" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf"/>
+		<dp pt="2603200323" pp="1" fb="ICE 921" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="2706272573481442077-2603200140-15">
+		<tl t="p" o="B2" c="Bus" n="6101"/>
+		<ar pt="2603200313" pp="" l="S6" fb="Bus S6" ppth="Düsseldorf Hbf|Düsseldorf Wehrhahn|Düsseldorf-Zoo|Düsseldorf-Derendorf|Düsseldorf-Rath Mitte|Düsseldorf-Rath|Ratingen Ost|Hösel|Kettwig Stausee|Kettwig|Essen-Werden|Essen-Hügel|Essen Stadtwald|Essen Süd"/>
+	</s>
+	<s id="-5011421514623630111-2603200355-1">
+		<tl t="p" o="B2" c="Bus" n="6112"/>
+		<dp pt="2603200355" pp="" l="S6" fb="Bus S6" ppth="Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost|Düsseldorf-Rath|Düsseldorf-Rath Mitte|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf"/>
+	</s>
+	<s id="-7957821270062947808-2603200336-1">
+		<tl f="S" t="p" o="800337" c="S" n="31594"/>
+		<dp pt="2603200336" pp="7" l="S1" fb="S1" ppth="Essen West|Essen-Frohnhausen|Mülheim(Ruhr)Hbf|Mülheim(Ruhr)Styrum|Duisburg Hbf|Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf"/>
+	</s>
+	<s id="3384863781903243072-2603200333-1">
+		<tl t="p" o="B2" c="Bus" n="6108"/>
+		<dp pt="2603200333" pp="" l="S6" fb="Bus S6" ppth="Essen Süd|Essen Stadtwald|Essen-Hügel|Essen-Werden|Kettwig|Kettwig Stausee|Hösel|Ratingen Ost|Düsseldorf-Rath|Düsseldorf-Rath Mitte|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf"/>
+	</s>
+	<s id="8503777394879306018-2603192324-7">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2603200302" pp="6" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Koblenz Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2603200306" pp="6" fb="ICE 920" ppth="Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-8214317746230822278-2603200245-4">
+		<tl t="p" o="NXRE" c="NX" n="26848"/>
+		<ar pt="2603200307" pp="2" l="RE1" fb="RE1" ppth="Dortmund Hbf|Bochum Hbf|Wattenscheid"/>
+		<dp pt="2603200309" pp="2" l="RE1" fb="RE1" ppth="Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="-5861922444719829321-2603200304-3">
+		<tl f="N" t="p" o="800349" c="RE" n="10244"/>
+		<ar pt="2603200318" pp="1" l="RE2" fb="RE2" ppth="Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf"/>
+		<dp pt="2603200320" pp="1" l="RE2" fb="RE2" ppth="Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+</timetable>
