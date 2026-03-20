@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="München Hbf Gl.27-36">
+	<s id="-9090458520894165540-2603202038-14">
+		<tl f="N" t="p" o="81" c="RB" n="5434"/>
+		<ar pt="2603202326" pp="30" l="RB6" fb="RB6" wings="-8320501078118789225-2603202036" pde="Innsbruck Hbf" ppth="Mittenwald|Klais|Garmisch-Partenkirchen|Farchant|Oberau|Eschenlohe|Ohlstadt|Murnau|Uffing a Staffelsee|Huglfing|Weilheim(Oberbay)|Tutzing|München-Pasing"/>
+	</s>
+	<s id="-2390500633662038256-2603202310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="86783"/>
+		<dp pt="2603202310" pp="33" l="RB55" fb="RB55" wings="-5725797551009173392-2603202310|8416737318960223570-2603202310" ppth="München Donnersbergerbrücke|München Harras|München Siemenswerke|Holzkirchen|Darching|Miesbach|Agatharied|Hausham|Schliersee|Fischhausen-Neuhaus|Fischbachau|Geitau|Osterhofen(Oberbay)|Bayrischzell"/>
+	</s>
+	<s id="442570863041202364-2603201932-4">
+		<tl t="p" o="85" c="ECE" n="199"/>
+		<ar pt="2603202304" pp="28" fb="ECE 199" pde="Zürich HB" ppth="Lindau-Reutin|Memmingen|Buchloe"/>
+	</s>
+	<s id="-8320501078118789225-2603202036-16">
+		<tl f="N" t="p" o="800790" c="RB" n="5535"/>
+		<ar pt="2603202326" pp="30" l="RB60" fb="RB60" pde="Pfronten-Steinach" ppth="Ehrwald Zugspitzbahn|Griesen(Oberbay)|Untergrainau|Garmisch-Partenkirchen Hausberg|Garmisch-Partenkirchen|Farchant|Oberau|Eschenlohe|Ohlstadt|Murnau|Uffing a Staffelsee|Huglfing|Weilheim(Oberbay)|Tutzing|München-Pasing"/>
+	</s>
+	<s id="8416737318960223570-2603202310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="87003"/>
+		<dp pt="2603202310" pp="33" l="RB56" fb="RB56" wings="-5725797551009173392-2603202310" ppth="München Donnersbergerbrücke|München Harras|München Siemenswerke|Holzkirchen|Warngau|Schaftlach|Reichersbeuern|Bad Tölz|Gaißach|Obergries|Lenggries"/>
+	</s>
+	<s id="-5725797551009173392-2603202310-1">
+		<tl f="D" t="p" o="T8" c="BRB" n="87023"/>
+		<dp pt="2603202310" pp="33" l="RB57" fb="RB57" ppth="München Donnersbergerbrücke|München Harras|München Siemenswerke|Holzkirchen|Warngau|Schaftlach|Moosrain|Finsterwald|Gmund(Tegernsee)|Tegernsee"/>
+	</s>
+</timetable>
