@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<timetable station="Neuss Hbf">
+	<s id="1582612677807061154-2603212235-4">
+		<tl t="p" o="NX" c="Bus" n="7907"/>
+		<ar pt="2603212320" pp="" l="RE7" fb="Bus RE7" ppth="Krefeld Hbf|Krefeld-Oppum|Meerbusch-Osterath"/>
+		<dp pt="2603212320" pp="" l="RE7" fb="Bus RE7" ppth="Dormagen|Köln Hbf (Breslauer Platz)"/>
+	</s>
+	<s id="5159586435365405578-2603212235-3">
+		<tl t="p" o="NX" c="Bus" n="7904"/>
+		<ar pt="2603212335" pp="" l="RE7" fb="Bus RE7" ppth="Köln Hbf (Breslauer Platz)|Dormagen"/>
+		<dp pt="2603212335" pp="" l="RE7" fb="Bus RE7" ppth="Meerbusch-Osterath|Krefeld-Oppum|Krefeld Hbf"/>
+	</s>
+	<s id="-9222481371793590048-2603212302-2">
+		<tl f="S" t="p" o="800354" c="S" n="31836"/>
+		<ar pt="2603212318" pp="8" l="S8" fb="S8" ppth="Düsseldorf Hbf"/>
+		<dp pt="2603212319" pp="8" l="S8" fb="S8" ppth="Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="3239996944155408917-2603212332-2">
+		<tl f="S" t="p" o="800354" c="S" n="31838"/>
+		<ar pt="2603212348" pp="8" l="S8" fb="S8" ppth="Düsseldorf Hbf"/>
+		<dp pt="2603212349" pp="8" l="S8" fb="S8" ppth="Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-8932483459437749441-2603212315-5">
+		<tl t="p" o="M2" c="Bus" n="4983"/>
+		<ar pt="2603212337" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+	<s id="3779272868791416634-2603212334-4">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56636"/>
+		<ar pt="2603212351" pp="2" l="RB39" fb="RB39" ppth="Grevenbroich|Kapellen-Wevelinghoven|Holzheim(b Neuss)"/>
+		<dp pt="2603212353" pp="2" l="RB39" fb="RB39" ppth="Düsseldorf-Bilk|Düsseldorf Hbf"/>
+	</s>
+	<s id="4304161649403805065-2603212254-3">
+		<tl f="D" t="p" o="R4WEST" c="VIA" n="56637"/>
+		<ar pt="2603212305" pp="3" l="RB39" fb="RB39" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2603212306" pp="3" l="RB39" fb="RB39" ppth="Holzheim(b Neuss)|Kapellen-Wevelinghoven|Grevenbroich"/>
+	</s>
+	<s id="-4356889765861201900-2603212321-1">
+		<tl t="p" o="M2" c="Bus" n="4982"/>
+		<dp pt="2603212321" pp="" l="S28" fb="Bus S28" ppth="Kaarst IKEA|Kaarst Mitte/Holzbüttgen|Kaarster Bahnhof|Kaarster See"/>
+	</s>
+	<s id="-6572601291938631558-2603212254-6">
+		<tl f="S" t="p" o="800354" c="S" n="31841"/>
+		<ar pt="2603212311" pp="5" l="S8" fb="S8" ppth="Mönchengladbach Hbf|Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen"/>
+		<dp pt="2603212312" pp="5" l="S8" fb="S8" ppth="Düsseldorf Hbf"/>
+	</s>
+	<s id="-2812614644022222854-2603212321-3">
+		<tl t="p" o="NXRE" c="NX" n="26438"/>
+		<ar pt="2603212333" pp="8" l="RE4" fb="RE4" ppth="Düsseldorf Hbf|Düsseldorf-Bilk"/>
+		<dp pt="2603212336" pp="8" l="RE4" fb="RE4" ppth="Mönchengladbach Hbf|Rheydt Hbf|Erkelenz|Hückelhoven-Baal|Lindern|Geilenkirchen|Übach-Palenberg|Herzogenrath|Aachen West|Aachen Schanz|Aachen Hbf"/>
+	</s>
+	<s id="8583750373592154860-2603212351-1">
+		<tl t="p" o="M2" c="Bus" n="4192"/>
+		<dp pt="2603212351" pp="" l="S28" fb="Bus S28" ppth="Kaarst IKEA|Kaarst Mitte/Holzbüttgen|Kaarster Bahnhof|Kaarster See"/>
+	</s>
+	<s id="2159777820977552674-2603212245-5">
+		<tl t="p" o="M2" c="Bus" n="4183"/>
+		<ar pt="2603212307" pp="" l="S28" fb="Bus S28" ppth="Kaarster See|Kaarster Bahnhof|Kaarst Mitte/Holzbüttgen|Kaarst IKEA"/>
+	</s>
+</timetable>

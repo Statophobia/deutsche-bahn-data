@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Rosenheim">
+	<s id="9183508140555196637-2603212335-1">
+		<tl f="D" t="p" o="M8" c="BRB" n="79095"/>
+		<dp pt="2603212335" pp="7" l="RB54" fb="RB54" ppth="Raubling|Brannenburg|Flintsbach|Oberaudorf|Kiefersfelden|Kufstein"/>
+	</s>
+	<s id="5868832053273133924-2603212320-2">
+		<tl t="p" o="M8" c="Bus" n="60204"/>
+		<ar pt="2603212340" pp="" l="EV" fb="Bus EV" ppth="Bad Endorf"/>
+	</s>
+	<s id="-4107969965791815837-2603212334-1">
+		<tl f="N" t="p" o="8013D" c="RB" n="27328"/>
+		<dp pt="2603212334" pp="1a" l="RB44" fb="RB44" ppth="Rosenheim Hochschule|Schechen|Rott(Inn)|Ramerberg|Wasserburg(Inn)Bf|Soyen|Gars(Inn)|Jettenbach|Waldkraiburg-Kraiburg|Mühldorf(Oberbay)"/>
+	</s>
+	<s id="-5120600095767360150-2603212342-1">
+		<tl t="p" o="M8" c="Bus" n="60247"/>
+		<dp pt="2603212342" pp="" l="EV" fb="Bus EV" ppth="Bad Endorf"/>
+	</s>
+	<s id="-2917890979703792687-2603212137-18">
+		<tl f="N" t="p" o="8013D" c="RB" n="27137"/>
+		<ar pt="2603212325" pp="1a" l="RB44" fb="RB44" ppth="Landshut(Bay)Hbf|Landshut(Bay)Süd|Geisenhausen|Vilsbiburg|Aich(Niederbay)|Egglkofen|Neumarkt-St Veit|Mühldorf(Oberbay)|Waldkraiburg-Kraiburg|Jettenbach|Gars(Inn)|Soyen|Wasserburg(Inn)Bf|Ramerberg|Rott(Inn)|Schechen|Rosenheim Hochschule"/>
+	</s>
+	<s id="3286237709636034889-2603212300-7">
+		<tl f="D" t="p" o="M8" c="BRB" n="79096"/>
+		<ar pt="2603212326" pp="7" l="RB54" fb="RB54" ppth="Kufstein|Kiefersfelden|Oberaudorf|Flintsbach|Brannenburg|Raubling"/>
+	</s>
+	<s id="5884653774532041729-2603212243-7">
+		<tl f="D" t="p" o="M8" c="BRB" n="92047"/>
+		<ar pt="2603212326" pp="4" l="RE5" fb="RE5" ppth="München Hbf Gl.5-10|München Ost|Grafing Bahnhof|Aßling(Oberbay)|Ostermünchen|Großkarolinenfeld"/>
+	</s>
+	<s id="7691483498497634609-2603212251-9">
+		<tl f="D" t="p" o="M8" c="BRB" n="79557"/>
+		<ar pt="2603212323" pp="6" l="RB58" fb="RB58" ppth="Westerham|Feldolling|Bruckmühl|Heufeld|Bad Aibling|Bad Aibling Kurpark|Kolbermoor|Rosenheim Aicherpark"/>
+	</s>
+	<s id="-1231994002280017756-2603212333-1">
+		<tl f="D" t="p" o="M8" c="BRB" n="79556"/>
+		<dp pt="2603212333" pp="6" l="RB58" fb="RB58" ppth="Rosenheim Aicherpark|Kolbermoor|Bad Aibling Kurpark|Bad Aibling|Heufeld|Bruckmühl|Feldolling|Westerham"/>
+	</s>
+	<s id="49830243390699811-2603212348-1">
+		<tl f="D" t="p" o="M8" c="BRB" n="93404"/>
+		<dp pt="2603212348" pp="1" l="RE5" fb="RE5" ppth="Großkarolinenfeld|Ostermünchen|Aßling(Oberbay)|Grafing Bahnhof|München Ost|München Hbf Gl.5-10"/>
+	</s>
+</timetable>
