@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Hanau Hbf">
+	<s id="8864827325846342282-2603210246-1">
+		<tl f="S" t="p" o="800528" c="S" n="35894"/>
+		<dp pt="2603210246" pp="1" l="S8" fb="S8" ppth="Steinheim(Main)|Mühlheim(Main)-Dietesheim|Mühlheim(Main)|Offenbach(Main)Ost|Offenbach(Main)Hbf|Frankfurt(Main)Süd|Frankfurt am Main - Stadion|Frankfurt(Main)-Gateway Gardens|Frankfurt(M) Flughafen Regionalbf|Kelsterbach"/>
+	</s>
+	<s id="-5591597380485360579-2603202059-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2603210227" pp="7" fb="IC 60470" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd"/>
+		<dp pt="2603210229" pp="7" fb="IC 60470" ppth="Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="8858984510411719527-2603210204-4">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15548"/>
+		<ar pt="2603210223" pp="7" l="RB51" fb="RB51" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Offenbach(Main)Hbf"/>
+		<dp pt="2603210224" pp="7" l="RB51" fb="RB51" ppth="Wolfgang(Kr Hanau)|Rodenbach(b Hanau)|Langenselbold|Niedermittlau|Hailer-Meerholz|Gelnhausen|Haitz-Höchst|Wirtheim|Wächtersbach"/>
+	</s>
+	<s id="-6549909664322454040-2603210046-8">
+		<tl t="p" o="B7" c="Bus" n="4639"/>
+		<ar pt="2603210203" pp="" l="EV" fb="Bus EV" ppth="Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West"/>
+		<dp pt="2603210203" pp="" l="EV" fb="Bus EV" ppth="Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)"/>
+	</s>
+	<s id="1003446772902483359-2603202059-11">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2603210227" pp="7" fb="NJ 470" wings="-5591597380485360579-2603202059" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Frankfurt(Main)Süd"/>
+		<dp pt="2603210229" pp="7" fb="NJ 470" wings="-5591597380485360579-2603202059" ppth="Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="7193984266497492867-2603210215-3">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24377"/>
+		<ar pt="2603210245" pp="106" l="RB58" fb="RB58" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd"/>
+	</s>
+	<s id="-2551300309292195534-2603210124-11">
+		<tl f="S" t="p" o="800528" c="S" n="35887"/>
+		<ar pt="2603210218" pp="2" l="S8" fb="S8" ppth="Kelsterbach|Frankfurt(M) Flughafen Regionalbf|Frankfurt(Main)-Gateway Gardens|Frankfurt am Main - Stadion|Frankfurt(Main)Süd|Offenbach(Main)Hbf|Offenbach(Main)Ost|Mühlheim(Main)|Mühlheim(Main)-Dietesheim|Steinheim(Main)"/>
+	</s>
+</timetable>

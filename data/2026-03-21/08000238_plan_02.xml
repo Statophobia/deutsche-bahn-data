@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="3959649049399074415-2603210215-4">
+		<tl t="p" o="R1" c="Bus" n="3101"/>
+		<ar pt="2603210257" pp="" l="RB31" fb="Bus RB31" ppth="Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-8465647323724986244-2603210201-4">
+		<tl f="D" t="p" o="R1" c="ME" n="81600"/>
+		<ar pt="2603210224" pp="3" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2603210234" pp="3" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2529627520637122615-2603210133-8">
+		<tl f="D" t="p" o="R1" c="ME" n="81601"/>
+		<ar pt="2603210224" pp="6" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)"/>
+		<dp pt="2603210225" pp="6" l="RB31" fb="RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+</timetable>
