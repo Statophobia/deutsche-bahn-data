@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="6630707905924152860-2603222307-8">
+		<tl f="D" t="p" o="H4" c="RT" n="20555"/>
+		<ar pt="2603222322" pp="7" l="RT5" fb="RT5" ppth="Auestadion, Kassel|Heinrich-Heine-Straße, Kassel|Am Weinberg, Kassel|Rathaus/Fünffensterstraße, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Scheidemannplatz, Kassel|Kassel Hbf (tief)"/>
+		<dp pt="2603222323" pp="7" l="RT5" fb="RT5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Guxhagen|Körle|Melsungen-Röhrenfurth|Melsungen-Schwarzenberg|Melsungen Bartenwetzerbrücke|Melsungen"/>
+	</s>
+	<s id="3736445353926605929-2603222035-8">
+		<tl t="p" o="K4" c="Bus" n="8741"/>
+		<ar pt="2603222306" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)|Bahnhof, Kirchhain|Busbahnhof, Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Am Rathaus, Borken (Hessen)|Wabern(Bz Kassel)"/>
+	</s>
+	<s id="-5051126456758708936-2603222311-2">
+		<tl f="D" t="p" o="N4" c="CAN" n="24253"/>
+		<ar pt="2603222314" pp="7" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+		<dp pt="2603222316" pp="7" l="RB5" fb="RB5" ppth="Guxhagen|Melsungen|Malsfeld|Malsfeld-Beiseförth|Altmorschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen|Bebra|Ludwigsau-Friedlos|Bad Hersfeld"/>
+	</s>
+	<s id="3771743400422242728-2603222310-1">
+		<tl t="p" o="K4" c="Bus" n="98021"/>
+		<dp pt="2603222310" pp="" l="EV" fb="Bus EV" ppth="Bahnhof Oberzwehren, Kassel|Rengershausen Kirche, Baunatal|Baunatal-Guntershausen|Grifte Bahnhof, Edermünde|Wolfershausen, Felsberg|Altenbrunslar, Felsberg|Felsberg-Gensungen|Wabern(Bz Kassel)|Singlis, Borken (Hessen)|Am Rathaus, Borken (Hessen)|Zimmersrode|Schlierbach Bahnhof, Neuental|Treysa"/>
+	</s>
+	<s id="-4423381423476802903-2603222221-23">
+		<tl f="D" t="p" o="N4" c="CAN" n="24246"/>
+		<ar pt="2603222351" pp="9" l="RB5" fb="RB5" ppth="Fulda|Hünfeld|Burghaun(Hünfeld)|Haunetal-Neukirchen|Bad Hersfeld|Ludwigsau-Friedlos|Bebra|Lispenhausen|Rotenburg a.d. Fulda|Heinebach|Altmorschen|Malsfeld-Beiseförth|Malsfeld|Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2603222352" pp="9" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+	</s>
+	<s id="-3802404608067192675-2603221955-7">
+		<tl t="p" o="81" c="NJ" n="499"/>
+		<ar pt="2603222254" pp="1" fb="NJ 499" wings="6992012378128167215-2603221955" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen"/>
+		<dp pt="2603222305" pp="1" fb="NJ 499" wings="6992012378128167215-2603221955" ppth="Würzburg Hbf|Nürnberg Hbf|Regensburg Hbf|Passau Hbf|Wels Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="7119865400389539014-2603222130-2">
+		<tl t="p" o="K4" c="Bus" n="98020"/>
+		<ar pt="2603222310" pp="" l="EV" fb="Bus EV" ppth="Marburg(Lahn)"/>
+	</s>
+	<s id="6992012378128167215-2603221955-7">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2603222254" pp="1" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen"/>
+		<dp pt="2603222305" pp="1" fb="NJ 40491" ppth="Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="3167129896537845492-2603222305-10">
+		<tl f="D" t="p" o="H4" c="RT" n="20550"/>
+		<ar pt="2603222335" pp="9" l="RT5" fb="RT5" ppth="Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2603222335" pp="9" l="RT5" fb="RT5" ppth="Kassel Hbf (tief)|Scheidemannplatz, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Rathaus/Fünffensterstraße, Kassel|Am Weinberg, Kassel|Heinrich-Heine-Straße, Kassel|Auestadion, Kassel"/>
+	</s>
+	<s id="-6340897605174334619-2603222014-9">
+		<tl f="F" t="p" o="80" c="ICE" n="679"/>
+		<ar pt="2603222313" pp="1" fb="ICE 679" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen"/>
+	</s>
+</timetable>

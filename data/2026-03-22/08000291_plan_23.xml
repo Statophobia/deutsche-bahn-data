@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="5749646139979263781-2603222325-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="88284"/>
+		<dp pt="2603222325" pp="8" l="RS3" fb="RS3" ppth="Oldenburg-Wechloy|Bad Zwischenahn"/>
+	</s>
+	<s id="-5581957853624905709-2603222310-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="75336"/>
+		<ar pt="2603222350" pp="8" l="RE18" fb="RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-4681949961258557964-2603222345-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="88289"/>
+		<ar pt="2603222357" pp="1" l="RS3" fb="RS3" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+	</s>
+	<s id="7160396233653906605-2603222333-1">
+		<tl f="N" t="p" o="800295" c="RE" n="13984"/>
+		<dp pt="2603222333" pp="8" l="RE1" fb="RE1" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf"/>
+	</s>
+	<s id="2720401028599613398-2603222139-10">
+		<tl f="N" t="p" o="800295" c="RE" n="4271"/>
+		<ar pt="2603222323" pp="1" l="RE1" fb="RE1" ppth="Norddeich Mole|Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+	</s>
+	<s id="-600935997126785771-2603222218-10">
+		<tl f="D" t="p" o="N1" c="NWB" n="75337"/>
+		<ar pt="2603222329" pp="4" l="RE18" fb="RE18" ppth="Bramsche|Bersenbrück|Quakenbrück|Essen(Oldb)|Cloppenburg|Ahlhorn|Großenkneten|Huntlosen|Sandkrug"/>
+		<dp pt="2603222336" pp="4" l="RE18" fb="RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+</timetable>
