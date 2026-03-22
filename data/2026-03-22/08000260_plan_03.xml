@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<timetable station="Würzburg Hbf">
+	<s id="1595410400684371270-2603211910-8">
+		<tl t="p" o="81" c="NJ" n="498"/>
+		<ar pt="2603220258" pp="7" fb="NJ 498" wings="-8677182982400525824-2603212046" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Passau Hbf|Regensburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2603220300" pp="7" fb="NJ 498" wings="-8677182982400525824-2603212046" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="7597089806492032299-2603212220-9">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2603220349" pp="5" fb="ICE 1081" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Celle|Hannover Hbf|Göttingen"/>
+		<dp pt="2603220412" pp="5" fb="ICE 1081" ppth="Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-8677182982400525824-2603212046-9">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2603220258" pp="7" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Nürnberg Hbf"/>
+		<dp pt="2603220300" pp="7" fb="NJ 40420" ppth="Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+</timetable>

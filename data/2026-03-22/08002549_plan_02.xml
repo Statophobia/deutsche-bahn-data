@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="-1381810858979617966-2603220256-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81903"/>
+		<dp pt="2603220256" pp="11A-C" l="RB41" fb="RB41" ppth="Hamburg-Harburg|Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland|Bremen Hbf"/>
+	</s>
+	<s id="-730051901955407455-2603212238-7">
+		<tl f="F" t="p" o="80" c="ICE" n="900"/>
+		<ar pt="2603220252" pp="13" fb="ICE 900" ppth="Berlin Hbf|Werder(Havel)|Helmstedt|Uelzen|Lüneburg|Hamburg-Harburg"/>
+		<dp pt="2603220255" pp="13" fb="ICE 900" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-8493433741928369285-2603220101-13">
+		<tl f="D" t="p" o="R1" c="ME" n="81658"/>
+		<ar pt="2603220220" pp="14" l="RB31" fb="RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-8377527171062893595-2603220235-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11294"/>
+		<dp pt="2603220235" pp="13" l="RE7" fb="RE7" ppth="Hamburg Dammtor|Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="-4040939006420560852-2603220114-15">
+		<tl f="D" t="p" o="R1" c="ME" n="81946"/>
+		<ar pt="2603220243" pp="11A-C" l="RB41" fb="RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld|Hamburg-Harburg"/>
+	</s>
+	<s id="-1951859170367809239-2603220233-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81603"/>
+		<dp pt="2603220233" pp="14D-F" l="RB31" fb="RB31" ppth="Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen|Uelzen|Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="-2493614975310952822-2603220105-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11295"/>
+		<ar pt="2603220239" pp="13" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Wrist|Elmshorn|Pinneberg|Hamburg Dammtor"/>
+	</s>
+</timetable>
