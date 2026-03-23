@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Hanau Hbf">
+	<s id="3824485565476726931-2603222129-10">
+		<tl t="p" o="81" c="NJ" n="470"/>
+		<ar pt="2603230227" pp="7" fb="NJ 470" ppth="Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd"/>
+		<dp pt="2603230229" pp="7" fb="NJ 470" ppth="Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-2551300309292195534-2603230124-11">
+		<tl f="S" t="p" o="800528" c="S" n="35887"/>
+		<ar pt="2603230218" pp="2" l="S8" fb="S8" ppth="Kelsterbach|Frankfurt(M) Flughafen Regionalbf|Frankfurt(Main)-Gateway Gardens|Frankfurt am Main - Stadion|Frankfurt(Main)Süd|Offenbach(Main)Hbf|Offenbach(Main)Ost|Mühlheim(Main)|Mühlheim(Main)-Dietesheim|Steinheim(Main)"/>
+	</s>
+	<s id="8864827325846342282-2603230246-1">
+		<tl f="S" t="p" o="800528" c="S" n="35894"/>
+		<dp pt="2603230246" pp="1" l="S8" fb="S8" ppth="Steinheim(Main)|Mühlheim(Main)-Dietesheim|Mühlheim(Main)|Offenbach(Main)Ost|Offenbach(Main)Hbf|Frankfurt(Main)Süd|Frankfurt am Main - Stadion|Frankfurt(Main)-Gateway Gardens|Frankfurt(M) Flughafen Regionalbf|Kelsterbach"/>
+	</s>
+	<s id="-6549909664322454040-2603230046-8">
+		<tl t="p" o="B7" c="Bus" n="4639"/>
+		<ar pt="2603230203" pp="" l="EV" fb="Bus EV" ppth="Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West"/>
+		<dp pt="2603230203" pp="" l="EV" fb="Bus EV" ppth="Großauheim(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Kleinostheim|Aschaffenburg Hbf"/>
+	</s>
+</timetable>
