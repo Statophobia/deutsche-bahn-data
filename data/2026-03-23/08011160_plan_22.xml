@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Hbf">
+	<s id="612366278194031955-2603232103-13">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2603232235" pp="14" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2603232237" pp="14" l="RE2" fb="RE2" ppth="Berlin Zoologischer Garten"/>
+	</s>
+	<s id="5920790384366355547-2603231600-13">
+		<tl f="F" t="p" o="84" c="ICE" n="241"/>
+		<ar pt="2603232205" pp="12" fb="ICE 241" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Wunstorf|Lehrte"/>
+		<dp pt="2603232209" pp="12" fb="ICE 241" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="-8168209812552635739-2603232219-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="94792"/>
+		<ar pt="2603232253" pp="14" l="RE1" fb="RE1" ppth="Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2603232255" pp="14" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten"/>
+	</s>
+	<s id="7630315185751079111-2603232237-2">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2603232245" pp="14" fb="ICE 273" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2603232249" pp="14" fb="ICE 273" ppth="Berlin Zoologischer Garten|Magdeburg Hbf|Hannover Hbf|Göttingen|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-8107157487388669579-2603232247-2">
+		<tl f="N" t="p" o="800165" c="RE" n="3136"/>
+		<ar pt="2603232251" pp="11" l="RE2" fb="RE2" ppth="Berlin Zoologischer Garten"/>
+		<dp pt="2603232253" pp="11" l="RE2" fb="RE2" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Kolkwitz|Cottbus Hbf"/>
+	</s>
+	<s id="4572941365269779331-2603232252-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="94747"/>
+		<ar pt="2603232257" pp="11" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten"/>
+		<dp pt="2603232259" pp="11" l="RE1" fb="RE1" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner"/>
+	</s>
+	<s id="-5786347876071927713-2603232239-2">
+		<tl f="N" t="p" o="800165" c="RE" n="91533"/>
+		<ar pt="2603232244" pp="12" l="RE7" fb="RE7" ppth="Berlin Zoologischer Garten"/>
+		<dp pt="2603232246" pp="12" l="RE7" fb="RE7" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-8880007135505675114-2603231649-13">
+		<tl f="F" t="p" o="51" c="EC" n="40"/>
+		<ar pt="2603232217" pp="14" fb="EC 40" ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)|Berlin Ostkreuz|Berlin Ostbahnhof"/>
+		<dp pt="2603232221" pp="14" fb="EC 40" hi="1" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-3928433444955661167-2603232014-22">
+		<tl f="N" t="p" o="800165" c="RE" n="91551"/>
+		<ar pt="2603232216" pp="13" l="RE7" fb="RE7" ppth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße"/>
+		<dp pt="2603232218" pp="13" l="RE7" fb="RE7" ppth="Berlin Zoologischer Garten"/>
+	</s>
+	<s id="-5978303486513211708-2603231809-11">
+		<tl f="F" t="p" o="80" c="ICE" n="792"/>
+		<ar pt="2603232239" pp="11" fb="ICE 792" ppth="Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2603232242" pp="11" fb="ICE 792" hi="1" ppth="Berlin Ostbahnhof"/>
+	</s>
+</timetable>

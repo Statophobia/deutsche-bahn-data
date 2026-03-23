@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Spandau">
+	<s id="-730051901955407455-2603232238-2">
+		<tl f="F" t="p" o="80" c="ICE" n="900"/>
+		<ar pt="2603232247" pp="3" fb="ICE 900" ppth="Berlin Hbf"/>
+		<dp pt="2603232249" pp="3" fb="ICE 900" ppth="Stendal Hbf|Uelzen|Lüneburg|Hamburg-Harburg|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-5042203322256685863-2603232238-4">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62085"/>
+		<ar pt="2603232259" pp="6" l="RB10" fb="RB10" ppth="Wustermark|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2603232301" pp="6" l="RB10" fb="RB10" ppth="Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="416223917512060305-2603232102-11">
+		<tl f="N" t="p" o="800158" c="RE" n="3183"/>
+		<ar pt="2603232204" pp="3" l="RE4" fb="RE4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide"/>
+		<dp pt="2603232206" pp="3" l="RE4" fb="RE4" ppth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Nennhausen|Rathenow|Stendal Hbf"/>
+	</s>
+	<s id="450159185692254127-2603232209-4">
+		<tl f="N" t="p" o="800158" c="RE" n="3162"/>
+		<ar pt="2603232240" pp="6" l="RE4" fb="RE4" ppth="Rathenow|Nennhausen|Buschow"/>
+		<dp pt="2603232242" pp="6" l="RE4" fb="RE4" ppth="Berlin Jungfernheide|Berlin Hbf"/>
+	</s>
+	<s id="-1850917262361957688-2603232141-8">
+		<tl f="N" t="p" o="800165" c="RB" n="18274"/>
+		<ar pt="2603232227" pp="5" l="RB21" fb="RB21" ppth="Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Dallgow-Döberitz|Berlin-Staaken"/>
+		<dp pt="2603232229" pp="5" l="RB21" fb="RB21" ppth="Berlin Jungfernheide|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="2121877044531283563-2603232102-4">
+		<tl f="F" t="p" o="80" c="ICE" n="840"/>
+		<ar pt="2603232211" pp="4" fb="ICE 840" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten"/>
+		<dp pt="2603232213" pp="4" fb="ICE 840" ppth="Stendal Hbf|Wolfsburg Hbf|Hannover Hbf"/>
+	</s>
+</timetable>

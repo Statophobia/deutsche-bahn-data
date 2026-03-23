@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Mönchengladbach Hbf">
+	<s id="210934586834665945-2603232205-7">
+		<tl t="p" o="R2" c="Bus" n="1345"/>
+		<ar pt="2603232325" pp="" l="RE13" fb="Bus RE13" ppth="Venlo|Kaldenkirchen|Breyell|Boisheim|Dülken|Viersen"/>
+	</s>
+	<s id="-9222481371793590048-2603232302-13">
+		<tl f="S" t="p" o="800354" c="S" n="31836"/>
+		<ar pt="2603232336" pp="9" l="S8" fb="S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="-2812614644022222854-2603232321-4">
+		<tl t="p" o="NXRE" c="NX" n="26438"/>
+		<ar pt="2603232349" pp="5" l="RE4" fb="RE4" ppth="Düsseldorf Hbf|Düsseldorf-Bilk|Neuss Hbf"/>
+	</s>
+	<s id="9010915468543999493-2603232232-13">
+		<tl f="S" t="p" o="800354" c="S" n="31834"/>
+		<ar pt="2603232306" pp="9" l="S8" fb="S8" ppth="Düsseldorf Hbf|Düsseldorf Friedrichstadt|Düsseldorf-Bilk|Düsseldorf Völklinger Str.|Düsseldorf-Hamm|Neuss Rheinparkcenter|Neuss Am Kaiser|Neuss Hbf|Büttgen|Kleinenbroich|Korschenbroich|Mönchengladbach-Lürrip"/>
+	</s>
+	<s id="1667741784202682277-2603232126-12">
+		<tl t="p" o="NX" c="Bus" n="4000"/>
+		<ar pt="2603232339" pp="" l="RE4" fb="Bus RE4" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Kohlscheid Weststraße, Herzogenrath|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf"/>
+	</s>
+	<s id="1535054393000614316-2603232359-1">
+		<tl t="p" o="NX" c="Bus" n="4005"/>
+		<dp pt="2603232359" pp="" l="RE4" fb="Bus RE4" ppth="Rheydt Hbf|Erkelenz|Hückelhoven-Baal|Lindern|Geilenkirchen|Übach-Palenberg|Herzogenrath|Kohlscheid Weststraße, Herzogenrath|Aachen West|Aachen Schanz|Aachen Hbf"/>
+	</s>
+	<s id="-1218702632145660018-2603232354-1">
+		<tl f="S" t="p" o="800354" c="S" n="31843"/>
+		<dp pt="2603232354" pp="9" l="S8" fb="S8" ppth="Mönchengladbach-Lürrip|Korschenbroich|Kleinenbroich|Büttgen|Neuss Hbf|Neuss Am Kaiser|Neuss Rheinparkcenter|Düsseldorf-Hamm|Düsseldorf Völklinger Str.|Düsseldorf-Bilk|Düsseldorf Friedrichstadt|Düsseldorf Hbf"/>
+	</s>
+</timetable>
