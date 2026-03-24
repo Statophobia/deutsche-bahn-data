@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="2386923051863342301-2603242319-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="94794"/>
+		<ar pt="2603242336" pp="2" l="RE1" fb="RE1" ppth="Erkner"/>
+		<dp pt="2603242338" pp="2" l="RE1" fb="RE1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="2428303282870709417-2603242238-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18236"/>
+		<ar pt="2603242316" pp="14" l="RB32" fb="RB32" ppth="Ludwigsfelde|Birkengrund|Flughafen BER|Berlin-Schöneweide"/>
+		<dp pt="2603242318" pp="14" l="RB32" fb="RB32" ppth="Berlin-Lichtenberg"/>
+	</s>
+	<s id="-5328965667779335365-2603242200-9">
+		<tl f="N" t="p" o="800165" c="RE" n="3139"/>
+		<ar pt="2603242317" pp="2" l="RE2" fb="RE2" ppth="Cottbus Hbf|Kolkwitz|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen"/>
+		<dp pt="2603242319" pp="2" l="RE2" fb="RE2" ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg"/>
+	</s>
+	<s id="4572941365269779331-2603242252-6">
+		<tl f="D" t="p" o="OWRE" c="OE" n="94747"/>
+		<ar pt="2603242314" pp="1" l="RE1" fb="RE1" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof"/>
+		<dp pt="2603242316" pp="1" l="RE1" fb="RE1" ppth="Erkner"/>
+	</s>
+	<s id="-900961223406607052-2603242218-6">
+		<tl f="N" t="p" o="800165" c="RE" n="91636"/>
+		<ar pt="2603242302" pp="13" l="RE2" fb="RE2" ppth="Wustermark|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Gesundbrunnen"/>
+		<dp pt="2603242305" pp="13" l="RE2" fb="RE2" pde="Cottbus Hbf" ppth="Königs Wusterhausen"/>
+	</s>
+	<s id="4474770796816843224-2603242322-1">
+		<tl t="p" o="NBRB25" c="NEB" n="61217"/>
+		<dp pt="2603242322" pp="8" l="RB25" fb="RB25" ppth="Berlin-Lichtenberg|Ahrensfelde|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen"/>
+	</s>
+</timetable>

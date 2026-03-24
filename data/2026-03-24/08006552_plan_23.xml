@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Wolfsburg Hbf">
+	<s id="-8663650328249280950-2603242318-1">
+		<tl t="p" o="R0" c="ENO" n="83588"/>
+		<dp pt="2603242318" pp="8" l="RE50" fb="RE50" ppth="Fallersleben|Weddel(Braunschw)|Braunschweig Hbf|Lengede-Broistedt|Woltwiesche|Hoheneggelsen|Hildesheim Hbf"/>
+	</s>
+	<s id="8428835421918213003-2603242210-7">
+		<tl t="p" o="RSMD" c="Bus" n="10382"/>
+		<ar pt="2603242320" pp="" l="RB36" fb="Bus RB36" ppth="Haldensleben|Flechtingen|Wegenstedt|Rätzlingen|Bösdorf(Sachs-Anh)|Oebisfelde"/>
+	</s>
+	<s id="776363454793152283-2603242250-8">
+		<tl t="p" o="R0" c="ENO" n="83587"/>
+		<ar pt="2603242340" pp="4" l="RE50" fb="RE50" ppth="Hildesheim Hbf|Hoheneggelsen|Woltwiesche|Lengede-Broistedt|Braunschweig Hbf|Weddel(Braunschw)|Fallersleben"/>
+	</s>
+	<s id="-7043908182722143968-2603242211-3">
+		<tl t="p" o="R0" c="Bus" n="9235"/>
+		<ar pt="2603242334" pp="" l="RE30" fb="Bus RE30" ppth="Lehrte|Gifhorn"/>
+	</s>
+	<s id="5597303123860052865-2603241927-11">
+		<tl f="F" t="p" o="80" c="ICE" n="947"/>
+		<ar pt="2603242308" pp="5" fb="ICE 947" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf"/>
+		<dp pt="2603242310" pp="5" fb="ICE 947" ppth="Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="435977929483452564-2603242320-1">
+		<tl t="p" o="RSMD" c="Bus" n="10385"/>
+		<dp pt="2603242320" pp="" l="RB36" fb="Bus RB36" ppth="Oebisfelde|Bösdorf(Sachs-Anh)|Rätzlingen|Wegenstedt|Flechtingen|Haldensleben"/>
+	</s>
+	<s id="2121877044531283563-2603242132-6">
+		<tl f="F" t="p" o="80" c="ICE" n="840"/>
+		<ar pt="2603242317" pp="1" fb="ICE 840" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf"/>
+		<dp pt="2603242318" pp="1" fb="ICE 840" ppth="Hannover Hbf"/>
+	</s>
+	<s id="405952668168808126-2603242330-1">
+		<tl t="p" o="R0" c="Bus" n="3140"/>
+		<dp pt="2603242330" pp="" l="RE30" fb="Bus RE30" ppth="Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte|Hannover Hbf"/>
+	</s>
+</timetable>
