@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<timetable station="Hildesheim Hbf">
+	<s id="553437030209216106-2603252316-5">
+		<tl t="p" o="TDHS" c="SBH" n="34337"/>
+		<ar pt="2603252339" pp="6" l="S3" fb="S3" ppth="Lehrte|Sehnde|Algermissen|Harsum"/>
+	</s>
+	<s id="4274346670787595007-2603252303-7">
+		<tl f="N" t="p" o="RSNM" c="RB" n="14452"/>
+		<ar pt="2603252327" pp="3" l="RB79" fb="RB79" ppth="Bodenburg|Bad Salzdetfurth|Bad Salzdetfurth Solebad|Wesseln|Groß Düngen|Hildesheim Ost"/>
+	</s>
+	<s id="2383363580158164119-2603252324-1">
+		<tl t="p" o="TDHS" c="SBH" n="34338"/>
+		<dp pt="2603252324" pp="6" l="S3" fb="S3" ppth="Harsum|Algermissen|Sehnde|Lehrte"/>
+	</s>
+	<s id="9069983786449867443-2603252248-7">
+		<tl f="D" t="p" o="X2" c="erx" n="83488"/>
+		<ar pt="2603252342" pp="3" l="RE10" fb="RE10" ppth="Bad Harzburg|Goslar|Salzgitter-Ringelheim|Baddeckenstedt|Derneburg(Han)|Hildesheim Ost"/>
+	</s>
+	<s id="-8941932149309778658-2603251923-6">
+		<tl f="F" t="p" o="80" c="ICE" n="572"/>
+		<ar pt="2603252317" pp="6" fb="ICE 572" ppth="Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Kassel-Wilhelmshöhe|Göttingen"/>
+		<dp pt="2603252319" pp="6" fb="ICE 572" ppth="Celle|Lüneburg|Hamburg Hbf"/>
+	</s>
+	<s id="-403776140921389975-2603252350-1">
+		<tl t="p" o="X2" c="Bus" n="488"/>
+		<dp pt="2603252350" pp="" l="RE10" fb="Bus RE10" ppth="Sarstedt|Hannover Hbf"/>
+	</s>
+	<s id="9149290329395673307-2603252314-1">
+		<tl f="D" t="p" o="X2" c="erx" n="83487"/>
+		<dp pt="2603252314" pp="2" l="RE10" fb="RE10" ppth="Hildesheim Ost|Derneburg(Han)|Baddeckenstedt|Salzgitter-Ringelheim|Goslar|Bad Harzburg"/>
+	</s>
+	<s id="1685709864218984895-2603252218-8">
+		<tl t="p" o="R0" c="ENO" n="83586"/>
+		<ar pt="2603252308" pp="4" l="RE50" fb="RE50" ppth="Wolfsburg Hbf|Fallersleben|Weddel(Braunschw)|Braunschweig Hbf|Lengede-Broistedt|Woltwiesche|Hoheneggelsen"/>
+	</s>
+	<s id="3566929220848657197-2603252213-3">
+		<tl t="p" o="X2" c="Bus" n="487"/>
+		<ar pt="2603252306" pp="" l="RE10" fb="Bus RE10" ppth="Hannover Hbf|Sarstedt"/>
+	</s>
+	<s id="3812091625372123585-2603252323-1">
+		<tl t="p" o="TDHS" c="Bus" n="4402"/>
+		<dp pt="2603252323" pp="" l="S4" fb="Bus S4" ppth="Emmerke|Barnten|Sarstedt|Rethen(Leine)|Hannover Messe/Laatzen"/>
+	</s>
+	<s id="-4647379232774860431-2603252302-4">
+		<tl t="p" o="RSNM" c="Bus" n="84585"/>
+		<ar pt="2603252341" pp="" l="RB77" fb="Bus RB77" ppth="Elze(Han)|Nordstemmen|Emmerke"/>
+	</s>
+</timetable>
