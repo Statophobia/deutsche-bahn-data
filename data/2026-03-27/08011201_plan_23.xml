@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Flughafen BER">
+	<s id="3504143196433707859-2603272301-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21956"/>
+		<dp pt="2603272301" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="393750974960766514-2603272331-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21960"/>
+		<dp pt="2603272331" pp="2 A-D" l="FEX" fb="FEX" tra="-6650360914299460196-2603272311-2" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="-7942998430725270758-2603272254-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18138"/>
+		<ar pt="2603272336" pp="1" l="RB22" fb="RB22" ppth="Potsdam Park Sanssouci|Golm|Potsdam Pirschheide|Saarmund|Ludwigsfelde-Struveshof"/>
+		<dp pt="2603272338" pp="1" l="RB22" fb="RB22" ppth="Königs Wusterhausen"/>
+	</s>
+	<s id="-6650360914299460196-2603272311-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18338"/>
+		<ar pt="2603272320" pp="3 A-D" l="RB24" fb="RB24" tra="393750974960766514-2603272331-1" ppth="Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-2340559202973855287-2603272237-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21955"/>
+		<ar pt="2603272300" pp="3 A-D" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="2190898538907915088-2603272307-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18237"/>
+		<dp pt="2603272307" pp="4" l="RB32" fb="RB32" ppth="Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="-4301138458196909304-2603272252-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21957"/>
+		<ar pt="2603272314" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="7586668457429708602-2603272308-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18139"/>
+		<ar pt="2603272321" pp="4" l="RB22" fb="RB22" ppth="Königs Wusterhausen"/>
+		<dp pt="2603272323" pp="4" l="RB22" fb="RB22" ppth="Ludwigsfelde-Struveshof|Saarmund|Potsdam Pirschheide|Golm|Potsdam Park Sanssouci"/>
+	</s>
+	<s id="-4453510486180462303-2603272307-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21959"/>
+		<ar pt="2603272329" pp="4 A-E" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-7551770955422917772-2603272332-3">
+		<tl f="N" t="p" o="800165" c="RB" n="18238"/>
+		<ar pt="2603272348" pp="1 A-E" l="RB32" fb="RB32" tra="-443934751125508147-2603280001-1" ppth="Ludwigsfelde|Birkengrund"/>
+	</s>
+	<s id="-3463800771318874764-2603272322-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21961"/>
+		<ar pt="2603272345" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="4292997749503342819-2603272342-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18339"/>
+		<dp pt="2603272342" pp="3 A-D" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt"/>
+	</s>
+</timetable>
