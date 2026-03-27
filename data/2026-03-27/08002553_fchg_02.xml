@@ -1,0 +1,2250 @@
+<?xml version="1.0" ?><timetable station="Hamburg-Altona" eva="8002553">
+
+<s id="6610086332469437335-2603271026-1" eva="8002553">
+    <dp>
+        <m id="r51154200" t="q" c="83" ts="2603270324" ts-tts="26-03-27 03:24:20.064"/>
+        <m id="r51154202" t="q" c="83" ts="2603270324" ts-tts="26-03-27 03:24:20.064"/>
+    </dp>
+</s>
+
+
+<s id="8518232099080018263-2603270426-1" eva="8002553">
+    <m id="r2595094" t="h" from="2603270426" to="2603272150" cat="Information" ts="2603270324" ts-tts="26-03-27 03:24:04.680" pr="2"/>
+</s>
+
+
+<s id="4123146456941374931-2603270415-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270425" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270425" pt="2603270425" ps="a" l="RB71" fb="RB71">
+        <m id="r51154197" t="d" c="33" ts="2603270323" ts-tts="26-03-27 03:23:34.326"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81860"/>
+</s>
+
+
+<s id="4466454696973530812-2603270938-6" eva="8002553">
+    <ar cpth="" cs="c" clt="2603261250">
+        <m id="r51077870" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.017"/>
+        <m id="r51077876" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.017"/>
+        <m id="r51154150" t="f" c="0" ts="2603270317" ts-tts="26-03-27 03:17:58.835"/>
+    </ar>
+</s>
+
+
+<s id="6872518664742524978-2603271008-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603271016" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" pt="2603271016" ps="a" l="RE70" fb="RE70">
+        <m id="r51151602" t="d" c="33" ts="2603270059" ts-tts="26-03-27 00:59:54.788"/>
+        <m id="r51151604" t="d" c="33" ts="2603270059" ts-tts="26-03-27 00:59:54.788"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11212"/>
+</s>
+
+
+<s id="-61162464930520183-2603270517-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster" pp="7" ct="2603270712" pt="2603270650" ps="a" l="RE7" fb="RE7">
+        <m id="r51146016" t="d" c="33" ts="2603262257" ts-tts="26-03-26 22:57:34.217"/>
+        <m id="r51146018" t="d" c="33" ts="2603262257" ts-tts="26-03-26 22:57:34.217"/>
+        <m id="r51146217" t="f" c="0" ts="2603262300" ts-tts="26-03-26 23:00:39.923"/>
+        <m id="r51147501" t="f" c="0" ts="2603262322" ts-tts="26-03-26 23:22:19.215"/>
+    </ar>
+    <dp cpth="" ppth="Elmshorn|Hamburg Dammtor|Hamburg Hbf" pt="2603270650" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11157"/>
+</s>
+
+
+<s id="-4192826010866141409-2603270942-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270948" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603270948" ps="a" l="RE7" fb="RE7">
+        <m id="r51151054" t="d" c="33" ts="2603270040" ts-tts="26-03-27 00:40:31.597"/>
+        <m id="r51151056" t="d" c="33" ts="2603270040" ts-tts="26-03-27 00:40:31.597"/>
+        <m id="r51151097" t="f" c="0" ts="2603270042" ts-tts="26-03-27 00:42:49.509"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11160"/>
+</s>
+
+
+<s id="-9218627476631391022-2603270605-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster" pp="7" ct="2603270707" pt="2603270645" ps="a" l="RE7" fb="RE7">
+        <m id="r51146174" t="d" c="33" ts="2603262259" ts-tts="26-03-26 22:59:53.487"/>
+        <m id="r51146176" t="d" c="33" ts="2603262259" ts-tts="26-03-26 22:59:53.487"/>
+        <m id="r51146218" t="f" c="0" ts="2603262300" ts-tts="26-03-26 23:00:39.923"/>
+        <m id="r51147500" t="f" c="0" ts="2603262322" ts-tts="26-03-26 23:22:19.215"/>
+    </ar>
+    <dp cpth="" ppth="Elmshorn|Hamburg Dammtor|Hamburg Hbf" pt="2603270645" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11257"/>
+</s>
+
+
+<s id="365509070552487928-2603270839-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270846" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603270846" ps="a" l="RE7" fb="RE7">
+        <m id="r51148499" t="d" c="33" ts="2603262349" ts-tts="26-03-26 23:49:48.948"/>
+        <m id="r51148501" t="d" c="33" ts="2603262349" ts-tts="26-03-26 23:49:48.948"/>
+        <m id="r51148508" t="f" c="0" ts="2603262350" ts-tts="26-03-26 23:50:04.371"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11158"/>
+</s>
+
+
+<s id="75680232882187737-2603270738-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270745" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Pinneberg|Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603270745" ps="a" l="RE7" fb="RE7">
+        <m id="r51146313" t="d" c="33" ts="2603262304" ts-tts="26-03-26 23:04:45.956"/>
+        <m id="r51146315" t="d" c="33" ts="2603262304" ts-tts="26-03-26 23:04:45.956"/>
+        <m id="r51146328" t="f" c="0" ts="2603262304" ts-tts="26-03-26 23:04:45.956"/>
+        <m id="r51150144" t="f" c="0" ts="2603270019" ts-tts="26-03-27 00:19:48.495"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11156"/>
+</s>
+
+
+<s id="-3927096025170759993-2603270138-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270145" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Wrist|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="5" ct="2603270214" pt="2603270145" ps="a" l="RE7" fb="RE7">
+        <m id="r51102036" t="d" c="33" ts="2603261606" ts-tts="26-03-26 16:06:21.688"/>
+        <m id="r51102038" t="d" c="33" ts="2603261606" ts-tts="26-03-26 16:06:21.688"/>
+        <m id="r51102203" t="f" c="0" ts="2603261607" ts-tts="26-03-26 16:07:56.666"/>
+        <m id="r51102204" t="f" c="0" ts="2603261607" ts-tts="26-03-26 16:07:56.666"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11292"/>
+</s>
+
+
+<s id="8319768709472249445-2603270905-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" pp="7" pt="2603271011" ps="a" l="RE7" fb="RE7">
+        <m id="r51151635" t="d" c="33" ts="2603270102" ts-tts="26-03-27 01:02:16.855"/>
+        <m id="r51151637" t="d" c="33" ts="2603270102" ts-tts="26-03-27 01:02:16.855"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603271011" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11263"/>
+</s>
+
+
+<s id="2648435496848007442-2603270537-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" pt="2603270644" ps="a" l="RE70" fb="RE70">
+        <m id="r51145729" t="d" c="33" ts="2603262252" ts-tts="26-03-26 22:53:11.226"/>
+        <m id="r51145731" t="d" c="33" ts="2603262252" ts-tts="26-03-26 22:53:11.226"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270644" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11205"/>
+</s>
+
+
+<s id="-6675326448328475758-2603270535-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270542" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270542" ps="a" l="RE7" fb="RE7">
+        <m id="r51143906" t="d" c="33" ts="2603262228" ts-tts="26-03-26 22:28:39.310"/>
+        <m id="r51143908" t="d" c="33" ts="2603262228" ts-tts="26-03-26 22:28:39.310"/>
+        <m id="r51143923" t="f" c="0" ts="2603262228" ts-tts="26-03-26 22:28:54.771"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11252"/>
+</s>
+
+
+<s id="4235281985700352629-2603270535-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270542" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603270542" ps="a" l="RE7" fb="RE7">
+        <m id="r51143892" t="d" c="33" ts="2603262228" ts-tts="26-03-26 22:28:23.848"/>
+        <m id="r51143894" t="d" c="33" ts="2603262228" ts-tts="26-03-26 22:28:23.848"/>
+        <m id="r51143924" t="f" c="0" ts="2603262228" ts-tts="26-03-26 22:28:54.771"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11152"/>
+</s>
+
+
+<s id="-9105898598852946278-2603270505-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster" pp="7" ct="2603270612" pt="2603270550" cs="a" ps="a" clt="2603262334" l="RE7" fb="RE7">
+        <m id="r51145220" t="d" c="33" ts="2603262245" ts-tts="26-03-26 22:45:57.710"/>
+        <m id="r51145222" t="d" c="33" ts="2603262245" ts-tts="26-03-26 22:45:57.710"/>
+        <m id="r51145250" t="f" c="0" ts="2603262246" ts-tts="26-03-26 22:46:13.238"/>
+        <m id="r51147477" t="f" c="0" ts="2603262321" ts-tts="26-03-26 23:22:03.734"/>
+        <m id="r51148002" t="f" c="0" ts="2603262334" ts-tts="26-03-26 23:34:39.880"/>
+        <m id="r51150269" t="f" c="0" ts="2603270021" ts-tts="26-03-27 00:21:51.580"/>
+    </ar>
+    <dp cpth="" ppth="Elmshorn|Hamburg Dammtor|Hamburg Hbf" pt="2603270550" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11255"/>
+</s>
+
+
+<s id="6429184803042562792-2603270432-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270446" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270446" ps="a" l="RE7" fb="RE7">
+        <m id="r51143444" t="d" c="33" ts="2603262218" ts-tts="26-03-26 22:18:18.369"/>
+        <m id="r51143446" t="d" c="33" ts="2603262218" ts-tts="26-03-26 22:18:18.369"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11250"/>
+</s>
+
+
+<s id="8136190555525882553-2603270417-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster" pp="7" ct="2603270612" pt="2603270550" cs="a" ps="a" clt="2603262334" l="RE7" fb="RE7">
+        <m id="r51145186" t="d" c="33" ts="2603262245" ts-tts="26-03-26 22:45:26.733"/>
+        <m id="r51145188" t="d" c="33" ts="2603262245" ts-tts="26-03-26 22:45:26.733"/>
+        <m id="r51145251" t="f" c="0" ts="2603262246" ts-tts="26-03-26 22:46:28.695"/>
+        <m id="r51147478" t="f" c="0" ts="2603262321" ts-tts="26-03-26 23:22:03.734"/>
+        <m id="r51148003" t="f" c="0" ts="2603262334" ts-tts="26-03-26 23:34:39.880"/>
+        <m id="r51150102" t="f" c="0" ts="2603270018" ts-tts="26-03-27 00:18:46.965"/>
+    </ar>
+    <dp cpth="" ppth="Elmshorn|Hamburg Dammtor|Hamburg Hbf" pt="2603270550" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11155"/>
+</s>
+
+
+<s id="-4394323290879927050-2603270402-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Flintbek|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" pt="2603270514" ps="a" l="RE7" fb="RE7">
+        <m id="r51143689" t="d" c="33" ts="2603262224" ts-tts="26-03-26 22:24:15.642"/>
+        <m id="r51143691" t="d" c="33" ts="2603262224" ts-tts="26-03-26 22:24:15.642"/>
+        <m id="r51150001" t="f" c="0" ts="2603270016" ts-tts="26-03-27 00:16:28.520"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270514" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11203"/>
+</s>
+
+
+<s id="-5967924537871298080-2603270308-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" ct="2603270413" pt="2603270413" ps="a" l="RE70" fb="RE70">
+        <m id="r51143214" t="d" c="33" ts="2603262213" ts-tts="26-03-26 22:13:38.392"/>
+        <m id="r51143216" t="d" c="33" ts="2603262213" ts-tts="26-03-26 22:13:38.392"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270413" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11201"/>
+</s>
+
+
+<s id="-4628348148824899042-2603270039-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270046" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" cp="12" pp="5" ct="2603270046" pt="2603270046" ps="a" l="RE7" fb="RE7">
+        <m id="r51100987" t="f" c="0" ts="2603261600" ts-tts="26-03-26 16:01:02.390"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11290"/>
+</s>
+
+
+<s id="-6711307188089838742-2603270005-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg" pp="5" ct="2603270116" pt="2603270116" ps="a" l="RE7" fb="RE7">
+        <m id="r51101361" t="d" c="33" ts="2603261603" ts-tts="26-03-26 16:03:09.819"/>
+        <m id="r51101363" t="d" c="33" ts="2603261603" ts-tts="26-03-26 16:03:09.819"/>
+        <m id="r51127808" t="q" c="78" ts="2603261918" ts-tts="26-03-26 19:18:39.738"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270116" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11293"/>
+</s>
+
+
+<s id="6390486665370493113-2603270942-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270948" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270948" ps="a" l="RE7" fb="RE7">
+        <m id="r51150685" t="d" c="33" ts="2603270032" ts-tts="26-03-27 00:32:05.559"/>
+        <m id="r51150687" t="d" c="33" ts="2603270032" ts-tts="26-03-27 00:32:05.559"/>
+        <m id="r51151096" t="f" c="0" ts="2603270042" ts-tts="26-03-27 00:42:49.510"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11260"/>
+</s>
+
+
+<s id="856699154830603595-2603270937-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" pt="2603271044" ps="a" l="RE70" fb="RE70">
+        <m id="r51152062" t="d" c="33" ts="2603270126" ts-tts="26-03-27 01:26:34.060"/>
+        <m id="r51152064" t="d" c="33" ts="2603270126" ts-tts="26-03-27 01:26:34.060"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603271044" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11213"/>
+</s>
+
+
+<s id="-4415847325211632291-2603270908-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270916" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" pt="2603270916" ps="a" l="RE70" fb="RE70">
+        <m id="r51148849" t="d" c="33" ts="2603262359" ts-tts="26-03-26 23:59:02.887"/>
+        <m id="r51148852" t="d" c="33" ts="2603262359" ts-tts="26-03-26 23:59:02.887"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11210"/>
+</s>
+
+
+<s id="-1221851120285684798-2603270839-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270846" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270846" ps="a" l="RE7" fb="RE7">
+        <m id="r51148404" t="d" c="33" ts="2603262347" ts-tts="26-03-26 23:47:14.833"/>
+        <m id="r51148406" t="d" c="33" ts="2603262347" ts-tts="26-03-26 23:47:14.833"/>
+        <m id="r51148509" t="f" c="0" ts="2603262350" ts-tts="26-03-26 23:50:04.371"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11258"/>
+</s>
+
+
+<s id="-6051409117345262240-2603270837-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" pt="2603270944" ps="a" l="RE70" fb="RE70">
+        <m id="r51151563" t="d" c="33" ts="2603270055" ts-tts="26-03-27 00:55:50.168"/>
+        <m id="r51151565" t="d" c="33" ts="2603270055" ts-tts="26-03-27 00:55:50.168"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270944" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11211"/>
+</s>
+
+
+<s id="2175070727568941335-2603270817-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" pp="7" pt="2603271011" ps="a" l="RE7" fb="RE7">
+        <m id="r51151628" t="d" c="33" ts="2603270101" ts-tts="26-03-27 01:01:46.198"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603271011" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11163"/>
+</s>
+
+
+<s id="5716305259432966797-2603270808-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270816" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" pt="2603270816" ps="a" l="RE70" fb="RE70">
+        <m id="r51146981" t="d" c="33" ts="2603262313" ts-tts="26-03-26 23:13:18.218"/>
+        <m id="r51146983" t="d" c="33" ts="2603262313" ts-tts="26-03-26 23:13:18.218"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11208"/>
+</s>
+
+
+<s id="9052379201596750574-2603270805-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" pp="7" pt="2603270912" ps="a" l="RE7" fb="RE7">
+        <m id="r51150420" t="d" c="33" ts="2603270025" ts-tts="26-03-27 00:25:57.310"/>
+        <m id="r51150422" t="d" c="33" ts="2603270025" ts-tts="26-03-27 00:25:57.310"/>
+        <m id="r51150432" t="f" c="0" ts="2603270026" ts-tts="26-03-27 00:26:43.354"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270912" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11261"/>
+</s>
+
+
+<s id="-2997209399312326348-2603270738-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270745" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270745" ps="a" l="RE7" fb="RE7">
+        <m id="r51146261" t="d" c="33" ts="2603262302" ts-tts="26-03-26 23:02:58.348"/>
+        <m id="r51146263" t="d" c="33" ts="2603262302" ts-tts="26-03-26 23:02:58.348"/>
+        <m id="r51146265" t="d" c="33" ts="2603262302" ts-tts="26-03-26 23:02:58.348"/>
+        <m id="r51146329" t="f" c="0" ts="2603262304" ts-tts="26-03-26 23:04:45.956"/>
+        <m id="r51146330" t="f" c="0" ts="2603262304" ts-tts="26-03-26 23:04:45.956"/>
+        <m id="r51150143" t="f" c="0" ts="2603270019" ts-tts="26-03-27 00:19:48.495"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11256"/>
+</s>
+
+
+<s id="6220447137645637542-2603270737-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" pt="2603270845" ps="a" l="RE70" fb="RE70">
+        <m id="r51148703" t="d" c="33" ts="2603262354" ts-tts="26-03-26 23:54:10.611"/>
+        <m id="r51148705" t="d" c="33" ts="2603262354" ts-tts="26-03-26 23:54:10.611"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270845" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11209"/>
+</s>
+
+
+<s id="5305980712996650155-2603270717-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" pp="7" pt="2603270912" ps="a" l="RE7" fb="RE7">
+        <m id="r51150349" t="d" c="33" ts="2603270024" ts-tts="26-03-27 00:24:09.808"/>
+        <m id="r51150351" t="d" c="33" ts="2603270024" ts-tts="26-03-27 00:24:09.808"/>
+        <m id="r51150431" t="f" c="0" ts="2603270026" ts-tts="26-03-27 00:26:43.353"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270912" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11161"/>
+</s>
+
+
+<s id="8191399034206076002-2603270708-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270717" ps="a" l="RE70"/>
+    <dp cpth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" pt="2603270717" ps="a" l="RE70" fb="RE70">
+        <m id="r51145913" t="d" c="33" ts="2603262255" ts-tts="26-03-26 22:55:15.010"/>
+        <m id="r51145915" t="d" c="33" ts="2603262255" ts-tts="26-03-26 22:55:15.010"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11206"/>
+</s>
+
+
+<s id="-8657950163252962648-2603270705-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn" pp="7" pt="2603270812" ps="a" l="RE7" fb="RE7">
+        <m id="r51147973" t="d" c="33" ts="2603262333" ts-tts="26-03-26 23:33:07.512"/>
+        <m id="r51147975" t="d" c="33" ts="2603262333" ts-tts="26-03-26 23:33:07.512"/>
+        <m id="r51147993" t="f" c="0" ts="2603262333" ts-tts="26-03-26 23:33:53.677"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270812" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11259"/>
+</s>
+
+
+<s id="-4687573494416744868-2603270638-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270645" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Pinneberg|Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603270645" ps="a" l="RE7" fb="RE7">
+        <m id="r51145504" t="d" c="33" ts="2603262248" ts-tts="26-03-26 22:48:32.724"/>
+        <m id="r51145506" t="d" c="33" ts="2603262248" ts-tts="26-03-26 22:48:32.724"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11154"/>
+</s>
+
+
+<s id="-5011576696981859263-2603270638-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270645" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603270645" ps="a" l="RE7" fb="RE7">
+        <m id="r51145359" t="d" c="33" ts="2603262247" ts-tts="26-03-26 22:47:15.134"/>
+        <m id="r51145361" t="d" c="33" ts="2603262247" ts-tts="26-03-26 22:47:15.134"/>
+        <m id="r51150287" t="f" c="0" ts="2603270022" ts-tts="26-03-27 00:22:22.319"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11254"/>
+</s>
+
+
+<s id="7320984570293106503-2603270637-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist" pp="7" pt="2603270722" ps="a" l="RE70" fb="RE70">
+        <m id="r51146951" t="d" c="33" ts="2603262312" ts-tts="26-03-26 23:12:31.659"/>
+        <m id="r51146953" t="d" c="33" ts="2603262312" ts-tts="26-03-26 23:12:31.659"/>
+    </ar>
+    <dp cpth="" ppth="Elmshorn|Hamburg Dammtor|Hamburg Hbf" pt="2603270722" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11207"/>
+</s>
+
+
+<s id="-5138192615591901711-2603270617-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn" pp="7" pt="2603270812" ps="a" l="RE7" fb="RE7">
+        <m id="r51147559" t="d" c="33" ts="2603262323" ts-tts="26-03-26 23:24:07.269"/>
+        <m id="r51147561" t="d" c="33" ts="2603262323" ts-tts="26-03-26 23:24:07.269"/>
+        <m id="r51147994" t="f" c="0" ts="2603262333" ts-tts="26-03-26 23:33:53.677"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270812" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11159"/>
+</s>
+
+
+<s id="617455562621237967-2603271108-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603271116" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" pt="2603271116" ps="a" l="RE70" fb="RE70">
+        <m id="r51152093" t="d" c="33" ts="2603270127" ts-tts="26-03-27 01:27:50.571"/>
+        <m id="r51152095" t="d" c="33" ts="2603270127" ts-tts="26-03-27 01:27:50.571"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11214"/>
+</s>
+
+
+<s id="2926833202912032279-2603271039-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603271046" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="7" pt="2603271046" ps="a" l="RE7" fb="RE7">
+        <m id="r51151689" t="d" c="33" ts="2603270104" ts-tts="26-03-27 01:04:35.820"/>
+        <m id="r51151691" t="d" c="33" ts="2603270104" ts-tts="26-03-27 01:04:35.820"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11162"/>
+</s>
+
+
+<s id="-3575979575175127563-2603271039-100" eva="8002553">
+    <m id="r2593851" t="h" from="2603251100" to="2603271200" cat="Störung" ts="2603251144" ts-tts="26-03-27 03:16:04.193" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603271046" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" pt="2603271046" ps="a" l="RE7" fb="RE7">
+        <m id="r51151652" t="d" c="33" ts="2603270103" ts-tts="26-03-27 01:03:18.215"/>
+        <m id="r51151654" t="d" c="33" ts="2603270103" ts-tts="26-03-27 01:03:18.215"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11262"/>
+</s>
+
+
+<s id="6992012378128167215-2603271955-1" eva="8002553">
+    <dp>
+        <m id="r51137974" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+        <m id="r51137975" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+        <m id="r51137976" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+        <m id="r51137977" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+        <m id="r51137978" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+        <m id="r51137979" t="f" c="0" ts="2603262058" ts-tts="26-03-26 20:58:47.452"/>
+    </dp>
+</s>
+
+
+<s id="1003446772902483359-2603262059-19" eva="8002553">
+    <ar ct="2603270811">
+        <m id="r51143977" t="d" c="24" ts="2603262229" ts-tts="26-03-26 22:29:56.743"/>
+        <m id="r51143982" t="d" c="24" ts="2603262229" ts-tts="26-03-26 22:29:56.743"/>
+        <m id="r51143980" t="d" c="24" ts="2603262229" ts-tts="26-03-26 22:29:56.743"/>
+        <m id="r51144520" t="f" c="0" ts="2603262236" ts-tts="26-03-26 22:36:55.330"/>
+        <m id="r51144522" t="f" c="0" ts="2603262236" ts-tts="26-03-26 22:36:55.330"/>
+    </ar>
+</s>
+
+
+<s id="-5591597380485360579-2603262059-19" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <ar ct="2603270811">
+        <m id="r51143979" t="f" c="0" ts="2603262229" ts-tts="26-03-26 22:29:56.742"/>
+        <m id="r51143984" t="d" c="24" ts="2603262229" ts-tts="26-03-26 22:29:56.742"/>
+        <m id="r51144521" t="f" c="0" ts="2603262236" ts-tts="26-03-26 22:36:55.329"/>
+        <m id="r51144523" t="f" c="0" ts="2603262236" ts-tts="26-03-26 22:36:55.329"/>
+    </ar>
+</s>
+
+
+<s id="7963035539390927132-2603270651-1" eva="8002553">
+    <dp ct="2603270651" l="RB60"/>
+</s>
+
+
+<s id="5817583325674517859-2603270956-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603271002" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" pp="8" pt="2603271002" ps="a" l="RB61" fb="RB61">
+        <m id="r51153696" t="d" c="33" ts="2603270226" ts-tts="26-03-27 02:26:43.402"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75512"/>
+</s>
+
+
+<s id="8692278081732729076-2603270853-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270933" pt="2603270933" ps="a" l="RB71" fb="RB71">
+        <m id="r51153680" t="d" c="33" ts="2603270225" ts-tts="26-03-27 02:25:57.707"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270933" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81867"/>
+</s>
+
+
+<s id="1009373042070946218-2603270818-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270825" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270825" pt="2603270825" ps="a" l="RB71" fb="RB71">
+        <m id="r51153667" t="d" c="33" ts="2603270224" ts-tts="26-03-27 02:24:26.390"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81868"/>
+</s>
+
+
+<s id="-6468886972191162920-2603270702-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270754" pt="2603270754" ps="a" l="RB61" fb="RB61">
+        <m id="r51153656" t="d" c="33" ts="2603270223" ts-tts="26-03-27 02:23:55.949"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270754" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75507"/>
+</s>
+
+
+<s id="5571606320076158923-2603270917-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270924" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270924" pt="2603270924" ps="a" l="RB71" fb="RB71">
+        <m id="r51153653" t="d" c="33" ts="2603270223" ts-tts="26-03-27 02:23:55.949"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81870"/>
+</s>
+
+
+<s id="-5425302918995479956-2603271526-1" eva="8002553">
+    <dp>
+        <m id="r51153634" t="f" c="0" ts="2603270222" ts-tts="26-03-27 02:22:55.019"/>
+    </dp>
+</s>
+
+
+<s id="4871146528830203642-2603270856-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270902" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" pp="8" ct="2603270902" pt="2603270902" ps="a" l="RB61" fb="RB61">
+        <m id="r51153580" t="d" c="33" ts="2603270220" ts-tts="26-03-27 02:20:07.500"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75510"/>
+</s>
+
+
+<s id="4529325751578925480-2603270802-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270853" pt="2603270853" ps="a" l="RB61" fb="RB61">
+        <m id="r51153591" t="d" c="33" ts="2603270220" ts-tts="26-03-27 02:20:53.165"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270853" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75509"/>
+</s>
+
+
+<s id="-6531275544337293034-2603270753-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270833" pt="2603270833" ps="a" l="RB71" fb="RB71">
+        <m id="r51153564" t="d" c="33" ts="2603270218" ts-tts="26-03-27 02:18:36.156"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270833" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81865"/>
+</s>
+
+
+<s id="-1939035611459365884-2603270756-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270802" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" pp="8" ct="2603270802" pt="2603270802" ps="a" l="RB61" fb="RB61">
+        <m id="r51153547" t="d" c="33" ts="2603270217" ts-tts="26-03-27 02:17:35.209"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75508"/>
+</s>
+
+
+<s id="1501460796885002383-2603270653-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270734" pt="2603270734" ps="a" l="RB71" fb="RB71">
+        <m id="r51153526" t="d" c="33" ts="2603270216" ts-tts="26-03-27 02:16:49.496"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270734" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81863"/>
+</s>
+
+
+<s id="3842949125911231258-2603270717-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270728" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270728" pt="2603270728" ps="a" l="RB71" fb="RB71">
+        <m id="r51153500" t="d" c="33" ts="2603270214" ts-tts="26-03-27 02:14:17.196"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81866"/>
+</s>
+
+
+<s id="4682136619533968759-2603270602-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270653" pt="2603270653" ps="a" l="RB61" fb="RB61">
+        <m id="r51153498" t="d" c="33" ts="2603270212" ts-tts="26-03-27 02:12:45.800"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270653" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75505"/>
+</s>
+
+
+<s id="3239372209716677231-2603270656-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270701" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" pp="8" ct="2603270701" pt="2603270701" ps="a" l="RB61" fb="RB61">
+        <m id="r51153459" t="d" c="33" ts="2603270210" ts-tts="26-03-27 02:10:13.444"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75506"/>
+</s>
+
+
+<s id="6567724901549400999-2603270553-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270634" pt="2603270634" ps="a" l="RB71" fb="RB71">
+        <m id="r51153450" t="d" c="33" ts="2603270209" ts-tts="26-03-27 02:09:12.530"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pp="8" pt="2603270634" cs="c" ps="a" clt="2603270209" l="RB71" fb="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81861"/>
+</s>
+
+
+<s id="5276297556079974092-2603270617-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270624" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270624" pt="2603270624" ps="a" l="RB71" fb="RB71">
+        <m id="r51153380" t="d" c="33" ts="2603270207" ts-tts="26-03-27 02:07:41.154"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81864"/>
+</s>
+
+
+<s id="-1237890003819403071-2603270502-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270554" pt="2603270554" ps="a" l="RB61" fb="RB61">
+        <m id="r51153374" t="d" c="33" ts="2603270206" ts-tts="26-03-27 02:06:55.471"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270554" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75503"/>
+</s>
+
+
+<s id="-6874819156280676028-2603270556-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270602" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" pp="8" ct="2603270602" pt="2603270602" ps="a" l="RB61" fb="RB61">
+        <m id="r51153365" t="d" c="33" ts="2603270205" ts-tts="26-03-27 02:05:08.861"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75504"/>
+</s>
+
+
+<s id="-2392591812561718951-2603270453-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270534" pt="2603270534" ps="a" l="RB71" fb="RB71">
+        <m id="r51153362" t="d" c="33" ts="2603270204" ts-tts="26-03-27 02:04:23.163"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270534" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81859"/>
+</s>
+
+
+<s id="139360756142604750-2603270517-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270524" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="8" ct="2603270524" pt="2603270524" ps="a" l="RB71" fb="RB71">
+        <m id="r51153337" t="d" c="33" ts="2603270202" ts-tts="26-03-27 02:02:36.592"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81862"/>
+</s>
+
+
+<s id="-6641565464322350027-2603270402-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="8" ct="2603270453" pt="2603270453" ps="a" l="RB61" fb="RB61">
+        <m id="r51153326" t="d" c="33" ts="2603270200" ts-tts="26-03-27 02:01:02.848"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270453" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75501"/>
+</s>
+
+
+<s id="3042654853935669487-2603270545-10" eva="8002553">
+    <ar ct="2603270641" l="RB60"/>
+</s>
+
+
+<s id="8503777394879306018-2603262325-20" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <ar ct="2603270703">
+        <m id="r51146664" t="f" c="0" ts="2603262307" ts-tts="26-03-26 23:07:37.848"/>
+        <m id="r51152298" t="d" c="7" ts="2603270141" ts-tts="26-03-27 01:41:22.427"/>
+        <m id="r51152301" t="d" c="7" ts="2603270141" ts-tts="26-03-27 01:41:22.427"/>
+        <m id="r51152303" t="d" c="7" ts="2603270141" ts-tts="26-03-27 01:41:22.427"/>
+    </ar>
+</s>
+
+
+<s id="6639677710859119502-2603271738-6" eva="8002553">
+    <m id="r2595080" t="h" from="2603271738" to="2603272155" cat="Information" ts="2603270026" ts-tts="26-03-27 00:26:27.870" pr="3"/>
+    <ar>
+        <m id="r51150412" t="f" c="0" ts="2603270025" ts-tts="26-03-27 00:25:41.989"/>
+        <m id="r51150597" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150598" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150599" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150600" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+    </ar>
+</s>
+
+
+<s id="-7873719122923309439-2603270056-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270102" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" cp="7" pp="9" ct="2603270102" pt="2603270102" ps="a" l="RB61" fb="RB61">
+        <m id="r51085536" t="d" c="33" ts="2603261400" ts-tts="26-03-26 14:01:08.814"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75500"/>
+</s>
+
+
+<s id="-8916814441775474153-2603271647-14" eva="8002553">
+    <ar ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Hamburg Hbf" pp="5" pt="2603280118" fb="ICE 2828">
+        <m id="r51151185" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151187" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151186" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151188" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151190" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151189" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151191" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151193" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151192" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.634"/>
+        <m id="r51151338" t="f" c="0" ts="2603270048" ts-tts="26-03-27 00:48:56.987"/>
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2828"/>
+</s>
+
+
+<s id="-905457960455072062-2603270555-18" eva="8002553">
+    <ar>
+        <m id="r51151307" t="f" c="0" ts="2603270047" ts-tts="26-03-27 00:47:09.841"/>
+    </ar>
+</s>
+
+
+<s id="-7956047615718350819-2603271426-1" eva="8002553">
+    <dp>
+        <m id="r51151278" t="f" c="0" ts="2603270046" ts-tts="26-03-27 00:46:39.240"/>
+    </dp>
+</s>
+
+
+<s id="-8705107722613527627-2603271059-27" eva="8002553">
+    <ar>
+        <m id="r51151197" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:37.979"/>
+    </ar>
+</s>
+
+
+<s id="8218544619443085427-2603271647-14" eva="8002553">
+    <ar>
+        <m id="r51151049" t="f" c="0" ts="2603270040" ts-tts="26-03-27 00:40:16.249"/>
+        <m id="r51151181" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.635"/>
+        <m id="r51151182" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.635"/>
+        <m id="r51151183" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.635"/>
+        <m id="r51151184" t="f" c="0" ts="2603270045" ts-tts="26-03-27 00:45:22.635"/>
+    </ar>
+</s>
+
+
+<s id="-6387642156696529227-2603271738-6" eva="8002553">
+    <ar ppth="Frankfurt(M) Flughafen Regionalbf|Frankfurt(Main)Hbf|Hannover Hbf|Hamburg Hbf|Hamburg Dammtor" pp="5" pt="2603272155" fb="ICE 2820">
+        <m id="r51150602" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150604" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150603" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150605" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150607" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150606" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150608" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150610" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51150609" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.895"/>
+        <m id="r51151099" t="f" c="0" ts="2603270042" ts-tts="26-03-27 00:43:04.810"/>
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2820"/>
+</s>
+
+
+<s id="-8126071574567891320-2603271632-1" eva="8002553">
+    <dp l="RE6">
+        <m id="r51121610" t="f" c="0" ts="2603261830" ts-tts="26-03-26 18:30:43.826"/>
+        <m id="r51121611" t="f" c="0" ts="2603261830" ts-tts="26-03-26 18:30:43.826"/>
+        <m id="r51150762" t="f" c="0" ts="2603270033" ts-tts="26-03-27 00:33:37.486"/>
+    </dp>
+</s>
+
+
+<s id="-7448885186250542193-2603270008-100" eva="8002553">
+    <ar cpth="Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Elmshorn|Tornesch|Prisdorf|Pinneberg" cp="7" pp="9" ct="2603270033" pt="2603270030" ps="a" l="RB71" fb="RB71">
+        <m id="r51085537" t="d" c="33" ts="2603261400" ts-tts="26-03-26 14:01:08.813"/>
+        <m id="r51085538" t="d" c="33" ts="2603261400" ts-tts="26-03-26 14:01:08.813"/>
+        <m id="r51085539" t="d" c="33" ts="2603261400" ts-tts="26-03-26 14:01:08.813"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270030" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81897"/>
+</s>
+
+
+<s id="-5894767788106580379-2603270649-16" eva="8002553">
+    <m id="r2594794" t="h" from="2603270649" to="2603272357" cat="Information" ts="2603270031" ts-tts="26-03-27 00:31:19.477" pr="2"/>
+    <ar>
+        <m id="r51150470" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.338"/>
+        <m id="r51150471" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.338"/>
+        <m id="r51150472" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.338"/>
+        <m id="r51150473" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.338"/>
+        <m id="r51150601" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.894"/>
+    </ar>
+</s>
+
+
+<s id="-7621712260142359390-2603271534-1" eva="8002553">
+    <m id="r2594794" t="h" from="2603270649" to="2603272357" cat="Information" ts="2603270031" ts-tts="26-03-27 00:31:19.477" pr="2"/>
+    <dp>
+        <m id="r51149403" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:41.629"/>
+        <m id="r51149404" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:41.629"/>
+        <m id="r51149405" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:41.629"/>
+        <m id="r51149406" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:41.629"/>
+        <m id="r51150619" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.894"/>
+    </dp>
+</s>
+
+
+<s id="2376607161780385683-2603271534-1" eva="8002553">
+    <dp ppth="Hamburg Hbf|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf|München Hbf" pp="12" pt="2603271534" fb="ICE 2823">
+        <m id="r51149407" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149409" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149408" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149410" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149412" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149411" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149413" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149415" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51149414" t="f" c="0" ts="2603270004" ts-tts="26-03-27 00:04:57.003"/>
+        <m id="r51150620" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.894"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2823"/>
+</s>
+
+
+<s id="2902741655104830964-2603270649-16" eva="8002553">
+    <ar ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg Hbf" pp="5" pt="2603271424" fb="ICE 2818">
+        <m id="r51150474" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150476" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150475" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150477" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150479" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150478" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150480" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150482" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150481" t="f" c="0" ts="2603270027" ts-tts="26-03-27 00:27:29.337"/>
+        <m id="r51150596" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:48.894"/>
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2818"/>
+</s>
+
+
+<s id="8640899555193381858-2603271432-1" eva="8002553">
+    <dp l="RE6">
+        <m id="r51150553" t="f" c="0" ts="2603270030" ts-tts="26-03-27 00:30:18.225"/>
+    </dp>
+</s>
+
+
+<s id="-8542961175327616029-2603271019-14" eva="8002553">
+    <ar l="RE6">
+        <m id="r51150527" t="f" c="0" ts="2603270029" ts-tts="26-03-27 00:29:47.473"/>
+    </ar>
+</s>
+
+
+<s id="-1914631042499561162-2603270919-14" eva="8002553">
+    <ar l="RE6">
+        <m id="r51068490" t="f" c="0" ts="2603261118" ts-tts="26-03-26 11:18:27.092"/>
+        <m id="r51068491" t="f" c="0" ts="2603261118" ts-tts="26-03-26 11:18:27.092"/>
+        <m id="r51150239" t="f" c="0" ts="2603270021" ts-tts="26-03-27 00:21:20.811"/>
+    </ar>
+</s>
+
+
+<s id="7353340813303743139-2603270532-1" eva="8002553">
+    <dp l="RE6">
+        <m id="r51150235" t="f" c="0" ts="2603270020" ts-tts="26-03-27 00:21:05.404"/>
+    </dp>
+</s>
+
+
+<s id="4222817464971087397-2603262305-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg" cp="12" pp="5" ct="2603270018" pt="2603270016" ps="a" l="RE7" fb="RE7">
+        <m id="r51100805" t="d" c="33" ts="2603261559" ts-tts="26-03-26 15:59:41.309"/>
+        <m id="r51100807" t="d" c="33" ts="2603261559" ts-tts="26-03-26 15:59:41.309"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270016" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11291"/>
+</s>
+
+
+<s id="2483900979486363965-2603270757-1" eva="8002553">
+    <dp cpth="München Ost|Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf|Telfs-Pfaffenhofen|Ötztal|Imst-Pitztal|Landeck-Zams|St. Anton am Arlberg|Langen am Arlberg|Bludenz" cs="c" clt="2603261250">
+        <m id="r51077888" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.016"/>
+        <m id="r51077890" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.016"/>
+        <m id="r51148530" t="f" c="0" ts="2603262350" ts-tts="26-03-26 23:51:05.946"/>
+    </dp>
+</s>
+
+
+<s id="-2217509866570922369-2603262019-18" eva="8002553">
+    <ar ct="2603262333" l="RE6"/>
+</s>
+
+
+<s id="2686007473625185344-2603270001-24" eva="8002553">
+    <ar ct="2603271033"/>
+</s>
+
+
+<s id="2774174590951633862-2603262225-1" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2594395" t="h" from="2603260844" to="2603270704" cat="Information" ts="2603260302" ts-tts="26-03-26 03:02:07.600" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cpth="Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Bonn Hbf|Remagen|Andernach|Koblenz Hbf|Frankfurt(Main)Hbf" cs="c" clt="2603261602">
+        <m id="r51029881" t="f" c="0" ts="2603260302" ts-tts="26-03-26 03:02:53.370"/>
+        <m id="r51101196" t="d" c="33" ts="2603261602" ts-tts="26-03-26 16:02:54.043"/>
+        <m id="r51101198" t="d" c="33" ts="2603261602" ts-tts="26-03-26 16:02:54.043"/>
+        <m id="r51147020" t="f" c="0" ts="2603262314" ts-tts="26-03-26 23:14:50.836"/>
+        <m id="r51147843" t="f" c="0" ts="2603262330" ts-tts="26-03-26 23:31:03.987"/>
+        <m id="r51147844" t="f" c="0" ts="2603262330" ts-tts="26-03-26 23:31:03.987"/>
+    </dp>
+</s>
+
+
+<s id="-649058799789580020-2603262234-1" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589481" t="h" from="2603171056" to="2604062359" cat="Information" ts="2603171057" ts-tts="26-03-25 23:16:05.510" pr="3"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cpth="Hamburg-Harburg|Lüneburg|Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof" cs="c" clt="2603261609">
+        <m id="r51102382" t="d" c="33" ts="2603261609" ts-tts="26-03-26 16:09:47.145"/>
+        <m id="r51102384" t="d" c="33" ts="2603261609" ts-tts="26-03-26 16:09:47.145"/>
+        <m id="r51147663" t="d" c="47" ts="2603262327" ts-tts="26-03-26 23:27:58.581"/>
+        <m id="r51147667" t="d" c="47" ts="2603262327" ts-tts="26-03-26 23:27:58.581"/>
+        <m id="r51147665" t="d" c="47" ts="2603262327" ts-tts="26-03-26 23:27:58.581"/>
+    </dp>
+</s>
+
+
+<s id="6698074796891917186-2603262317-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262325" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn" pp="9" ct="2603262326" pt="2603262325" ps="a" l="RB71" fb="RB71">
+        <m id="r51077740" t="d" c="33" ts="2603261249" ts-tts="26-03-26 12:49:21.729"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81898"/>
+</s>
+
+
+<s id="-730051901955407455-2603262238-8" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <ar cpth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Uelzen|Lüneburg|Hamburg-Harburg" cs="c" clt="2603261625">
+        <m id="r51104676" t="d" c="33" ts="2603261625" ts-tts="26-03-26 16:25:22.779"/>
+        <m id="r51104678" t="d" c="33" ts="2603261625" ts-tts="26-03-26 16:25:22.779"/>
+        <m id="r51147597" t="d" c="47" ts="2603262325" ts-tts="26-03-26 23:25:55.276"/>
+        <m id="r51147599" t="d" c="47" ts="2603262325" ts-tts="26-03-26 23:25:55.276"/>
+        <m id="r51147601" t="d" c="47" ts="2603262325" ts-tts="26-03-26 23:25:55.276"/>
+    </ar>
+</s>
+
+
+<s id="-8677182982400525824-2603262046-16" eva="8002553">
+    <m id="r2569137" t="h" from="2602060000" to="2605312359" cat="Information" ts="2602061102" ts-tts="26-03-25 23:16:05.176" pr="1"/>
+    <ar ct="2603270855">
+        <m id="r51143118" t="d" c="24" ts="2603262211" ts-tts="26-03-26 22:11:49.638"/>
+        <m id="r51143120" t="d" c="24" ts="2603262211" ts-tts="26-03-26 22:11:49.638"/>
+        <m id="r51143124" t="d" c="24" ts="2603262211" ts-tts="26-03-26 22:11:49.638"/>
+        <m id="r51147424" t="d" c="6" ts="2603262321" ts-tts="26-03-26 23:21:48.254"/>
+        <m id="r51147426" t="d" c="6" ts="2603262321" ts-tts="26-03-26 23:21:48.254"/>
+    </ar>
+</s>
+
+
+<s id="-5205691825810693259-2603262202-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="9" ct="2603262312" pt="2603262250" ps="a" l="RB61" fb="RB61">
+        <m id="r51077562" t="d" c="33" ts="2603261246" ts-tts="26-03-26 12:46:44.389"/>
+        <m id="r51077563" t="d" c="33" ts="2603261246" ts-tts="26-03-26 12:46:44.389"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262250" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75537"/>
+</s>
+
+
+<s id="1595410400684371270-2603261936-15" eva="8002553">
+    <m id="r2569144" t="h" from="2603010000" to="2605312359" cat="Information" ts="2603012304" ts-tts="26-03-25 23:16:05.176" pr="1"/>
+    <ar ct="2603270855">
+        <m id="r51145276" t="d" c="67" ts="2603262246" ts-tts="26-03-26 22:46:28.696"/>
+        <m id="r51145280" t="d" c="67" ts="2603262246" ts-tts="26-03-26 22:46:44.220"/>
+        <m id="r51145282" t="d" c="67" ts="2603262246" ts-tts="26-03-26 22:46:44.220"/>
+    </ar>
+</s>
+
+
+<s id="5876259006269141489-2603262217-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262225" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn" cp="7" pp="9" ct="2603262225" pt="2603262225" ps="a" l="RB71" fb="RB71">
+        <m id="r51077561" t="d" c="33" ts="2603261246" ts-tts="26-03-26 12:46:44.389"/>
+        <m id="r51140788" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81896"/>
+</s>
+
+
+<s id="4429131433570418178-2603262208-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262216" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" cp="12" pp="7" ct="2603262216" pt="2603262216" ps="a" l="RE70" fb="RE70">
+        <m id="r51084403" t="d" c="33" ts="2603261349" ts-tts="26-03-26 13:49:18.734"/>
+        <m id="r51084405" t="d" c="33" ts="2603261349" ts-tts="26-03-26 13:49:18.734"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11236"/>
+</s>
+
+
+<s id="-4729806126304016967-2603261830-7" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2594815" t="h" from="2603261830" to="2603262126" cat="Information" ts="2603261922" ts-tts="26-03-26 19:22:20.370" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <m id="r1469888440alt" t="c" ts="2603262112" ts-tts="26-03-26 22:16:03.983"/>
+    <m id="r1469888540alt" t="c" ts="2603262138" ts-tts="26-03-26 21:38:36.645"/>
+    <m id="r1469888439alt" t="c" ts="2603262112" ts-tts="26-03-26 22:16:03.983"/>
+    <m id="r1469888540" t="c" ts="2603262138" ts-tts="26-03-26 21:38:36.492"/>
+    <ar ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Uelzen|Lüneburg|Hamburg Hbf" pp="5" ct="2603262206" pt="2603262126" fb="ICE 1902">
+        <m id="r51128303" t="f" c="0" ts="2603261922" ts-tts="26-03-26 19:22:52.120"/>
+        <m id="r51130081" t="d" c="10" ts="2603261938" ts-tts="26-03-26 19:39:10.345"/>
+        <m id="r51130083" t="d" c="10" ts="2603261938" ts-tts="26-03-26 19:39:10.345"/>
+        <m id="r51130085" t="d" c="10" ts="2603261938" ts-tts="26-03-26 19:39:10.345"/>
+        <m id="r51130969" t="f" c="0" ts="2603261948" ts-tts="26-03-26 19:48:37.514"/>
+        <m id="r51130970" t="f" c="0" ts="2603261948" ts-tts="26-03-26 19:48:37.514"/>
+        <m id="r51140433" t="d" c="38" ts="2603262131" ts-tts="26-03-26 21:32:06.541"/>
+        <m id="r51140789" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1902"/>
+</s>
+
+
+<s id="8793213226106504000-2603262036-1" eva="8002553">
+    <m id="r2594855" t="h" from="2603262036" to="2603262329" cat="Information" ts="2603262208" ts-tts="26-03-26 22:08:26.477" pr="2"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <dp ct="2603262053">
+        <m id="r51133284" t="f" c="0" ts="2603262008" ts-tts="26-03-26 20:08:49.415"/>
+        <m id="r51134599" t="d" c="51" ts="2603262021" ts-tts="26-03-26 20:21:56.988"/>
+        <m id="r51134601" t="d" c="51" ts="2603262021" ts-tts="26-03-26 20:21:56.988"/>
+        <m id="r51134617" t="f" c="0" ts="2603262021" ts-tts="26-03-26 20:21:56.988"/>
+        <m id="r51134627" t="f" c="0" ts="2603262022" ts-tts="26-03-26 20:22:28.519"/>
+        <m id="r51134628" t="f" c="0" ts="2603262022" ts-tts="26-03-26 20:22:28.519"/>
+        <m id="r51135432" t="f" c="0" ts="2603262030" ts-tts="26-03-26 20:30:35.574"/>
+        <m id="r51135433" t="f" c="0" ts="2603262030" ts-tts="26-03-26 20:30:35.574"/>
+    </dp>
+</s>
+
+
+<s id="8595246951948276691-2603262102-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" cp="7" pp="9" ct="2603262201" pt="2603262150" ps="a" l="RB61" fb="RB61">
+        <m id="r51076894" t="d" c="33" ts="2603261239" ts-tts="26-03-26 12:39:24.115"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262150" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75535"/>
+</s>
+
+
+<s id="-8705107722613527627-2603261059-27" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.806" pr="2"/>
+    <ar ct="2603262200">
+        <m id="r51082547" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.142"/>
+        <m id="r51118444" t="d" c="43" ts="2603261807" ts-tts="26-03-26 18:07:15.826"/>
+        <m id="r51118446" t="d" c="43" ts="2603261807" ts-tts="26-03-26 18:07:15.826"/>
+        <m id="r51118450" t="d" c="43" ts="2603261807" ts-tts="26-03-26 18:07:15.826"/>
+        <m id="r51131982" t="f" c="0" ts="2603261956" ts-tts="26-03-26 19:56:14.035"/>
+        <m id="r51140409" t="d" c="38" ts="2603262131" ts-tts="26-03-26 21:31:35.423"/>
+        <m id="r51140411" t="d" c="38" ts="2603262131" ts-tts="26-03-26 21:31:35.423"/>
+    </ar>
+</s>
+
+
+<s id="2125648005524986325-2603262037-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" cp="12" pp="7" ct="2603262154" pt="2603262145" ps="a" l="RE70" fb="RE70">
+        <m id="r51084183" t="d" c="33" ts="2603261347" ts-tts="26-03-26 13:47:43.453"/>
+        <m id="r51084185" t="d" c="33" ts="2603261347" ts-tts="26-03-26 13:47:43.453"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262145" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11235"/>
+</s>
+
+
+<s id="149151211801014556-2603262139-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262145" ps="a" l="RE7"/>
+    <dp cpth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="7" ct="2603262146" pt="2603262145" ps="a" l="RE7" fb="RE RE7">
+        <m id="r51108217" t="f" c="0" ts="2603261653" ts-tts="26-03-26 16:53:35.683"/>
+        <m id="r51108218" t="f" c="0" ts="2603261653" ts-tts="26-03-26 16:53:35.683"/>
+        <m id="r51138989" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138991" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138990" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138992" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138994" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138993" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138996" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138998" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51138997" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51140781" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11284"/>
+</s>
+
+
+<s id="6954924236955692259-2603261328-20" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594718" t="h" from="2603261710" to="2603261921" cat="Information" ts="2603261554" ts-tts="26-03-26 15:54:24.663" pr="2"/>
+    <m id="r2594729" t="h" from="2603262224" to="2603262226" cat="Information" ts="2603261605" ts-tts="26-03-26 16:05:33.795" pr="3"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2594727" t="h" from="2603262215" to="2603262233" cat="Information" ts="2603261604" ts-tts="26-03-26 16:04:29.034" pr="3"/>
+    <m id="r2594410" t="h" from="2603260603" to="2603262233" cat="Information" ts="2603260406" ts-tts="26-03-26 04:06:22.890" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <ar cpth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg" ct="2603262233" cs="c" clt="2603261600">
+        <m id="r51030522" t="q" c="95" ts="2603260406" ts-tts="26-03-26 04:06:53.579"/>
+        <m id="r51030524" t="q" c="95" ts="2603260406" ts-tts="26-03-26 04:06:53.579"/>
+        <m id="r51082527" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.138"/>
+        <m id="r51092705" t="d" c="67" ts="2603261500" ts-tts="26-03-26 15:00:36.504"/>
+        <m id="r51092707" t="d" c="67" ts="2603261500" ts-tts="26-03-26 15:00:36.504"/>
+        <m id="r51100078" t="f" c="0" ts="2603261554" ts-tts="26-03-26 15:55:12.224"/>
+        <m id="r51100952" t="d" c="33" ts="2603261600" ts-tts="26-03-26 16:00:44.956"/>
+        <m id="r51100954" t="d" c="33" ts="2603261600" ts-tts="26-03-26 16:00:44.956"/>
+        <m id="r51135411" t="f" c="0" ts="2603262030" ts-tts="26-03-26 20:30:19.947"/>
+    </ar>
+</s>
+
+
+<s id="-5040855886902453859-2603261528-20" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <ar cpth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg" ct="2603270033" cs="c" clt="2603261620">
+        <m id="r51082532" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.138"/>
+        <m id="r51104187" t="d" c="33" ts="2603261620" ts-tts="26-03-26 16:21:08.656"/>
+        <m id="r51104189" t="d" c="33" ts="2603261620" ts-tts="26-03-26 16:21:08.656"/>
+        <m id="r51128207" t="f" c="0" ts="2603261921" ts-tts="26-03-26 19:21:33.201"/>
+    </ar>
+</s>
+
+
+<s id="6639677710859119502-2603261738-6" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <ar cpth="" cs="c" clt="2603261012">
+        <m id="r51061728" t="d" c="33" ts="2603261012" ts-tts="26-03-26 10:12:09.980"/>
+        <m id="r51061734" t="d" c="33" ts="2603261012" ts-tts="26-03-26 10:12:09.980"/>
+    </ar>
+</s>
+
+
+<s id="5489382238418385337-2603262156-1" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cpth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" cs="c" clt="2603261627">
+        <m id="r51105067" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105069" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105070" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105072" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105073" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105075" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.574"/>
+        <m id="r51105285" t="f" c="0" ts="2603261629" ts-tts="26-03-26 16:30:08.662"/>
+    </dp>
+</s>
+
+
+<s id="6127970467868033818-2603261647-16" eva="8002553">
+    <m id="r2593833" t="h" from="2603251117" to="2603282359" cat="Information" ts="2603251117" ts-tts="26-03-25 23:16:05.826" pr="3"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.511" pr="3"/>
+    <ar cpth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg" ppth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg Hbf" pp="5" ct="2603270037" pt="2603270038" cs="c" clt="2603261622" fb="ICE 2282">
+        <m id="r50997179" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997180" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997181" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997183" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997182" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997184" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997186" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r50997185" t="f" c="0" ts="2603251844" ts-tts="26-03-25 18:45:01.517"/>
+        <m id="r51023252" t="f" c="0" ts="2603252334" ts-tts="26-03-25 23:34:21.402"/>
+        <m id="r51104536" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104538" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104539" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104541" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104544" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104546" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51122007" t="f" c="0" ts="2603261834" ts-tts="26-03-26 18:34:09.316"/>
+        <m id="r51122205" t="f" c="0" ts="2603261835" ts-tts="26-03-26 18:35:59.729"/>
+        <m id="r51122209" t="f" c="0" ts="2603261835" ts-tts="26-03-26 18:35:59.729"/>
+        <m id="r51122215" t="f" c="0" ts="2603261835" ts-tts="26-03-26 18:35:59.729"/>
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2282"/>
+</s>
+
+
+<s id="-911967397531432925-2603262038-6" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.511" pr="3"/>
+    <ar cpth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lüneburg|Hamburg-Harburg" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lüneburg|Hamburg Hbf" pp="5" pt="2603262324" cs="c" clt="2603261612" fb="ICE 2802">
+        <m id="r51020190" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020192" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020191" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020193" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020195" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020194" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020197" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020199" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51020198" t="f" c="0" ts="2603252235" ts-tts="26-03-25 22:35:23.629"/>
+        <m id="r51102883" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102885" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102889" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102891" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102895" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102897" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51122401" t="f" c="0" ts="2603261837" ts-tts="26-03-26 18:37:50.479"/>
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2802"/>
+</s>
+
+
+<s id="4031562698796755718-2603262126-1" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <dp ppth="Hamburg Dammtor|Hamburg Hbf|Uelzen|Salzwedel|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Ostbahnhof" cp="11" pp="12" ct="2603262132" pt="2603262126" fb="ICE 2845">
+        <m id="r51028356" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028358" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028357" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028361" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028363" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028362" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028369" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028371" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028370" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028614" t="f" c="0" ts="2603260211" ts-tts="26-03-26 02:11:23.170"/>
+        <m id="r51139306" t="d" c="21" ts="2603262118" ts-tts="26-03-26 21:19:06.428"/>
+        <m id="r51139308" t="d" c="21" ts="2603262118" ts-tts="26-03-26 21:19:06.428"/>
+        <m id="r51139310" t="d" c="21" ts="2603262118" ts-tts="26-03-26 21:19:06.428"/>
+        <m id="r51139315" t="d" c="21" ts="2603262118" ts-tts="26-03-26 21:19:06.428"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2845"/>
+</s>
+
+
+<s id="-1588936129122896413-2603261448-16" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <m id="r2594733" t="h" from="2603262214" to="2603262224" cat="Information" ts="2603261610" ts-tts="26-03-26 16:10:18.740" pr="3"/>
+    <ar cpth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg" ct="2603262224" cs="c" clt="2603261607">
+        <m id="r51102208" t="d" c="33" ts="2603261607" ts-tts="26-03-26 16:07:56.666"/>
+        <m id="r51102211" t="d" c="33" ts="2603261607" ts-tts="26-03-26 16:07:56.666"/>
+        <m id="r51120573" t="f" c="0" ts="2603261820" ts-tts="26-03-26 18:20:43.150"/>
+        <m id="r51137831" t="f" c="0" ts="2603262057" ts-tts="26-03-26 20:58:00.505"/>
+        <m id="r51137832" t="f" c="0" ts="2603262057" ts-tts="26-03-26 20:58:00.505"/>
+    </ar>
+</s>
+
+
+<s id="2068230952028849040-2603262038-6" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594735" t="h" from="2603262314" to="2603262324" cat="Information" ts="2603261614" ts-tts="26-03-26 16:14:15.443" pr="3"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <ar cpth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Lüneburg|Hamburg-Harburg" cs="c" clt="2603261612">
+        <m id="r51020716" t="f" c="0" ts="2603252236" ts-tts="26-03-25 22:36:10.209"/>
+        <m id="r51020717" t="f" c="0" ts="2603252236" ts-tts="26-03-25 22:36:10.209"/>
+        <m id="r51020718" t="f" c="0" ts="2603252236" ts-tts="26-03-25 22:36:10.209"/>
+        <m id="r51020719" t="f" c="0" ts="2603252236" ts-tts="26-03-25 22:36:10.209"/>
+        <m id="r51022486" t="f" c="0" ts="2603252315" ts-tts="26-03-25 23:16:06.768"/>
+        <m id="r51102886" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51102888" t="d" c="33" ts="2603261612" ts-tts="26-03-26 16:12:25.299"/>
+        <m id="r51122400" t="f" c="0" ts="2603261837" ts-tts="26-03-26 18:37:50.479"/>
+    </ar>
+</s>
+
+
+<s id="8218544619443085427-2603261647-16" eva="8002553">
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2593969" t="h" from="2603260734" to="2603270038" cat="Information" ts="2603252308" ts-tts="26-03-25 23:08:03.771" pr="2"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <ar cpth="München Hbf|Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg" ct="2603270037" cs="c" clt="2603261622">
+        <m id="r50997511" t="f" c="0" ts="2603251845" ts-tts="26-03-25 18:46:04.810"/>
+        <m id="r50997512" t="f" c="0" ts="2603251845" ts-tts="26-03-25 18:46:04.810"/>
+        <m id="r50997513" t="f" c="0" ts="2603251845" ts-tts="26-03-25 18:46:04.810"/>
+        <m id="r51023251" t="f" c="0" ts="2603252334" ts-tts="26-03-25 23:34:21.402"/>
+        <m id="r51104564" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104566" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104567" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104569" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104570" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51104572" t="d" c="33" ts="2603261624" ts-tts="26-03-26 16:24:19.264"/>
+        <m id="r51121091" t="f" c="0" ts="2603261826" ts-tts="26-03-26 18:26:31.187"/>
+        <m id="r51121093" t="f" c="0" ts="2603261826" ts-tts="26-03-26 18:26:46.989"/>
+        <m id="r51122008" t="f" c="0" ts="2603261834" ts-tts="26-03-26 18:34:09.316"/>
+        <m id="r51122009" t="f" c="0" ts="2603261834" ts-tts="26-03-26 18:34:09.316"/>
+    </ar>
+</s>
+
+
+<s id="-4758242349678413284-2603261238-25" eva="8002553">
+    <m id="r2594736" t="h" from="2603262316" to="2603262334" cat="Information" ts="2603261621" ts-tts="26-03-26 16:21:08.496" pr="3"/>
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2594738" t="h" from="2603262325" to="2603262326" cat="Information" ts="2603261622" ts-tts="26-03-26 16:22:11.875" pr="3"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r2594686" t="h" from="2603261516" to="2603262334" cat="Information" ts="2603261507" ts-tts="26-03-26 15:07:11.342" pr="2"/>
+    <ar cpth="Chur|Landquart|Sargans|Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg" ct="2603262333" cs="c" clt="2603261614">
+        <m id="r51082570" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.142"/>
+        <m id="r51093540" t="q" c="83" ts="2603261506" ts-tts="26-03-26 15:06:55.714"/>
+        <m id="r51093542" t="q" c="83" ts="2603261506" ts-tts="26-03-26 15:06:55.714"/>
+        <m id="r51096940" t="f" c="0" ts="2603261530" ts-tts="26-03-26 15:30:22.881"/>
+        <m id="r51096941" t="d" c="13" ts="2603261530" ts-tts="26-03-26 15:30:22.881"/>
+        <m id="r51103163" t="d" c="33" ts="2603261614" ts-tts="26-03-26 16:14:15.645"/>
+        <m id="r51103165" t="d" c="33" ts="2603261614" ts-tts="26-03-26 16:14:15.645"/>
+        <m id="r51110018" t="f" c="0" ts="2603261710" ts-tts="26-03-26 17:10:12.263"/>
+        <m id="r51125337" t="d" c="7" ts="2603261859" ts-tts="26-03-26 18:59:43.210"/>
+        <m id="r51125339" t="d" c="7" ts="2603261859" ts-tts="26-03-26 18:59:43.210"/>
+        <m id="r51125341" t="d" c="7" ts="2603261859" ts-tts="26-03-26 18:59:43.210"/>
+        <m id="r51125727" t="f" c="0" ts="2603261902" ts-tts="26-03-26 19:02:05.432"/>
+        <m id="r51125728" t="f" c="0" ts="2603261902" ts-tts="26-03-26 19:02:05.432"/>
+        <m id="r51127980" t="d" c="67" ts="2603261919" ts-tts="26-03-26 19:19:58.243"/>
+        <m id="r51127981" t="d" c="67" ts="2603261919" ts-tts="26-03-26 19:19:58.243"/>
+        <m id="r51129249" t="f" c="0" ts="2603261930" ts-tts="26-03-26 19:30:29.097"/>
+        <m id="r51129250" t="f" c="0" ts="2603261930" ts-tts="26-03-26 19:30:29.097"/>
+        <m id="r51135310" t="f" c="0" ts="2603262029" ts-tts="26-03-26 20:29:17.135"/>
+        <m id="r51135311" t="f" c="0" ts="2603262029" ts-tts="26-03-26 20:29:17.135"/>
+    </ar>
+</s>
+
+
+<s id="-3544638752701180106-2603262126-1" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594836" t="h" from="2603262130" to="2603270400" cat="Störung" ts="2603262144" ts-tts="26-03-26 21:44:50.886" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2589481" t="h" from="2603171056" to="2604062359" cat="Information" ts="2603171057" ts-tts="26-03-25 23:16:05.510" pr="3"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cp="11" ct="2603262132">
+        <m id="r51024996" t="f" c="0" ts="2603260023" ts-tts="26-03-26 00:23:50.764"/>
+        <m id="r51028352" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028353" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028354" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51028355" t="f" c="0" ts="2603260157" ts-tts="26-03-26 01:58:09.150"/>
+        <m id="r51139312" t="d" c="21" ts="2603262118" ts-tts="26-03-26 21:19:06.429"/>
+    </dp>
+</s>
+
+
+<s id="6823747613993486289-2603262132-1" eva="8002553">
+    <dp cp="9" ct="2603262134" l="RE6">
+        <m id="r50578330" t="f" c="1000" ts="2603220205" ts-tts="26-03-24 10:53:42.955"/>
+        <m id="r50653327" t="f" c="1000" ts="2603230158" ts-tts="26-03-24 10:53:42.955"/>
+        <m id="r50774117" t="f" c="1000" ts="2603240153" ts-tts="26-03-24 10:53:42.955"/>
+        <m id="r50892233" t="f" c="1000" ts="2603250147" ts-tts="26-03-25 01:47:33.286"/>
+        <m id="r51023160" t="f" c="0" ts="2603252330" ts-tts="26-03-25 23:30:43.922"/>
+        <m id="r51023161" t="f" c="0" ts="2603252330" ts-tts="26-03-25 23:30:43.922"/>
+        <m id="r51134244" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134245" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134246" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134247" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51138916" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138917" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138918" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138919" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51139377" t="d" c="51" ts="2603262119" ts-tts="26-03-26 21:19:53.226"/>
+        <m id="r51139379" t="d" c="51" ts="2603262119" ts-tts="26-03-26 21:19:53.226"/>
+        <m id="r51139381" t="d" c="51" ts="2603262119" ts-tts="26-03-26 21:19:53.226"/>
+        <m id="r51140782" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+        <m id="r51140783" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+        <m id="r51140784" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+        <m id="r51140785" t="f" c="0" ts="2603262138" ts-tts="26-03-26 21:38:36.634"/>
+    </dp>
+</s>
+
+
+<s id="-6024162288152053505-2603262053-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" pp="9" ct="2603262138" pt="2603262130" ps="a" l="RB71" fb="RB71">
+        <m id="r51078636" t="d" c="33" ts="2603261259" ts-tts="26-03-26 12:59:19.869"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262130" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81891"/>
+</s>
+
+
+<s id="-6452407069337976676-2603261128-20" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r1469887969" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.730"/>
+    <m id="r1469887969alt" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.843"/>
+    <m id="r1469888441alt" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.880"/>
+    <m id="r1469887972" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.730"/>
+    <m id="r1469887971" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.730"/>
+    <m id="r1469888442alt" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.880"/>
+    <m id="r1469887971alt" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.843"/>
+    <m id="r1469888442" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.757"/>
+    <m id="r1469887972alt" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.843"/>
+    <m id="r1469887970" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.730"/>
+    <m id="r1469887970alt" t="c" ts="2603262017" ts-tts="26-03-26 20:17:44.843"/>
+    <m id="r1469888441" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.757"/>
+    <ar ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor" cp="10" pp="5" ct="2603262130" pt="2603262034" fb="ICE 518">
+        <m id="r51073663" t="f" c="0" ts="2603261204" ts-tts="26-03-26 12:05:07.050"/>
+        <m id="r51082562" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.137"/>
+        <m id="r51086336" t="f" c="0" ts="2603261409" ts-tts="26-03-26 14:09:34.047"/>
+        <m id="r51104549" t="d" c="48" ts="2603261624" ts-tts="26-03-26 16:24:19.263"/>
+        <m id="r51104553" t="d" c="48" ts="2603261624" ts-tts="26-03-26 16:24:19.263"/>
+        <m id="r51109238" t="d" c="43" ts="2603261703" ts-tts="26-03-26 17:03:36.613"/>
+        <m id="r51109240" t="d" c="43" ts="2603261703" ts-tts="26-03-26 17:03:36.613"/>
+        <m id="r51134231" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.830"/>
+        <m id="r51138850" t="d" c="38" ts="2603262111" ts-tts="26-03-26 21:11:49.227"/>
+        <m id="r51138852" t="d" c="38" ts="2603262111" ts-tts="26-03-26 21:11:49.227"/>
+        <m id="r51138922" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138924" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138923" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138925" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138927" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138926" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138929" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138931" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138930" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="518"/>
+</s>
+
+
+<s id="5575138582764297844-2603262121-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262125" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" cp="12" pp="9" ct="2603262128" pt="2603262125" ps="a" l="RB71" fb="RB71">
+        <m id="r51081588" t="d" c="33" ts="2603261325" ts-tts="26-03-26 13:25:06.358"/>
+        <m id="r51081589" t="d" c="33" ts="2603261325" ts-tts="26-03-26 13:25:06.358"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81894"/>
+</s>
+
+
+<s id="-717529801066867442-2603261819-14" eva="8002553">
+    <ar cp="8" ct="2603262129" l="RE6">
+        <m id="r51124790" t="d" c="44" ts="2603261856" ts-tts="26-03-26 18:56:33.966"/>
+        <m id="r51124792" t="d" c="44" ts="2603261856" ts-tts="26-03-26 18:56:33.966"/>
+    </ar>
+</s>
+
+
+<s id="-6968895459807678055-2603261917-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <m id="r1469888464" t="c" ts="2603262118" ts-tts="26-03-26 21:19:06.311"/>
+    <m id="r1469888463" t="c" ts="2603262118" ts-tts="26-03-26 21:19:06.311"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn|Pinneberg" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn|Pinneberg" pp="7" ct="2603262125" pt="2603262113" ps="a" l="RE7" fb="RE7">
+        <m id="r51087152" t="d" c="33" ts="2603261415" ts-tts="26-03-26 14:15:53.102"/>
+        <m id="r51087154" t="d" c="33" ts="2603261415" ts-tts="26-03-26 14:15:53.102"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262113" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11185"/>
+</s>
+
+
+<s id="-1199948685037004152-2603262005-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <m id="r1469888466" t="c" ts="2603262118" ts-tts="26-03-26 21:19:06.311"/>
+    <m id="r1469888465" t="c" ts="2603262118" ts-tts="26-03-26 21:19:06.311"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn|Pinneberg" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn|Pinneberg" pp="7" ct="2603262125" pt="2603262113" ps="a" l="RE7" fb="RE7">
+        <m id="r51087158" t="d" c="33" ts="2603261415" ts-tts="26-03-26 14:15:53.103"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262113" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11285"/>
+</s>
+
+
+<s id="-7284620432797668730-2603262108-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.182" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262116" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" pp="7" ct="2603262117" pt="2603262116" ps="a" l="RE70" fb="RE70">
+        <m id="r51085334" t="d" c="33" ts="2603261358" ts-tts="26-03-26 13:58:29.718"/>
+        <m id="r51085336" t="d" c="33" ts="2603261358" ts-tts="26-03-26 13:58:29.718"/>
+        <m id="r51134234" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134235" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51138928" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138932" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11234"/>
+</s>
+
+
+<s id="1434854366317726159-2603262039-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262046" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" cp="9" pp="5" ct="2603262055" pt="2603262046" ps="a" l="RE7" fb="RE7">
+        <m id="r51091644" t="d" c="33" ts="2603261450" ts-tts="26-03-26 14:50:05.710"/>
+        <m id="r51091646" t="d" c="33" ts="2603261450" ts-tts="26-03-26 14:50:21.479"/>
+        <m id="r51134238" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134239" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134242" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134243" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51136744" t="f" c="0" ts="2603262045" ts-tts="26-03-26 20:45:28.270"/>
+        <m id="r51137492" t="d" c="61" ts="2603262054" ts-tts="26-03-26 20:54:20.937"/>
+        <m id="r51137494" t="d" c="61" ts="2603262054" ts-tts="26-03-26 20:54:20.937"/>
+        <m id="r51139004" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+        <m id="r51139005" t="f" c="0" ts="2603262113" ts-tts="26-03-26 21:13:54.289"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11282"/>
+</s>
+
+
+<s id="-1545033894847673963-2603262039-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262046" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" cp="9" pp="5" ct="2603262055" pt="2603262046" ps="a" l="RE7" fb="RE7">
+        <m id="r51091641" t="d" c="33" ts="2603261450" ts-tts="26-03-26 14:50:05.710"/>
+        <m id="r51134236" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134237" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134240" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51134241" t="f" c="0" ts="2603262017" ts-tts="26-03-26 20:17:44.831"/>
+        <m id="r51136745" t="f" c="0" ts="2603262045" ts-tts="26-03-26 20:45:28.270"/>
+        <m id="r51137490" t="d" c="61" ts="2603262054" ts-tts="26-03-26 20:54:20.936"/>
+        <m id="r51137496" t="d" c="61" ts="2603262054" ts-tts="26-03-26 20:54:20.936"/>
+        <m id="r51138920" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+        <m id="r51138921" t="f" c="0" ts="2603262112" ts-tts="26-03-26 21:12:51.869"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11182"/>
+</s>
+
+
+<s id="-8732834586368903752-2603261607-6" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r1469888260" t="c" ts="2603262045" ts-tts="26-03-26 20:45:28.137"/>
+    <m id="r1469888441alt" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.880"/>
+    <m id="r1469888259" t="c" ts="2603262045" ts-tts="26-03-26 20:45:28.137"/>
+    <m id="r1469888018" t="c" ts="2603262022" ts-tts="26-03-26 20:22:12.604"/>
+    <m id="r1469888442alt" t="c" ts="2603262112" ts-tts="26-03-26 21:12:51.880"/>
+    <m id="r1469888005" t="c" ts="2603262020" ts-tts="26-03-26 20:20:06.940"/>
+    <m id="r1469888200" t="c" ts="2603262039" ts-tts="26-03-26 20:39:43.195"/>
+    <m id="r1469887881" t="c" ts="2603262007" ts-tts="26-03-26 20:07:14.382"/>
+    <m id="r1469888199" t="c" ts="2603262039" ts-tts="26-03-26 20:39:43.195"/>
+    <ar ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Hamburg Hbf" pp="6" ct="2603262104" pt="2603262001" fb="ICE 1520">
+        <m id="r51082513" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.136"/>
+        <m id="r51105804" t="d" c="43" ts="2603261634" ts-tts="26-03-26 16:34:52.806"/>
+        <m id="r51105806" t="d" c="43" ts="2603261634" ts-tts="26-03-26 16:34:52.806"/>
+        <m id="r51136633" t="d" c="38" ts="2603262044" ts-tts="26-03-26 20:44:10.036"/>
+        <m id="r51136635" t="d" c="38" ts="2603262044" ts-tts="26-03-26 20:44:10.036"/>
+        <m id="r51136637" t="d" c="38" ts="2603262044" ts-tts="26-03-26 20:44:10.036"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1520"/>
+</s>
+
+
+<s id="546776100848341432-2603262002-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" cp="12" pp="9" ct="2603262056" pt="2603262050" ps="a" l="RB61" fb="RB61">
+        <m id="r51075763" t="d" c="33" ts="2603261225" ts-tts="26-03-26 12:26:04.789"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262050" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75533"/>
+</s>
+
+
+<s id="1653769359355988939-2603261937-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.182" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn" pp="7" ct="2603262042" pt="2603262045" ps="a" l="RE70" fb="RE70">
+        <m id="r51084747" t="d" c="33" ts="2603261351" ts-tts="26-03-26 13:51:25.222"/>
+        <m id="r51084749" t="d" c="33" ts="2603261351" ts-tts="26-03-26 13:51:25.222"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262045" ps="a" l="RE70"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11233"/>
+</s>
+
+
+<s id="-4463983841688751065-2603262026-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cp="10" ct="2603262032">
+        <m id="r51133280" t="d" c="21" ts="2603262008" ts-tts="26-03-26 20:08:49.415"/>
+        <m id="r51133282" t="d" c="21" ts="2603262008" ts-tts="26-03-26 20:08:49.415"/>
+        <m id="r51133285" t="d" c="21" ts="2603262008" ts-tts="26-03-26 20:08:49.415"/>
+        <m id="r51136179" t="f" c="0" ts="2603262039" ts-tts="26-03-26 20:39:27.654"/>
+    </dp>
+</s>
+
+
+<s id="5994203768642647387-2603262032-1" eva="8002553">
+    <dp cpth="Elmshorn|Itzehoe|Wilster|Burg(Dithm)|St Michaelisdonn|Meldorf|Heide(Holst)|Lunden|Friedrichstadt|Husum" cp="12" ct="2603262037" l="RE6">
+        <m id="r50578312" t="f" c="1000" ts="2603220204" ts-tts="26-03-24 10:53:42.954"/>
+        <m id="r50653325" t="f" c="1000" ts="2603230158" ts-tts="26-03-24 10:53:42.954"/>
+        <m id="r50774115" t="f" c="1000" ts="2603240153" ts-tts="26-03-24 10:53:42.955"/>
+        <m id="r50892231" t="f" c="1000" ts="2603250147" ts-tts="26-03-25 01:47:33.286"/>
+        <m id="r51019626" t="f" c="0" ts="2603252229" ts-tts="26-03-25 22:29:41.916"/>
+        <m id="r51019627" t="f" c="0" ts="2603252229" ts-tts="26-03-25 22:29:41.916"/>
+        <m id="r51019628" t="f" c="0" ts="2603252229" ts-tts="26-03-25 22:29:41.916"/>
+        <m id="r51019629" t="f" c="0" ts="2603252229" ts-tts="26-03-25 22:29:41.916"/>
+        <m id="r51019630" t="f" c="0" ts="2603252229" ts-tts="26-03-25 22:29:41.916"/>
+        <m id="r51107080" t="d" c="57" ts="2603261646" ts-tts="26-03-26 16:46:43.995"/>
+        <m id="r51134499" t="f" c="0" ts="2603262020" ts-tts="26-03-26 20:20:07.062"/>
+    </dp>
+</s>
+
+
+<s id="-4721324655961804637-2603261953-100" eva="8002553">
+    <ar cpth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg" cp="8" pp="9" ct="2603262034" pt="2603262030" ps="a" l="RB71" fb="RB71">
+        <m id="r51081993" t="d" c="33" ts="2603261330" ts-tts="26-03-26 13:30:05.772"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262030" ps="a" l="RB71"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="81889"/>
+</s>
+
+
+<s id="-5425302918995479956-2603261526-1" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594824" t="h" from="2603261954" to="2603270029" cat="Information" ts="2603262028" ts-tts="26-03-26 20:28:29.777" pr="3"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cp="11" ct="2603261526">
+        <m id="r51082518" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.140"/>
+        <m id="r51086003" t="q" c="90" ts="2603261406" ts-tts="26-03-26 14:06:24.680"/>
+        <m id="r51086005" t="q" c="90" ts="2603261406" ts-tts="26-03-26 14:06:24.680"/>
+        <m id="r51089197" t="f" c="0" ts="2603261430" ts-tts="26-03-26 14:31:08.965"/>
+        <m id="r51096594" t="f" c="0" ts="2603261527" ts-tts="26-03-26 15:28:00.761"/>
+    </dp>
+</s>
+
+
+<s id="-277829275892688360-2603262017-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262025" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" cp="8" pp="9" ct="2603262027" pt="2603262025" ps="a" l="RB71" fb="RB71">
+        <m id="r51075919" t="d" c="33" ts="2603261228" ts-tts="26-03-26 12:28:25.486"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81892"/>
+</s>
+
+
+<s id="-1499093338537819390-2603261719-14" eva="8002553">
+    <ar cp="12" ct="2603262028" l="RE6">
+        <m id="r51115985" t="d" c="43" ts="2603261750" ts-tts="26-03-26 17:50:08.013"/>
+        <m id="r51115989" t="d" c="43" ts="2603261750" ts-tts="26-03-26 17:50:08.013"/>
+        <m id="r51115991" t="d" c="43" ts="2603261750" ts-tts="26-03-26 17:50:08.013"/>
+    </ar>
+</s>
+
+
+<s id="8552297428684472340-2603261817-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <m id="r1469887886" t="c" ts="2603262008" ts-tts="26-03-26 20:08:49.308"/>
+    <m id="r1469887885" t="c" ts="2603262008" ts-tts="26-03-26 20:08:49.308"/>
+    <ar cpth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn|Pinneberg" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn|Pinneberg" cp="9A-C" pp="5" ct="2603262024" pt="2603262012" ps="a" l="RE7" fb="RE7">
+        <m id="r51091496" t="d" c="33" ts="2603261448" ts-tts="26-03-26 14:49:02.560"/>
+        <m id="r51091500" t="d" c="33" ts="2603261448" ts-tts="26-03-26 14:49:02.560"/>
+        <m id="r51129569" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+        <m id="r51129571" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+        <m id="r51129575" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262012" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11183"/>
+</s>
+
+
+<s id="-2491225657618914529-2603261905-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <m id="r1469887888" t="c" ts="2603262008" ts-tts="26-03-26 20:08:49.308"/>
+    <m id="r1469887887" t="c" ts="2603262008" ts-tts="26-03-26 20:08:49.308"/>
+    <ar cpth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn|Pinneberg" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn|Pinneberg" cp="9A-C" pp="5" ct="2603262024" pt="2603262012" ps="a" l="RE7" fb="RE7">
+        <m id="r51091498" t="d" c="33" ts="2603261448" ts-tts="26-03-26 14:49:02.561"/>
+        <m id="r51091502" t="d" c="33" ts="2603261448" ts-tts="26-03-26 14:49:02.561"/>
+        <m id="r51129573" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+        <m id="r51129577" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+        <m id="r51129579" t="d" c="43" ts="2603261933" ts-tts="26-03-26 19:33:54.423"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603262012" ps="a" l="RE7"/>
+    <tl f="N" t="p" o="800201" c="RE" n="11283"/>
+</s>
+
+
+<s id="5184093675276746531-2603261638-7" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <m id="r1469887866" t="c" ts="2603262005" ts-tts="26-03-26 20:05:08.756"/>
+    <m id="r1469887966" t="c" ts="2603262015" ts-tts="26-03-26 20:15:38.888"/>
+    <m id="r1469887762" t="c" ts="2603261953" ts-tts="26-03-26 19:53:05.550"/>
+    <m id="r1469887332" t="c" ts="2603261913" ts-tts="26-03-26 19:13:07.782"/>
+    <m id="r1469887761" t="c" ts="2603261953" ts-tts="26-03-26 19:53:05.550"/>
+    <ar ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Uelzen|Lüneburg|Hamburg Hbf" cp="6" pp="5" ct="2603262019" pt="2603261924" fb="ICE 1904">
+        <m id="r51133430" t="d" c="38" ts="2603262009" ts-tts="26-03-26 20:10:07.956"/>
+        <m id="r51133432" t="d" c="38" ts="2603262009" ts-tts="26-03-26 20:10:07.956"/>
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1904"/>
+</s>
+
+
+<s id="-7956047615718350819-2603261426-1" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cp="11" ct="2603261426">
+        <m id="r51029482" t="f" c="0" ts="2603260242" ts-tts="26-03-26 02:42:35.632"/>
+        <m id="r51082563" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.139"/>
+        <m id="r51086354" t="f" c="0" ts="2603261409" ts-tts="26-03-26 14:09:34.047"/>
+        <m id="r51123095" t="f" c="0" ts="2603261841" ts-tts="26-03-26 18:41:33.020"/>
+    </dp>
+</s>
+
+
+<s id="-6235789055676348186-2603261626-1" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r2594666" t="h" from="2603261632" to="2603261634" cat="Information" ts="2603261417" ts-tts="26-03-26 14:17:27.612" pr="3"/>
+    <m id="r2594664" t="h" from="2603261626" to="2603261626" cat="Information" ts="2603261413" ts-tts="26-03-26 14:14:02.278" pr="3"/>
+    <dp cpth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf" cs="c" clt="2603261401">
+        <m id="r51082529" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.140"/>
+        <m id="r51085628" t="d" c="33" ts="2603261401" ts-tts="26-03-26 14:01:24.529"/>
+        <m id="r51085632" t="d" c="33" ts="2603261401" ts-tts="26-03-26 14:01:24.529"/>
+        <m id="r51087573" t="f" c="0" ts="2603261418" ts-tts="26-03-26 14:18:15.409"/>
+    </dp>
+</s>
+
+
+<s id="6194893901306646476-2603261726-1" eva="8002553">
+    <m id="r2594813" t="h" from="2603261800" to="2603262130" cat="Störung" ts="2603261930" ts-tts="26-03-26 20:16:04.666" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r2508591" t="h" from="2512140000" to="2612122359" cat="Information" ts="2512132303" ts-tts="26-03-25 23:16:04.731" pr="2"/>
+    <dp ct="2603261726">
+        <m id="r51082827" t="f" c="0" ts="2603261334" ts-tts="26-03-26 13:34:17.856"/>
+    </dp>
+</s>
+
+
+<s id="1579406976060350111-2603262008-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.182" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262014" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" cp="7" pp="5" ct="2603262015" pt="2603262014" ps="a" l="RE70" fb="RE70">
+        <m id="r51091335" t="d" c="33" ts="2603261447" ts-tts="26-03-26 14:47:12.078"/>
+        <m id="r51132987" t="f" c="0" ts="2603262005" ts-tts="26-03-26 20:05:08.856"/>
+        <m id="r51133139" t="f" c="0" ts="2603262007" ts-tts="26-03-26 20:07:14.493"/>
+        <m id="r51134051" t="f" c="0" ts="2603262015" ts-tts="26-03-26 20:15:39.016"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11232"/>
+</s>
+
+
+<s id="8176182407586879684-2603261734-1" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594822" t="h" from="2603261930" to="2603262359" cat="Störung" ts="2603262012" ts-tts="26-03-26 20:13:01.176" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp ct="2603261734"/>
+</s>
+
+
+<s id="-7621712260142359390-2603261534-1" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594822" t="h" from="2603261930" to="2603262359" cat="Störung" ts="2603262012" ts-tts="26-03-26 20:13:01.176" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <dp ct="2603261537"/>
+</s>
+
+
+<s id="-4503530441970809798-2603261334-1" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594822" t="h" from="2603261930" to="2603262359" cat="Störung" ts="2603262012" ts-tts="26-03-26 20:13:01.176" pr="1"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.854" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.512" pr="3"/>
+    <dp ct="2603261334">
+        <m id="r51024936" t="f" c="0" ts="2603260022" ts-tts="26-03-26 00:22:18.392"/>
+        <m id="r51027235" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.284"/>
+        <m id="r51083251" t="d" c="33" ts="2603261337" ts-tts="26-03-26 13:37:59.491"/>
+        <m id="r51083255" t="d" c="33" ts="2603261337" ts-tts="26-03-26 13:37:59.491"/>
+        <m id="r51083253" t="d" c="33" ts="2603261337" ts-tts="26-03-26 13:37:59.491"/>
+    </dp>
+</s>
+
+
+<s id="-7686066842263858996-2603261334-1" eva="8002553">
+    <m id="r2594822" t="h" from="2603261930" to="2603262359" cat="Störung" ts="2603262012" ts-tts="26-03-26 20:13:01.176" pr="1"/>
+    <dp ppth="Hamburg Hbf|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf|München Hbf" pp="12" ct="2603261334" pt="2603261334" fb="ICE 2837">
+        <m id="r51027236" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027238" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027237" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027239" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027241" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027240" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027242" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027244" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027243" t="f" c="0" ts="2603260133" ts-tts="26-03-26 01:33:58.283"/>
+        <m id="r51027283" t="f" c="0" ts="2603260135" ts-tts="26-03-26 01:35:31.409"/>
+        <m id="r51083250" t="f" c="0" ts="2603261337" ts-tts="26-03-26 13:37:59.490"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2837"/>
+</s>
+
+
+<s id="2676041732006808817-2603261956-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603262002" ps="a" l="RB61"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe" cp="6" pp="9" ct="2603262003" pt="2603262002" ps="a" l="RB61" fb="RB61">
+        <m id="r51077193" t="d" c="33" ts="2603261242" ts-tts="26-03-26 12:42:48.896"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="75532"/>
+</s>
+
+
+<s id="6992012378128167215-2603261955-1" eva="8002553">
+    <dp cp="10" ct="2603261959">
+        <m id="r51013187" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013188" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013189" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013190" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013191" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013192" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013193" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013194" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013195" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+        <m id="r51013196" t="f" c="0" ts="2603252056" ts-tts="26-03-25 20:57:03.881"/>
+    </dp>
+</s>
+
+
+<s id="-3802404608067192675-2603261955-1" eva="8002553">
+    <dp cp="10" ct="2603261959"/>
+</s>
+
+
+<s id="7702481692019596064-2603260838-24" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.806" pr="2"/>
+    <m id="r1469887696" t="c" ts="2603261949" ts-tts="26-03-26 19:49:08.957"/>
+    <m id="r1469887694" t="c" ts="2603261949" ts-tts="26-03-26 19:49:08.957"/>
+    <ar cp="5" ct="2603262000">
+        <m id="r51079368" t="d" c="43" ts="2603261305" ts-tts="26-03-26 13:06:08.778"/>
+        <m id="r51079370" t="d" c="43" ts="2603261305" ts-tts="26-03-26 13:06:08.778"/>
+        <m id="r51079372" t="d" c="43" ts="2603261305" ts-tts="26-03-26 13:06:08.778"/>
+        <m id="r51082558" t="f" c="0" ts="2603261333" ts-tts="26-03-26 13:33:14.142"/>
+        <m id="r51088760" t="f" c="0" ts="2603261426" ts-tts="26-03-26 14:26:24.512"/>
+        <m id="r51131000" t="d" c="33" ts="2603261948" ts-tts="26-03-26 19:48:53.306"/>
+        <m id="r51131002" t="d" c="33" ts="2603261948" ts-tts="26-03-26 19:48:53.306"/>
+    </ar>
+</s>
+
+
+<s id="-1776648406059141505-2603261902-100" eva="8002553">
+    <ar cpth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg" cp="8" pp="9" ct="2603261955" pt="2603261950" ps="a" l="RB61" fb="RB61">
+        <m id="r51075891" t="d" c="33" ts="2603261228" ts-tts="26-03-26 12:28:09.900"/>
+    </ar>
+    <dp cpth="" ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603261950" ps="a" l="RB61"/>
+    <tl f="D" t="p" o="O0" c="NBE" n="75531"/>
+</s>
+
+
+<s id="7649182447134048178-2603261939-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261946" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" pp="5" ct="2603261947" pt="2603261946" ps="a" l="RE7" fb="RE7">
+        <m id="r51089986" t="d" c="33" ts="2603261436" ts-tts="26-03-26 14:36:40.246"/>
+        <m id="r51089988" t="d" c="33" ts="2603261436" ts-tts="26-03-26 14:36:40.246"/>
+        <m id="r51131078" t="f" c="0" ts="2603261949" ts-tts="26-03-26 19:49:09.074"/>
+        <m id="r51131583" t="f" c="0" ts="2603261953" ts-tts="26-03-26 19:53:05.688"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11280"/>
+</s>
+
+
+<s id="5280451766042449982-2603261939-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261946" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" pp="5" ct="2603261947" pt="2603261946" ps="a" l="RE7" fb="RE7">
+        <m id="r51089990" t="d" c="33" ts="2603261436" ts-tts="26-03-26 14:36:40.245"/>
+        <m id="r51089992" t="d" c="33" ts="2603261436" ts-tts="26-03-26 14:36:40.245"/>
+        <m id="r51131077" t="f" c="0" ts="2603261949" ts-tts="26-03-26 19:49:09.074"/>
+        <m id="r51131581" t="f" c="0" ts="2603261953" ts-tts="26-03-26 19:53:05.688"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11180"/>
+</s>
+
+
+<s id="5926473462606976417-2603261926-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp ct="2603261937">
+        <m id="r51025580" t="f" c="0" ts="2603260039" ts-tts="26-03-26 00:39:13.295"/>
+        <m id="r51124537" t="f" c="0" ts="2603261853" ts-tts="26-03-26 18:53:40.278"/>
+    </dp>
+</s>
+
+
+<s id="-8941357701977971183-2603261932-1" eva="8002553">
+    <dp cp="7" ct="2603261934" l="RE6">
+        <m id="r51120903" t="f" c="0" ts="2603261824" ts-tts="26-03-26 18:24:56.481"/>
+        <m id="r51120904" t="f" c="0" ts="2603261824" ts-tts="26-03-26 18:24:56.481"/>
+        <m id="r51127132" t="f" c="0" ts="2603261913" ts-tts="26-03-26 19:13:07.888"/>
+        <m id="r51127134" t="f" c="0" ts="2603261913" ts-tts="26-03-26 19:13:07.888"/>
+    </dp>
+</s>
+
+
+<s id="3499338043235512572-2603261934-1" eva="8002553">
+    <m id="r2471136" t="h" from="2509010000" to="2604042300" cat="Information" ts="2508312308" ts-tts="26-03-25 23:16:04.729" pr="2"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.511" pr="3"/>
+    <dp ct="2603261934">
+        <m id="r51124534" t="f" c="0" ts="2603261853" ts-tts="26-03-26 18:53:40.278"/>
+    </dp>
+</s>
+
+
+<s id="89184126609000441-2603261917-100" eva="8002553">
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261925" ps="a" l="RB71"/>
+    <dp cpth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist" pp="9" ct="2603261927" pt="2603261925" ps="a" l="RB71" fb="RB71">
+        <m id="r51076415" t="d" c="33" ts="2603261234" ts-tts="26-03-26 12:34:25.871"/>
+    </dp>
+    <tl f="D" t="p" o="O0" c="NBE" n="81890"/>
+</s>
+
+
+<s id="-7595984326106049483-2603261908-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.182" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261915" ps="a" l="RE70"/>
+    <dp cpth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf" cp="8" pp="5" ct="2603261916" pt="2603261915" ps="a" l="RE70" fb="RE70">
+        <m id="r51088941" t="d" c="33" ts="2603261428" ts-tts="26-03-26 14:28:45.940"/>
+        <m id="r51088946" t="d" c="33" ts="2603261428" ts-tts="26-03-26 14:28:45.940"/>
+        <m id="r51088943" t="d" c="33" ts="2603261428" ts-tts="26-03-26 14:28:45.940"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11230"/>
+</s>
+
+
+<s id="6957061703268756228-2603270124-1" eva="8002553">
+    <dp ppth="Hamburg Dammtor|Hamburg Hbf" pt="2603270124" l="SEV" fb="Bus SEV"/>
+    <tl t="e" o="B1" c="Bus" n="112931"/>
+    <ref>
+        <tl f="N" t="p" o="800201" c="RE" n="11293"/>
+    </ref>
+</s>
+
+
+<s id="4158243998342766645-2603270145-3" eva="8002553">
+    <ar ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270201" l="SEV" fb="Bus SEV"/>
+    <tl t="e" o="B1" c="Bus" n="112921"/>
+    <ref>
+        <tl f="N" t="p" o="800201" c="RE" n="11292"/>
+    </ref>
+</s>
+
+
+<s id="1124262844813632492-2603270045-3" eva="8002553">
+    <ar ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603270101" l="SEV" fb="Bus SEV"/>
+    <tl t="e" o="B1" c="Bus" n="112901"/>
+    <ref>
+        <tl f="N" t="p" o="800201" c="RE" n="11290"/>
+    </ref>
+</s>
+
+
+<s id="7473808095926253799-2603261839-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261845" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg" cp="7" pp="5" ct="2603261846" pt="2603261845" ps="a" l="RE7" fb="RE7">
+        <m id="r51088100" t="d" c="33" ts="2603261421" ts-tts="26-03-26 14:22:11.858"/>
+        <m id="r51088102" t="d" c="33" ts="2603261421" ts-tts="26-03-26 14:22:11.858"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11178"/>
+</s>
+
+
+<s id="-6831382766868406426-2603261839-100" eva="8002553">
+    <m id="r2578664" t="h" from="2602231254" to="2604100000" cat="Information" ts="2602231257" ts-tts="26-03-25 23:16:05.183" pr="2"/>
+    <m id="r2593851" t="h" from="2603251100" to="2603262359" cat="Störung" ts="2603251144" ts-tts="26-03-26 14:16:05.569" pr="1"/>
+    <ar cpth="" ppth="Hamburg Hbf|Hamburg Dammtor" pt="2603261845" ps="a" l="RE7"/>
+    <dp cpth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf" cp="7" pp="5" ct="2603261846" pt="2603261845" ps="a" l="RE7" fb="RE7">
+        <m id="r51088095" t="d" c="33" ts="2603261421" ts-tts="26-03-26 14:22:11.858"/>
+        <m id="r51088097" t="d" c="33" ts="2603261421" ts-tts="26-03-26 14:22:11.858"/>
+        <m id="r51120901" t="f" c="0" ts="2603261824" ts-tts="26-03-26 18:24:56.481"/>
+    </dp>
+    <tl f="N" t="p" o="800201" c="RE" n="11278"/>
+</s>
+
+
+<s id="467623036402067357-2603261834-1" eva="8002553">
+    <m id="r2508748" t="h" from="2512140000" to="2604302359" cat="Information" ts="2512132303" ts-tts="26-03-25 23:16:04.731" pr="2"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2589483" t="h" from="2603230000" to="2603302359" cat="Information" ts="2603222306" ts-tts="26-03-25 23:16:05.511" pr="3"/>
+    <m id="r2593461" t="h" from="2603260626" to="2603262139" cat="Information" ts="2603252307" ts-tts="26-03-25 23:07:48.165" pr="3"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp ct="2603261834">
+        <m id="r51024644" t="f" c="0" ts="2603260017" ts-tts="26-03-26 00:17:31.798"/>
+    </dp>
+</s>
+
+
+<s id="-7764076668562019396-2603261832-1" eva="8002553">
+    <dp ct="2603261833" l="RE6">
+        <m id="r51120721" t="f" c="0" ts="2603261822" ts-tts="26-03-26 18:22:50.147"/>
+        <m id="r51120722" t="f" c="0" ts="2603261822" ts-tts="26-03-26 18:22:50.147"/>
+        <m id="r51120723" t="f" c="0" ts="2603261822" ts-tts="26-03-26 18:22:50.147"/>
+        <m id="r51120724" t="f" c="0" ts="2603261822" ts-tts="26-03-26 18:22:50.147"/>
+    </dp>
+</s>
+
+
+<s id="6810614476303646777-2603261826-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r2594694" t="h" from="2603261845" to="2603262034" cat="Information" ts="2603261515" ts-tts="26-03-26 15:16:08.741" pr="2"/>
+    <dp cp="10" ct="2603261826"/>
+</s>
+
+
+<s id="6077932351243099944-2603271002-1" eva="8002553">
+    <dp cpth="" cs="c" clt="2603261250">
+        <m id="r51077878" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.017"/>
+        <m id="r51077884" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.017"/>
+    </dp>
+</s>
+
+
+<s id="-3805323083739529936-2603261731-1" eva="8002553">
+    <dp cp="8" ct="2603261736" l="RE6">
+        <m id="r51114176" t="d" c="48" ts="2603261737" ts-tts="26-03-26 17:37:26.043"/>
+        <m id="r51114178" t="d" c="48" ts="2603261737" ts-tts="26-03-26 17:37:26.043"/>
+        <m id="r51114180" t="d" c="48" ts="2603261737" ts-tts="26-03-26 17:37:26.043"/>
+    </dp>
+</s>
+
+
+<s id="2474076290441674812-2603270903-1" eva="8002553">
+    <dp cpth="" cs="c" clt="2603261250">
+        <m id="r51077868" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.016"/>
+    </dp>
+</s>
+
+
+<s id="-8471873024121272354-2603270926-1" eva="8002553">
+    <dp ct="2603270926">
+        <m id="r51091723" t="f" c="0" ts="2603261451" ts-tts="26-03-26 14:51:08.723"/>
+        <m id="r51091729" t="f" c="0" ts="2603261451" ts-tts="26-03-26 14:51:08.723"/>
+    </dp>
+</s>
+
+
+<s id="-521217330813819261-2603262156-1" eva="8002553">
+    <dp cpth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" cs="c" clt="2603261627">
+        <m id="r51105092" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105094" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105095" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105097" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105098" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105100" t="d" c="33" ts="2603261628" ts-tts="26-03-26 16:28:33.575"/>
+        <m id="r51105286" t="f" c="0" ts="2603261629" ts-tts="26-03-26 16:30:08.663"/>
+        <m id="r51105287" t="f" c="0" ts="2603261629" ts-tts="26-03-26 16:30:08.663"/>
+    </dp>
+</s>
+
+
+<s id="6610086332469437335-2603261026-1" eva="8002553">
+    <m id="r2594657" t="h" from="2603261026" to="2603262000" cat="Information" ts="2603261337" ts-tts="26-03-26 13:37:43.452" pr="2"/>
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.806" pr="2"/>
+    <dp ct="2603261035">
+        <m id="r51063058" t="d" c="51" ts="2603261025" ts-tts="26-03-26 10:25:14.479"/>
+        <m id="r51063060" t="d" c="51" ts="2603261025" ts-tts="26-03-26 10:25:14.479"/>
+        <m id="r51063085" t="d" c="33" ts="2603261025" ts-tts="26-03-26 10:25:45.811"/>
+        <m id="r51063087" t="d" c="33" ts="2603261025" ts-tts="26-03-26 10:25:45.811"/>
+        <m id="r51100167" t="f" c="0" ts="2603261555" ts-tts="26-03-26 15:55:28.013"/>
+        <m id="r51100170" t="f" c="0" ts="2603261555" ts-tts="26-03-26 15:55:28.013"/>
+    </dp>
+</s>
+
+
+<s id="-6584558473793324820-2603270721-1" eva="8002553">
+    <dp cpth="" cs="c" clt="2603261400" l="RB60">
+        <m id="r51085531" t="d" c="36" ts="2603261400" ts-tts="26-03-26 14:01:08.814"/>
+    </dp>
+</s>
+
+
+<s id="645082056026024730-2603270602-1" eva="8002553">
+    <dp cpth="" cs="c" clt="2603261250">
+        <m id="r51077880" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.015"/>
+        <m id="r51077882" t="d" c="33" ts="2603261250" ts-tts="26-03-26 12:50:40.015"/>
+    </dp>
+</s>
+
+
+<s id="-6660286916645020488-2603270642-5" eva="8002553">
+    <ar cpth="" cs="c" clt="2603261400" l="RB60">
+        <m id="r51085533" t="d" c="36" ts="2603261400" ts-tts="26-03-26 14:01:08.813"/>
+    </ar>
+</s>
+
+
+<s id="68436665632887852-2603270517-5" eva="8002553">
+    <ar cpth="" cs="c" clt="2603261400" l="RB60">
+        <m id="r51085534" t="d" c="36" ts="2603261400" ts-tts="26-03-26 14:01:08.813"/>
+    </ar>
+</s>
+
+
+<s id="4398329930499168665-2603271152-3" eva="8002553">
+    <ar cpth="Westerland(Sylt)|Husum" ppth="Westerland(Sylt)|Husum" pp="5" pt="2603271508" fb="DZ 321">
+        <m id="r50827714" t="f" c="1000" ts="2603241325" ts-tts="26-03-24 13:25:42.810"/>
+        <m id="r51084447" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084449" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084451" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084453" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084455" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084457" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084459" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084461" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084463" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084465" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084467" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084469" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+    </ar>
+    <dp cpth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" ppth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="5" pt="2603271538" fb="DZ 321">
+        <m id="r50827714" t="f" c="1000" ts="2603241325" ts-tts="26-03-24 13:25:42.810"/>
+        <m id="r51084447" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084449" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084451" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084453" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084455" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084457" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.232"/>
+        <m id="r51084459" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+        <m id="r51084461" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+        <m id="r51084463" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+        <m id="r51084465" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+        <m id="r51084467" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+        <m id="r51084469" t="f" c="0" ts="2603261349" ts-tts="26-03-26 13:49:50.233"/>
+    </dp>
+    <tl t="s" o="RISSDZ" tn="AKE" c="DZ" n="321"/>
+</s>
+
+
+<s id="-2910589038648014094-2603261326-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cp="11" ct="2603261326">
+        <m id="r51025520" t="f" c="0" ts="2603260038" ts-tts="26-03-26 00:38:57.959"/>
+    </dp>
+</s>
+
+
+<s id="5653087570567167872-2603261126-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <m id="r2594610" t="h" from="2603261126" to="2603261548" cat="Information" ts="2603261147" ts-tts="26-03-26 11:47:33.931" pr="2"/>
+    <dp ct="2603261126">
+        <m id="r51080237" t="f" c="0" ts="2603261314" ts-tts="26-03-26 13:15:05.656"/>
+    </dp>
+</s>
+
+
+<s id="-762086226758254325-2603261226-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp ct="2603261228"/>
+</s>
+
+
+<s id="8449059739450198843-2603261452-9" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2594381" t="h" from="2603260100" to="2603262359" cat="Störung" ts="2603260214" ts-tts="26-03-26 10:16:02.610" pr="1"/>
+    <ar cpth="" cs="c" clt="2603261014">
+        <m id="r51061937" t="d" c="33" ts="2603261014" ts-tts="26-03-26 10:14:30.781"/>
+        <m id="r51061939" t="d" c="33" ts="2603261014" ts-tts="26-03-26 10:14:30.781"/>
+    </ar>
+</s>
+
+
+<s id="7437729394297789574-2603261802-1" eva="8002553">
+    <m id="r2594065" t="h" from="2603251743" to="2603272359" cat="Information" ts="2603251745" ts-tts="26-03-25 23:16:05.853" pr="2"/>
+    <m id="r2592671" t="h" from="2603240027" to="2603272359" cat="Information" ts="2603240031" ts-tts="26-03-25 23:16:05.805" pr="2"/>
+    <dp cpth="" cs="c" clt="2603261012">
+        <m id="r51061724" t="d" c="33" ts="2603261012" ts-tts="26-03-26 10:12:09.980"/>
+        <m id="r51061726" t="d" c="33" ts="2603261012" ts-tts="26-03-26 10:12:09.980"/>
+    </dp>
+</s>
+
+
+<s id="2158557035276285683-2603262118-5" eva="8002553">
+    <ar cpth="" cs="c" clt="2603260828" l="RB60">
+        <m id="r51049635" t="d" c="49" ts="2603260828" ts-tts="26-03-26 08:28:27.071"/>
+    </ar>
+</s>
+
+</timetable>
