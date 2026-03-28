@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="4821195548963364855-2603280146-4">
+		<tl t="p" o="R2" c="Bus" n="3061"/>
+		<ar pt="2603280256" pp="" l="RE3" fb="Bus RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2603280256" pp="" l="RE3" fb="Bus RE3" ppth="Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="7471939623363546186-2603280143-6">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20001"/>
+		<ar pt="2603280207" pp="12" l="RE19" fb="RE19" ppth="Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade"/>
+		<dp pt="2603280208" pp="12" l="RE19" fb="RE19" ppth="Duisburg Hbf"/>
+	</s>
+	<s id="2993317875842465330-2603280246-1">
+		<tl t="p" o="B2" c="Bus" n="426"/>
+		<dp pt="2603280246" pp="" l="RB32" fb="Bus RB32" ppth="Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="1511191698452367360-2603280003-8">
+		<tl t="p" o="R2" c="Bus" n="3062"/>
+		<ar pt="2603280200" pp="" l="RE3" fb="Bus RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2603280200" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-7007584246904737961-2603280203-13">
+		<tl f="S" t="p" o="8003L1" c="S" n="30381"/>
+		<ar pt="2603280244" pp="10" l="S3" fb="S3" ppth="Hattingen(Ruhr) Mitte|Hattingen(Ruhr)|Bochum-Dahlhausen|Essen-Horst|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West|Essen-Frohnhausen|Mülheim(Ruhr)Hbf|Mülheim(Ruhr)West|Mülheim(Ruhr)Styrum"/>
+	</s>
+	<s id="-6332794507396985379-2603272333-11">
+		<tl t="p" o="B2" c="Bus" n="423"/>
+		<ar pt="2603280201" pp="" l="RB32" fb="Bus RB32" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig"/>
+	</s>
+	<s id="-5846846809540246476-2603280217-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30382"/>
+		<dp pt="2603280217" pp="10" l="S3" fb="S3" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)West|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf"/>
+	</s>
+</timetable>
