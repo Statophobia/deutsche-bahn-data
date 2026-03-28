@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Flughafen BER">
+	<s id="393750974960766514-2603282331-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21960"/>
+		<dp pt="2603282331" pp="2 A-D" l="FEX" fb="FEX" tra="-6650360914299460196-2603282311-2" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="4292997749503342819-2603282342-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18339"/>
+		<dp pt="2603282342" pp="3 A-D" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt"/>
+	</s>
+	<s id="-7942998430725270758-2603282306-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18138"/>
+		<ar pt="2603282353" pp="1" l="RB22" fb="RB22" ppth="Potsdam Park Sanssouci|Golm|Potsdam Pirschheide|Saarmund|Ludwigsfelde-Struveshof"/>
+	</s>
+	<s id="-7551770955422917772-2603282332-3">
+		<tl f="N" t="p" o="800165" c="RB" n="18238"/>
+		<ar pt="2603282348" pp="1 A-E" l="RB32" fb="RB32" tra="-443934751125508147-2603290001-1" ppth="Ludwigsfelde|Birkengrund"/>
+	</s>
+	<s id="-6650360914299460196-2603282311-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18338"/>
+		<ar pt="2603282320" pp="3 A-D" l="RB24" fb="RB24" tra="393750974960766514-2603282331-1" ppth="Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="2955155561578887623-2603282323-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18139"/>
+		<dp pt="2603282323" pp="4" l="RB22" fb="RB22" ppth="Ludwigsfelde-Struveshof|Saarmund|Potsdam Pirschheide|Golm|Potsdam Park Sanssouci"/>
+	</s>
+	<s id="-4301138458196909304-2603282252-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21957"/>
+		<ar pt="2603282314" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="2190898538907915088-2603282307-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18237"/>
+		<dp pt="2603282307" pp="4" l="RB32" fb="RB32" ppth="Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="3504143196433707859-2603282301-1">
+		<tl f="N" t="p" o="800165" c="RE" n="21956"/>
+		<dp pt="2603282301" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="-3463800771318874764-2603282322-4">
+		<tl f="N" t="p" o="800165" c="RE" n="21961"/>
+		<ar pt="2603282345" pp="2 A-D" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+</timetable>
