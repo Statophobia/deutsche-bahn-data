@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Stuttgart Hbf">
+	<s id="9222054265466378902-2603290320-1">
+		<tl t="p" o="GAMEX" c="ARV" n="19403"/>
+		<dp pt="2603290320" pp="15" l="MEX13" fb="MEX13" ppth="Stuttgart-Bad Cannstatt|Waiblingen|Schorndorf|Urbach(b Schorndorf)|Plüderhausen|Waldhausen(b Schorndorf)|Lorch(Württ)|Schwäbisch Gmünd|Böbingen(Rems)|Mögglingen(Gmünd)|Aalen Hbf"/>
+	</s>
+	<s id="-3758419926542312050-2603290036-22">
+		<tl t="p" o="GAMEX" c="ARV" n="19102"/>
+		<ar pt="2603290311" pp="4" l="MEX16" fb="MEX16" ppth="Ulm Hbf|Beimerstetten|Westerstetten|Lonsee|Urspring|Amstetten(Württ)|Geislingen(Steige)|Geislingen(Steige)West|Kuchen|Gingen(Fils)|Süßen|Salach|Eislingen(Fils)|Göppingen|Faurndau|Uhingen|Ebersbach(Fils)|Reichenbach(Fils)|Plochingen|Esslingen(Neckar)|Stuttgart-Bad Cannstatt"/>
+	</s>
+	<s id="5926473462606976417-2603281926-17">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2603290333" pp="16" fb="ICE 619" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2603290339" pp="16" fb="ICE 619" ppth="Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="2341795462491341556-2603290342-1">
+		<tl t="p" o="GAMEX" c="ARV" n="19107"/>
+		<dp pt="2603290342" pp="4" l="MEX16" fb="MEX16" ppth="Stuttgart-Bad Cannstatt|Esslingen(Neckar)|Plochingen|Reichenbach(Fils)|Ebersbach(Fils)|Uhingen|Faurndau|Göppingen|Eislingen(Fils)|Salach|Süßen|Gingen(Fils)|Kuchen|Geislingen(Steige)West|Geislingen(Steige)"/>
+	</s>
+	<s id="5649717838382454400-2603290316-9">
+		<tl f="S" t="p" o="800643" c="S" n="7186"/>
+		<ar pt="2603290353" pp="" l="S1" fb="S1" ppth="Herrenberg|Nufringen|Gärtringen|Ehningen(b Böblingen)|Hulb|Böblingen|Goldberg(Württ)|Stuttgart-Vaihingen"/>
+		<dp pt="2603290359" pp="" l="S1" fb="S1" ppth="Stuttgart-Bad Cannstatt|Stuttgart Neckarpark|Stuttgart-Untertürkheim|Stuttgart-Obertürkheim|Esslingen-Mettingen|Esslingen(Neckar)|Oberesslingen|Esslingen-Zell|Altbach|Plochingen|Wernau(Neckar)|Wendlingen(Neckar)|Kirchheim(Teck)-Ötlingen|Kirchheim(Teck)"/>
+	</s>
+</timetable>
