@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="-3767593594296436965-2604032240-6">
+		<tl t="p" o="BB" c="Bus" n="83185"/>
+		<ar pt="2604032339" pp="" l="RE4" fb="Bus RE4" ppth="Ludwigsfelde|Birkengrund Am Birkengrund|Großbeeren Märkische Allee Süd|Bahnhof, Teltow|Berlin-Lichterfelde Ost"/>
+	</s>
+	<s id="8793213226106504000-2604032036-6">
+		<tl f="F" t="p" o="80" c="ICE" n="705"/>
+		<ar pt="2604032349" pp="5" fb="ICE 705" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-7138410051225202863-2604032320-3">
+		<tl f="F" t="p" o="80" c="ICE" n="905"/>
+		<ar pt="2604032335" pp="3" fb="ICE 905" hi="1" ppth="Berlin Gesundbrunnen|Berlin Hbf"/>
+		<dp pt="2604032337" pp="3" fb="ICE 905" ppth="Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Naumburg(Saale)Hbf|Jena Paradies|Jena-Göschwitz|Saalfeld(Saale)|Lichtenfels|Bamberg|Erlangen|Nürnberg Hbf|München Hbf"/>
+	</s>
+	<s id="-6836417876429418811-2604031918-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1000"/>
+		<ar pt="2604032334" pp="8" fb="ICE 1000" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Bitterfeld"/>
+		<dp pt="2604032337" pp="8" fb="ICE 1000" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+</timetable>
