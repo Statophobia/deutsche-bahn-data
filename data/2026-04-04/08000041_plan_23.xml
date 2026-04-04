@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<timetable station="Bochum Hbf">
+	<s id="7071323262903555079-2604042307-4">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30793"/>
+		<ar pt="2604042320" pp="6" l="RB40" fb="RB40" ppth="Essen Hbf|Essen-Kray Süd|Wattenscheid"/>
+	</s>
+	<s id="1251412283829856747-2604042051-18">
+		<tl t="p" o="NXRE" c="NX" n="26837"/>
+		<ar pt="2604042302" pp="5" l="RE1" fb="RE1" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid"/>
+		<dp pt="2604042303" pp="5" l="RE1" fb="RE1" ppth="Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="7537395545451740415-2604041728-11">
+		<tl f="F" t="p" o="80" c="ICE" n="512"/>
+		<ar pt="2604042316" pp="6" fb="ICE 512" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Duisburg Hbf|Essen Hbf"/>
+		<dp pt="2604042317" pp="6" fb="ICE 512" ppth="Dortmund Hbf|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-4681860818705218086-2604042316-5">
+		<tl f="N" t="p" o="8003L1" c="RE" n="16248"/>
+		<ar pt="2604042347" pp="2" l="RE41" fb="RE41" ppth="Haltern am See|Marl-Sinsen|Recklinghausen Hbf|Recklinghausen Süd"/>
+	</s>
+	<s id="6605681985891173733-2604042343-1">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30794"/>
+		<dp pt="2604042343" pp="4" l="RB40" fb="RB40" ppth="Wattenscheid|Essen-Kray Süd|Essen Hbf"/>
+	</s>
+	<s id="-4463983841688751065-2604042026-10">
+		<tl f="F" t="p" o="80" c="ICE" n="209"/>
+		<ar pt="2604042346" pp="3" fb="ICE 209" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Diepholz|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf"/>
+		<dp pt="2604042347" pp="3" fb="ICE 209" ppth="Essen Hbf|Duisburg Hbf|Köln Hbf"/>
+	</s>
+	<s id="232070607455392250-2604042319-8">
+		<tl t="p" o="NXRE" c="NX" n="26840"/>
+		<ar pt="2604042354" pp="3" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf"/>
+		<dp pt="2604042355" pp="3" l="RE1" fb="RE1" ppth="Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="624684981040080406-2604041921-9">
+		<tl f="F" t="p" o="80" c="ICE" n="842"/>
+		<ar pt="2604042324" pp="3" fb="ICE 842" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf"/>
+		<dp pt="2604042325" pp="3" fb="ICE 842" ppth="Essen Hbf|Köln Hbf"/>
+	</s>
+</timetable>
