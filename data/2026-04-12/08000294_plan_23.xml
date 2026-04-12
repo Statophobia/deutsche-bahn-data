@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<timetable station="Osnabrück Hbf">
+	<s id="-8565738478832418215-2604122317-1">
+		<tl f="D" t="p" o="W3" c="WFB" n="95791"/>
+		<dp pt="2604122317" pp="11" l="RE60" fb="RE60" ppth="Melle|Bünde(Westf)|Kirchlengern|Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="7799018190421859830-2604122303-8">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90616"/>
+		<ar pt="2604122339" pp="3" l="RB66" fb="RB66" ppth="Münster(Westf)Hbf|Westbevern|Ostbevern|Kattenvenne|Lengerich(Westf)|Natrup-Hagen|Hasbergen"/>
+	</s>
+	<s id="6825727513372282567-2604122204-19">
+		<tl f="D" t="p" o="N1" c="NWB" n="75185"/>
+		<ar pt="2604122321" pp="5 Süd" l="RB75" fb="RB75" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Quelle-Kupferheide|Quelle|Steinhagen(Westf) Bielef. Str.|Steinhagen(Westf)|Künsebeck|Halle(Westf)|Halle(Westf) OWL-Arena|Hesseln|Borgholzhausen|Westbarthausen|Dissen-Bad Rothenfelde|Hilter|Wellendorf|Kloster Oesede|Oesede|Osnabrück-Sutthausen"/>
+	</s>
+	<s id="7414248167013621746-2604122234-12">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="20389"/>
+		<ar pt="2604122345" pp="11" l="RB61" fb="RB61" ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt"/>
+	</s>
+	<s id="6867018421248414188-2604122314-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="20388"/>
+		<dp pt="2604122314" pp="12" l="RB61" fb="RB61" ppth="Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel|Rheine"/>
+	</s>
+	<s id="-2162136752730629646-2604121935-6">
+		<tl f="F" t="p" o="80" c="ICE" n="740"/>
+		<ar pt="2604122305" pp="3" fb="ICE 740" ppth="Berlin Ostbahnhof|Berlin Hbf|Berlin-Spandau|Wunstorf|Bünde(Westf)"/>
+		<dp pt="2604122311" pp="3" fb="ICE 740" ppth="Münster(Westf)Hbf"/>
+	</s>
+	<s id="3320988565204862463-2604122215-10">
+		<tl f="N" t="p" o="800295" c="RE" n="14071"/>
+		<ar pt="2604122330" pp="5 Nord" l="RE9" fb="RE9" ppth="Bremen Hbf|Kirchweyhe|Syke|Bassum|Twistringen|Barnstorf(Han)|Diepholz|Lemförde|Bohmte"/>
+	</s>
+	<s id="3994307335202412-2604122319-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90617"/>
+		<dp pt="2604122319" pp="1" l="RB66" fb="RB66" ppth="Hasbergen|Natrup-Hagen|Lengerich(Westf)|Kattenvenne|Ostbevern|Westbevern|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-7712480996047357805-2604122326-1">
+		<tl f="N" t="p" o="8002WF" c="RE" n="14072"/>
+		<dp pt="2604122326" pp="4" l="RE9" fb="RE9" ppth="Bohmte|Lemförde|Diepholz|Barnstorf(Han)|Twistringen|Bassum|Syke|Kirchweyhe|Bremen Hbf"/>
+	</s>
+	<s id="-6559944122148671486-2604122204-5">
+		<tl t="p" o="R2" c="Bus" n="6218"/>
+		<ar pt="2604122307" pp="" l="RB61" fb="Bus RB61" ppth="Bruchmühlen|Melle|Westerhausen|Wissingen"/>
+	</s>
+</timetable>

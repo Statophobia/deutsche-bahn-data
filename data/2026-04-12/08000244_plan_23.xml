@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<timetable station="Mannheim Hbf">
+	<s id="-4751259183263600773-2604122257-14">
+		<tl f="S" t="p" o="801539" c="S" n="38413"/>
+		<ar pt="2604122336" pp="8" l="S3" fb="S3" ppth="Germersheim|Lingenfeld|Heiligenstein(Pfalz)|Berghausen(Pfalz)|Speyer Hbf|Speyer Nord-West|Schifferstadt Süd|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte"/>
+	</s>
+	<s id="-32974304396741632-2604121959-7">
+		<tl t="p" o="85NZ" c="NJ" n="409"/>
+		<ar pt="2604122340" pp="5" fb="NJ 409" hi="1" wings="-2494453527783146128-2604121959" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf"/>
+		<dp pt="2604122342" pp="5" fb="NJ 409" wings="-2494453527783146128-2604121959" ppth="Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-2494453527783146128-2604121959-7">
+		<tl f="F" t="p" o="NZ" c="IC" n="60409"/>
+		<ar pt="2604122340" pp="5" fb="IC 60409" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf"/>
+		<dp pt="2604122342" pp="5" fb="IC 60409" ppth="Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="1961181705396261168-2604121959-7">
+		<tl f="F" t="p" o="81" c="EN" n="40459"/>
+		<ar pt="2604122340" pp="5" fb="EN 40459" hi="1" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf"/>
+		<dp pt="2604122342" pp="5" fb="EN 40459" ppth="Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf|Bad Schandau|Decin hl.n.|Usti nad Labem hl.n.|Praha-Holesovice|Praha hl.n."/>
+	</s>
+	<s id="2939040619514614602-2604122153-19">
+		<tl f="S" t="p" o="801539" c="S" n="38368"/>
+		<ar pt="2604122300" pp="1" l="S3" fb="S3" ppth="Karlsruhe Hbf|Karlsruhe-Durlach|Weingarten(Baden)|Untergrombach|Bruchsal|Ubstadt-Weiher|Stettfeld-Weiher|Bad Schönborn Süd|Bad Schönborn-Kronau|Rot-Malsch|Wiesloch-Walldorf|St Ilgen-Sandhausen|Heidelberg-Kirchheim/Rohrbach|Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Mannheim-Friedrichsfeld Süd|Mannheim-Seckenheim|Mannheim ARENA/Maimarkt"/>
+		<dp pt="2604122309" pp="1" l="S3" fb="S3" ppth="Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Ludwigshafen-Mundenheim|Ludwigshafen-Rheingönheim|Limburgerhof|Schifferstadt|Schifferstadt Süd|Speyer Nord-West|Speyer Hbf|Berghausen(Pfalz)|Heiligenstein(Pfalz)|Lingenfeld|Germersheim"/>
+	</s>
+	<s id="8757276497855035879-2604121750-8">
+		<tl f="F" t="p" o="80" c="ICE" n="677"/>
+		<ar pt="2604122329" pp="4" fb="ICE 677" ppth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Hanau Hbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2604122337" pp="4" fb="ICE 677" ppth="Karlsruhe Hbf"/>
+	</s>
+	<s id="-7897962528000675645-2604122141-24">
+		<tl f="S" t="p" o="801539" c="S" n="38491"/>
+		<ar pt="2604122258" pp="8" l="S1" fb="S1" ppth="Bruchsal|Bruchsal Sportzentrum|Bruchsal Am Mantel|Karlsdorf|Graben-Neudorf|Graben-Neudorf Nord|Huttenheim|Philippsburg(Baden)|Rheinsheim|Germersheim Mitte/Rhein|Germersheim|Lingenfeld|Heiligenstein(Pfalz)|Berghausen(Pfalz)|Speyer Hbf|Speyer Nord-West|Schifferstadt Süd|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte"/>
+		<dp pt="2604122304" pp="8" l="S1" fb="S1" ppth="Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Mannheim-Friedrichsfeld Süd|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf|Heidelberg-Weststadt/Südstadt|Heidelberg-Altstadt|Heidelberg-Schlierbach/Ziegelhausen|Heidelberg Orthopädie|Neckargemünd"/>
+	</s>
+	<s id="-6439185077160185089-2604121722-8">
+		<tl f="F" t="p" o="80" c="ICE" n="77"/>
+		<ar pt="2604122257" pp="4" fb="ICE 77" ppth="Hamburg Dammtor|Hamburg Hbf|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Hbf"/>
+		<dp pt="2604122300" pp="4" fb="ICE 77" ppth="Karlsruhe Hbf"/>
+	</s>
+	<s id="-8722165071674938153-2604122218-20">
+		<tl f="S" t="p" o="801518" c="S" n="38661"/>
+		<ar pt="2604122324" pp="2" l="S6" fb="S6" ppth="Mainz Hbf|Mainz Römisches Theater|Mainz-Laubenheim|Bodenheim|Nackenheim|Nierstein|Oppenheim|Dienheim|Guntersblum|Alsheim|Mettenheim|Osthofen|Worms Hbf|Bobenheim|Frankenthal Hbf|Frankenthal Süd|Ludwigshafen-Oggersheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte"/>
+	</s>
+	<s id="661910890032483612-2604122218-7">
+		<tl f="N" t="p" o="800572" c="RE" n="15996"/>
+		<ar pt="2604122305" pp="9" l="RE73" fb="RE73" ppth="Karlsruhe Hbf|Karlsruhe-Durlach|Bruchsal|Bad Schönborn-Kronau|Wiesloch-Walldorf|Heidelberg Hbf"/>
+	</s>
+	<s id="-2453790468700473392-2604122220-13">
+		<tl f="N" t="p" o="800574" c="RE" n="4587"/>
+		<ar pt="2604122321" pp="7a" l="RE70" fb="RE70" ppth="Frankfurt(Main)Hbf|Frankfurt-Niederrad|Walldorf(Hess)|Groß Gerau-Dornberg|Riedstadt-Goddelau|Stockstadt(Rhein)|Biebesheim|Gernsheim|Groß-Rohrheim|Biblis|Bürstadt|Lampertheim"/>
+	</s>
+	<s id="5981134875112714787-2604121959-7">
+		<tl f="F" t="p" o="85" c="EC" n="459"/>
+		<ar pt="2604122340" pp="5" fb="EC 459" hi="1" wings="-2494453527783146128-2604121959|-32974304396741632-2604121959|1961181705396261168-2604121959" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf"/>
+		<dp pt="2604122342" pp="5" fb="EC 459" wings="-2494453527783146128-2604121959|-32974304396741632-2604121959|1961181705396261168-2604121959" ppth="Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf|Bad Schandau|Decin hl.n.|Usti nad Labem hl.n.|Praha-Holesovice|Praha hl.n."/>
+	</s>
+	<s id="-3061207294915912345-2604122216-15">
+		<tl f="N" t="p" o="SBSRE" c="RE" n="19292"/>
+		<ar pt="2604122323" pp="3" l="RE10b" fb="RE10b" ppth="Bad Friedrichshall Hbf|Bad Wimpfen Im Tal|Bad Wimpfen|Bad Wimpfen-Hohenstadt|Bad Rappenau Kurpark|Bad Rappenau|Babstadt|Grombach|Steinsfurt|Sinsheim Museum/Arena|Sinsheim(Elsenz) Hbf|Meckesheim|Neckargemünd|Heidelberg Hbf"/>
+	</s>
+	<s id="3584693658423990822-2604122240-15">
+		<tl f="S" t="p" o="801539" c="S" n="38424"/>
+		<ar pt="2604122330" pp="1" l="S2" fb="S2" ppth="Bruchsal|Ubstadt-Weiher|Stettfeld-Weiher|Bad Schönborn Süd|Bad Schönborn-Kronau|Rot-Malsch|Wiesloch-Walldorf|St Ilgen-Sandhausen|Heidelberg-Kirchheim/Rohrbach|Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Mannheim-Friedrichsfeld Süd|Mannheim-Seckenheim|Mannheim ARENA/Maimarkt"/>
+		<dp pt="2604122338" pp="1" l="S2" fb="S2" pde="Kaiserslautern Hbf" ppth="Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Ludwigshafen-Mundenheim|Ludwigshafen-Rheingönheim|Limburgerhof|Schifferstadt"/>
+	</s>
+	<s id="-6126392071802054592-2604122110-17">
+		<tl f="N" t="p" o="800640" c="RE" n="4348"/>
+		<ar pt="2604122330" pp="9" l="RE1" fb="RE1" ppth="Merzig(Saar)|Dillingen(Saar)|Saarlouis Hbf|Völklingen|Saarbrücken Hbf|St Ingbert|Homburg(Saar)Hbf|Landstuhl|Kaiserslautern Hbf|Hochspeyer|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Ludwigshafen(Rhein) Mitte"/>
+	</s>
+	<s id="-2368297615634792208-2604122145-17">
+		<tl f="S" t="p" o="801539" c="S" n="38145"/>
+		<ar pt="2604122258" pp="8" l="S1" fb="S1" wings="-7897962528000675645-2604122141" ppth="Kaiserslautern Hbf|Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte"/>
+		<dp pt="2604122304" pp="8" l="S1" fb="S1" wings="-7897962528000675645-2604122141" ppth="Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Mannheim-Friedrichsfeld Süd|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf|Heidelberg-Weststadt/Südstadt|Heidelberg-Altstadt|Heidelberg-Schlierbach/Ziegelhausen|Heidelberg Orthopädie|Neckargemünd"/>
+	</s>
+	<s id="-6022245870354585701-2604122234-11">
+		<tl f="N" t="p" o="800574" c="RE" n="4685"/>
+		<ar pt="2604122343" pp="9" l="RE60" fb="RE60" ppth="Frankfurt(Main)Hbf|Langen(Hess)|Darmstadt Hbf|Bickenbach(Bergstr)|Zwingenberg(Bergstr)|Bensheim|Heppenheim(Bergstr)|Hemsbach|Weinheim(Bergstr)Hbf|Ladenburg"/>
+	</s>
+	<s id="2554948050670606323-2604122213-16">
+		<tl f="S" t="p" o="801518" c="S" n="38940"/>
+		<ar pt="2604122308" pp="11" l="S9" fb="S9" ppth="Karlsruhe Hbf|Karlsruhe-Hagsfeld|Blankenloch|Friedrichstal(Baden)|Graben-Neudorf|Wiesental|Waghäusel|Neulußheim|Hockenheim|Oftersheim|Schwetzingen|Schwetzingen Nordstadt|Schwetzingen-Hirschacker|Mannheim-Rheinau|Mannheim-Neckarau"/>
+		<dp pt="2604122312" pp="11" l="S9" fb="S9" ppth="Mannheim Handelshafen/Jungbusch|Mannheim-Neckarstadt|Mannheim-Luzenberg|Mannheim-Waldhof|Lampertheim|Bürstadt|Bobstadt|Biblis|Groß-Rohrheim"/>
+	</s>
+	<s id="6194893901306646476-2604121726-15">
+		<tl f="F" t="p" o="80" c="ICE" n="617"/>
+		<ar pt="2604122325" pp="5" fb="ICE 617" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2604122333" pp="5" fb="ICE 617" ppth="Stuttgart Hbf"/>
+	</s>
+	<s id="5219966828095348221-2604122343-1">
+		<tl f="S" t="p" o="801518" c="S" n="38556"/>
+		<dp pt="2604122343" pp="2" l="S5" fb="S5" ppth="Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Neu-Edingen/Friedrichsfeld|Ladenburg|Heddesheim/Hirschberg"/>
+	</s>
+	<s id="-3008649786296952886-2604122251-11">
+		<tl f="S" t="p" o="801539" c="S" n="38470"/>
+		<ar pt="2604122330" pp="1" l="S3" fb="S3" wings="3584693658423990822-2604122240" ppth="Neckargemünd|Heidelberg Orthopädie|Heidelberg-Schlierbach/Ziegelhausen|Heidelberg-Altstadt|Heidelberg-Weststadt/Südstadt|Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Mannheim-Friedrichsfeld Süd|Mannheim-Seckenheim|Mannheim ARENA/Maimarkt"/>
+		<dp pt="2604122338" pp="1" l="S3" fb="S3" wings="3584693658423990822-2604122240" ppth="Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Ludwigshafen-Mundenheim|Ludwigshafen-Rheingönheim|Limburgerhof|Schifferstadt|Schifferstadt Süd|Speyer Nord-West|Speyer Hbf|Berghausen(Pfalz)|Heiligenstein(Pfalz)|Lingenfeld|Germersheim"/>
+	</s>
+	<s id="4780212094378212500-2604122322-10">
+		<tl f="S" t="p" o="801518" c="S" n="38941"/>
+		<ar pt="2604122351" pp="11" l="S9" fb="S9" ppth="Groß-Rohrheim|Biblis|Bobstadt|Bürstadt|Lampertheim|Mannheim-Waldhof|Mannheim-Luzenberg|Mannheim-Neckarstadt|Mannheim Handelshafen/Jungbusch"/>
+		<dp pt="2604122353" pp="11" l="S9" fb="S9" ppth="Mannheim-Neckarau|Mannheim-Rheinau|Schwetzingen-Hirschacker|Schwetzingen Nordstadt|Schwetzingen|Oftersheim|Hockenheim|Neulußheim|Waghäusel|Wiesental|Graben-Neudorf|Friedrichstal(Baden)|Blankenloch|Karlsruhe-Hagsfeld|Karlsruhe Hbf"/>
+	</s>
+	<s id="3774320189211148193-2604122232-11">
+		<tl f="S" t="p" o="801518" c="S" n="38534"/>
+		<ar pt="2604122312" pp="8" l="S5" fb="S5" ppth="Bensheim|Heppenheim(Bergstr)|Laudenbach(Bergstr)|Hemsbach|Weinheim-Sulzbach|Weinheim(Bergstr)Hbf|Heddesheim/Hirschberg|Ladenburg|Mannheim-Seckenheim|Mannheim ARENA/Maimarkt"/>
+	</s>
+	<s id="6572076932482604871-2604122145-17">
+		<tl f="S" t="p" o="801539" c="S" n="38377"/>
+		<ar pt="2604122258" pp="8" l="S3" fb="S3" wings="-7897962528000675645-2604122141|-2368297615634792208-2604122145" ppth="Kaiserslautern Hbf|Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)|Neustadt(Weinstr)Hbf|Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte"/>
+		<dp pt="2604122304" pp="8" l="S3" fb="S3" wings="-7897962528000675645-2604122141|-2368297615634792208-2604122145" ppth="Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Mannheim-Friedrichsfeld Süd|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf|Heidelberg-Kirchheim/Rohrbach|St Ilgen-Sandhausen|Wiesloch-Walldorf|Rot-Malsch|Bad Schönborn-Kronau|Bad Schönborn Süd|Stettfeld-Weiher|Ubstadt-Weiher|Bruchsal|Bruchsal Bildungszentrum|Untergrombach|Weingarten(Baden)|Karlsruhe-Durlach|Karlsruhe Hbf"/>
+	</s>
+</timetable>
