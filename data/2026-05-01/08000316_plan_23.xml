@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Rheine">
+	<s id="8484335637159746389-2605012222-7">
+		<tl t="p" o="R2" c="Bus" n="6240"/>
+		<ar pt="2605012358" pp="" l="RB61" fb="Bus RB61" ppth="Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel"/>
+	</s>
+	<s id="3520116007671116086-2605012300-8">
+		<tl f="D" t="p" o="W3" c="WFB" n="90301"/>
+		<ar pt="2605012350" pp="5" l="RE15" fb="RE15" ppth="Lathen|Haren(Ems)|Meppen|Geeste|Lingen(Ems)|Leschede|Salzbergen"/>
+		<dp pt="2605012353" pp="5" l="RE15" fb="RE15" ppth="Rheine-Mesum|Emsdetten|Reckenfeld|Greven|Münster-Sprakel|Münster(W)Zentrum Nord|Münster(Westf)Hbf"/>
+	</s>
+	<s id="7414248167013621746-2605012234-6">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="20389"/>
+		<ar pt="2605012311" pp="4" l="RB61" fb="RB61" ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen"/>
+	</s>
+	<s id="637219038798480565-2605012312-8">
+		<tl f="D" t="p" o="W3" c="WFB" n="90302"/>
+		<ar pt="2605012344" pp="4" l="RE15" fb="RE15" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Münster-Sprakel|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+		<dp pt="2605012356" pp="4" l="RE15" fb="RE15" ppth="Salzbergen|Leschede|Lingen(Ems)|Geeste|Meppen"/>
+	</s>
+	<s id="519389562902778692-2605012246-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="34058"/>
+		<ar pt="2605012322" pp="2" l="RE60" fb="RE60" ppth="Osnabrück Hbf|Osnabrück Altstadt|Ibbenbüren-Laggenbeck|Ibbenbüren|Ibbenbüren-Esch|Hörstel"/>
+	</s>
+	<s id="7241517937633531036-2605012321-1">
+		<tl t="p" o="R2" c="Bus" n="6251"/>
+		<dp pt="2605012321" pp="" l="RB61" fb="Bus RB61" ppth="Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf"/>
+	</s>
+	<s id="-1480164060113736868-2605012349-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="20388"/>
+		<dp pt="2605012349" pp="2" l="RB61" fb="RB61" ppth="Salzbergen|Schüttorf|Bad Bentheim"/>
+	</s>
+	<s id="-122360346296022169-2605012235-8">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="52356"/>
+		<ar pt="2605012308" pp="3" l="RB65" fb="RB65" ppth="Münster(Westf)Hbf|Münster(W)Zentrum Nord|Münster-Sprakel|Greven|Reckenfeld|Emsdetten|Rheine-Mesum"/>
+	</s>
+</timetable>
