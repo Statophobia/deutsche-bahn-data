@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<timetable station="München Ost">
+	<s id="-2447735932837547231-2605090545-14">
+		<tl f="S" t="p" o="800725" c="S" n="6823"/>
+		<ar pt="2605090643" pp="12" l="S8" fb="S8" ppth="Herrsching|Seefeld-Hechendorf|Steinebach|Weßling(Oberbay)|Neugilching|Gilching-Argelsried|Geisenbrunn|Germering-Unterpfaffenhofen|Harthaus|München-Freiham|München-Neuaubing|München-Westkreuz|München-Pasing"/>
+		<dp pt="2605090644" pp="12" l="S8" fb="S8" ppth="München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="7383011932279828829-2605082051-5">
+		<tl t="p" o="NYUEX" c="UEX" n="1389"/>
+		<ar pt="2605090600" pp="" fb="UEX 1389" ppth="Düsseldorf Hbf|Köln Hbf|Koblenz Hbf|Frankfurt(M) Flughafen Regionalbf"/>
+		<dp pt="2605090600" pp="" fb="UEX 1389" hi="1" ppth="Kufstein|Wörgl Hbf|Innsbruck Hbf"/>
+	</s>
+	<s id="-5899551676452927323-2605090544-9">
+		<tl f="S" t="p" o="800725" c="S" n="6818"/>
+		<ar pt="2605090615" pp="7" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing"/>
+		<dp pt="2605090617" pp="7" l="S8" fb="S8" ppth="München-Pasing|München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="-8122207833005091799-2605090603-9">
+		<tl f="S" t="p" o="800725" c="S" n="6820"/>
+		<ar pt="2605090635" pp="7" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing"/>
+		<dp pt="2605090637" pp="7" l="S8" fb="S8" ppth="München-Pasing|München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="3168160730932802093-2605090527-6">
+		<tl f="D" t="p" o="M8" c="BRB" n="79054"/>
+		<ar pt="2605090600" pp="6" l="RB54" fb="RB54" ppth="Rosenheim|Großkarolinenfeld|Ostermünchen|Aßling(Oberbay)|Grafing Bahnhof"/>
+		<dp pt="2605090601" pp="6" l="RB54" fb="RB54" ppth="München Hbf Gl.5-10"/>
+	</s>
+	<s id="6992012378128167215-2605081855-10">
+		<tl t="p" o="81" c="NJ" n="40491"/>
+		<ar pt="2605090642" pp="8" fb="NJ 40491" ppth="Hamburg-Altona|Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf"/>
+		<dp pt="2605090644" pp="8" fb="NJ 40491" ppth="Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+	<s id="5279283621341660290-2605090621-2">
+		<tl t="p" o="80" c="RJX" n="265"/>
+		<ar pt="2605090630" pp="8" fb="RJX 265" hi="1" ppth="München Hbf"/>
+		<dp pt="2605090631" pp="8" fb="RJX 265" ppth="Rosenheim|Salzburg Hbf|Linz Hbf|St.Pölten Hbf|Wien Meidling|Wien Hbf"/>
+	</s>
+	<s id="6801729035174711983-2605090552-2">
+		<tl f="D" t="p" o="M8" c="BRB" n="79005"/>
+		<ar pt="2605090600" pp="8" l="RE5" fb="RE5" ppth="München Hbf Gl.5-10"/>
+		<dp pt="2605090601" pp="8" l="RE5" fb="RE5" ppth="Grafing Bahnhof|Aßling(Oberbay)|Ostermünchen|Großkarolinenfeld|Rosenheim|Bad Endorf|Prien am Chiemsee|Bernau a Chiemsee|Übersee|Bergen(Oberbay)|Traunstein|Teisendorf|Freilassing|Salzburg Hbf"/>
+	</s>
+	<s id="-5185317119813626433-2605090641-2">
+		<tl f="D" t="p" o="M8" c="BRB" n="79057"/>
+		<ar pt="2605090649" pp="8" l="RB54" fb="RB54" ppth="München Hbf Gl.5-10"/>
+		<dp pt="2605090650" pp="8" l="RB54" fb="RB54" ppth="Grafing Bahnhof|Aßling(Oberbay)|Ostermünchen|Großkarolinenfeld|Rosenheim|Raubling|Brannenburg|Flintsbach|Oberaudorf|Kiefersfelden|Kufstein"/>
+	</s>
+	<s id="-8941351012210795872-2605081901-5">
+		<tl t="p" o="NYUEX" c="UEX" n="349"/>
+		<ar pt="2605090600" pp="" fb="UEX 349" ppth="Hamburg-Altona|Hannover Hbf|Gemünden(Main)|Würzburg Hbf"/>
+		<dp pt="2605090600" pp="" fb="UEX 349" hi="1" ppth="Kufstein|Wörgl Hbf|Innsbruck Hbf"/>
+	</s>
+	<s id="-3558209705404887939-2605090505-11">
+		<tl f="D" t="p" o="M8" c="BRB" n="79004"/>
+		<ar pt="2605090656" pp="6" l="RE5" fb="RE5" ppth="Salzburg Hbf|Freilassing|Teisendorf|Traunstein|Bergen(Oberbay)|Übersee|Bernau a Chiemsee|Prien am Chiemsee|Bad Endorf|Rosenheim"/>
+		<dp pt="2605090657" pp="6" l="RE5" fb="RE5" ppth="München Hbf Gl.5-10"/>
+	</s>
+	<s id="8883029446011636966-2605090525-14">
+		<tl f="S" t="p" o="800725" c="S" n="6821"/>
+		<ar pt="2605090623" pp="12" l="S8" fb="S8" ppth="Herrsching|Seefeld-Hechendorf|Steinebach|Weßling(Oberbay)|Neugilching|Gilching-Argelsried|Geisenbrunn|Germering-Unterpfaffenhofen|Harthaus|München-Freiham|München-Neuaubing|München-Westkreuz|München-Pasing"/>
+		<dp pt="2605090624" pp="12" l="S8" fb="S8" ppth="München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="-4049455908015469076-2605090624-9">
+		<tl f="S" t="p" o="800725" c="S" n="6822"/>
+		<ar pt="2605090655" pp="7" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing"/>
+		<dp pt="2605090657" pp="7" l="S8" fb="S8" ppth="München-Pasing|München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="4673989983964400814-2605090551-2">
+		<tl f="S" t="p" o="800725" c="S" n="6819"/>
+		<ar pt="2605090603" pp="12" l="S8" fb="S8" ppth="München-Pasing"/>
+		<dp pt="2605090604" pp="12" l="S8" fb="S8" ppth="München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="-3823254010841261196-2605081859-10">
+		<tl t="p" o="84" c="NJ" n="421"/>
+		<ar pt="2605090642" pp="8" fb="NJ 421" wings="6992012378128167215-2605081855" ppth="Amsterdam Centraal|Amersfoort Centraal|Deventer|Münster(Westf)Hbf|Hamm(Westf)Hbf|Kassel-Wilhelmshöhe|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf"/>
+		<dp pt="2605090644" pp="8" fb="NJ 421" wings="6992012378128167215-2605081855" ppth="Rosenheim|Kufstein|Wörgl Hbf|Jenbach|Innsbruck Hbf"/>
+	</s>
+</timetable>
