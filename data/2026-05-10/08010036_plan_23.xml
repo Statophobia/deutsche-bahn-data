@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Lichtenberg">
+	<s id="3121984329751158669-2605102258-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18236"/>
+		<ar pt="2605102322" pp="21" l="RB32" fb="RB32" ppth="Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+	</s>
+	<s id="-6171049566980863677-2605102338-1">
+		<tl t="p" o="NBRB26" c="NEB" n="5187"/>
+		<dp pt="2605102338" pp="15" l="RB26" fb="RB26" ppth="Berlin-Mahlsdorf|Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)"/>
+	</s>
+	<s id="4948014553141150656-2605102241-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="91015"/>
+		<ar pt="2605102316" pp="22" l="RE1" fb="RE1" pde="Magdeburg Hbf" ppth="Berlin-Wannsee|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-576518629599594431-2605102323-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="91016"/>
+		<dp pt="2605102323" pp="22" l="RE1" fb="RE1" ppth="Berlin Gesundbrunnen|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)"/>
+	</s>
+	<s id="2074142290290824907-2605102233-14">
+		<tl t="p" o="NBRB12" c="NEB" n="61138"/>
+		<ar pt="2605102356" pp="17" l="RB12" fb="RB12" ppth="Templin Stadt|Templin|Hammelspring|Vogelsang(Kr Oberhavel)|Zehdenick-Neuhof|Zehdenick(Mark)|Bergsdorf|Löwenberg(Mark)|Grüneberg|Nassenheide|Sachsenhausen(Nordb)|Oranienburg|Berlin-Hohenschönhausen"/>
+		<dp pt="2605102358" pp="17" l="RB12" fb="RB12" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-549792481821568246-2605102305-3">
+		<tl t="p" o="NBRB26" c="NEB" n="5186"/>
+		<ar pt="2605102324" pp="15" l="RB26" fb="RB26" ppth="Strausberg|Berlin-Mahlsdorf"/>
+	</s>
+</timetable>
