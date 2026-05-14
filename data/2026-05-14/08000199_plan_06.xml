@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Kiel Hbf">
+	<s id="-6675326448328475758-2605140535-11">
+		<tl f="N" t="p" o="800201" c="RE" n="11252"/>
+		<ar pt="2605140655" pp="4" l="RE7" fb="RE7" ppth="Hamburg Hbf|Hamburg Dammtor|Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek"/>
+	</s>
+	<s id="7320984570293106503-2605140637-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11207"/>
+		<dp pt="2605140637" pp="4" l="RE70" fb="RE70" ppth="Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn|Hamburg Dammtor|Hamburg Hbf"/>
+	</s>
+	<s id="3709090778335627938-2605140605-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11247"/>
+		<dp pt="2605140605" pp="5" l="RE7" fb="RE7" ppth="Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn|Hamburg Dammtor|Hamburg Hbf"/>
+	</s>
+	<s id="5858493817574963785-2605140500-11">
+		<tl f="D" t="p" o="X1" c="erx" n="21048"/>
+		<ar pt="2605140617" pp="1" l="RE83" fb="RE83" ppth="Lübeck Hbf|Bad Schwartau|Pansdorf|Pönitz(Holst)|Eutin|Bad Malente-Gremsmühlen|Plön|Ascheberg(Holst)|Preetz|Raisdorf"/>
+	</s>
+	<s id="2512226212358951491-2605140616-1">
+		<tl f="F" t="p" o="80" c="ICE" n="507"/>
+		<dp pt="2605140616" pp="3" fb="ICE 507" ppth="Neumünster|Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf|München Hbf"/>
+	</s>
+	<s id="8320352830231130954-2605140643-1">
+		<tl f="D" t="p" o="X1" c="erx" n="21009"/>
+		<dp pt="2605140643" pp="1" l="RE83" fb="RE83" pde="Mölln(Lauenb)" ppth="Raisdorf|Preetz|Ascheberg(Holst)|Plön|Bad Malente-Gremsmühlen|Eutin|Bad Schwartau|Lübeck Hbf"/>
+	</s>
+</timetable>
