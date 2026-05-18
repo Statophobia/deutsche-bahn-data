@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Oldenburg(Oldb)Hbf">
+	<s id="1539949345340160161-2605180539-9">
+		<tl f="N" t="p" o="NZ" c="RE" n="51635"/>
+		<ar pt="2605180723" pp="3" l="IC56" fb="RE IC56" ppth="Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+	</s>
+	<s id="-2723234671676594330-2605180711-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="83352"/>
+		<dp pt="2605180711" pp="7" l="RS3" fb="RS3" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="7039276218854120969-2605180539-9">
+		<tl f="F" t="p" o="80" c="IC" n="1635"/>
+		<ar pt="2605180723" pp="3" fb="IC 1635" wings="1539949345340160161-2605180539" ppth="Norddeich|Norden|Marienhafe|Emden Hbf|Leer(Ostfriesl)|Augustfehn|Westerstede-Ocholt|Bad Zwischenahn"/>
+	</s>
+	<s id="4351650849316609822-2605180640-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="77122"/>
+		<ar pt="2605180724" pp="8" l="RE18" fb="RE18" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+	<s id="-1203283724741515869-2605180758-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="28974"/>
+		<dp pt="2605180758" pp="7" l="RS30" fb="RS30" ppth="Oldenburg-Wechloy|Bad Zwischenahn"/>
+	</s>
+	<s id="-2543708309843288748-2605180735-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="77113"/>
+		<dp pt="2605180735" pp="4" l="RE18" fb="RE18" ppth="Rastede|Jaderberg|Varel(Oldb)|Sande|Wilhelmshaven"/>
+	</s>
+	<s id="3661908850445721718-2605180733-1">
+		<tl f="N" t="p" o="800295" c="RE" n="13972"/>
+		<dp pt="2605180733" pp="7" l="RE1" fb="RE1" ppth="Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf|Marienhafe|Norden|Norddeich|Norddeich Mole"/>
+	</s>
+	<s id="-1706780870602723464-2605180745-3">
+		<tl f="D" t="p" o="N1" c="NWB" n="34247"/>
+		<ar pt="2605180757" pp="3" l="RS30" fb="RS30" ppth="Bad Zwischenahn|Oldenburg-Wechloy"/>
+	</s>
+	<s id="5748670837428659193-2605180708-6">
+		<tl f="D" t="p" o="N1" c="NWB" n="83357"/>
+		<ar pt="2605180747" pp="4" l="RS3" fb="RS3" ppth="Wilhelmshaven|Sande|Varel(Oldb)|Jaderberg|Rastede"/>
+	</s>
+</timetable>
