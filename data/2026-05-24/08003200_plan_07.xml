@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="3280771685323636681-2605240444-5">
+		<tl f="F" t="p" o="80" c="ICE" n="573"/>
+		<ar pt="2605240746" pp="2" fb="ICE 573" ppth="Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen"/>
+		<dp pt="2605240748" pp="2" fb="ICE 573" ppth="Frankfurt(Main)Hbf|Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+	<s id="3447957734301404485-2605240707-8">
+		<tl f="D" t="p" o="H4" c="RT" n="55911"/>
+		<ar pt="2605240722" pp="7" l="RT5" fb="RT5" ppth="Auestadion, Kassel|Heinrich-Heine-Straße, Kassel|Am Weinberg, Kassel|Rathaus/Fünffensterstraße, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Scheidemannplatz, Kassel|Kassel Hbf (tief)"/>
+		<dp pt="2605240723" pp="7" l="RT5" fb="RT5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Edermünde-Grifte"/>
+	</s>
+	<s id="-1745538401673959508-2605240749-1">
+		<tl f="F" t="p" o="80" c="ICE" n="996"/>
+		<dp pt="2605240749" pp="4" fb="ICE 996" ppth="Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin Hbf|Berlin Ostbahnhof"/>
+	</s>
+	<s id="-2525250539796034766-2605240619-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1573"/>
+		<ar pt="2605240728" pp="2" fb="ICE 1573" ppth="Hannover Hbf|Göttingen"/>
+		<dp pt="2605240730" pp="2" fb="ICE 1573" ppth="Fulda|Hanau Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="6312650622942988244-2605240719-5">
+		<tl f="D" t="p" o="H4" c="RT" n="55906"/>
+		<ar pt="2605240741" pp="9" l="RT5" fb="RT5" ppth="Edermünde-Grifte|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2605240742" pp="9" l="RT5" fb="RT5" ppth="Kassel Hbf (tief)|Scheidemannplatz, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Rathaus/Fünffensterstraße, Kassel|Am Weinberg, Kassel|Heinrich-Heine-Straße, Kassel|Auestadion, Kassel"/>
+	</s>
+	<s id="391829957951703015-2605240742-2">
+		<tl f="N" t="p" o="800523" c="RB" n="23107"/>
+		<ar pt="2605240747" pp="8" l="RB39" fb="RB39" ppth="Kassel Hbf"/>
+		<dp pt="2605240748" pp="8" l="RB39" fb="RB39" ppth="Baunatal-Rengershausen|Baunatal-Guntershausen|Edermünde-Grifte|Felsberg-Wolfershausen|Felsberg-Altenbrunslar|Felsberg-Gensungen|Wabern(Bz Kassel)|Zennern|Fritzlar|Ungedanken|Mandern|Wega|Bad Wildungen"/>
+	</s>
+	<s id="7124202664974887670-2605240703-1">
+		<tl t="p" o="N4" c="Bus" n="10213"/>
+		<dp pt="2605240703" pp="" l="EV" fb="Bus EV" ppth="Auestadion, Kassel|Guxhagen|Melsungen|Steinweg, Malsfeld|Beiseförth Brückenstraße, Malsfeld|Altmorschen Sparkasse, Morschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen Zur Wasserburg|Bebra Busbahnhof"/>
+	</s>
+	<s id="2874625510607608743-2605240520-11">
+		<tl f="N" t="p" o="8005MW" c="RE" n="4150"/>
+		<ar pt="2605240726" pp="9" l="RE30" fb="RE30" ppth="Frankfurt(Main)Hbf|Friedberg(Hess)|Gießen|Marburg(Lahn)|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Borken(Hess)|Wabern(Bz Kassel)"/>
+		<dp pt="2605240728" pp="9" l="RE30" fb="RE30" ppth="Kassel Hbf"/>
+	</s>
+	<s id="-121286730437505369-2605240445-3">
+		<tl f="F" t="p" o="80" c="ICE" n="78"/>
+		<ar pt="2605240711" pp="3" fb="ICE 78" ppth="Wiesbaden Hbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2605240713" pp="3" fb="ICE 78" ppth="Göttingen|Hannover Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="-2884370164290636063-2605240608-11">
+		<tl t="p" o="N4" c="Bus" n="10206"/>
+		<ar pt="2605240755" pp="" l="EV" fb="Bus EV" ppth="Bebra Busbahnhof|Lispenhausen Zur Wasserburg|Rotenburg a.d. Fulda|Heinebach|Altmorschen Sparkasse, Morschen|Beiseförth Brückenstraße, Malsfeld|Steinweg, Malsfeld|Melsungen|Guxhagen|Auestadion, Kassel"/>
+	</s>
+	<s id="6185559311108608016-2605240453-25">
+		<tl f="D" t="p" o="AMRE" c="ABR" n="74700"/>
+		<ar pt="2605240755" pp="1" l="RE9" fb="RE9" ppth="Halle(Saale)Hbf|Teutschenthal|Röblingen am See|Lutherstadt Eisleben|Wolferode|Blankenheim(Sangerhausen)|Riestedt|Sangerhausen|Roßla|Berga-Kelbra|Nordhausen|Wolkramshausen|Bleicherode Ost|Sollstedt|Bernterode|Gernrode-Niederorschel|Hausen(Eichsfeld)|Leinefelde|Heilbad Heiligenstadt|Uder|Arenshausen|Eichenberg|Witzenhausen Nord|Hann Münden"/>
+	</s>
+</timetable>
