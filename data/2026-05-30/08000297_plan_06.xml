@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Paderborn Hbf">
+	<s id="5173633447073653018-2605300510-19">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90007"/>
+		<ar pt="2605300640" pp="3 West" l="RB89" fb="RB89" ppth="Münster(Westf)Hbf|Münster-Hiltrup|Rinkerode|Drensteinfurt|Mersch(Westf)|Hamm-Bockum-Hövel|Hamm(Westf)Hbf|Hamm-Westtünnen|Welver|Borgeln|Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede"/>
+	</s>
+	<s id="3937530328352821207-2605300602-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90008"/>
+		<dp pt="2605300602" pp="3 West" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest|Borgeln|Welver|Hamm-Westtünnen|Hamm(Westf)Hbf|Hamm-Bockum-Hövel|Mersch(Westf)|Drensteinfurt|Rinkerode|Münster-Hiltrup|Münster(Westf)Hbf"/>
+	</s>
+	<s id="-5663571335445963583-2605300635-1">
+		<tl t="p" o="TDHS" c="Bus" n="4536"/>
+		<dp pt="2605300635" pp="" l="S5" fb="Bus S5" ppth="Altenbeken|Steinheim(Westf)"/>
+	</s>
+	<s id="-7004378758079246657-2605300623-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75008"/>
+		<dp pt="2605300623" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="2547642702221281203-2605300525-4">
+		<tl t="p" o="TDHS" c="Bus" n="45191"/>
+		<ar pt="2605300635" pp="" l="S5" fb="Bus S5" ppth="Schieder|Steinheim(Westf)|Altenbeken"/>
+	</s>
+	<s id="-4107716501612523330-2605300543-13">
+		<tl f="D" t="p" o="N1" c="NWB" n="75005"/>
+		<ar pt="2605300637" pp="5" l="RB74" fb="RB74" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Bielefeld-Senne|Bielefeld-Windelsbleiche|Bielefeld-Sennestadt|Schloß Holte|Hövelriege|Hövelhof|Paderborn-Sennelager|Paderborn-Schloss Neuhaus|Paderborn Nord|Paderborn Kasseler Tor"/>
+	</s>
+	<s id="359492835117303105-2605300613-1">
+		<tl t="p" o="R2" c="Bus" n="7458"/>
+		<dp pt="2605300613" pp="" l="RB72" fb="Bus RB72" ppth="Horn-Bad Meinberg"/>
+	</s>
+	<s id="6825193811777766331-2605300624-1">
+		<tl t="p" o="NX" c="Bus" n="8144"/>
+		<dp pt="2605300624" pp="" l="RE11" fb="Bus RE11" ppth="Altenbeken"/>
+	</s>
+</timetable>
