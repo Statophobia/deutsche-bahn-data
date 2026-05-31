@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="400147895929631963-2605310528-13">
+		<tl f="S" t="p" o="0S" c="S" n="47036"/>
+		<ar pt="2605310602" pp="1" l="S2" fb="S2" ppth="Aumühle|Wohltorf|Reinbek|Hamburg-Bergedorf|Hamburg-Nettelnburg|Hamburg-Allermöhe|Hamburg Mittlerer Landweg|Hamburg Billwerder-Moorfleet|Hamburg-Tiefstack|Hamburg-Rothenburgsort|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2605310603" pp="1" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="5276297556079974092-2605310617-2">
+		<tl f="D" t="p" o="O0" c="NBE" n="81864"/>
+		<ar pt="2605310620" pp="3" l="RB71" fb="RB71" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2605310621" pp="3" l="RB71" fb="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="2897765782443439104-2605310606-1">
+		<tl f="F" t="p" o="80" c="ICE" n="583"/>
+		<dp pt="2605310606" pp="4" fb="ICE 583" ppth="Hamburg Hbf|Hamburg-Harburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf|Augsburg Hbf|München Hbf"/>
+	</s>
+	<s id="3886786946551121542-2605310548-13">
+		<tl f="S" t="p" o="0S" c="S" n="47040"/>
+		<ar pt="2605310622" pp="1" l="S2" fb="S2" ppth="Aumühle|Wohltorf|Reinbek|Hamburg-Bergedorf|Hamburg-Nettelnburg|Hamburg-Allermöhe|Hamburg Mittlerer Landweg|Hamburg Billwerder-Moorfleet|Hamburg-Tiefstack|Hamburg-Rothenburgsort|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2605310623" pp="1" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="4682136619533968759-2605310602-10">
+		<tl f="D" t="p" o="O0" c="NBE" n="75505"/>
+		<ar pt="2605310657" pp="4" l="RB61" fb="RB61" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+		<dp pt="2605310658" pp="4" l="RB61" fb="RB61" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="3239372209716677231-2605310656-2">
+		<tl f="D" t="p" o="O0" c="NBE" n="75506"/>
+		<ar pt="2605310659" pp="3" l="RB61" fb="RB61" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2605310700" pp="3" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="9187025388652472831-2605310608-13">
+		<tl f="S" t="p" o="0S" c="S" n="47044"/>
+		<ar pt="2605310642" pp="1" l="S2" fb="S2" ppth="Aumühle|Wohltorf|Reinbek|Hamburg-Bergedorf|Hamburg-Nettelnburg|Hamburg-Allermöhe|Hamburg Mittlerer Landweg|Hamburg Billwerder-Moorfleet|Hamburg-Tiefstack|Hamburg-Rothenburgsort|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2605310643" pp="1" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="6567724901549400999-2605310553-8">
+		<tl f="D" t="p" o="O0" c="NBE" n="81861"/>
+		<ar pt="2605310638" pp="4" l="RB71" fb="RB71" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+		<dp pt="2605310639" pp="4" l="RB71" fb="RB71" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-4953803676748253010-2605310638-2">
+		<tl f="S" t="p" o="0S" c="S" n="47045"/>
+		<ar pt="2605310640" pp="2" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2605310641" pp="2" l="S2" fb="S2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+	<s id="3559887136508828222-2605310558-2">
+		<tl f="S" t="p" o="0S" c="S" n="47037"/>
+		<ar pt="2605310600" pp="2" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2605310601" pp="2" l="S2" fb="S2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+	<s id="-3500545049874534285-2605310603-2">
+		<tl f="F" t="p" o="80" c="ICE" n="105"/>
+		<ar pt="2605310610" pp="4" fb="ICE 105" hi="1" ppth="Hamburg-Altona"/>
+		<dp pt="2605310612" pp="4" fb="ICE 105" ppth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf"/>
+	</s>
+	<s id="-8473624617556134930-2605310618-2">
+		<tl f="S" t="p" o="0S" c="S" n="47041"/>
+		<ar pt="2605310620" pp="2" l="S2" fb="S2" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2605310621" pp="2" l="S2" fb="S2" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack|Hamburg Billwerder-Moorfleet|Hamburg Mittlerer Landweg|Hamburg-Allermöhe|Hamburg-Nettelnburg|Hamburg-Bergedorf|Reinbek|Wohltorf|Aumühle"/>
+	</s>
+	<s id="-9149063309734653751-2605310505-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11299"/>
+		<ar pt="2605310616" pp="4" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn"/>
+		<dp pt="2605310617" pp="4" l="RE7" fb="RE7" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-1359409301232709450-2605310635-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11244"/>
+		<ar pt="2605310638" pp="3" l="RE7" fb="RE7" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2605310638" pp="3" l="RE7" fb="RE7" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+</timetable>
