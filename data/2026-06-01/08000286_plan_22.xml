@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="4209859788270983304-2606012201-2">
+		<tl t="p" o="R4NRN" c="Bus" n="1938"/>
+		<ar pt="2606012219" pp="" l="RE19" fb="Bus RE19" ppth="Duisburg Hbf"/>
+		<dp pt="2606012220" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken"/>
+	</s>
+	<s id="-6495530371993015154-2606012230-2">
+		<tl t="p" o="NX" c="Bus" n="5002"/>
+		<ar pt="2606012255" pp="" l="RE5" fb="Bus RE5" ppth="Duisburg Hbf"/>
+		<dp pt="2606012255" pp="" l="RE5" fb="Bus RE5" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Friedrichsfeld(Niederrhein)|Wesel|Mehrhoog|Emmerich"/>
+	</s>
+	<s id="-555156891463774915-2606012213-1">
+		<tl t="p" o="NXRE" c="NX" n="28235"/>
+		<dp pt="2606012213" pp="9" l="RE44" fb="RE44" ppth="Oberhausen-Osterfeld Süd|Bottrop-Vonderort|Bottrop Hbf"/>
+	</s>
+	<s id="-3550870211187511702-2606012146-4">
+		<tl t="p" o="R2" c="Bus" n="3021"/>
+		<ar pt="2606012256" pp="" l="RE3" fb="Bus RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2606012256" pp="" l="RE3" fb="Bus RE3" ppth="Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="2078344927582965355-2606012232-4">
+		<tl t="p" o="NXRE" c="NX" n="28234"/>
+		<ar pt="2606012243" pp="12" l="RE44" fb="RE44" ppth="Bottrop Hbf|Bottrop-Vonderort|Oberhausen-Osterfeld Süd"/>
+	</s>
+</timetable>
