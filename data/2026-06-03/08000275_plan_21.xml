@@ -1,9 +1,5 @@
 <?xml version="1.0" ?>
 <timetable station="Neustadt(Weinstr)Hbf">
-	<s id="-1948668073782284442-2606032136-1">
-		<tl f="N" t="p" o="8005L1" c="RB" n="12423"/>
-		<dp pt="2606032136" pp="5" l="RB51" fb="RB51" ppth="Neustadt(Weinstr) Süd|Maikammer-Kirrweiler|Edenkoben|Edesheim(Pfalz)|Knöringen-Essingen|Landau(Pfalz)Hbf"/>
-	</s>
 	<s id="2656435374789861973-2606032130-1">
 		<tl f="S" t="p" o="801539" c="S" n="38257"/>
 		<dp pt="2606032130" pp="4" l="S2" fb="S2" ppth="Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf|Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Mannheim-Friedrichsfeld Süd|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf"/>
@@ -15,6 +11,18 @@
 	<s id="2734520148016260550-2606032103-1">
 		<tl f="N" t="p" o="8005L1" c="RE" n="12043"/>
 		<dp pt="2606032103" pp="5" l="RE6" fb="RE6" ppth="Maikammer-Kirrweiler|Edenkoben|Edesheim(Pfalz)|Knöringen-Essingen|Landau(Pfalz)Hbf"/>
+	</s>
+	<s id="8952642147425920321-2606032105-1">
+		<tl f="N" t="p" o="8015A6" c="RB" n="13596"/>
+		<dp pt="2606032105" pp="1a" l="RB46" fb="RB46" ppth="Neustadt-Böbig|Mußbach|Deidesheim|Wachenheim(Pfalz)|Bad Dürkheim|Bad Dürkheim-Trift|Erpolzheim|Freinsheim|Herxheim am Berg|Kirchheim(Weinstr)|Grünstadt"/>
+	</s>
+	<s id="-1956726767086430939-2606032123-9">
+		<tl f="N" t="p" o="8015A6" c="RB" n="13373"/>
+		<ar pt="2606032152" pp="1a" l="RB45" fb="RB45" ppth="Freinsheim|Erpolzheim|Bad Dürkheim-Trift|Bad Dürkheim|Wachenheim(Pfalz)|Deidesheim|Mußbach|Neustadt-Böbig"/>
+	</s>
+	<s id="-1948668073782284442-2606032136-1">
+		<tl f="N" t="p" o="8005L1" c="RB" n="12423"/>
+		<dp pt="2606032136" pp="5" l="RB51" fb="RB51" ppth="Neustadt(Weinstr) Süd|Maikammer-Kirrweiler|Edenkoben|Edesheim(Pfalz)|Knöringen-Essingen|Landau(Pfalz)Hbf"/>
 	</s>
 	<s id="1620379043463156210-2606032138-7">
 		<tl f="N" t="p" o="8005L1" c="RE" n="12042"/>
@@ -29,14 +37,6 @@
 		<tl f="F" t="p" o="80" c="ICE" n="1090"/>
 		<ar pt="2606032113" pp="2" fb="ICE 1090" ppth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf"/>
 		<dp pt="2606032115" pp="2" fb="ICE 1090" ppth="Kaiserslautern Hbf|Homburg(Saar)Hbf|Saarbrücken Hbf"/>
-	</s>
-	<s id="8952642147425920321-2606032105-1">
-		<tl f="N" t="p" o="8015A6" c="RB" n="13596"/>
-		<dp pt="2606032105" pp="1a" l="RB46" fb="RB46" ppth="Neustadt-Böbig|Mußbach|Deidesheim|Wachenheim(Pfalz)|Bad Dürkheim|Bad Dürkheim-Trift|Erpolzheim|Freinsheim|Herxheim am Berg|Kirchheim(Weinstr)|Grünstadt"/>
-	</s>
-	<s id="-1956726767086430939-2606032123-9">
-		<tl f="N" t="p" o="8015A6" c="RB" n="13373"/>
-		<ar pt="2606032152" pp="1a" l="RB45" fb="RB45" ppth="Freinsheim|Erpolzheim|Bad Dürkheim-Trift|Bad Dürkheim|Wachenheim(Pfalz)|Deidesheim|Mußbach|Neustadt-Böbig"/>
 	</s>
 	<s id="-8256345584412033833-2606032123-7">
 		<tl f="N" t="p" o="8005L1" c="RB" n="12422"/>
