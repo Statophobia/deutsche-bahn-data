@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Paderborn Hbf">
+	<s id="-6328409732075595830-2606040824-1">
+		<tl t="p" o="NX" c="Bus" n="8148"/>
+		<dp pt="2606040824" pp="" l="RE11" fb="Bus RE11" ppth="Altenbeken"/>
+	</s>
+	<s id="208214408690568729-2606040803-9">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="92011"/>
+		<ar pt="2606040840" pp="1" l="RB89" fb="RB89" ppth="Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede"/>
+	</s>
+	<s id="-6894273457456939346-2606040726-3">
+		<tl t="p" o="TDHS" c="Bus" n="4523"/>
+		<ar pt="2606040827" pp="" l="S5" fb="Bus S5" ppth="Steinheim(Westf)|Altenbeken"/>
+	</s>
+	<s id="-6052217188444403770-2606040835-1">
+		<tl t="p" o="TDHS" c="Bus" n="4544"/>
+		<dp pt="2606040835" pp="" l="S5" fb="Bus S5" ppth="Altenbeken|Steinheim(Westf)"/>
+	</s>
+	<s id="9033658099060574167-2606040807-2">
+		<tl t="p" o="NX" c="Bus" n="7116"/>
+		<ar pt="2606040835" pp="" l="RE11" fb="Bus RE11" ppth="Altenbeken"/>
+	</s>
+	<s id="-5517933396473578784-2606040851-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90062"/>
+		<dp pt="2606040851" pp="1" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest"/>
+	</s>
+	<s id="-2261786356985578425-2606040843-1">
+		<tl t="p" o="R2" c="Bus" n="7472"/>
+		<dp pt="2606040843" pp="" l="RB72" fb="Bus RB72" ppth="Steinheim-Sandebeck|Sandebeck Gasthaus, Steinheim (Westf)|Leopoldstal"/>
+	</s>
+	<s id="-7612576321856903231-2606040821-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="92012"/>
+		<dp pt="2606040821" pp="2" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest"/>
+	</s>
+	<s id="-1105809974750318871-2606040823-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75020"/>
+		<dp pt="2606040823" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+</timetable>
