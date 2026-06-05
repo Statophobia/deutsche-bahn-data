@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Paderborn Hbf">
+	<s id="-5495068746877119522-2606050643-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75010"/>
+		<dp pt="2606050643" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Sennelager|Hövelhof|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="2547642702221281203-2606050525-4">
+		<tl t="p" o="TDHS" c="Bus" n="45191"/>
+		<ar pt="2606050635" pp="" l="S5" fb="Bus S5" ppth="Schieder|Steinheim(Westf)|Altenbeken"/>
+	</s>
+	<s id="-5663571335445963583-2606050635-1">
+		<tl t="p" o="TDHS" c="Bus" n="4536"/>
+		<dp pt="2606050635" pp="" l="S5" fb="Bus S5" ppth="Altenbeken|Steinheim(Westf)"/>
+	</s>
+	<s id="-3053439672217127095-2606050613-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75006"/>
+		<dp pt="2606050613" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="-1967811866570216438-2606050604-11">
+		<tl f="D" t="p" o="N1" c="NWB" n="75007"/>
+		<ar pt="2606050657" pp="5" l="RB74" fb="RB74" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Bielefeld-Senne|Bielefeld-Windelsbleiche|Bielefeld-Sennestadt|Schloß Holte|Hövelhof|Paderborn-Sennelager|Paderborn Nord|Paderborn Kasseler Tor"/>
+	</s>
+	<s id="-5959124233921531424-2606050643-1">
+		<tl t="p" o="R2" c="Bus" n="7464"/>
+		<dp pt="2606050643" pp="" l="RB72" fb="Bus RB72" ppth="Steinheim-Sandebeck|Sandebeck Gasthaus, Steinheim (Westf)|Leopoldstal"/>
+	</s>
+	<s id="6825193811777766331-2606050624-1">
+		<tl t="p" o="NX" c="Bus" n="8144"/>
+		<dp pt="2606050624" pp="" l="RE11" fb="Bus RE11" ppth="Altenbeken"/>
+	</s>
+	<s id="7824984472629087791-2606050603-9">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="91567"/>
+		<ar pt="2606050640" pp="3 West" l="RB89" fb="RB89" ppth="Soest|Bad Sassendorf|Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede"/>
+	</s>
+	<s id="2243939785277942434-2606050534-12">
+		<tl f="D" t="p" o="N1" c="NWB" n="75003"/>
+		<ar pt="2606050627" pp="5" l="RB74" fb="RB74" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Bielefeld-Senne|Bielefeld-Windelsbleiche|Bielefeld-Sennestadt|Schloß Holte|Hövelriege|Hövelhof|Paderborn-Schloss Neuhaus|Paderborn Nord|Paderborn Kasseler Tor"/>
+	</s>
+	<s id="-2989965998040328953-2606050621-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="92008"/>
+		<dp pt="2606050621" pp="3 West" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest"/>
+	</s>
+	<s id="-9031601534332621698-2606050651-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="92150"/>
+		<dp pt="2606050651" pp="3 West" l="RB89" fb="RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt|Bad Sassendorf|Soest"/>
+	</s>
+</timetable>
