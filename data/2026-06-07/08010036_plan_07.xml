@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Lichtenberg">
+	<s id="-2471868602210457114-2606070638-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18204"/>
+		<ar pt="2606070722" pp="22" l="RB32" fb="RB32" ppth="Ludwigsfelde|Birkengrund|Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+	</s>
+	<s id="-3558411555276896267-2606070743-1">
+		<tl f="N" t="p" o="800158" c="RE" n="34982"/>
+		<dp pt="2606070743" pp="" l="RE5" fb="RE5" pde="Stralsund Hbf" ppth="Berlin-Hohenschönhausen|Oranienburg"/>
+	</s>
+	<s id="-271175603234919358-2606070709-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18306"/>
+		<ar pt="2606070745" pp="16" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2606070747" pp="16" l="RB24" fb="RB24" ppth="Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="4721080259954202978-2606070704-8">
+		<tl t="p" o="NBRB25" c="NEB" n="61254"/>
+		<ar pt="2606070735" pp="17" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde"/>
+		<dp pt="2606070739" pp="17" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-7125286091566067342-2606070628-10">
+		<tl t="p" o="NBRB26" c="NEB" n="5154"/>
+		<ar pt="2606070724" pp="15" l="RB26" fb="RB26" ppth="Seelow-Gusow|Alt Rosenthal|Trebnitz(Mark)|Obersdorf|Müncheberg(Mark)|Rehfelde|Herrensee|Strausberg|Berlin-Mahlsdorf"/>
+	</s>
+	<s id="-4806817207890998144-2606062316-10">
+		<tl f="F" t="p" o="80" c="ICE" n="904"/>
+		<ar pt="2606070726" pp="" fb="ICE 904" wings="3608565271589681000-2606062316" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Erfurt Hbf|Naumburg(Saale)Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf"/>
+	</s>
+	<s id="-344924513865822897-2606070741-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18207"/>
+		<dp pt="2606070741" pp="22" l="RB32" fb="RB32" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER|Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="2922285673163162129-2606070635-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18307"/>
+		<ar pt="2606070715" pp="22" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen"/>
+		<dp pt="2606070717" pp="22" l="RB24" fb="RB24" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="3723548359547754487-2606070738-1">
+		<tl t="p" o="NBRB26" c="NEB" n="5155"/>
+		<dp pt="2606070738" pp="15" l="RB26" fb="RB26" ppth="Berlin-Mahlsdorf|Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)|Obersdorf|Trebnitz(Mark)|Alt Rosenthal|Seelow-Gusow"/>
+	</s>
+	<s id="6954715767534540024-2606070722-2">
+		<tl t="p" o="NBRB25" c="NEB" n="61185"/>
+		<ar pt="2606070725" pp="17" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+		<dp pt="2606070729" pp="17" l="RB25" fb="RB25" ppth="Ahrensfelde|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen"/>
+	</s>
+	<s id="-4747710214428045864-2606070640-3">
+		<tl f="N" t="p" o="800158" c="RE" n="34920"/>
+		<ar pt="2606070710" pp="" l="RE5" fb="RE5" pde="Neustrelitz Hbf" ppth="Oranienburg|Berlin-Hohenschönhausen"/>
+	</s>
+</timetable>
