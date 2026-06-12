@@ -1,0 +1,1375 @@
+<?xml version="1.0" ?><timetable station="Berlin Friedrichstraße" eva="8011306">
+
+<s id="-1672713281706506555-2606122212-1" eva="8011306">
+    <dp ct="2606122213" l="S1B"/>
+</s>
+
+
+<s id="5822388474533008951-2606122132-14" eva="8011306">
+    <ar ct="2606122302" l="RE1">
+        <m id="r59952939" t="d" c="48" ts="2606122158" ts-tts="26-06-12 21:58:26.123"/>
+    </ar>
+    <dp ct="2606122303" l="RE1">
+        <m id="r59952939" t="d" c="48" ts="2606122158" ts-tts="26-06-12 21:58:26.123"/>
+    </dp>
+</s>
+
+
+<s id="612366278194031955-2606122103-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2606122231" cs="p" clt="2606122104" l="RE2">
+        <m id="r59822501" t="d" c="42" ts="2606120031" ts-tts="26-06-12 00:31:58.235"/>
+        <m id="r59949216" t="f" c="0" ts="2606122104" ts-tts="26-06-12 21:04:25.561"/>
+        <m id="r59949427" t="f" c="0" ts="2606122107" ts-tts="26-06-12 21:07:48.743"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Hennigsdorf(b Berlin)" ct="2606122233" cs="p" clt="2606122104" l="RE2">
+        <m id="r59822501" t="d" c="42" ts="2606120031" ts-tts="26-06-12 00:31:58.235"/>
+        <m id="r59949216" t="f" c="0" ts="2606122104" ts-tts="26-06-12 21:04:25.561"/>
+        <m id="r59949427" t="f" c="0" ts="2606122107" ts-tts="26-06-12 21:07:48.743"/>
+    </dp>
+</s>
+
+
+<s id="6709817258906874136-2606122003-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ppth="Cottbus Hbf|Kolkwitz|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="3" ct="2606122219" pt="2606122132" l="RE2" fb="RE2">
+        <m id="r59926615" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:03:48.684"/>
+        <m id="r59934148" t="d" c="48" ts="2606121853" ts-tts="26-06-12 18:53:11.310"/>
+        <m id="r59951605" t="d" c="43" ts="2606122132" ts-tts="26-06-12 21:32:16.147"/>
+    </ar>
+    <dp ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Hennigsdorf(b Berlin)" pp="3" ct="2606122220" pt="2606122133" l="RE2" fb="RE2">
+        <m id="r59926615" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:03:48.684"/>
+        <m id="r59934148" t="d" c="48" ts="2606121853" ts-tts="26-06-12 18:53:11.310"/>
+        <m id="r59951605" t="d" c="43" ts="2606122132" ts-tts="26-06-12 21:32:16.147"/>
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3135"/>
+</s>
+
+
+<s id="-2189282590308044060-2606122035-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606122142" l="RE2">
+        <m id="r59822216" t="d" c="42" ts="2606120025" ts-tts="26-06-12 00:25:17.749"/>
+        <m id="r59878353" t="f" c="0" ts="2606121240" ts-tts="26-06-12 12:40:13.891"/>
+        <m id="r59939308" t="q" c="95" ts="2606121929" ts-tts="26-06-12 19:29:37.176"/>
+        <m id="r59953728" t="f" c="0" ts="2606122206" ts-tts="26-06-12 22:06:59.730"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" cp="2" ct="2606122143" l="RE2">
+        <m id="r59822216" t="d" c="42" ts="2606120025" ts-tts="26-06-12 00:25:17.749"/>
+        <m id="r59878353" t="f" c="0" ts="2606121240" ts-tts="26-06-12 12:40:13.891"/>
+        <m id="r59939308" t="q" c="95" ts="2606121929" ts-tts="26-06-12 19:29:37.176"/>
+        <m id="r59953728" t="f" c="0" ts="2606122206" ts-tts="26-06-12 22:06:59.730"/>
+    </dp>
+</s>
+
+
+<s id="3089420339552489300-2606122032-14" eva="8011306">
+    <ar ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="3" ct="2606122221" pt="2606122150" l="RE1" fb="RE1">
+        <m id="r59945864" t="d" c="48" ts="2606122031" ts-tts="26-06-12 20:31:48.139"/>
+    </ar>
+    <dp ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf" pp="3" ct="2606122222" pt="2606122151" l="RE1" fb="RE1">
+        <m id="r59945864" t="d" c="48" ts="2606122031" ts-tts="26-06-12 20:31:48.139"/>
+    </dp>
+    <tl f="D" t="p" o="OWRE" c="OE" n="73790"/>
+</s>
+
+
+<s id="7035209816659338176-2606122107-19" eva="8011306">
+    <ar ct="2606122304" l="RE1">
+        <m id="r59951610" t="d" c="45" ts="2606122132" ts-tts="26-06-12 21:32:31.700"/>
+    </ar>
+    <dp ct="2606122305" l="RE1">
+        <m id="r59951610" t="d" c="45" ts="2606122132" ts-tts="26-06-12 21:32:31.700"/>
+    </dp>
+</s>
+
+
+<s id="1144018718150522635-2606122012-17" eva="8011306">
+    <ar ct="2606122201" l="RE1"/>
+    <dp ct="2606122202" l="RE1"/>
+</s>
+
+
+<s id="3164701044159078582-2606122232-1" eva="8011306">
+    <dp ct="2606122232" l="S1B"/>
+</s>
+
+
+<s id="6671021895463998450-2606122105-20" eva="8011306">
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar cp="2" ct="2606122254" l="RE7"/>
+    <dp cp="2" ct="2606122255" l="RE7"/>
+</s>
+
+
+<s id="1832688437198980020-2606122300-8" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606130008" l="RE2">
+        <m id="r59822559" t="d" c="42" ts="2606120033" ts-tts="26-06-12 00:33:15.032"/>
+        <m id="r59926660" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:04:04.494"/>
+        <m id="r59952997" t="d" c="48" ts="2606122158" ts-tts="26-06-12 21:58:57.281"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" cp="2" ct="2606130009" l="RE2">
+        <m id="r59822559" t="d" c="42" ts="2606120033" ts-tts="26-06-12 00:33:15.032"/>
+        <m id="r59926660" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:04:04.494"/>
+        <m id="r59952997" t="d" c="48" ts="2606122158" ts-tts="26-06-12 21:58:57.281"/>
+    </dp>
+</s>
+
+
+<s id="-8565722549390485823-2606122152-1" eva="8011306">
+    <dp ct="2606122153" l="S1B"/>
+</s>
+
+
+<s id="2895189258546397135-2606122226-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)" cs="c" clt="2606110741" l="RE7">
+        <m id="r59714781" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714783" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714784" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714786" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59744150" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.407"/>
+        <m id="r59952680" t="d" c="48" ts="2606122153" ts-tts="26-06-12 21:54:02.536"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2606110741" l="RE7">
+        <m id="r59714781" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714783" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714784" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59714786" t="d" c="31" ts="2606110741" ts-tts="26-06-11 07:41:25.169"/>
+        <m id="r59744150" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.407"/>
+        <m id="r59952680" t="d" c="48" ts="2606122153" ts-tts="26-06-12 21:54:02.536"/>
+    </dp>
+</s>
+
+
+<s id="-7807139520157065993-2606122005-19" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" ct="2606122150" l="RE7">
+        <m id="r59714136" t="d" c="31" ts="2606110736" ts-tts="26-06-11 07:36:16.704"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" ct="2606122151" l="RE7">
+        <m id="r59714136" t="d" c="31" ts="2606110736" ts-tts="26-06-11 07:36:16.704"/>
+    </dp>
+</s>
+
+
+<s id="-3963019265143400528-2606122044-10" eva="8011306">
+    <ar ct="2606122139" l="RE1"/>
+    <dp ct="2606122140" l="RE1"/>
+</s>
+
+
+<s id="3662268296696855709-2606122205-20" eva="8011306">
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar cp="2" ct="2606122348" l="RE7"/>
+    <dp cp="2" ct="2606122349" l="RE7"/>
+</s>
+
+
+<s id="-5328965667779335365-2606122200-12" eva="8011306">
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2606122331" l="RE2">
+        <m id="r59822605" t="d" c="42" ts="2606120034" ts-tts="26-06-12 00:34:16.469"/>
+        <m id="r59939348" t="q" c="95" ts="2606121929" ts-tts="26-06-12 19:29:52.882"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ct="2606122333" l="RE2">
+        <m id="r59822605" t="d" c="42" ts="2606120034" ts-tts="26-06-12 00:34:16.469"/>
+        <m id="r59939348" t="q" c="95" ts="2606121929" ts-tts="26-06-12 19:29:52.882"/>
+    </dp>
+</s>
+
+
+<s id="5072364414259528218-2606121805-19" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121952" l="RE7">
+        <m id="r59744148" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+        <m id="r59923690" t="d" c="21" ts="2606121744" ts-tts="26-06-12 17:44:36.881"/>
+        <m id="r59923692" t="d" c="21" ts="2606121744" ts-tts="26-06-12 17:44:36.881"/>
+        <m id="r59931544" t="d" c="48" ts="2606121834" ts-tts="26-06-12 18:34:35.166"/>
+        <m id="r59950906" t="f" c="0" ts="2606122124" ts-tts="26-06-12 21:24:28.586"/>
+    </ar>
+    <dp ct="2606121953" l="RE7">
+        <m id="r59744148" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+        <m id="r59923690" t="d" c="21" ts="2606121744" ts-tts="26-06-12 17:44:36.881"/>
+        <m id="r59923692" t="d" c="21" ts="2606121744" ts-tts="26-06-12 17:44:36.881"/>
+        <m id="r59931544" t="d" c="48" ts="2606121834" ts-tts="26-06-12 18:34:35.166"/>
+        <m id="r59950906" t="f" c="0" ts="2606122124" ts-tts="26-06-12 21:24:28.586"/>
+    </dp>
+</s>
+
+
+<s id="7749992071955110630-2606122104-4" eva="8011306">
+    <ar ct="2606122117" l="RE1"/>
+    <dp ct="2606122118" l="RE1"/>
+</s>
+
+
+<s id="-7462159504631648144-2606131335-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-548827500293612964-2606122207-19" eva="8011306">
+    <ar cp="2" ct="2606130001" l="RE1"/>
+    <dp cp="2" ct="2606130002" l="RE1"/>
+</s>
+
+
+<s id="669501661664395735-2606122321-23" eva="8011306">
+    <ar cp="2" ct="2606130125" l="RE1"/>
+    <dp cp="2" ct="2606130126" l="RE1"/>
+</s>
+
+
+<s id="-2476406278657729417-2606130042-23" eva="8011306">
+    <ar cp="2" ct="2606130240" l="RE1"/>
+    <dp cp="2" ct="2606130241" l="RE1"/>
+</s>
+
+
+<s id="576542245277508977-2606130248-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="3322611981666503815-2606130429-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="2477749981969278135-2606130413-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="219580273133535278-2606130318-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="-6590367885320235709-2606130355-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="-5863987507087835494-2606130133-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="-3963229694451964284-2606130034-5" eva="8011306">
+    <ar cp="4" l="FEX"/>
+    <dp cp="4" l="FEX"/>
+</s>
+
+
+<s id="-1619340812604015430-2606130500-4" eva="8011306">
+    <ar cp="2" l="FEX"/>
+    <dp cp="2" l="FEX"/>
+</s>
+
+
+<s id="6569327171527092899-2606130835-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="6266174848621606489-2606130535-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="5771561245514929335-2606130935-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-936722788863477927-2606130515-4" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-6203894255595430642-2606130635-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-6149130288239388797-2606130042-4" eva="8011306">
+    <ar cpth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" l="RE2">
+        <m id="r59822733" t="d" c="42" ts="2606120036" ts-tts="26-06-12 00:36:50.293"/>
+        <m id="r59822735" t="d" c="42" ts="2606120036" ts-tts="26-06-12 00:36:50.293"/>
+        <m id="r59827164" t="d" c="42" ts="2606120238" ts-tts="26-06-12 02:38:05.012"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" cp="2" l="RE2">
+        <m id="r59822733" t="d" c="42" ts="2606120036" ts-tts="26-06-12 00:36:50.293"/>
+        <m id="r59822735" t="d" c="42" ts="2606120036" ts-tts="26-06-12 00:36:50.293"/>
+        <m id="r59827164" t="d" c="42" ts="2606120238" ts-tts="26-06-12 02:38:05.012"/>
+    </dp>
+</s>
+
+
+<s id="-5449330241211853569-2606130735-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-2975196180293385461-2606131135-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-1430869917883125442-2606122323-20" eva="8011306">
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar cp="2" l="RE7"/>
+    <dp cp="2" l="RE7"/>
+</s>
+
+
+<s id="-1150851656558945396-2606131235-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="-1124956518718691219-2606131035-7" eva="8011306">
+    <ar cp="2" l="RE2"/>
+    <dp cp="2" l="RE2"/>
+</s>
+
+
+<s id="4930255775559768785-2606121914-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606122112" l="RE7">
+        <m id="r59743796" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.479"/>
+        <m id="r59939509" t="d" c="44" ts="2606121930" ts-tts="26-06-12 19:30:55.430"/>
+        <m id="r59946447" t="f" c="0" ts="2606122038" ts-tts="26-06-12 20:38:50.656"/>
+    </ar>
+    <dp ct="2606122113" l="RE7">
+        <m id="r59743796" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.479"/>
+        <m id="r59939509" t="d" c="44" ts="2606121930" ts-tts="26-06-12 19:30:55.430"/>
+        <m id="r59946447" t="f" c="0" ts="2606122038" ts-tts="26-06-12 20:38:50.656"/>
+    </dp>
+</s>
+
+
+<s id="208525135596944195-2606130353-15" eva="8011306">
+    <ar cpth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" l="RE7">
+        <m id="r59857342" t="d" c="31" ts="2606121000" ts-tts="26-06-12 10:00:14.226"/>
+        <m id="r59949680" t="f" c="0" ts="2606122112" ts-tts="26-06-12 21:12:45.378"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig|Wiesenburg(Mark)|Medewitz(Mark)|Jeber-Bergfrieden|Roßlau(Elbe)|Dessau Hbf" l="RE7">
+        <m id="r59857342" t="d" c="31" ts="2606121000" ts-tts="26-06-12 10:00:14.226"/>
+        <m id="r59949680" t="f" c="0" ts="2606122112" ts-tts="26-06-12 21:12:45.378"/>
+    </dp>
+</s>
+
+
+<s id="-8301258216865380478-2606121912-17" eva="8011306">
+    <ar ct="2606122108" l="RE1">
+        <m id="r59907295" t="q" c="82" ts="2606121555" ts-tts="26-06-12 15:55:30.401"/>
+        <m id="r59937366" t="q" c="88" ts="2606121915" ts-tts="26-06-12 19:15:59.301"/>
+        <m id="r59940323" t="d" c="45" ts="2606121938" ts-tts="26-06-12 19:38:30.379"/>
+        <m id="r59944089" t="d" c="31" ts="2606122014" ts-tts="26-06-12 20:14:19.778"/>
+    </ar>
+    <dp ct="2606122109" l="RE1">
+        <m id="r59907295" t="q" c="82" ts="2606121555" ts-tts="26-06-12 15:55:30.401"/>
+        <m id="r59937366" t="q" c="88" ts="2606121915" ts-tts="26-06-12 19:15:59.301"/>
+        <m id="r59940323" t="d" c="45" ts="2606121938" ts-tts="26-06-12 19:38:30.379"/>
+        <m id="r59944089" t="d" c="31" ts="2606122014" ts-tts="26-06-12 20:14:19.778"/>
+    </dp>
+</s>
+
+
+<s id="7302304532459476692-2606122138-5" eva="8011306">
+    <ar ppth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="3" ct="2606122213" pt="2606122213" l="RE7" fb="RE RE7">
+        <m id="r59815838" t="d" c="31" ts="2606112211" ts-tts="26-06-11 22:11:30.674"/>
+    </ar>
+    <dp ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig" pp="3" ct="2606122214" pt="2606122214" l="RE7" fb="RE RE7">
+        <m id="r59815838" t="d" c="31" ts="2606112211" ts-tts="26-06-11 22:11:30.674"/>
+    </dp>
+    <tl f="N" t="e" o="800165" c="RE" n="93458"/>
+</s>
+
+
+<s id="6602161626755380743-2606121942-14" eva="8011306">
+    <ar cpth="Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2606122059" l="RE1"/>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2606122100" l="RE1"/>
+</s>
+
+
+<s id="7996741227960904838-2606121705-21" eva="8011306">
+    <ar ct="2606122058" l="HBX">
+        <m id="r59928750" t="d" c="99" ts="2606121815" ts-tts="26-06-12 18:16:11.094"/>
+        <m id="r59937271" t="d" c="43" ts="2606121915" ts-tts="26-06-12 19:15:27.926"/>
+    </ar>
+    <dp ct="2606122059" l="HBX">
+        <m id="r59928750" t="d" c="99" ts="2606121815" ts-tts="26-06-12 18:16:11.094"/>
+        <m id="r59937271" t="d" c="43" ts="2606121915" ts-tts="26-06-12 19:15:27.926"/>
+    </dp>
+</s>
+
+
+<s id="6214028278583611526-2606121717-20" eva="8011306">
+    <ar ct="2606122058" l="HBX">
+        <m id="r59928749" t="d" c="99" ts="2606121815" ts-tts="26-06-12 18:15:55.365"/>
+        <m id="r59937269" t="d" c="43" ts="2606121915" ts-tts="26-06-12 19:15:27.927"/>
+    </ar>
+    <dp ct="2606122059" l="HBX">
+        <m id="r59928749" t="d" c="99" ts="2606121815" ts-tts="26-06-12 18:15:55.365"/>
+        <m id="r59937269" t="d" c="43" ts="2606121915" ts-tts="26-06-12 19:15:27.927"/>
+    </dp>
+</s>
+
+
+<s id="1923081405738379549-2606121905-20" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Dessau Hbf|Roßlau(Elbe)|Jeber-Bergfrieden|Medewitz(Mark)|Wiesenburg(Mark)|Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" ct="2606122048" l="RE7">
+        <m id="r59712985" t="d" c="31" ts="2606110727" ts-tts="26-06-11 07:27:17.484"/>
+        <m id="r59712988" t="d" c="31" ts="2606110727" ts-tts="26-06-11 07:27:17.484"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" ct="2606122049" l="RE7">
+        <m id="r59712985" t="d" c="31" ts="2606110727" ts-tts="26-06-11 07:27:17.484"/>
+        <m id="r59712988" t="d" c="31" ts="2606110727" ts-tts="26-06-11 07:27:17.484"/>
+    </dp>
+</s>
+
+
+<s id="-3637498970395766319-2606121907-7" eva="8011306">
+    <ar ct="2606122019" l="RE1">
+        <m id="r59946695" t="d" c="43" ts="2606122042" ts-tts="26-06-12 20:42:29.504"/>
+    </ar>
+    <dp ct="2606122020" l="RE1">
+        <m id="r59946695" t="d" c="43" ts="2606122042" ts-tts="26-06-12 20:42:29.504"/>
+    </dp>
+</s>
+
+
+<s id="-5504462773584275131-2606121638-14" eva="8011306">
+    <ar cp="4" ct="2606121756" l="RE1">
+        <m id="r59946600" t="d" c="43" ts="2606122040" ts-tts="26-06-12 20:40:55.576"/>
+    </ar>
+    <dp cp="4" ct="2606121757" l="RE1">
+        <m id="r59946600" t="d" c="43" ts="2606122040" ts-tts="26-06-12 20:40:55.576"/>
+    </dp>
+</s>
+
+
+<s id="265997371841578616-2606121944-10" eva="8011306">
+    <ar ct="2606122039" l="RE1"/>
+    <dp ct="2606122040" l="RE1"/>
+</s>
+
+
+<s id="-6295488363027174746-2606121807-7" eva="8011306">
+    <ar ct="2606121919" l="RE1">
+        <m id="r59946154" t="d" c="43" ts="2606122034" ts-tts="26-06-12 20:35:11.317"/>
+    </ar>
+    <dp ct="2606121920" l="RE1">
+        <m id="r59946154" t="d" c="43" ts="2606122034" ts-tts="26-06-12 20:35:11.317"/>
+    </dp>
+</s>
+
+
+<s id="8082573176163790166-2606121935-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <m id="r2636728" t="h" from="2606121935" to="2606121958" cat="Störung" ts="2606121902" ts-tts="26-06-12 19:03:08.959" pr="2"/>
+    <ar cpth="Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606122033" l="RE2">
+        <m id="r59822121" t="d" c="42" ts="2606120023" ts-tts="26-06-12 00:23:42.090"/>
+        <m id="r59931252" t="d" c="48" ts="2606121832" ts-tts="26-06-12 18:32:13.450"/>
+        <m id="r59933932" t="d" c="31" ts="2606121852" ts-tts="26-06-12 18:52:08.498"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen" cp="2" ct="2606122034" l="RE2">
+        <m id="r59822121" t="d" c="42" ts="2606120023" ts-tts="26-06-12 00:23:42.090"/>
+        <m id="r59931252" t="d" c="48" ts="2606121832" ts-tts="26-06-12 18:32:13.450"/>
+        <m id="r59933932" t="d" c="31" ts="2606121852" ts-tts="26-06-12 18:52:08.498"/>
+    </dp>
+</s>
+
+
+<s id="-7481751258611108168-2606121803-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ct="2606121932" l="RE2">
+        <m id="r59878321" t="f" c="0" ts="2606121239" ts-tts="26-06-12 12:39:42.465"/>
+        <m id="r59945894" t="f" c="0" ts="2606122032" ts-tts="26-06-12 20:32:19.654"/>
+    </ar>
+    <dp ct="2606121933" l="RE2">
+        <m id="r59878321" t="f" c="0" ts="2606121239" ts-tts="26-06-12 12:39:42.465"/>
+        <m id="r59945894" t="f" c="0" ts="2606122032" ts-tts="26-06-12 20:32:19.654"/>
+    </dp>
+</s>
+
+
+<s id="-8794803765675353829-2606130029-14" eva="8011306">
+    <ar ct="2606130145" l="RE1"/>
+    <dp ct="2606130146" l="RE1"/>
+</s>
+
+
+<s id="8953942811272684056-2606121814-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606122026" l="RE7">
+        <m id="r59743791" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59934840" t="f" c="0" ts="2606121858" ts-tts="26-06-12 18:58:25.646"/>
+        <m id="r59938000" t="d" c="43" ts="2606121920" ts-tts="26-06-12 19:20:10.975"/>
+    </ar>
+    <dp ct="2606122026" l="RE7">
+        <m id="r59743791" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59934840" t="f" c="0" ts="2606121858" ts-tts="26-06-12 18:58:25.646"/>
+        <m id="r59938000" t="d" c="43" ts="2606121920" ts-tts="26-06-12 19:20:10.975"/>
+    </dp>
+</s>
+
+
+<s id="1723053951324430102-2606121812-17" eva="8011306">
+    <ar ct="2606122024" l="RE1">
+        <m id="r59932666" t="d" c="48" ts="2606121839" ts-tts="26-06-12 18:40:05.558"/>
+        <m id="r59935889" t="d" c="31" ts="2606121903" ts-tts="26-06-12 19:03:24.804"/>
+    </ar>
+    <dp ct="2606122025" l="RE1">
+        <m id="r59932666" t="d" c="48" ts="2606121839" ts-tts="26-06-12 18:40:05.558"/>
+        <m id="r59935889" t="d" c="31" ts="2606121903" ts-tts="26-06-12 19:03:24.804"/>
+    </dp>
+</s>
+
+
+<s id="-8824173069890223016-2606122008-3" eva="8011306">
+    <ar ct="2606122017" l="RE1"/>
+    <dp ct="2606122018" l="RE1"/>
+</s>
+
+
+<s id="-1496207040924626953-2606121838-14" eva="8011306">
+    <ar ct="2606121956" l="RE1">
+        <m id="r59937920" t="d" c="45" ts="2606121919" ts-tts="26-06-12 19:19:08.119"/>
+        <m id="r59943839" t="d" c="43" ts="2606122010" ts-tts="26-06-12 20:10:56.184"/>
+    </ar>
+    <dp ct="2606121957" l="RE1">
+        <m id="r59937920" t="d" c="45" ts="2606121919" ts-tts="26-06-12 19:19:08.119"/>
+        <m id="r59943839" t="d" c="43" ts="2606122010" ts-tts="26-06-12 20:10:56.184"/>
+    </dp>
+</s>
+
+
+<s id="-2252103035535779196-2606121834-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" pp="1" ct="2606122008" pt="2606121928" l="RE2" fb="RE2">
+        <m id="r59932200" t="d" c="48" ts="2606121836" ts-tts="26-06-12 18:36:40.974"/>
+    </ar>
+    <dp ppth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Brand Tropical Islands|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Cottbus Hbf" cp="2" pp="1" ct="2606122009" pt="2606121929" l="RE2" fb="RE2">
+        <m id="r59932200" t="d" c="48" ts="2606121836" ts-tts="26-06-12 18:36:40.974"/>
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3130"/>
+</s>
+
+
+<s id="-4057670820851538580-2606121844-10" eva="8011306">
+    <ar ct="2606121939" l="RE1"/>
+    <dp ct="2606121940" l="RE1"/>
+</s>
+
+
+<s id="2091072037466272189-2606121705-20" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121856" l="RE7">
+        <m id="r59744149" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+        <m id="r59940541" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940543" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940545" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940546" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+    </ar>
+    <dp ct="2606121857" l="RE7">
+        <m id="r59744149" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+        <m id="r59940541" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940543" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940545" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+        <m id="r59940546" t="f" c="0" ts="2606121938" ts-tts="26-06-12 19:39:01.814"/>
+    </dp>
+</s>
+
+
+<s id="3465626026756246991-2606121930-3" eva="8011306">
+    <ar ct="2606121936" l="RE1"/>
+    <dp ct="2606121937" l="RE1"/>
+</s>
+
+
+<s id="4322485845231637617-2606121605-19" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121754" l="RE7">
+        <m id="r59744151" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.405"/>
+        <m id="r59940023" t="f" c="0" ts="2606121934" ts-tts="26-06-12 19:34:35.618"/>
+    </ar>
+    <dp ct="2606121755" l="RE7">
+        <m id="r59744151" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.405"/>
+        <m id="r59940023" t="f" c="0" ts="2606121934" ts-tts="26-06-12 19:34:35.618"/>
+    </dp>
+</s>
+
+
+<s id="-7495761080319270952-2606122332-14" eva="8011306">
+    <ar ct="2606130050" l="RE1"/>
+    <dp ct="2606130051" l="RE1"/>
+</s>
+
+
+<s id="-7508358264308364137-2606121714-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121922" l="RE7">
+        <m id="r59743789" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59922377" t="d" c="44" ts="2606121734" ts-tts="26-06-12 17:34:36.423"/>
+        <m id="r59927423" t="f" c="0" ts="2606121807" ts-tts="26-06-12 18:07:45.823"/>
+    </ar>
+    <dp ct="2606121923" l="RE7">
+        <m id="r59743789" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59922377" t="d" c="44" ts="2606121734" ts-tts="26-06-12 17:34:36.423"/>
+        <m id="r59927423" t="f" c="0" ts="2606121807" ts-tts="26-06-12 18:07:45.823"/>
+    </dp>
+</s>
+
+
+<s id="5087662968022840933-2606121712-17" eva="8011306">
+    <ar ct="2606121921" l="RE1">
+        <m id="r59921466" t="d" c="31" ts="2606121727" ts-tts="26-06-12 17:27:29.925"/>
+    </ar>
+    <dp ct="2606121922" l="RE1">
+        <m id="r59921466" t="d" c="31" ts="2606121727" ts-tts="26-06-12 17:27:29.925"/>
+    </dp>
+</s>
+
+
+<s id="3314512226085177726-2606121821-8" eva="8011306">
+    <ar ct="2606121917" l="RE1"/>
+    <dp ct="2606121918" l="RE1"/>
+</s>
+
+
+<s id="-1978987833853777002-2606122307-7" eva="8011306">
+    <ar ct="2606130018" l="RE1"/>
+    <dp ct="2606130019" l="RE1"/>
+</s>
+
+
+<s id="-5950036834935396817-2606121734-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" pp="1" ct="2606121901" pt="2606121828" l="RE2" fb="RE2">
+        <m id="r59827107" t="f" c="0" ts="2606120224" ts-tts="26-06-12 02:24:20.574"/>
+        <m id="r59926600" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:03:32.995"/>
+        <m id="r59933362" t="d" c="2" ts="2606121846" ts-tts="26-06-12 18:46:54.326"/>
+    </ar>
+    <dp ppth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Brand Tropical Islands|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kolkwitz|Cottbus Hbf" cp="2" pp="1" ct="2606121902" pt="2606121829" l="RE2" fb="RE2">
+        <m id="r59827107" t="f" c="0" ts="2606120224" ts-tts="26-06-12 02:24:20.574"/>
+        <m id="r59926600" t="q" c="95" ts="2606121803" ts-tts="26-06-12 18:03:32.995"/>
+        <m id="r59933362" t="d" c="2" ts="2606121846" ts-tts="26-06-12 18:46:54.326"/>
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3128"/>
+</s>
+
+
+<s id="-278981035392809330-2606121703-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2636727" t="h" from="2606121703" to="2606121923" cat="Störung" ts="2606121901" ts-tts="26-06-12 19:01:34.070" pr="2"/>
+    <ar cpth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2606121855" l="RE2">
+        <m id="r59930886" t="d" c="48" ts="2606121828" ts-tts="26-06-12 18:28:48.492"/>
+        <m id="r59933930" t="d" c="31" ts="2606121852" ts-tts="26-06-12 18:52:08.497"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Dallgow-Döberitz" ct="2606121856" l="RE2">
+        <m id="r59930886" t="d" c="48" ts="2606121828" ts-tts="26-06-12 18:28:48.492"/>
+        <m id="r59933930" t="d" c="31" ts="2606121852" ts-tts="26-06-12 18:52:08.497"/>
+    </dp>
+</s>
+
+
+<s id="-5891764396126248930-2606121738-14" eva="8011306">
+    <ar ct="2606121859" l="RE1"/>
+    <dp ct="2606121900" l="RE1"/>
+</s>
+
+
+<s id="6668239532928269881-2606121830-3" eva="8011306">
+    <ar ct="2606121852" l="RE1">
+        <m id="r59933741" t="d" c="48" ts="2606121850" ts-tts="26-06-12 18:50:49.996"/>
+    </ar>
+    <dp ct="2606121853" l="RE1">
+        <m id="r59933741" t="d" c="48" ts="2606121850" ts-tts="26-06-12 18:50:49.996"/>
+    </dp>
+</s>
+
+
+<s id="1168167159364410334-2606121903-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar cpth="Cottbus Hbf|Kunersdorf|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen" cs="c" clt="2606111317" l="RE2">
+        <m id="r59751403" t="d" c="31" ts="2606111317" ts-tts="26-06-11 13:17:17.996"/>
+        <m id="r59933653" t="f" c="0" ts="2606121849" ts-tts="26-06-12 18:50:02.771"/>
+        <m id="r59933654" t="f" c="0" ts="2606121850" ts-tts="26-06-12 18:50:02.771"/>
+        <m id="r59933655" t="f" c="0" ts="2606121850" ts-tts="26-06-12 18:50:02.771"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2606111317" l="RE2">
+        <m id="r59751403" t="d" c="31" ts="2606111317" ts-tts="26-06-11 13:17:17.996"/>
+        <m id="r59933653" t="f" c="0" ts="2606121849" ts-tts="26-06-12 18:50:02.771"/>
+        <m id="r59933654" t="f" c="0" ts="2606121850" ts-tts="26-06-12 18:50:02.771"/>
+        <m id="r59933655" t="f" c="0" ts="2606121850" ts-tts="26-06-12 18:50:02.771"/>
+    </dp>
+</s>
+
+
+<s id="-4078806881434715359-2606121745-10" eva="8011306">
+    <ar ct="2606121843" l="RE1">
+        <m id="r59933484" t="d" c="45" ts="2606121848" ts-tts="26-06-12 18:48:28.334"/>
+    </ar>
+    <dp ct="2606121844" l="RE1">
+        <m id="r59933484" t="d" c="45" ts="2606121848" ts-tts="26-06-12 18:48:28.334"/>
+    </dp>
+</s>
+
+
+<s id="-6618267023906064837-2606121612-17" eva="8011306">
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606121829" l="RE1">
+        <m id="r59908031" t="d" c="31" ts="2606121559" ts-tts="26-06-12 15:59:11.306"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)" cp="2" ct="2606121831" l="RE1">
+        <m id="r59908031" t="d" c="31" ts="2606121559" ts-tts="26-06-12 15:59:11.306"/>
+    </dp>
+</s>
+
+
+<s id="801494136601483731-2606121603-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ct="2606121745" l="RE2">
+        <m id="r59890145" t="d" c="48" ts="2606121400" ts-tts="26-06-12 14:00:26.225"/>
+        <m id="r59931806" t="f" c="0" ts="2606121835" ts-tts="26-06-12 18:35:22.193"/>
+    </ar>
+    <dp ct="2606121745" l="RE2">
+        <m id="r59890145" t="d" c="48" ts="2606121400" ts-tts="26-06-12 14:00:26.225"/>
+        <m id="r59931806" t="f" c="0" ts="2606121835" ts-tts="26-06-12 18:35:22.193"/>
+    </dp>
+</s>
+
+
+<s id="-3398774427609577763-2606121722-8" eva="8011306">
+    <ar ct="2606121833" l="RE1">
+        <m id="r59923209" t="d" c="45" ts="2606121740" ts-tts="26-06-12 17:40:55.574"/>
+    </ar>
+    <dp ct="2606121834" l="RE1">
+        <m id="r59923209" t="d" c="45" ts="2606121740" ts-tts="26-06-12 17:40:55.574"/>
+    </dp>
+</s>
+
+
+<s id="1111135787405513682-2606122232-14" eva="8011306">
+    <ar ct="2606122350" l="RE1">
+        <m id="r59907169" t="q" c="82" ts="2606121554" ts-tts="26-06-12 15:54:43.172"/>
+        <m id="r59931285" t="q" c="88" ts="2606121832" ts-tts="26-06-12 18:32:29.110"/>
+    </ar>
+    <dp ct="2606122351" l="RE1">
+        <m id="r59907169" t="q" c="82" ts="2606121554" ts-tts="26-06-12 15:54:43.172"/>
+        <m id="r59931285" t="q" c="88" ts="2606121832" ts-tts="26-06-12 18:32:29.110"/>
+    </dp>
+</s>
+
+
+<s id="1559564373463908983-2606121614-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121827" l="RE7">
+        <m id="r59743786" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59824396" t="f" c="0" ts="2606120150" ts-tts="26-06-12 01:50:26.420"/>
+        <m id="r59930897" t="f" c="0" ts="2606121829" ts-tts="26-06-12 18:29:04.349"/>
+    </ar>
+    <dp ct="2606121828" l="RE7">
+        <m id="r59743786" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.478"/>
+        <m id="r59824396" t="f" c="0" ts="2606120150" ts-tts="26-06-12 01:50:26.420"/>
+        <m id="r59930896" t="d" c="43" ts="2606121829" ts-tts="26-06-12 18:29:04.349"/>
+    </dp>
+</s>
+
+
+<s id="-1112232010571603015-2606121707-7" eva="8011306">
+    <ar ct="2606121819" l="RE1"/>
+    <dp ct="2606121820" l="RE1"/>
+</s>
+
+
+<s id="6465596103082262900-2606121727-10" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121817" l="RB23"/>
+    <dp ct="2606121818" l="RB23"/>
+</s>
+
+
+<s id="8281172890829755543-2606122215-7" eva="8011306">
+    <ar ct="2606122304" l="RE1"/>
+    <dp ct="2606122305" l="RE1"/>
+</s>
+
+
+<s id="-5353275084219714352-2606122303-20" eva="8011306">
+    <m id="r2636693" t="h" from="2606122303" to="2606130013" cat="Störung" ts="2606121716" ts-tts="26-06-12 17:16:56.265" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2606130112" l="RE2">
+        <m id="r59918079" t="d" c="42" ts="2606121709" ts-tts="26-06-12 17:09:33.367"/>
+        <m id="r59928028" t="f" c="0" ts="2606121811" ts-tts="26-06-12 18:11:42.701"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ct="2606130113" l="RE2">
+        <m id="r59918079" t="d" c="42" ts="2606121709" ts-tts="26-06-12 17:09:33.367"/>
+        <m id="r59928028" t="f" c="0" ts="2606121811" ts-tts="26-06-12 18:11:42.701"/>
+    </dp>
+</s>
+
+
+<s id="-1988527701016848619-2606121739-3" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121749" l="RB23"/>
+    <dp ct="2606121750" l="RB23"/>
+</s>
+
+
+<s id="-7039966718930086233-2606121634-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2636612" t="h" from="2606121634" to="2606121658" cat="Störung" ts="2606121442" ts-tts="26-06-12 14:42:48.787" pr="2"/>
+    <ar cpth="Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606121744" l="RE2">
+        <m id="r59895277" t="d" c="48" ts="2606121435" ts-tts="26-06-12 14:35:26.990"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Brand Tropical Islands|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Cottbus Hbf" cp="2" ct="2606121746" l="RE2">
+        <m id="r59895277" t="d" c="48" ts="2606121435" ts-tts="26-06-12 14:35:26.990"/>
+    </dp>
+</s>
+
+
+<s id="-5288888049774324788-2606122144-10" eva="8011306">
+    <ar ct="2606122239" l="RE1"/>
+    <dp ct="2606122240" l="RE1"/>
+</s>
+
+
+<s id="4869533026084016169-2606121644-10" eva="8011306">
+    <ar ct="2606121739" l="RE1"/>
+    <dp ct="2606121741" l="RE1"/>
+</s>
+
+
+<s id="8006012118938468400-2606121730-3" eva="8011306">
+    <ar cp="3" ct="2606121736" l="RE1"/>
+    <dp cp="3" ct="2606121737" l="RE1"/>
+</s>
+
+
+<s id="3838050654006744897-2606121607-7" eva="8011306">
+    <ar ct="2606121719" l="RE1"/>
+    <dp ct="2606121720" l="RE1"/>
+</s>
+
+
+<s id="-5102962010626693264-2606121622-8" eva="8011306">
+    <ar ct="2606121717" l="RE1"/>
+    <dp ct="2606121718" l="RE1"/>
+</s>
+
+
+<s id="8333558123416001035-2606121627-10" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121712" l="RB23"/>
+    <dp ct="2606121713" l="RB23"/>
+</s>
+
+
+<s id="3889310201134315391-2606121514-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121711" l="RE7">
+        <m id="r59743790" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.477"/>
+    </ar>
+    <dp ct="2606121712" l="RE7">
+        <m id="r59743790" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.477"/>
+    </dp>
+</s>
+
+
+<s id="-8197875541259442175-2606121512-17" eva="8011306">
+    <ar ct="2606121704" l="RE1">
+        <m id="r59905075" t="d" c="31" ts="2606121538" ts-tts="26-06-12 15:38:24.832"/>
+    </ar>
+    <dp ct="2606121706" l="RE1">
+        <m id="r59905075" t="d" c="31" ts="2606121538" ts-tts="26-06-12 15:38:24.832"/>
+    </dp>
+</s>
+
+
+<s id="-2713785276298912238-2606121630-3" eva="8011306">
+    <ar ct="2606121639" l="RE1">
+        <m id="r59914176" t="d" c="48" ts="2606121643" ts-tts="26-06-12 16:43:25.426"/>
+        <m id="r59916519" t="d" c="43" ts="2606121700" ts-tts="26-06-12 17:00:51.877"/>
+    </ar>
+    <dp ct="2606121641" l="RE1">
+        <m id="r59914176" t="d" c="48" ts="2606121643" ts-tts="26-06-12 16:43:25.426"/>
+        <m id="r59916519" t="d" c="43" ts="2606121700" ts-tts="26-06-12 17:00:51.877"/>
+    </dp>
+</s>
+
+
+<s id="5526534603450682084-2606121534-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar cp="2" ct="2606121635" l="RE2">
+        <m id="r59916371" t="f" c="0" ts="2606121659" ts-tts="26-06-12 16:59:17.346"/>
+        <m id="r59916393" t="f" c="0" ts="2606121659" ts-tts="26-06-12 16:59:17.346"/>
+    </ar>
+    <dp cp="2" ct="2606121636" l="RE2">
+        <m id="r59916371" t="f" c="0" ts="2606121659" ts-tts="26-06-12 16:59:17.346"/>
+        <m id="r59916393" t="f" c="0" ts="2606121659" ts-tts="26-06-12 16:59:17.346"/>
+    </dp>
+</s>
+
+
+<s id="-5867861389707898852-2606121538-14" eva="8011306">
+    <ar ct="2606121656" l="RE1">
+        <m id="r59890788" t="d" c="99" ts="2606121404" ts-tts="26-06-12 14:04:54.816"/>
+        <m id="r59907080" t="q" c="82" ts="2606121553" ts-tts="26-06-12 15:53:55.955"/>
+    </ar>
+    <dp ct="2606121658" l="RE1">
+        <m id="r59890788" t="d" c="99" ts="2606121404" ts-tts="26-06-12 14:04:54.816"/>
+        <m id="r59907080" t="q" c="82" ts="2606121553" ts-tts="26-06-12 15:53:55.955"/>
+    </dp>
+</s>
+
+
+<s id="-8982296658299132323-2606121505-20" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121648" l="RE7">
+        <m id="r59743797" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.475"/>
+        <m id="r59913007" t="f" c="0" ts="2606121637" ts-tts="26-06-12 16:37:37.616"/>
+    </ar>
+    <dp ct="2606121650" l="RE7">
+        <m id="r59743797" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.475"/>
+        <m id="r59913007" t="f" c="0" ts="2606121637" ts-tts="26-06-12 16:37:37.616"/>
+    </dp>
+</s>
+
+
+<s id="-6943119055984456103-2606121639-3" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121646" l="RB23"/>
+    <dp ct="2606121648" l="RB23"/>
+</s>
+
+
+<s id="9074417543825272152-2606121544-10" eva="8011306">
+    <ar ct="2606121644" l="RE1">
+        <m id="r59914328" t="d" c="43" ts="2606121644" ts-tts="26-06-12 16:44:13.056"/>
+    </ar>
+    <dp ct="2606121646" l="RE1">
+        <m id="r59914328" t="d" c="43" ts="2606121644" ts-tts="26-06-12 16:44:13.056"/>
+    </dp>
+</s>
+
+
+<s id="-109415403074891405-2606121407-7" eva="8011306">
+    <ar ct="2606121519" l="RE1">
+        <m id="r59914175" t="d" c="43" ts="2606121643" ts-tts="26-06-12 16:43:25.426"/>
+    </ar>
+    <dp ct="2606121520" l="RE1">
+        <m id="r59914175" t="d" c="43" ts="2606121643" ts-tts="26-06-12 16:43:25.426"/>
+    </dp>
+</s>
+
+
+<s id="-4094224466192024467-2606121503-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ct="2606121633" l="RE2">
+        <m id="r59870352" t="q" c="95" ts="2606121140" ts-tts="26-06-12 11:41:04.682"/>
+        <m id="r59891415" t="q" c="88" ts="2606121409" ts-tts="26-06-12 14:09:23.852"/>
+        <m id="r59913441" t="f" c="0" ts="2606121641" ts-tts="26-06-12 16:41:34.920"/>
+    </ar>
+    <dp ct="2606121637" l="RE2">
+        <m id="r59870352" t="q" c="95" ts="2606121140" ts-tts="26-06-12 11:41:04.682"/>
+        <m id="r59891415" t="q" c="88" ts="2606121409" ts-tts="26-06-12 14:09:23.852"/>
+        <m id="r59913441" t="f" c="0" ts="2606121641" ts-tts="26-06-12 16:41:34.920"/>
+    </dp>
+</s>
+
+
+<s id="231917818137011807-2606121414-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121625" l="RE7">
+        <m id="r59743784" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.477"/>
+        <m id="r59903711" t="d" c="43" ts="2606121530" ts-tts="26-06-12 15:30:30.867"/>
+        <m id="r59908410" t="f" c="0" ts="2606121603" ts-tts="26-06-12 16:04:11.091"/>
+    </ar>
+    <dp ct="2606121626" l="RE7">
+        <m id="r59743784" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.477"/>
+        <m id="r59903711" t="d" c="43" ts="2606121530" ts-tts="26-06-12 15:30:30.867"/>
+        <m id="r59908410" t="f" c="0" ts="2606121603" ts-tts="26-06-12 16:04:11.091"/>
+    </dp>
+</s>
+
+
+<s id="-359164097413752423-2606121522-8" eva="8011306">
+    <ar ct="2606121620" l="RE1">
+        <m id="r59909728" t="d" c="43" ts="2606121612" ts-tts="26-06-12 16:12:36.554"/>
+    </ar>
+    <dp ct="2606121621" l="RE1">
+        <m id="r59909728" t="d" c="43" ts="2606121612" ts-tts="26-06-12 16:12:36.554"/>
+    </dp>
+</s>
+
+
+<s id="-1817533299523359204-2606121507-7" eva="8011306">
+    <ar ct="2606121619" l="RE1">
+        <m id="r59908686" t="d" c="43" ts="2606121606" ts-tts="26-06-12 16:06:48.817"/>
+    </ar>
+    <dp ct="2606121620" l="RE1">
+        <m id="r59908686" t="d" c="43" ts="2606121606" ts-tts="26-06-12 16:06:48.817"/>
+    </dp>
+</s>
+
+
+<s id="-7765653336356852747-2606121527-10" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121617" l="RB23"/>
+    <dp ct="2606121618" l="RB23"/>
+</s>
+
+
+<s id="8510220935223586141-2606122014-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)" cs="c" clt="2606110742" l="RE7">
+        <m id="r59714866" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714868" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714869" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714871" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59744147" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2606110742" l="RE7">
+        <m id="r59714866" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714868" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714869" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59714871" t="d" c="31" ts="2606110742" ts-tts="26-06-11 07:42:11.480"/>
+        <m id="r59744147" t="f" c="0" ts="2606111209" ts-tts="26-06-11 12:09:27.406"/>
+    </dp>
+</s>
+
+
+<s id="-8784812517696267066-2606122202-8" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2635296" t="h" from="2606100926" to="2606140500" cat="Störung" ts="2606100931" ts-tts="26-06-12 16:16:03.970" pr="2"/>
+    <ar cpth="" cp="1" cs="c" clt="2606120741" l="RE2">
+        <m id="r59822297" t="d" c="42" ts="2606120026" ts-tts="26-06-12 00:26:50.405"/>
+        <m id="r59841631" t="f" c="0" ts="2606120741" ts-tts="26-06-12 07:41:16.204"/>
+    </ar>
+    <dp cpth="" cp="1" cs="c" clt="2606120741" l="RE2">
+        <m id="r59822297" t="d" c="42" ts="2606120026" ts-tts="26-06-12 00:26:50.405"/>
+        <m id="r59841631" t="f" c="0" ts="2606120741" ts-tts="26-06-12 07:41:16.204"/>
+    </dp>
+</s>
+
+
+<s id="8036398111070404033-2606121403-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2636611" t="h" from="2606121403" to="2606121623" cat="Störung" ts="2606121441" ts-tts="26-06-12 14:41:29.946" pr="2"/>
+    <ar cpth="Cottbus Hbf|Kolkwitz|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ppth="Cottbus Hbf|Kolkwitz|Vetschau|Raddusch|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="3" ct="2606121611" pt="2606121532" l="RE2" fb="RE2">
+        <m id="r59889304" t="d" c="48" ts="2606121356" ts-tts="26-06-12 13:56:45.072"/>
+        <m id="r59889812" t="f" c="0" ts="2606121358" ts-tts="26-06-12 13:58:51.809"/>
+        <m id="r59895276" t="f" c="0" ts="2606121435" ts-tts="26-06-12 14:35:26.989"/>
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Dallgow-Döberitz" ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau|Dallgow-Döberitz|Hennigsdorf(b Berlin)" pp="3" ct="2606121612" pt="2606121533" l="RE2" fb="RE2">
+        <m id="r59889304" t="d" c="48" ts="2606121356" ts-tts="26-06-12 13:56:45.072"/>
+        <m id="r59889812" t="f" c="0" ts="2606121358" ts-tts="26-06-12 13:58:51.809"/>
+        <m id="r59895276" t="f" c="0" ts="2606121435" ts-tts="26-06-12 14:35:26.989"/>
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3123"/>
+</s>
+
+
+<s id="1552117639799451815-2606121412-17" eva="8011306">
+    <ar ct="2606121611" l="RE1">
+        <m id="r59895797" t="d" c="48" ts="2606121438" ts-tts="26-06-12 14:38:20.878"/>
+        <m id="r59897654" t="d" c="31" ts="2606121450" ts-tts="26-06-12 14:50:58.982"/>
+    </ar>
+    <dp ct="2606121612" l="RE1">
+        <m id="r59895797" t="d" c="48" ts="2606121438" ts-tts="26-06-12 14:38:20.878"/>
+        <m id="r59897654" t="d" c="31" ts="2606121450" ts-tts="26-06-12 14:50:58.982"/>
+    </dp>
+</s>
+
+
+<s id="-4743101459115365641-2606121438-14" eva="8011306">
+    <ar cp="4" ct="2606121558" l="RE1">
+        <m id="r59905450" t="d" c="45" ts="2606121539" ts-tts="26-06-12 15:39:59.342"/>
+        <m id="r59908834" t="d" c="43" ts="2606121607" ts-tts="26-06-12 16:07:36.434"/>
+        <m id="r59908835" t="d" c="43" ts="2606121607" ts-tts="26-06-12 16:07:36.434"/>
+    </ar>
+    <dp cp="4" ct="2606121559" l="RE1">
+        <m id="r59905450" t="d" c="45" ts="2606121539" ts-tts="26-06-12 15:39:59.342"/>
+        <m id="r59908834" t="d" c="43" ts="2606121607" ts-tts="26-06-12 16:07:36.434"/>
+        <m id="r59908835" t="d" c="43" ts="2606121607" ts-tts="26-06-12 16:07:36.434"/>
+    </dp>
+</s>
+
+
+<s id="-5642169278841523293-2606121435-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar cp="2" ct="2606121552" l="RE2">
+        <m id="r59903630" t="d" c="48" ts="2606121529" ts-tts="26-06-12 15:29:27.600"/>
+    </ar>
+    <dp cp="2" ct="2606121553" l="RE2">
+        <m id="r59903630" t="d" c="48" ts="2606121529" ts-tts="26-06-12 15:29:27.600"/>
+    </dp>
+</s>
+
+
+<s id="-9040815416087015657-2606121405-19" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121548" l="RE7">
+        <m id="r59743792" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.475"/>
+        <m id="r59824387" t="f" c="0" ts="2606120149" ts-tts="26-06-12 01:49:49.938"/>
+        <m id="r59865366" t="f" c="0" ts="2606121056" ts-tts="26-06-12 10:57:13.035"/>
+    </ar>
+    <dp ct="2606121549" l="RE7">
+        <m id="r59743792" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.475"/>
+        <m id="r59824387" t="f" c="0" ts="2606120149" ts-tts="26-06-12 01:49:49.938"/>
+        <m id="r59865366" t="f" c="0" ts="2606121056" ts-tts="26-06-12 10:57:13.035"/>
+    </dp>
+</s>
+
+
+<s id="-6638511306738210069-2606121539-3" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121546" l="RB23">
+        <m id="r59824217" t="f" c="0" ts="2606120130" ts-tts="26-06-12 01:30:52.647"/>
+    </ar>
+    <dp ct="2606121548" l="RB23">
+        <m id="r59824217" t="f" c="0" ts="2606120130" ts-tts="26-06-12 01:30:52.647"/>
+    </dp>
+</s>
+
+
+<s id="1415186739806696154-2606121444-10" eva="8011306">
+    <ar ct="2606121539" l="RE1"/>
+    <dp ct="2606121540" l="RE1"/>
+</s>
+
+
+<s id="-8430764953686058188-2606121530-3" eva="8011306">
+    <ar ct="2606121536" l="RE1"/>
+    <dp ct="2606121537" l="RE1"/>
+</s>
+
+
+<s id="4275882221398348084-2606121205-19" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121348" l="RE7">
+        <m id="r59743785" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.474"/>
+        <m id="r59903851" t="f" c="0" ts="2606121531" ts-tts="26-06-12 15:31:50.057"/>
+    </ar>
+    <dp ct="2606121349" l="RE7">
+        <m id="r59743785" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.474"/>
+        <m id="r59903851" t="f" c="0" ts="2606121531" ts-tts="26-06-12 15:31:50.057"/>
+    </dp>
+</s>
+
+
+<s id="5336426014546584474-2606121314-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121522" l="RE7">
+        <m id="r59743782" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.476"/>
+        <m id="r59889035" t="d" c="43" ts="2606121353" ts-tts="26-06-12 13:54:07.960"/>
+    </ar>
+    <dp ct="2606121523" l="RE7">
+        <m id="r59743782" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.476"/>
+        <m id="r59889035" t="d" c="43" ts="2606121353" ts-tts="26-06-12 13:54:07.960"/>
+    </dp>
+</s>
+
+
+<s id="4352495000833527523-2606121422-8" eva="8011306">
+    <ar ct="2606121519" l="RE1"/>
+    <dp ct="2606121520" l="RE1"/>
+</s>
+
+
+<s id="-3055523526210207809-2606121312-17" eva="8011306">
+    <ar ct="2606121515" l="RE1">
+        <m id="r59887381" t="d" c="31" ts="2606121343" ts-tts="26-06-12 13:43:20.406"/>
+    </ar>
+    <dp ct="2606121516" l="RE1">
+        <m id="r59887381" t="d" c="31" ts="2606121343" ts-tts="26-06-12 13:43:20.406"/>
+    </dp>
+</s>
+
+
+<s id="3501923034899224808-2606121303-12" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <ar ct="2606121434" l="RE2">
+        <m id="r59889322" t="d" c="43" ts="2606121356" ts-tts="26-06-12 13:57:01.451"/>
+        <m id="r59901278" t="f" c="0" ts="2606121514" ts-tts="26-06-12 15:14:40.962"/>
+    </ar>
+    <dp ct="2606121435" l="RE2">
+        <m id="r59889322" t="d" c="43" ts="2606121356" ts-tts="26-06-12 13:57:01.451"/>
+        <m id="r59901278" t="f" c="0" ts="2606121514" ts-tts="26-06-12 15:14:40.962"/>
+    </dp>
+</s>
+
+
+<s id="6300624927669009460-2606121427-10" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121512" l="RB23"/>
+    <dp ct="2606121513" l="RB23"/>
+</s>
+
+
+<s id="-7462159504631648144-2606121335-7" eva="8011306">
+    <m id="r2635303" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606100945" ts-tts="26-06-11 23:16:05.516" pr="2"/>
+    <m id="r2636427" t="h" from="2606121335" to="2606121555" cat="Information" ts="2606121104" ts-tts="26-06-12 11:04:46.037" pr="2"/>
+    <ar cpth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" cp="2" ct="2606121449" l="RE2">
+        <m id="r59865778" t="d" c="57" ts="2606121100" ts-tts="26-06-12 11:01:07.291"/>
+        <m id="r59900265" t="f" c="0" ts="2606121508" ts-tts="26-06-12 15:08:21.606"/>
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Brand Tropical Islands|Lübben(Spreewald)|Lübbenau(Spreewald)|Raddusch|Vetschau|Kunersdorf|Kolkwitz|Cottbus Hbf" cp="2" ct="2606121450" l="RE2">
+        <m id="r59865778" t="d" c="57" ts="2606121100" ts-tts="26-06-12 11:01:07.291"/>
+        <m id="r59900265" t="f" c="0" ts="2606121508" ts-tts="26-06-12 15:08:21.606"/>
+    </dp>
+</s>
+
+
+<s id="7760332780181581568-2606121305-20" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121456" l="RE7">
+        <m id="r59743793" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.474"/>
+        <m id="r59889136" t="d" c="34" ts="2606121355" ts-tts="26-06-12 13:55:26.520"/>
+    </ar>
+    <dp ct="2606121458" l="RE7">
+        <m id="r59743793" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.474"/>
+        <m id="r59889136" t="d" c="34" ts="2606121355" ts-tts="26-06-12 13:55:26.521"/>
+    </dp>
+</s>
+
+
+<s id="3438283585839440161-2606121338-14" eva="8011306">
+    <ar ct="2606121457" l="RE1"/>
+    <dp ct="2606121458" l="RE1"/>
+</s>
+
+
+<s id="7010544903410054032-2606121238-14" eva="8011306">
+    <ar cp="4" ct="2606121356" l="RE1">
+        <m id="r59897653" t="d" c="43" ts="2606121450" ts-tts="26-06-12 14:50:58.981"/>
+    </ar>
+    <dp cp="4" ct="2606121357" l="RE1">
+        <m id="r59897653" t="d" c="43" ts="2606121450" ts-tts="26-06-12 14:50:58.981"/>
+    </dp>
+</s>
+
+
+<s id="-6025143625187241778-2606121439-3" eva="8011306">
+    <m id="r2635356" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101112" ts-tts="26-06-11 23:16:05.519" pr="2"/>
+    <ar ct="2606121446" l="RB23"/>
+    <dp ct="2606121448" l="RB23"/>
+</s>
+
+
+<s id="-5659587241312524078-2606121344-10" eva="8011306">
+    <ar ct="2606121441" l="RE1"/>
+    <dp ct="2606121442" l="RE1"/>
+</s>
+
+
+<s id="-5047686115083329217-2606121426-4" eva="8011306">
+    <ar ct="2606121437" l="RE1"/>
+    <dp ct="2606121438" l="RE1"/>
+</s>
+
+
+<s id="-886763192470664001-2606121307-7" eva="8011306">
+    <ar ct="2606121419" l="RE1"/>
+    <dp ct="2606121420" l="RE1"/>
+</s>
+
+
+<s id="-2981426511891322637-2606121214-21" eva="8011306">
+    <m id="r2635344" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101049" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+    <ar ct="2606121412" l="RE7">
+        <m id="r59743787" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.476"/>
+        <m id="r59879558" t="d" c="21" ts="2606121245" ts-tts="26-06-12 12:45:44.758"/>
+    </ar>
+    <dp ct="2606121413" l="RE7">
+        <m id="r59743787" t="f" c="0" ts="2606111206" ts-tts="26-06-11 12:06:50.476"/>
+        <m id="r59879558" t="d" c="21" ts="2606121245" ts-tts="26-06-12 12:45:44.758"/>
+    </dp>
+</s>
+
+
+<s id="9006537061621970970-2606121212-17" eva="8011306">
+    <ar ct="2606121407" l="RE1">
+        <m id="r59881213" t="d" c="31" ts="2606121253" ts-tts="26-06-12 12:53:22.168"/>
+    </ar>
+    <dp ct="2606121409" l="RE1">
+        <m id="r59881213" t="d" c="31" ts="2606121253" ts-tts="26-06-12 12:53:22.168"/>
+    </dp>
+</s>
+
+
+<s id="7302304532459476692-2606132138-5" eva="8011306">
+    <ar ppth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="3" pt="2606132213" l="RE7" fb="RE RE7"/>
+    <dp ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig" pp="3" pt="2606132214" l="RE7" fb="RE RE7"/>
+    <tl f="N" t="e" o="800165" c="RE" n="93458"/>
+</s>
+
+
+<s id="7106596216782637287-2606122342-5" eva="8011306">
+    <m id="r2635339" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101043" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+</s>
+
+
+<s id="1803816001739031859-2606122310-5" eva="8011306">
+    <m id="r2635339" t="h" from="2606100846" to="2606132359" cat="Information" ts="2606101043" ts-tts="26-06-11 23:16:05.518" pr="2"/>
+</s>
+
+
+<s id="-7086205197014788988-2606122304-3" eva="8011306">
+    <m id="r2564409" t="h" from="2605100300" to="2607062359" cat="Information" ts="2605092303" ts-tts="26-06-11 23:16:04.878" pr="2"/>
+</s>
+
+
+<s id="6701689100275155562-2606122351-5" eva="8011306">
+    <ar ppth="Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" pp="4" pt="2606130024" l="RE7" fb="RE RE7"/>
+    <dp ppth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig" pp="4" pt="2606130025" l="RE7" fb="RE RE7"/>
+    <tl f="N" t="e" o="800165" c="RE" n="93459"/>
+</s>
+
+</timetable>
