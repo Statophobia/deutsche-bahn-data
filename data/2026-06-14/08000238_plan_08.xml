@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-4102295084184938789-2606140734-6">
+		<tl f="D" t="p" o="R1" c="ME" n="81613"/>
+		<ar pt="2606140817" pp="6" l="RE3" fb="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-5358270556532704414-2606140836-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81612"/>
+		<dp pt="2606140836" pp="6" l="RE3" fb="RE3" ppth="Bardowick|Radbruch|Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="2186898389083649187-2606140620-10">
+		<tl t="p" o="X2" c="Bus" n="590"/>
+		<ar pt="2606140814" pp="" l="RB32" fb="Bus RB32" ppth="Dannenberg Ost|Hitzacker|Leitstade|Göhrde|Neetzendorf|Dahlenburg|Bavendorf|Vastorf|Wendisch Evern"/>
+	</s>
+	<s id="-6131884992337774005-2606140846-1">
+		<tl f="D" t="p" o="X2" c="erx" n="81591"/>
+		<dp pt="2606140846" pp="7" l="RB32" fb="RB32" ppth="Wendisch Evern|Vastorf|Bavendorf|Dahlenburg|Neetzendorf|Göhrde|Leitstade|Hitzacker|Dannenberg Ost"/>
+	</s>
+</timetable>

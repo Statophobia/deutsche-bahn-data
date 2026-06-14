@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Fulda">
+	<s id="161562725660816669-2606140720-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24214"/>
+		<dp pt="2606140720" pp="8" l="RB5" fb="RB5" ppth="Hünfeld|Burghaun(Hünfeld)|Haunetal-Neukirchen|Bad Hersfeld|Ludwigsau-Friedlos|Bebra"/>
+	</s>
+	<s id="-342227547862572707-2606140659-7">
+		<tl f="D" t="p" o="N4" c="CAN" n="24213"/>
+		<ar pt="2606140737" pp="4" l="RB5" fb="RB5" ppth="Bebra|Ludwigsau-Friedlos|Bad Hersfeld|Haunetal-Neukirchen|Burghaun(Hünfeld)|Hünfeld"/>
+	</s>
+	<s id="-3271425313576061082-2606140612-2">
+		<tl f="F" t="p" o="80" c="ICE" n="934"/>
+		<ar pt="2606140713" pp="7" fb="ICE 934" ppth="Frankfurt(Main)Hbf"/>
+		<dp pt="2606140715" pp="7" fb="ICE 934" ppth="Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen|Eberswalde Hbf|Anklam|Züssow|Greifswald|Stralsund Hbf|Bergen auf Rügen|Ostseebad Binz"/>
+	</s>
+	<s id="-253418244455472222-2606140624-13">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4502"/>
+		<ar pt="2606140748" pp="1" l="RE50" fb="RE50" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Langenselbold|Gelnhausen|Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)"/>
+	</s>
+	<s id="3103862106485361631-2606140528-5">
+		<tl f="F" t="p" o="80" c="ICE" n="896"/>
+		<ar pt="2606140741" pp="3" fb="ICE 896" ppth="Leipzig Hbf|Erfurt Hbf|Gotha|Eisenach Hbf"/>
+		<dp pt="2606140743" pp="3" fb="ICE 896" ppth="Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="2359536951309671909-2606140712-1">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4599"/>
+		<dp pt="2606140712" pp="1" l="RE50" fb="RE50" ppth="Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach|Gelnhausen|Langenselbold|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Hbf"/>
+	</s>
+</timetable>
