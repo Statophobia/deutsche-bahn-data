@@ -1,33 +1,12 @@
 <?xml version="1.0" ?>
 <timetable station="Leipzig Hbf">
-	<s id="1143924907779663459-2606161733-6">
-		<tl t="p" o="FLX10" c="FLX" n="1247"/>
-		<ar pt="2606162130" pp="14" l="10" fb="FLX 1247" ppth="Hamburg Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf"/>
-	</s>
-	<s id="4285732611348585814-2606162132-1">
-		<tl f="N" t="p" o="800413" c="RB" n="16695"/>
-		<dp pt="2606162132" pp="22" l="RB113" fb="RB113" ppth="Leipzig-Paunsdorf|Leipzig Werkstättenstraße|Leipzig-Mölkau|Leipzig-Holzhausen|Leipzig-Liebertwolkwitz|Großpösna|Oberholz|Belgershain|Otterwisch|Lauterbach-Steinbach|Bad Lausick|Hopfgarten(Sachs)|Tautenhain|Geithain"/>
-	</s>
-	<s id="8251367282869247131-2606162112-1">
-		<tl f="N" t="p" o="800166" c="RE" n="18396"/>
-		<dp pt="2606162112" pp="10" l="RE10" fb="RE10" ppth="Taucha(Leipzig)|Eilenburg|Torgau|Beilrode|Falkenberg(Elster)|Doberlug-Kirchhain|Finsterwalde(Niederlausitz)|Calau(Nl)|Cottbus Hbf"/>
-	</s>
-	<s id="-2875979624331062252-2606161628-14">
-		<tl f="F" t="p" o="80" c="IC" n="2045"/>
-		<ar pt="2606162117" pp="15" fb="IC 2045" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen"/>
-		<dp pt="2606162138" pp="15" fb="IC 2045" ppth="Riesa|Dresden-Neustadt|Dresden Hbf"/>
-	</s>
-	<s id="3941353015392791873-2606162022-4">
-		<tl f="F" t="p" o="80" c="IC" n="2248"/>
-		<ar pt="2606162135" pp="13" fb="IC 2248" ppth="Dresden Hbf|Dresden-Neustadt|Riesa"/>
-	</s>
-	<s id="-6862256799013919229-2606162121-1">
-		<tl f="D" t="p" o="CXRE" c="MRB" n="74192"/>
-		<dp pt="2606162121" pp="23" l="RE6" fb="RE6" ppth="Bad Lausick|Geithain"/>
-	</s>
 	<s id="-8149098461986911141-2606162100-1">
 		<tl f="N" t="p" o="800456" c="RE" n="16535"/>
 		<dp pt="2606162100" pp="21" l="RE50" fb="RE50" ppth="Leipzig-Engelsdorf|Borsdorf(Sachs)|Wurzen|Kühren|Dahlen(Sachs)|Oschatz|Riesa|Glaubitz(Riesa)|Nünchritz|Priestewitz|Niederau|Weinböhla Hp|Coswig(b Dresden)|Radebeul Ost|Dresden-Neustadt|Dresden Mitte|Dresden Hbf"/>
+	</s>
+	<s id="1143924907779663459-2606161733-6">
+		<tl t="p" o="FLX10" c="FLX" n="1247"/>
+		<ar pt="2606162130" pp="14" l="10" fb="FLX 1247" ppth="Hamburg Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf"/>
 	</s>
 	<s id="-9077703646276129304-2606162154-1">
 		<tl f="D" t="p" o="EB" c="EB" n="80869"/>
@@ -45,9 +24,22 @@
 		<tl f="D" t="p" o="CXRB" c="MRB" n="27756"/>
 		<dp pt="2606162143" pp="21" l="RB110" fb="RB110" ppth="Leipzig-Sellerhausen|Leipzig-Paunsdorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Beucha|Naunhof|Großsteinberg|Grimma ob Bf|Großbothen|Tanndorf|Leisnig|Klosterbuch|Westewitz-Hochweitzschen|Döbeln Hbf"/>
 	</s>
+	<s id="4285732611348585814-2606162132-1">
+		<tl f="N" t="p" o="800413" c="RB" n="16695"/>
+		<dp pt="2606162132" pp="22" l="RB113" fb="RB113" ppth="Leipzig-Paunsdorf|Leipzig Werkstättenstraße|Leipzig-Mölkau|Leipzig-Holzhausen|Leipzig-Liebertwolkwitz|Großpösna|Oberholz|Belgershain|Otterwisch|Lauterbach-Steinbach|Bad Lausick|Hopfgarten(Sachs)|Tautenhain|Geithain"/>
+	</s>
 	<s id="5784217631103465561-2606161903-21">
 		<tl f="D" t="p" o="EX" c="EB" n="80868"/>
 		<ar pt="2606162105" pp="8" l="RE12" fb="RE12" ppth="Saalfeld(Saale)|Könitz(Thür)|Pößneck ob Bf|Neustadt(Orla)|Triptis|Niederpöllnitz|Weida|Gera-Zwötzen|Gera Süd|Gera Hbf|Gera-Langenberg|Bad Köstritz|Crossen Ort|Wetterzeube|Zeitz|Profen|Pegau|Zwenkau-Großdalzig|Leipzig-Knauthain|Leipzig-Plagwitz"/>
+	</s>
+	<s id="8251367282869247131-2606162112-1">
+		<tl f="N" t="p" o="800166" c="RE" n="18396"/>
+		<dp pt="2606162112" pp="10" l="RE10" fb="RE10" ppth="Taucha(Leipzig)|Eilenburg|Torgau|Beilrode|Falkenberg(Elster)|Doberlug-Kirchhain|Finsterwalde(Niederlausitz)|Calau(Nl)|Cottbus Hbf"/>
+	</s>
+	<s id="-2875979624331062252-2606161628-14">
+		<tl f="F" t="p" o="80" c="IC" n="2045"/>
+		<ar pt="2606162117" pp="15" fb="IC 2045" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Bad Oeynhausen|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Köthen|Halle(Saale)Hbf|Leipzig/Halle Flughafen"/>
+		<dp pt="2606162138" pp="15" fb="IC 2045" ppth="Riesa|Dresden-Neustadt|Dresden Hbf"/>
 	</s>
 	<s id="1026453642466058867-2606161812-5">
 		<tl f="F" t="p" o="80" c="ICE" n="832"/>
@@ -65,5 +57,13 @@
 	<s id="-7376546056820340077-2606162012-18">
 		<tl f="N" t="p" o="800456" c="RE" n="16532"/>
 		<ar pt="2606162150" pp="21" l="RE50" fb="RE50" ppth="Dresden Hbf|Dresden Mitte|Dresden-Neustadt|Radebeul Ost|Coswig(b Dresden)|Weinböhla Hp|Niederau|Priestewitz|Nünchritz|Glaubitz(Riesa)|Riesa|Oschatz|Dahlen(Sachs)|Kühren|Wurzen|Borsdorf(Sachs)|Leipzig-Engelsdorf"/>
+	</s>
+	<s id="3941353015392791873-2606162022-4">
+		<tl f="F" t="p" o="80" c="IC" n="2248"/>
+		<ar pt="2606162135" pp="13" fb="IC 2248" ppth="Dresden Hbf|Dresden-Neustadt|Riesa"/>
+	</s>
+	<s id="-6862256799013919229-2606162121-1">
+		<tl f="D" t="p" o="CXRE" c="MRB" n="74192"/>
+		<dp pt="2606162121" pp="23" l="RE6" fb="RE6" ppth="Bad Lausick|Geithain"/>
 	</s>
 </timetable>

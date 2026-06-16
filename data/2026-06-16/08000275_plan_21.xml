@@ -1,13 +1,5 @@
 <?xml version="1.0" ?>
 <timetable station="Neustadt(Weinstr)Hbf">
-	<s id="8952642147425920321-2606162105-1">
-		<tl f="N" t="p" o="8015A6" c="RB" n="13596"/>
-		<dp pt="2606162105" pp="1a" l="RB46" fb="RB46" ppth="Neustadt-Böbig|Mußbach|Deidesheim|Wachenheim(Pfalz)|Bad Dürkheim|Bad Dürkheim-Trift|Erpolzheim|Freinsheim|Herxheim am Berg|Kirchheim(Weinstr)|Grünstadt"/>
-	</s>
-	<s id="-1956726767086430939-2606162123-9">
-		<tl f="N" t="p" o="8015A6" c="RB" n="13373"/>
-		<ar pt="2606162152" pp="1a" l="RB45" fb="RB45" ppth="Freinsheim|Erpolzheim|Bad Dürkheim-Trift|Bad Dürkheim|Wachenheim(Pfalz)|Deidesheim|Mußbach|Neustadt-Böbig"/>
-	</s>
 	<s id="2051702809136902956-2606161954-15">
 		<tl f="S" t="p" o="801539" c="S" n="38253"/>
 		<ar pt="2606162054" pp="4" l="S1" fb="S1" ppth="Homburg(Saar)Hbf|Bruchmühlbach-Miesau|Hauptstuhl|Landstuhl|Kindsbach|Einsiedlerhof|Vogelweh|Kennelgarten|Kaiserslautern Hbf|Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)"/>
@@ -35,6 +27,14 @@
 	<s id="-8256345584412033833-2606162123-7">
 		<tl f="N" t="p" o="8005L1" c="RB" n="12422"/>
 		<ar pt="2606162143" pp="4" l="RB51" fb="RB51" ppth="Landau(Pfalz)Hbf|Knöringen-Essingen|Edesheim(Pfalz)|Edenkoben|Maikammer-Kirrweiler|Neustadt(Weinstr) Süd"/>
+	</s>
+	<s id="8952642147425920321-2606162105-1">
+		<tl f="N" t="p" o="8015A6" c="RB" n="13596"/>
+		<dp pt="2606162105" pp="1a" l="RB46" fb="RB46" ppth="Neustadt-Böbig|Mußbach|Deidesheim|Wachenheim(Pfalz)|Bad Dürkheim|Bad Dürkheim-Trift|Erpolzheim|Freinsheim|Herxheim am Berg|Kirchheim(Weinstr)|Grünstadt"/>
+	</s>
+	<s id="-1956726767086430939-2606162123-9">
+		<tl f="N" t="p" o="8015A6" c="RB" n="13373"/>
+		<ar pt="2606162152" pp="1a" l="RB45" fb="RB45" ppth="Freinsheim|Erpolzheim|Bad Dürkheim-Trift|Bad Dürkheim|Wachenheim(Pfalz)|Deidesheim|Mußbach|Neustadt-Böbig"/>
 	</s>
 	<s id="2734520148016260550-2606162103-1">
 		<tl f="N" t="p" o="8005L1" c="RE" n="12043"/>
