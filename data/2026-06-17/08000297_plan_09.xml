@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Paderborn Hbf">
+	<s id="4510475739583657465-2606170842-7">
+		<tl t="p" o="R2" c="Bus" n="9247"/>
+		<ar pt="2606170955" pp="" l="RB89" fb="Bus RB89" ppth="Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede"/>
+	</s>
+	<s id="7523288411290293258-2606170826-3">
+		<tl t="p" o="TDHS" c="Bus" n="4527"/>
+		<ar pt="2606170927" pp="" l="S5" fb="Bus S5" ppth="Steinheim(Westf)|Altenbeken"/>
+	</s>
+	<s id="1459696835227079171-2606170834-12">
+		<tl f="D" t="p" o="N1" c="NWB" n="75021"/>
+		<ar pt="2606170927" pp="5" l="RB74" fb="RB74" ppth="Bielefeld Hbf|Bielefeld-Brackwede|Bielefeld-Senne|Bielefeld-Windelsbleiche|Bielefeld-Sennestadt|Schloß Holte|Hövelriege|Hövelhof|Paderborn-Schloss Neuhaus|Paderborn Nord|Paderborn Kasseler Tor"/>
+	</s>
+	<s id="7265465199023904993-2606170933-1">
+		<tl t="p" o="R2" c="Bus" n="9220"/>
+		<dp pt="2606170933" pp="" l="RB89" fb="Bus RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt"/>
+	</s>
+	<s id="9087712343163130256-2606170903-1">
+		<tl t="p" o="R2" c="Bus" n="9218"/>
+		<dp pt="2606170903" pp="" l="RB89" fb="Bus RB89" ppth="Scharmede|Salzkotten|Geseke|Geseke-Ehringhausen|Dedinghausen|Lippstadt"/>
+	</s>
+	<s id="5987405367579442704-2606170913-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="75024"/>
+		<dp pt="2606170913" pp="5" l="RB74" fb="RB74" ppth="Paderborn Kasseler Tor|Paderborn Nord|Paderborn-Schloss Neuhaus|Paderborn-Sennelager|Hövelhof|Hövelriege|Schloß Holte|Bielefeld-Sennestadt|Bielefeld-Windelsbleiche|Bielefeld-Senne|Bielefeld-Brackwede|Bielefeld Hbf"/>
+	</s>
+	<s id="-2755000476386310966-2606170736-11">
+		<tl t="p" o="NXRE" c="NX" n="26709"/>
+		<ar pt="2606170946" pp="2" l="RE11" fb="RE11" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf|Wattenscheid|Bochum Hbf|Dortmund Hbf|Soest|Lippstadt"/>
+		<dp pt="2606170948" pp="2" l="RE11" fb="RE11" ppth="Altenbeken|Willebadessen|Warburg(Westf)|Hofgeismar|Kassel-Wilhelmshöhe"/>
+	</s>
+	<s id="-5410895322071236729-2606170803-6">
+		<tl t="p" o="NXRE" c="NX" n="26710"/>
+		<ar pt="2606170910" pp="1" l="RE11" fb="RE11" ppth="Kassel-Wilhelmshöhe|Hofgeismar|Warburg(Westf)|Willebadessen|Altenbeken"/>
+		<dp pt="2606170912" pp="1" l="RE11" fb="RE11" ppth="Lippstadt|Soest|Hamm(Westf)Hbf|Kamen|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="1798528423074304911-2606170935-1">
+		<tl t="p" o="TDHS" c="Bus" n="4548"/>
+		<dp pt="2606170935" pp="" l="S5" fb="Bus S5" ppth="Altenbeken|Steinheim(Westf)"/>
+	</s>
+	<s id="-8311385190308435897-2606170812-7">
+		<tl t="p" o="R2" c="Bus" n="9245"/>
+		<ar pt="2606170925" pp="" l="RB89" fb="Bus RB89" ppth="Lippstadt|Dedinghausen|Geseke-Ehringhausen|Geseke|Salzkotten|Scharmede"/>
+	</s>
+	<s id="-8511769662633131620-2606170823-4">
+		<tl t="p" o="R2" c="Bus" n="7477"/>
+		<ar pt="2606170920" pp="" l="RB72" fb="Bus RB72" ppth="Leopoldstal|Sandebeck Gasthaus, Steinheim (Westf)|Steinheim-Sandebeck"/>
+	</s>
+	<s id="-5027447483164501666-2606170943-1">
+		<tl t="p" o="R2" c="Bus" n="7476"/>
+		<dp pt="2606170943" pp="" l="RB72" fb="Bus RB72" ppth="Steinheim-Sandebeck|Sandebeck Gasthaus, Steinheim (Westf)|Leopoldstal"/>
+	</s>
+</timetable>
