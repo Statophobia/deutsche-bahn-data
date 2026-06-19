@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<timetable station="Landshut(Bay)Hbf">
+	<s id="1877021452757533723-2606190554-17">
+		<tl f="N" t="p" o="8013D" c="RB" n="27605"/>
+		<ar pt="2606190719" pp="3" l="RB32" fb="RB32" tra="-4269321884350482154-2606190737-1" ppth="Bogen|Sand(Niederbay)|Straubing Hafen|Ittling|Straubing-Ost|Straubing|Radldorf(Niederbay)|Perkam|Geiselhöring|Sallach|Laberweinting|Mallersdorf|Niederlindhart|Oberlindhart|Neufahrn(Niederbay)|Ergoldsbach"/>
+	</s>
+	<s id="5557022735524963812-2606190708-6">
+		<tl f="N" t="p" o="800767" c="RE" n="57908"/>
+		<ar pt="2606190744" pp="5" l="RE22" fb="RE22" ppth="München Flughafen Terminal|Freising|Marzling|Langenbach(Oberbay)|Moosburg"/>
+		<dp pt="2606190746" pp="5" l="RE22" fb="RE22" ppth="Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Hagelstadt|Köfering|Obertraubling|Regensburg-Burgweinting|Regensburg Hbf"/>
+	</s>
+	<s id="8920586822398400685-2606190604-8">
+		<tl f="N" t="p" o="800767" c="RE" n="4056"/>
+		<ar pt="2606190657" pp="5" l="RE3" fb="RE3" ppth="München Hbf|Freising|Marzling|Langenbach(Oberbay)|Moosburg|Bruckberg|Gündlkofen"/>
+		<dp pt="2606190701" pp="5" l="RE3" fb="RE3" ppth="Wörth(Isar)|Dingolfing|Landau(Isar)"/>
+	</s>
+	<s id="1441411351510332107-2606190653-4">
+		<tl f="N" t="p" o="800767" c="RE" n="4055"/>
+		<ar pt="2606190725" pp="6" l="RE3" fb="RE3" ppth="Landau(Isar)|Dingolfing|Wörth(Isar)"/>
+		<dp pt="2606190728" pp="6" l="RE3" fb="RE3" ppth="Freising|München Hbf"/>
+	</s>
+	<s id="-8042207253077546780-2606190738-1">
+		<tl f="N" t="p" o="800767" c="RB" n="59243"/>
+		<dp pt="2606190738" pp="8" l="RB33" fb="RB33" ppth="Bruckberg|Moosburg|Langenbach(Oberbay)|Freising|Unterschleißheim|München-Feldmoching|München-Moosach"/>
+	</s>
+	<s id="7542800375161436240-2606190624-5">
+		<tl f="N" t="p" o="800767" c="RE" n="59297"/>
+		<ar pt="2606190708" pp="6" l="RE2" fb="RE2" ppth="Regensburg Hbf|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+		<dp pt="2606190710" pp="6" l="RE2" fb="RE2" ppth="Moosburg|Freising|München Hbf"/>
+	</s>
+	<s id="4619082931431153449-2606190644-3">
+		<tl f="D" t="p" o="A8N" c="ALX" n="353"/>
+		<ar pt="2606190727" pp="5" l="RE25" fb="RE25" ppth="München Hbf|Freising"/>
+		<dp pt="2606190729" pp="5" l="RE25" fb="RE25" pde="Praha-Vysocany" ppth="Neufahrn(Niederbay)|Regensburg Hbf|Schwandorf|Cham(Oberpf)|Furth im Wald"/>
+	</s>
+	<s id="1236900221473502089-2606190633-8">
+		<tl f="N" t="p" o="8013D" c="RB" n="27108"/>
+		<ar pt="2606190723" pp="1" l="RB45" fb="RB45" ppth="Mühldorf(Oberbay)|Neumarkt-St Veit|Egglkofen|Aich(Niederbay)|Vilsbiburg|Geisenhausen|Landshut(Bay)Süd"/>
+	</s>
+	<s id="-4054810541808184406-2606190614-7">
+		<tl f="N" t="p" o="800767" c="RE" n="57907"/>
+		<ar pt="2606190658" pp="6" l="RE22" fb="RE22" ppth="Regensburg Hbf|Obertraubling|Köfering|Hagelstadt|Eggmühl|Ergoldsbach"/>
+		<dp pt="2606190703" pp="6" l="RE22" fb="RE22" ppth="Moosburg|Freising|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="-4269321884350482154-2606190737-1">
+		<tl f="N" t="p" o="8013D" c="RB" n="27109"/>
+		<dp pt="2606190737" pp="3" l="RB44" fb="RB44" tra="1877021452757533723-2606190554-17" ppth="Landshut(Bay)Süd|Geisenhausen|Vilsbiburg|Neumarkt-St Veit|Mühldorf(Oberbay)|Waldkraiburg-Kraiburg|Jettenbach|Gars(Inn)|Soyen|Wasserburg(Inn)Bf|Ramerberg|Rott(Inn)|Schechen|Rosenheim Hochschule|Rosenheim"/>
+	</s>
+	<s id="-3165035368497776628-2606190708-10">
+		<tl f="N" t="p" o="800767" c="RB" n="59240"/>
+		<ar pt="2606190757" pp="8" l="RB33" fb="RB33" ppth="München-Moosach|München-Feldmoching|Unterschleißheim|Freising|Marzling|Langenbach(Oberbay)|Moosburg|Bruckberg|Gündlkofen"/>
+	</s>
+	<s id="5135417094580079936-2606190622-8">
+		<tl f="D" t="p" o="A8N" c="ALX" n="79862"/>
+		<ar pt="2606190748" pp="6" l="RE25" fb="RE25" ppth="Schwandorf|Maxhütte-Haidhof|Regenstauf|Regensburg Hbf|Eggmühl|Neufahrn(Niederbay)|Ergoldsbach"/>
+		<dp pt="2606190750" pp="6" l="RE25" fb="RE25" ppth="Freising|München Hbf"/>
+	</s>
+	<s id="3434956333428216063-2606190711-1">
+		<tl f="N" t="p" o="800767" c="RB" n="59236"/>
+		<dp pt="2606190711" pp="5" l="RB33" fb="RB33" ppth="Ergoldsbach|Neufahrn(Niederbay)|Eggmühl|Hagelstadt|Köfering|Obertraubling|Regensburg-Burgweinting|Regensburg Hbf"/>
+	</s>
+	<s id="-463355630186207432-2606190432-9">
+		<tl f="N" t="p" o="8007H3" c="RE" n="4855"/>
+		<ar pt="2606190730" pp="6" l="RE2" fb="RE2" ppth="Hof Hbf|Marktredwitz|Wiesau(Oberpf)|Windischeschenbach|Weiden(Oberpf)|Schwandorf|Regensburg Hbf|Neufahrn(Niederbay)"/>
+		<dp pt="2606190732" pp="6" l="RE2" fb="RE2" ppth="Freising|München Hbf"/>
+	</s>
+	<s id="-4533227628129987753-2606190654-7">
+		<tl f="N" t="p" o="800767" c="RB" n="59238"/>
+		<ar pt="2606190722" pp="8" l="RB33" fb="RB33" ppth="Freising|Marzling|Langenbach(Oberbay)|Moosburg|Bruckberg|Gündlkofen"/>
+	</s>
+</timetable>
