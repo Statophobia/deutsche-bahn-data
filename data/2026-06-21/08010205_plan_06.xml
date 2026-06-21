@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<timetable station="Leipzig Hbf">
+	<s id="124799472615284657-2606210612-1">
+		<tl f="F" t="p" o="80" c="ICE" n="606"/>
+		<dp pt="2606210612" pp="11" fb="ICE 606" ppth="Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="8746354328528054562-2606210517-5">
+		<tl f="F" t="p" o="80" c="ICE" n="2593"/>
+		<ar pt="2606210649" pp="11" fb="ICE 2593" wings="5942787974848687687-2606210517" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf"/>
+		<dp pt="2606210657" pp="11" fb="ICE 2593" wings="5942787974848687687-2606210517" ppth="Erfurt Hbf|Eisenach Hbf|Fulda|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="1756673151033213091-2606210512-18">
+		<tl f="N" t="p" o="800456" c="RE" n="16502"/>
+		<ar pt="2606210650" pp="21" l="RE50" fb="RE50" ppth="Dresden Hbf|Dresden Mitte|Dresden-Neustadt|Radebeul Ost|Coswig(b Dresden)|Weinböhla Hp|Niederau|Priestewitz|Nünchritz|Glaubitz(Riesa)|Riesa|Oschatz|Dahlen(Sachs)|Kühren|Wurzen|Borsdorf(Sachs)|Leipzig-Engelsdorf"/>
+	</s>
+	<s id="-6199411325888200524-2606210653-1">
+		<tl f="F" t="p" o="80" c="IC" n="2044"/>
+		<dp pt="2606210653" pp="15" fb="IC 2044" ppth="Bitterfeld|Dessau Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Herford|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="-4768773488972697014-2606210448-15">
+		<tl f="D" t="p" o="EB" c="EB" n="80832"/>
+		<ar pt="2606210605" pp="8" l="RB22" fb="RB22" ppth="Gera-Zwötzen|Gera Süd|Gera Hbf|Gera-Langenberg|Bad Köstritz|Crossen a d Elster|Crossen Ort|Wetterzeube|Zeitz|Profen|Pegau|Zwenkau-Großdalzig|Leipzig-Knauthain|Leipzig-Plagwitz"/>
+	</s>
+	<s id="4191551163984492841-2606210643-1">
+		<tl f="D" t="p" o="CXRB" c="MRB" n="27712"/>
+		<dp pt="2606210643" pp="21" l="RB110" fb="RB110" ppth="Leipzig-Sellerhausen|Leipzig-Paunsdorf|Leipzig-Engelsdorf|Borsdorf(Sachs)|Beucha|Naunhof|Großsteinberg|Grimma ob Bf"/>
+	</s>
+	<s id="-6123944173083190751-2606210458-13">
+		<tl f="N" t="p" o="800166" c="RE" n="18381"/>
+		<ar pt="2606210652" pp="10" l="RE10" fb="RE10" ppth="Cottbus Hbf|Calau(Nl)|Finsterwalde(Niederlausitz)|Doberlug-Kirchhain|Falkenberg(Elster)|Beilrode|Torgau|Mockrehna|Doberschütz|Eilenburg Ost|Eilenburg|Taucha(Leipzig)"/>
+	</s>
+</timetable>
