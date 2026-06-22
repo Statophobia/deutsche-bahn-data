@@ -1,0 +1,973 @@
+<?xml version="1.0" ?><timetable station="Bonn Hbf" eva="8000044">
+
+<s id="7059263849963791853-2606220507-18" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar cpth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606220722" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606220723" l="RE5"/>
+</s>
+
+
+<s id="-6504039914354833976-2606220504-17" eva="8000044">
+    <ar ct="2606220618" l="RB30">
+        <m id="r61063769" t="d" c="41" ts="2606220438" ts-tts="26-06-22 04:38:27.818"/>
+        <m id="r61063771" t="d" c="41" ts="2606220438" ts-tts="26-06-22 04:38:27.818"/>
+        <m id="r61063773" t="d" c="41" ts="2606220438" ts-tts="26-06-22 04:38:43.226"/>
+    </ar>
+</s>
+
+
+<s id="8868050453695511606-2606211936-19" eva="8000044">
+    <ar ppth="Zürich HB|Baden(CH)|Brugg AG|Frick|Stein-Säckingen|Möhlin|Rheinfelden(CH)|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2606220612" pt="2606220534" wings="4753870957390372842-2606211936" fb="NJ 402">
+        <m id="r61060948" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61060952" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61060954" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61061570" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+        <m id="r61061575" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+    </ar>
+    <dp ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" pp="1" ct="2606220614" pt="2606220536" hi="1" wings="4753870957390372842-2606211936" fb="NJ 402">
+        <m id="r61060948" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61060952" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61060954" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.486"/>
+        <m id="r61061570" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+        <m id="r61061575" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+    </dp>
+    <tl t="p" o="85" c="NJ" n="402"/>
+</s>
+
+
+<s id="4753870957390372842-2606211936-19" eva="8000044">
+    <m id="r2604793" t="h" from="2604140000" to="2606262359" cat="Information" ts="2604141735" ts-tts="26-06-20 23:16:03.953" pr="2"/>
+    <ar ppth="Zürich HB|Baden(CH)|Brugg AG|Frick|Stein-Säckingen|Möhlin|Rheinfelden(CH)|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf" pp="1" ct="2606220612" pt="2606220534" fb="IC 60402">
+        <m id="r61060950" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61060960" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61060958" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61061576" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+    </ar>
+    <dp ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" pp="1" ct="2606220614" pt="2606220536" fb="IC 60402">
+        <m id="r61060950" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61060960" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61060958" t="d" c="5" ts="2606220323" ts-tts="26-06-22 03:23:31.485"/>
+        <m id="r61061576" t="f" c="0" ts="2606220346" ts-tts="26-06-22 03:46:29.233"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60402"/>
+</s>
+
+
+<s id="3596733780499351643-2606220435-7" eva="8000044">
+    <m id="r2641566" t="h" from="2606210400" to="2606221500" cat="Störung" ts="2606210512" ts-tts="26-06-22 05:16:03.825" pr="1"/>
+    <m id="r2642240" t="h" from="2606220435" to="2606221030" cat="Information" ts="2606220540" ts-tts="26-06-22 05:40:32.982" pr="2"/>
+    <ar ppth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2606220654" pt="2606220613" fb="ICE 23">
+        <m id="r61063073" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:39.127"/>
+        <m id="r61063075" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:39.127"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Würzburg Hbf|Nürnberg Hbf" pp="3" ct="2606220656" pt="2606220614" fb="ICE 23">
+        <m id="r61063073" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:39.127"/>
+        <m id="r61063075" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:39.127"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="23"/>
+</s>
+
+
+<s id="9203893317333825184-2606220610-1" eva="8000044">
+    <dp ct="2606220611" l="S23"/>
+</s>
+
+
+<s id="-4954303433445536193-2606220547-37" eva="8000044">
+    <ar ct="2606220830" l="RB26"/>
+    <dp ct="2606220832" l="RB26"/>
+</s>
+
+
+<s id="-2739585686124985250-2606220640-1" eva="8000044">
+    <dp ct="2606220640" l="S23"/>
+</s>
+
+
+<s id="717309649012764797-2606220530-9" eva="8000044">
+    <ar ct="2606220607" l="RB48"/>
+    <dp ct="2606220608" l="RB48"/>
+</s>
+
+
+<s id="-5273191544879623408-2606220439-28" eva="8000044">
+    <ar ct="2606220633" l="RB26"/>
+    <dp ct="2606220635" l="RB26"/>
+</s>
+
+
+<s id="-3676902740577658632-2606220516-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <m id="r2642254" t="h" from="2606220600" to="2606220800" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220604" ts-tts="26-06-22 06:04:05.423" pr="1"/>
+    <ar ct="2606220602" l="RE5"/>
+    <dp ct="2606220604" l="RE5"/>
+</s>
+
+
+<s id="-4755181622791840323-2606220707-18" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <m id="r2642254" t="h" from="2606220600" to="2606220800" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220604" ts-tts="26-06-22 06:04:05.423" pr="1"/>
+    <ar cpth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606220902" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606220904" l="RE5"/>
+</s>
+
+
+<s id="1781489595331106656-2606220539-20" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <m id="r2642254" t="h" from="2606220600" to="2606220800" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220604" ts-tts="26-06-22 06:04:05.423" pr="1"/>
+    <ar cpth="Emmerich|Mehrhoog|Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606220802" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606220804" l="RE5"/>
+</s>
+
+
+<s id="-3720453299330067287-2606221002-37" eva="8000044">
+    <ar ct="2606221231" l="RB26"/>
+    <dp ct="2606221233" l="RB26"/>
+</s>
+
+
+<s id="-7749224588502767008-2606220710-1" eva="8000044">
+    <dp ct="2606220710" l="RB48"/>
+</s>
+
+
+<s id="-7758441378396629399-2606220550-9" eva="8000044">
+    <ar ct="2606220626" l="RB26"/>
+    <dp ct="2606220628" l="RB26"/>
+</s>
+
+
+<s id="4996465201290136773-2606220526-5" eva="8000044">
+    <ar ct="2606220557" l="RE5"/>
+    <dp ct="2606220557" l="RE5"/>
+</s>
+
+
+<s id="-4994992219473825658-2606220616-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar ct="2606220702" l="RE5"/>
+    <dp ct="2606220704" l="RE5"/>
+</s>
+
+
+<s id="-9168700834930704570-2606220623-13" eva="8000044">
+    <ar ct="2606220704" l="S23"/>
+</s>
+
+
+<s id="3089154865811431600-2606220508-13" eva="8000044">
+    <ar ct="2606220552" l="S23"/>
+</s>
+
+
+<s id="2914911871296418643-2606220950-9" eva="8000044">
+    <ar ct="2606221025" l="RB26"/>
+    <dp ct="2606221027" l="RB26"/>
+</s>
+
+
+<s id="171164125345549435-2606220520-28" eva="8000044">
+    <ar ct="2606220732" l="RB26"/>
+    <dp ct="2606220734" l="RB26"/>
+</s>
+
+
+<s id="-2710494940240322632-2606220540-1" eva="8000044">
+    <dp ct="2606220541" l="S23"/>
+</s>
+
+
+<s id="-1354268051024505094-2606220916-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar ct="2606221002" l="RE5"/>
+    <dp ct="2606221004" l="RE5"/>
+</s>
+
+
+<s id="-3611588488118282864-2606220606-13" eva="8000044">
+    <ar ct="2606220649" l="S23"/>
+</s>
+
+
+<s id="1301609981734164724-2606220605-18" eva="8000044">
+    <ar ct="2606220719" l="S23"/>
+</s>
+
+
+<s id="4083023597919947031-2606220604-18" eva="8000044">
+    <ar ct="2606220713" l="RB30"/>
+</s>
+
+
+<s id="525225549711577625-2606220511-7" eva="8000044">
+    <ar ct="2606220531" l="RB26"/>
+    <dp ct="2606220533" l="RB26"/>
+</s>
+
+
+<s id="6036194330668293350-2606220643-4" eva="8000044">
+    <ar ct="2606220653" l="RB48"/>
+    <dp ct="2606220654" l="RB48"/>
+</s>
+
+
+<s id="-5170724410684220270-2606220438-10" eva="8000044">
+    <ar ct="2606220525" l="RB26"/>
+    <dp ct="2606220527" l="RB26"/>
+</s>
+
+
+<s id="1261782852049637386-2606220630-9" eva="8000044">
+    <ar ct="2606220722" l="RB48">
+        <m id="r61066048" t="d" c="47" ts="2606220525" ts-tts="26-06-22 05:26:05.078"/>
+    </ar>
+    <dp ct="2606220723" l="RB48">
+        <m id="r61066048" t="d" c="47" ts="2606220525" ts-tts="26-06-22 05:26:05.078"/>
+    </dp>
+</s>
+
+
+<s id="4334644660769016398-2606220716-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar ct="2606220802" l="RE5"/>
+    <dp ct="2606220804" l="RE5"/>
+</s>
+
+
+<s id="6219419822052992661-2606220438-13" eva="8000044">
+    <ar ct="2606220520" l="S23"/>
+</s>
+
+
+<s id="41104336148763875-2606221041-4" eva="8000044">
+    <m id="r2642227" t="h" from="2606221041" to="2606221616" cat="Information" ts="2606220517" ts-tts="26-06-22 05:17:34.094" pr="2"/>
+    <ar cpth="" cs="c" clt="2606220436">
+        <m id="r61063613" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063616" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063615" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063619" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063622" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063621" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063623" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063626" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063625" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61065521" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+        <m id="r61065524" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+        <m id="r61065528" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+    </ar>
+    <dp cpth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Recklinghausen Hbf|Münster(Westf)Hbf|Rheine|Lingen(Ems)|Meppen|Papenburg(Ems)|Leer(Ostfriesl)|Emden Hbf|Norden|Norddeich|Norddeich Mole" cs="c" clt="2606220436">
+        <m id="r61063613" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063616" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063615" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063619" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063622" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063621" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063623" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063626" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61063625" t="d" c="37" ts="2606220436" ts-tts="26-06-22 04:36:24.477"/>
+        <m id="r61065521" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+        <m id="r61065524" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+        <m id="r61065528" t="f" c="0" ts="2606220517" ts-tts="26-06-22 05:17:49.733"/>
+    </dp>
+</s>
+
+
+<s id="8262242894141462155-2606220810-1" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <dp cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="-8830498210357560233-2606221143-4" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606212231" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="-2010714572040066838-2606221030-9" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606212231" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="6037893189295725471-2606220436-8" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606212231" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="-1425294681013076432-2606220542-4" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606212231" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="-1919761928769567119-2606220730-9" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606220425" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606220425" l="RB48"/>
+</s>
+
+
+<s id="-5201445624521517854-2606220843-4" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606220425" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606220425" l="RB48"/>
+</s>
+
+
+<s id="7959540830393342156-2606220702-9" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606212231" l="RB48"/>
+</s>
+
+
+<s id="-173708960720595511-2606221443-4" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606220425" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606220425" l="RB48"/>
+</s>
+
+
+<s id="7568702822645229043-2606221336-8" eva="8000044">
+    <m id="r2642190" t="h" from="2606220400" to="2606221530" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606220241" ts-tts="26-06-22 05:16:03.832" pr="1"/>
+    <ar cpth="" cs="c" clt="2606220425" l="RB48"/>
+    <dp cpth="" cs="c" clt="2606220425" l="RB48"/>
+</s>
+
+
+<s id="-6760724929342255350-2606220634-15" eva="8000044">
+    <m id="r2641566" t="h" from="2606210400" to="2606221500" cat="Störung" ts="2606210512" ts-tts="26-06-22 05:16:03.826" pr="1"/>
+    <ar cpth="Emden Hbf|Leer(Ostfriesl)|Papenburg(Ems)|Meppen|Lingen(Ems)|Rheine|Münster(Westf)Hbf|Recklinghausen Hbf|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Oberhausen Hbf|Duisburg Hbf|Neuss Hbf|Köln Hbf" ppth="Emden Hbf|Leer(Ostfriesl)|Papenburg(Ems)|Meppen|Lingen(Ems)|Rheine|Münster(Westf)Hbf|Recklinghausen Hbf|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2606221106" pt="2606221036" fb="IC 2007"/>
+    <dp cpth="Remagen|Andernach|Koblenz Hbf" ppth="Remagen|Andernach|Koblenz Hbf" pp="3" ct="2606221107" pt="2606221037" fb="IC 2007"/>
+    <tl f="F" t="p" o="80" c="IC" n="2007"/>
+</s>
+
+
+<s id="-1504413914279880832-2606220917-8" eva="8000044">
+    <m id="r2641566" t="h" from="2606210400" to="2606221500" cat="Störung" ts="2606210512" ts-tts="26-06-22 05:16:03.825" pr="1"/>
+    <ar cpth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" ct="2606221132">
+        <m id="r61063188" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.558"/>
+        <m id="r61063193" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.558"/>
+        <m id="r61063196" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.558"/>
+        <m id="r61063201" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.558"/>
+    </ar>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Vaihingen(Enz)|Stuttgart Hbf|Plochingen|Göppingen|Ulm Hbf|Memmingen|Kempten(Allgäu)Hbf|Immenstadt|Fischen|Oberstdorf" ct="2606221133">
+        <m id="r61063188" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.559"/>
+        <m id="r61063193" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.559"/>
+        <m id="r61063196" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.559"/>
+        <m id="r61063201" t="d" c="34" ts="2606220426" ts-tts="26-06-22 04:26:54.559"/>
+    </dp>
+</s>
+
+
+<s id="-875439815476113391-2606222107-14" eva="8000044">
+    <ar ct="2606222256" l="RE5"/>
+    <dp ct="2606222258" l="RE5"/>
+</s>
+
+
+<s id="-7441246546298307784-2606220510-1" eva="8000044">
+    <dp ct="2606220510" l="S23"/>
+</s>
+
+
+<s id="-8363732388244500081-2606220816-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar ct="2606220902" l="RE5"/>
+    <dp ct="2606220904" l="RE5"/>
+</s>
+
+
+<s id="-2013570739565140458-2606220902-37" eva="8000044">
+    <ar ct="2606221131" l="RB26"/>
+    <dp ct="2606221133" l="RB26"/>
+</s>
+
+
+<s id="4250821308365947570-2606220528-9" eva="8000044">
+    <ar ct="2606220943"/>
+    <dp ct="2606220944"/>
+</s>
+
+
+<s id="4666126972437510518-2606220443-4" eva="8000044">
+    <ar ct="2606220453" l="RB48"/>
+    <dp ct="2606220454" l="RB48"/>
+</s>
+
+
+<s id="5231040018868601169-2606220850-9" eva="8000044">
+    <ar ct="2606220925" l="RB26"/>
+    <dp ct="2606220927" l="RB26"/>
+</s>
+
+
+<s id="1521914912699173320-2606220408-13" eva="8000044">
+    <ar ct="2606220449" l="S23"/>
+</s>
+
+
+<s id="1873301313582133213-2606220602-9" eva="8000044">
+    <ar ct="2606220645" l="RB48"/>
+</s>
+
+
+<s id="-4903090403667940319-2606220505-18" eva="8000044">
+    <ar ct="2606220619" l="S23"/>
+</s>
+
+
+<s id="-8466026579335334109-2606220411-7" eva="8000044">
+    <ar ct="2606220431" l="RB26"/>
+    <dp ct="2606220433" l="RB26"/>
+</s>
+
+
+<s id="-3178833327726750478-2606220338-10" eva="8000044">
+    <ar ct="2606220426" l="RB26"/>
+    <dp ct="2606220427" l="RB26"/>
+</s>
+
+
+<s id="2774174590951633862-2606212202-16" eva="8000044">
+    <m id="r2623082" t="h" from="2606060000" to="2606252359" cat="Information" ts="2606052305" ts-tts="26-06-20 23:16:04.209" pr="3"/>
+    <ar ct="2606220414">
+        <m id="r61057695" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61057697" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61057699" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61059116" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059118" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059120" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059354" t="f" c="0" ts="2606220223" ts-tts="26-06-22 02:23:35.762"/>
+        <m id="r61059355" t="f" c="0" ts="2606220223" ts-tts="26-06-22 02:23:35.762"/>
+        <m id="r61059428" t="f" c="0" ts="2606220229" ts-tts="26-06-22 02:29:58.298"/>
+        <m id="r61059429" t="f" c="0" ts="2606220229" ts-tts="26-06-22 02:29:58.298"/>
+        <m id="r61060261" t="f" c="0" ts="2606220300" ts-tts="26-06-22 03:01:05.289"/>
+        <m id="r61060682" t="f" c="0" ts="2606220316" ts-tts="26-06-22 03:16:53.923"/>
+    </ar>
+    <dp ct="2606220416">
+        <m id="r61057695" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61057697" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61057699" t="d" c="36" ts="2606220147" ts-tts="26-06-22 01:47:18.284"/>
+        <m id="r61059116" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059118" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059120" t="d" c="40" ts="2606220201" ts-tts="26-06-22 02:01:39.645"/>
+        <m id="r61059354" t="f" c="0" ts="2606220223" ts-tts="26-06-22 02:23:35.762"/>
+        <m id="r61059355" t="f" c="0" ts="2606220223" ts-tts="26-06-22 02:23:35.762"/>
+        <m id="r61059428" t="f" c="0" ts="2606220229" ts-tts="26-06-22 02:29:58.298"/>
+        <m id="r61059429" t="f" c="0" ts="2606220229" ts-tts="26-06-22 02:29:58.298"/>
+        <m id="r61060261" t="f" c="0" ts="2606220300" ts-tts="26-06-22 03:01:05.289"/>
+        <m id="r61060682" t="f" c="0" ts="2606220316" ts-tts="26-06-22 03:16:53.923"/>
+    </dp>
+</s>
+
+
+<s id="-2777793910937700723-2606220802-37" eva="8000044">
+    <ar ct="2606221031" l="RB26"/>
+    <dp ct="2606221033" l="RB26"/>
+</s>
+
+
+<s id="-982202126430000978-2606220750-9" eva="8000044">
+    <ar ct="2606220825" l="RB26"/>
+    <dp ct="2606220827" l="RB26"/>
+</s>
+
+
+<s id="-4659129477641518114-2606220333-1" eva="8000044">
+    <dp ct="2606220333" l="RB26"/>
+</s>
+
+
+<s id="-8216633052459675145-2606220238-10" eva="8000044">
+    <ar ct="2606220326" l="RB26"/>
+</s>
+
+
+<s id="6284338610983117740-2606221153-2" eva="8000044">
+    <ar>
+        <m id="r61060516" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060517" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060518" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060519" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+    </ar>
+    <dp>
+        <m id="r61060516" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060517" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060518" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060519" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+    </dp>
+</s>
+
+
+<s id="-5407301336687963597-2606221153-2" eva="8000044">
+    <ar ppth="Köln Hbf" pp="3" pt="2606221213" fb="ICE 2889">
+        <m id="r61060532" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.522"/>
+        <m id="r61060534" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.522"/>
+        <m id="r61060533" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.522"/>
+        <m id="r61060535" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.522"/>
+        <m id="r61060537" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060536" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060538" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060540" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060539" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Würzburg Hbf|Nürnberg Hbf" pp="3" pt="2606221214" fb="ICE 2889">
+        <m id="r61060532" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060534" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060533" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060535" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060537" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060536" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060538" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060540" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+        <m id="r61060539" t="f" c="0" ts="2606220314" ts-tts="26-06-22 03:14:05.523"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2889"/>
+</s>
+
+
+<s id="-8798068275526831190-2606220610-4" eva="8000044">
+    <ar ct="2606220921"/>
+    <dp ct="2606220923"/>
+</s>
+
+
+<s id="-317966696582275735-2606220701-37" eva="8000044">
+    <ar ct="2606220931" l="RB26"/>
+    <dp ct="2606220933" l="RB26"/>
+</s>
+
+
+<s id="-2871330085727600791-2606221107-18" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar cpth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606221254" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606221256" l="RE5"/>
+</s>
+
+
+<s id="9094733377247949256-2606221011-16" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar cpth="Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606221154" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606221156" l="RE5"/>
+</s>
+
+
+<s id="4947514702586378049-2606220907-18" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar cpth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ct="2606221054" l="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ct="2606221056" l="RE5"/>
+</s>
+
+
+<s id="9006849605607582963-2606220811-16" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+    <ar ct="2606220954" l="RE5"/>
+    <dp ct="2606220956" l="RE5"/>
+</s>
+
+
+<s id="576591884068486306-2606220650-9" eva="8000044">
+    <ar ct="2606220725" l="RB26"/>
+    <dp ct="2606220727" l="RB26"/>
+</s>
+
+
+<s id="5243999564030846529-2606220138-10" eva="8000044">
+    <ar ct="2606220245" l="RB26">
+        <m id="r61059776" t="d" c="45" ts="2606220249" ts-tts="26-06-22 02:50:07.151"/>
+    </ar>
+    <dp ct="2606220246" l="RB26">
+        <m id="r61059776" t="d" c="45" ts="2606220249" ts-tts="26-06-22 02:50:07.151"/>
+    </dp>
+</s>
+
+
+<s id="7582314568044505717-2606212046-9" eva="8000044">
+    <m id="r2641566" t="h" from="2606210400" to="2606212330" cat="Störung" ts="2606210512" ts-tts="26-06-21 22:16:04.982" pr="1"/>
+    <m id="r2604793" t="h" from="2604140000" to="2606262359" cat="Information" ts="2604141735" ts-tts="26-06-20 23:16:03.953" pr="2"/>
+    <m id="r2622308" t="h" from="2606010000" to="2608312359" cat="Information" ts="2605312305" ts-tts="26-06-20 23:16:04.204" pr="1"/>
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2606220238" pt="2606220013" fb="IC 60403">
+        <m id="r61044115" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61044119" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61044121" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61055617" t="d" c="40" ts="2606220043" ts-tts="26-06-22 00:43:30.144"/>
+        <m id="r61055619" t="d" c="40" ts="2606220043" ts-tts="26-06-22 00:43:30.144"/>
+        <m id="r61056917" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.745"/>
+        <m id="r61056919" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.745"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="3" ct="2606220241" pt="2606220015" fb="IC 60403">
+        <m id="r61044115" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61044119" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61044121" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.820"/>
+        <m id="r61055617" t="d" c="40" ts="2606220043" ts-tts="26-06-22 00:43:30.144"/>
+        <m id="r61055619" t="d" c="40" ts="2606220043" ts-tts="26-06-22 00:43:30.144"/>
+        <m id="r61056917" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.745"/>
+        <m id="r61056919" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.745"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+
+<s id="-5851721557238592488-2606212046-9" eva="8000044">
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2606220238" pt="2606220013" hi="1" wings="7582314568044505717-2606212046" fb="NJ 403">
+        <m id="r61044117" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.821"/>
+        <m id="r61044123" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.821"/>
+        <m id="r61044124" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.822"/>
+        <m id="r61054672" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.274"/>
+        <m id="r61054674" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.275"/>
+        <m id="r61054676" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.275"/>
+        <m id="r61055612" t="f" c="0" ts="2606220043" ts-tts="26-06-22 00:43:14.731"/>
+        <m id="r61056916" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.746"/>
+        <m id="r61056918" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.746"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="3" ct="2606220241" pt="2606220015" wings="7582314568044505717-2606212046" fb="NJ 403">
+        <m id="r61044117" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.822"/>
+        <m id="r61044123" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.822"/>
+        <m id="r61044124" t="d" c="24" ts="2606212117" ts-tts="26-06-21 21:17:25.822"/>
+        <m id="r61054672" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.275"/>
+        <m id="r61054674" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.275"/>
+        <m id="r61054676" t="d" c="40" ts="2606220024" ts-tts="26-06-22 00:24:29.275"/>
+        <m id="r61055612" t="f" c="0" ts="2606220043" ts-tts="26-06-22 00:43:14.731"/>
+        <m id="r61056916" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.746"/>
+        <m id="r61056918" t="f" c="0" ts="2606220112" ts-tts="26-06-22 01:12:23.746"/>
+    </dp>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="-1365721387873643126-2606220211-7" eva="8000044">
+    <ar ct="2606220232" l="RB26"/>
+    <dp ct="2606220233" l="RB26"/>
+</s>
+
+
+<s id="-962719738660479217-2606221016-10" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+</s>
+
+
+<s id="-5931517192095772640-2606221211-16" eva="8000044">
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-22 02:16:04.732" pr="1"/>
+</s>
+
+
+<s id="885232419628038711-2606221825-7" eva="8000044">
+    <m id="r2641239" t="h" from="2606201700" to="2606230430" cat="Störung" ts="2606201808" ts-tts="26-06-22 02:16:04.730" pr="1"/>
+</s>
+
+
+<s id="-4782980400620953302-2606220111-7" eva="8000044">
+    <ar ct="2606220131" l="RB26"/>
+    <dp ct="2606220133" l="RB26"/>
+</s>
+
+
+<s id="-7432589995430973116-2606220038-10" eva="8000044">
+    <ar ct="2606220130" l="RB26"/>
+    <dp ct="2606220131" l="RB26"/>
+</s>
+
+
+<s id="-8011983624503141770-2606220043-4" eva="8000044">
+    <ar ct="2606220053" l="RB48"/>
+    <dp ct="2606220054" l="RB48"/>
+</s>
+
+
+<s id="6788017908466860759-2606220036-8" eva="8000044">
+    <ar ct="2606220107" l="RB48"/>
+    <dp ct="2606220108" l="RB48"/>
+</s>
+
+
+<s id="-3074360763218373139-2606220040-1" eva="8000044">
+    <dp ct="2606220040" l="S23"/>
+</s>
+
+
+<s id="1181739242997058766-2606212338-10" eva="8000044">
+    <m id="r2619672" t="h" from="2605230000" to="2606262359" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2605222305" ts-tts="26-06-20 23:16:04.199" pr="2"/>
+    <m id="r2627966" t="h" from="2606140000" to="2606290315" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2606132304" ts-tts="26-06-20 23:16:04.217" pr="2"/>
+    <ar ct="2606220034" l="RB26"/>
+    <dp ct="2606220035" l="RB26"/>
+</s>
+
+
+<s id="5877881611576340869-2606220011-7" eva="8000044">
+    <ar ct="2606220031" l="RB26"/>
+    <dp ct="2606220034" l="RB26"/>
+</s>
+
+
+<s id="5886153064000721291-2606212336-14" eva="8000044">
+    <ar ct="2606220021" l="S23"/>
+</s>
+
+
+<s id="-4310995180962388424-2606220010-1" eva="8000044">
+    <dp ct="2606220010" l="S23"/>
+</s>
+
+
+<s id="-5873089929769451085-2606212330-9" eva="8000044">
+    <ar ct="2606220005" l="RB48"/>
+    <dp ct="2606220007" l="RB48"/>
+</s>
+
+
+<s id="-2194013125792532700-2606212343-4" eva="8000044">
+    <ar ct="2606212353" l="RB48"/>
+    <dp ct="2606212354" l="RB48"/>
+</s>
+
+
+<s id="6052812326221891722-2606212306-13" eva="8000044">
+    <ar ct="2606212351" l="S23"/>
+</s>
+
+
+<s id="-154293985933198733-2606212339-1" eva="8000044">
+    <dp ct="2606212340" l="S23"/>
+</s>
+
+
+<s id="-60385797317179959-2606212232-10" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <m id="r2619672" t="h" from="2605230000" to="2606262359" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2605222305" ts-tts="26-06-20 23:16:04.199" pr="2"/>
+    <m id="r2627966" t="h" from="2606140000" to="2606290315" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2606132304" ts-tts="26-06-20 23:16:04.217" pr="2"/>
+    <ar ct="2606212337" l="RB26"/>
+    <dp ct="2606212338" l="RB26"/>
+</s>
+
+
+<s id="6631569842800213759-2606212311-7" eva="8000044">
+    <m id="r2619672" t="h" from="2605230000" to="2606262359" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2605222305" ts-tts="26-06-20 23:16:04.199" pr="2"/>
+    <m id="r2627966" t="h" from="2606140000" to="2606290315" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2606132304" ts-tts="26-06-20 23:16:04.217" pr="2"/>
+    <ar ct="2606212331" l="RB26"/>
+    <dp ct="2606212333" l="RB26"/>
+</s>
+
+
+<s id="-875439815476113391-2606212107-18" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-21 23:16:05.166" pr="1"/>
+    <m id="r2642056" t="h" from="2606211800" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211839" ts-tts="26-06-21 22:16:05.015" pr="1"/>
+    <ar cpth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Neuss Hbf|Köln Süd|Brühl" ppth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" pp="3" ct="2606212326" pt="2606212254" l="RE5" fb="RE5">
+        <m id="r61028165" t="d" c="48" ts="2606211903" ts-tts="26-06-21 19:03:54.294"/>
+        <m id="r61028166" t="d" c="48" ts="2606211903" ts-tts="26-06-21 19:03:54.294"/>
+        <m id="r61050466" t="d" c="41" ts="2606212259" ts-tts="26-06-21 22:59:21.214"/>
+    </ar>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2606212328" pt="2606212256" l="RE5" fb="RE5">
+        <m id="r61028165" t="d" c="48" ts="2606211903" ts-tts="26-06-21 19:03:54.294"/>
+        <m id="r61028166" t="d" c="48" ts="2606211903" ts-tts="26-06-21 19:03:54.294"/>
+        <m id="r61050466" t="d" c="41" ts="2606212259" ts-tts="26-06-21 22:59:21.214"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28535"/>
+</s>
+
+
+<s id="721644467805658861-2606212236-14" eva="8000044">
+    <ar ct="2606212320" l="S23"/>
+</s>
+
+
+<s id="8468774200543133363-2606212016-10" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.204" pr="1"/>
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-21 23:16:05.165" pr="1"/>
+    <m id="r2642056" t="h" from="2606211800" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211839" ts-tts="26-06-21 22:16:05.015" pr="1"/>
+    <m id="r2642099" t="h" from="2606211953" to="2606212100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211955" ts-tts="26-06-21 20:16:05.084" pr="1"/>
+    <ar cpth="Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus" ct="2606212131" l="RE5">
+        <m id="r61021627" t="d" c="45" ts="2606211816" ts-tts="26-06-21 18:16:11.911"/>
+        <m id="r61044835" t="d" c="48" ts="2606212125" ts-tts="26-06-21 21:25:46.515"/>
+        <m id="r61044836" t="d" c="48" ts="2606212125" ts-tts="26-06-21 21:25:46.515"/>
+    </ar>
+    <dp cpth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf|Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Friedrichsfeld(Niederrhein)|Wesel|Mehrhoog|Emmerich" ct="2606212132" l="RE5">
+        <m id="r61021627" t="d" c="45" ts="2606211816" ts-tts="26-06-21 18:16:11.911"/>
+        <m id="r61044835" t="d" c="48" ts="2606212125" ts-tts="26-06-21 21:25:46.515"/>
+        <m id="r61044836" t="d" c="48" ts="2606212125" ts-tts="26-06-21 21:25:46.515"/>
+    </dp>
+</s>
+
+
+<s id="8032754537640110209-2606212243-4" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.204" pr="1"/>
+    <ar ct="2606212253" l="RB48"/>
+    <dp ct="2606212254" l="RB48"/>
+</s>
+
+
+<s id="1613486808401986028-2606211916-10" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.204" pr="1"/>
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-21 23:16:05.166" pr="1"/>
+    <m id="r2642056" t="h" from="2606211800" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211839" ts-tts="26-06-21 22:16:05.015" pr="1"/>
+    <m id="r2642099" t="h" from="2606211953" to="2606212100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211955" ts-tts="26-06-21 20:16:05.084" pr="1"/>
+    <ar cpth="Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus" ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2606212043" pt="2606212002" l="RE5" fb="RE5">
+        <m id="r61014696" t="d" c="48" ts="2606211720" ts-tts="26-06-21 17:20:34.450"/>
+    </ar>
+    <dp cpth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf|Oberhausen-Sterkrade|Dinslaken|Voerde(Niederrhein)|Wesel" ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen Mitte|Düsseldorf-Benrath|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf|Oberhausen-Sterkrade|Dinslaken|Voerde(Niederrhein)|Wesel" pp="1" ct="2606212043" pt="2606212004" l="RE5" fb="RE5">
+        <m id="r61014696" t="d" c="48" ts="2606211720" ts-tts="26-06-21 17:20:34.450"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28532"/>
+</s>
+
+
+<s id="8583756095115821131-2606212255-3" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <ar ct="2606212302" l="RE5"/>
+    <dp ct="2606212304" l="RE5"/>
+</s>
+
+
+<s id="747818816323543571-2606212116-10" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <ar ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2606212234" pt="2606212202" l="RE5" fb="RE5">
+        <m id="r61030127" t="d" c="34" ts="2606211922" ts-tts="26-06-21 19:22:30.934"/>
+        <m id="r61030128" t="d" c="34" ts="2606211922" ts-tts="26-06-21 19:22:30.934"/>
+        <m id="r61047312" t="d" c="43" ts="2606212204" ts-tts="26-06-21 22:04:32.779"/>
+    </ar>
+    <dp ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz" pp="1" ct="2606212234" pt="2606212204" l="RE5" fb="RE5">
+        <m id="r61030127" t="d" c="34" ts="2606211922" ts-tts="26-06-21 19:22:30.934"/>
+        <m id="r61030128" t="d" c="34" ts="2606211922" ts-tts="26-06-21 19:22:30.934"/>
+        <m id="r61047312" t="d" c="43" ts="2606212204" ts-tts="26-06-21 22:04:32.779"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28536"/>
+</s>
+
+
+<s id="6909154018790459287-2606212020-32" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <m id="r2619672" t="h" from="2605230000" to="2606262359" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2605222305" ts-tts="26-06-20 23:16:04.200" pr="2"/>
+    <m id="r2627966" t="h" from="2606140000" to="2606290315" cat="Bauarbeiten. (Quelle: zuginfo.nrw)" ts="2606132304" ts-tts="26-06-20 23:16:04.217" pr="2"/>
+    <ar ct="2606212242" l="RB26">
+        <m id="r61048404" t="d" c="99" ts="2606212223" ts-tts="26-06-21 22:23:17.201"/>
+        <m id="r61048405" t="d" c="99" ts="2606212223" ts-tts="26-06-21 22:23:17.201"/>
+    </ar>
+    <dp ct="2606212243" l="RB26">
+        <m id="r61048404" t="d" c="99" ts="2606212223" ts-tts="26-06-21 22:23:17.201"/>
+        <m id="r61048405" t="d" c="99" ts="2606212223" ts-tts="26-06-21 22:23:17.201"/>
+    </dp>
+</s>
+
+
+<s id="-2050169574786267066-2606212230-9" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <ar ct="2606212307" l="RB48"/>
+    <dp ct="2606212309" l="RB48"/>
+</s>
+
+
+<s id="-6295180803857975725-2606211907-18" eva="8000044">
+    <m id="r2641976" t="h" from="2606211620" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211622" ts-tts="26-06-21 23:16:05.203" pr="1"/>
+    <m id="r2641521" t="h" from="2606210255" to="2606221300" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606210257" ts-tts="26-06-21 23:16:05.167" pr="1"/>
+    <m id="r2642056" t="h" from="2606211800" to="2606212330" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211839" ts-tts="26-06-21 22:16:05.015" pr="1"/>
+    <m id="r2642099" t="h" from="2606211953" to="2606212100" cat="Störung. (Quelle: zuginfo.nrw)" ts="2606211955" ts-tts="26-06-21 20:16:05.084" pr="1"/>
+    <ar ppth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Düsseldorf-Benrath|Leverkusen Mitte|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" pp="3" ct="2606212209" pt="2606212054" l="RE5" fb="RE5">
+        <m id="r61044415" t="d" c="22" ts="2606212123" ts-tts="26-06-21 21:23:10.225"/>
+    </ar>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2606212211" pt="2606212056" l="RE5" fb="RE5">
+        <m id="r61044415" t="d" c="22" ts="2606212123" ts-tts="26-06-21 21:23:10.225"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28531"/>
+</s>
+
+
+<s id="-25077264661938572-2606212309-1" eva="8000044">
+    <dp ct="2606212309" l="S23"/>
+</s>
+
+
+<s id="6529301497138507493-2606221446-1" eva="8000044">
+    <dp l="RB30">
+        <m id="r61049864" t="f" c="0" ts="2606212245" ts-tts="26-06-21 22:45:37.180"/>
+    </dp>
+</s>
+
+
+<s id="-5612312245983670978-2606221204-18" eva="8000044">
+    <ar l="RB30">
+        <m id="r61049769" t="f" c="0" ts="2606212243" ts-tts="26-06-21 22:43:48.103"/>
+    </ar>
+</s>
+
+
+<s id="2105269577070271922-2606212239-1" eva="8000044">
+    <dp ct="2606212240" l="S23"/>
+</s>
+
+
+<s id="885232419628038711-2606211825-7" eva="8000044">
+    <m id="r2641239" t="h" from="2606201700" to="2606212359" cat="Störung" ts="2606201808" ts-tts="26-06-20 23:16:04.549" pr="1"/>
+    <m id="r2642108" t="h" from="2606211825" to="2606220042" cat="Information" ts="2606212006" ts-tts="26-06-21 20:07:00.731" pr="2"/>
+    <m id="r2641566" t="h" from="2606210400" to="2606212330" cat="Störung" ts="2606210512" ts-tts="26-06-21 22:16:05.004" pr="1"/>
+    <m id="r2642079" t="h" from="2606211825" to="2606220042" cat="Information" ts="2606211927" ts-tts="26-06-21 19:27:29.392" pr="2"/>
+    <ar ppth="Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf" pp="3" ct="2606212121" pt="2606212013" fb="ICE 1021">
+        <m id="r61007725" t="f" c="0" ts="2606211624" ts-tts="26-06-21 16:24:45.801"/>
+        <m id="r61007729" t="f" c="0" ts="2606211624" ts-tts="26-06-21 16:24:45.801"/>
+        <m id="r61019058" t="d" c="40" ts="2606211753" ts-tts="26-06-21 17:53:21.575"/>
+        <m id="r61019060" t="d" c="40" ts="2606211753" ts-tts="26-06-21 17:53:21.575"/>
+        <m id="r61030328" t="f" c="0" ts="2606211924" ts-tts="26-06-21 19:24:20.949"/>
+        <m id="r61030329" t="d" c="40" ts="2606211924" ts-tts="26-06-21 19:24:20.949"/>
+        <m id="r61033527" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033528" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033556" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033557" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61035815" t="f" c="0" ts="2606212010" ts-tts="26-06-21 20:10:09.895"/>
+        <m id="r61038839" t="f" c="0" ts="2606212031" ts-tts="26-06-21 20:31:54.440"/>
+        <m id="r61038841" t="f" c="0" ts="2606212031" ts-tts="26-06-21 20:31:54.440"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf" pp="3" ct="2606212123" pt="2606212014" fb="ICE 1021">
+        <m id="r61007725" t="f" c="0" ts="2606211624" ts-tts="26-06-21 16:24:45.801"/>
+        <m id="r61007729" t="f" c="0" ts="2606211624" ts-tts="26-06-21 16:24:45.801"/>
+        <m id="r61019058" t="d" c="40" ts="2606211753" ts-tts="26-06-21 17:53:21.575"/>
+        <m id="r61019060" t="d" c="40" ts="2606211753" ts-tts="26-06-21 17:53:21.575"/>
+        <m id="r61030328" t="f" c="0" ts="2606211924" ts-tts="26-06-21 19:24:20.949"/>
+        <m id="r61030329" t="d" c="40" ts="2606211924" ts-tts="26-06-21 19:24:20.949"/>
+        <m id="r61033527" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033528" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033556" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61033557" t="f" c="0" ts="2606211945" ts-tts="26-06-21 19:45:50.022"/>
+        <m id="r61035815" t="f" c="0" ts="2606212010" ts-tts="26-06-21 20:10:09.895"/>
+        <m id="r61038839" t="f" c="0" ts="2606212031" ts-tts="26-06-21 20:31:54.440"/>
+        <m id="r61038841" t="f" c="0" ts="2606212031" ts-tts="26-06-21 20:31:54.440"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="1021"/>
+</s>
+
+
+<s id="4087946231337119022-2606212053-2" eva="8000044">
+    <ar ct="2606212114"/>
+    <dp ct="2606212116"/>
+</s>
+
+
+<s id="-5731431924797474531-2606211753-2" eva="8000044">
+    <m id="r2642059" t="h" from="2606211753" to="2606212230" cat="Information" ts="2606211842" ts-tts="26-06-21 18:42:40.841" pr="2"/>
+    <ar cpth="Köln Hbf" ct="2606211815"/>
+    <dp cpth="Koblenz Hbf|Wiesbaden-Biebrich|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Aschaffenburg Hbf|Würzburg Hbf|Nürnberg Hbf" ct="2606211817"/>
+</s>
+
+
+<s id="-8797951021111129413-2606211853-2" eva="8000044">
+    <m id="r2604793" t="h" from="2604140000" to="2606262359" cat="Information" ts="2604141735" ts-tts="26-06-20 23:16:03.953" pr="2"/>
+    <m id="r2641792" t="h" from="2606211853" to="2606212205" cat="Information" ts="2606211203" ts-tts="26-06-21 12:03:30.730" pr="2"/>
+    <ar ct="2606211916">
+        <m id="r60976663" t="f" c="0" ts="2606211202" ts-tts="26-06-21 12:03:15.292"/>
+    </ar>
+    <dp ct="2606211919">
+        <m id="r60976663" t="f" c="0" ts="2606211202" ts-tts="26-06-21 12:03:15.292"/>
+    </dp>
+</s>
+
+
+<s id="-1916595935237351304-2606220950-12" eva="8000044">
+    <ar cpth="Stuttgart Hbf|Vaihingen(Enz)|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" ct="2606221646"/>
+    <dp cpth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf" ct="2606221648"/>
+</s>
+
+</timetable>
