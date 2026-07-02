@@ -1,5 +1,24 @@
 <?xml version="1.0" ?>
 <timetable station="Weimar">
+	<s id="-8766353698102087049-2607020806-8">
+		<tl f="D" t="p" o="AMRB" c="ABR" n="74608"/>
+		<ar pt="2607020840" pp="3" l="RB20" fb="RB20" ppth="Naumburg(Saale)Hbf|Bad Kösen|Großheringen|Bad Sulza|Niedertrebra|Apolda|Oßmannstedt"/>
+		<dp pt="2607020841" pp="3" l="RB20" fb="RB20" ppth="Hopfgarten(Weimar)|Vieselbach|Erfurt Hbf|Erfurt-Bischleben|Neudietendorf|Wandersleben|Seebergen|Gotha|Fröttstädt|Mechterstädt|Sättelstädt|Schönau(Hörsel)|Wutha|Eisenach Hbf"/>
+	</s>
+	<s id="4638243541593986025-2607020725-13">
+		<tl f="D" t="p" o="EB" c="EB" n="80884"/>
+		<ar pt="2607020826" pp="4" l="RB21" fb="RB21" ppth="Gera Hbf|Töppeln|Kraftsdorf|Hermsdorf-Klosterlausnitz|Papiermühle(Stadtr)|Stadtroda|Neue Schenke|Jena-Göschwitz|Jena West|Großschwabhausen|Mellingen(Thür)|Oberweimar"/>
+		<dp pt="2607020828" pp="4" l="RB21" fb="RB21" ppth="Vieselbach|Erfurt Hbf"/>
+	</s>
+	<s id="7251400783770106660-2607020712-13">
+		<tl f="D" t="p" o="EB" c="EB" n="80972"/>
+		<ar pt="2607020800" pp="1" l="RB26" fb="RB26" ppth="Kranichfeld|Tannroda|München(Bad Berka)|Bad Berka|Bad Berka Zeughausplatz|Hetschburg|Legefeld|Holzdorf(b Weimar)|Obergrunstedt|Nohra(Weimar)|Weimar Berkaer Bf|Weimar West"/>
+	</s>
+	<s id="5233684198194253141-2607020713-15">
+		<tl f="D" t="p" o="AMRB" c="ABR" n="74611"/>
+		<ar pt="2607020816" pp="2" l="RB20" fb="RB20" ppth="Eisenach Hbf|Wutha|Schönau(Hörsel)|Sättelstädt|Mechterstädt|Fröttstädt|Gotha|Seebergen|Wandersleben|Neudietendorf|Erfurt-Bischleben|Erfurt Hbf|Vieselbach|Hopfgarten(Weimar)"/>
+		<dp pt="2607020817" pp="2" l="RB20" fb="RB20" ppth="Oßmannstedt|Apolda|Niedertrebra|Bad Sulza|Großheringen|Bad Kösen|Naumburg(Saale)Hbf"/>
+	</s>
 	<s id="947756859687964101-2607020604-10">
 		<tl f="N" t="p" o="8004NT" c="RE" n="3655"/>
 		<ar pt="2607020805" pp="2" l="RE1" fb="RE1" ppth="Göttingen|Heilbad Heiligenstadt|Leinefelde|Silberhausen|Mühlhausen(Thür)|Bad Langensalza|Gotha|Neudietendorf|Erfurt Hbf"/>
@@ -23,20 +42,6 @@
 		<ar pt="2607020857" pp="2" fb="IC 2151" wings="-8615961487604461422-2607020844" ppth="Kassel-Wilhelmshöhe|Bebra|Eisenach Hbf|Gotha|Erfurt Hbf"/>
 		<dp pt="2607020859" pp="2" fb="IC 2151" wings="-8615961487604461422-2607020844" ppth="Jena West|Jena-Göschwitz|Stadtroda|Hermsdorf-Klosterlausnitz|Gera Hbf"/>
 	</s>
-	<s id="-8766353698102087049-2607020806-8">
-		<tl f="D" t="p" o="AMRB" c="ABR" n="74608"/>
-		<ar pt="2607020840" pp="3" l="RB20" fb="RB20" ppth="Naumburg(Saale)Hbf|Bad Kösen|Großheringen|Bad Sulza|Niedertrebra|Apolda|Oßmannstedt"/>
-		<dp pt="2607020841" pp="3" l="RB20" fb="RB20" ppth="Hopfgarten(Weimar)|Vieselbach|Erfurt Hbf|Erfurt-Bischleben|Neudietendorf|Wandersleben|Seebergen|Gotha|Fröttstädt|Mechterstädt|Sättelstädt|Schönau(Hörsel)|Wutha|Eisenach Hbf"/>
-	</s>
-	<s id="4638243541593986025-2607020725-13">
-		<tl f="D" t="p" o="EB" c="EB" n="80884"/>
-		<ar pt="2607020826" pp="4" l="RB21" fb="RB21" ppth="Gera Hbf|Töppeln|Kraftsdorf|Hermsdorf-Klosterlausnitz|Papiermühle(Stadtr)|Stadtroda|Neue Schenke|Jena-Göschwitz|Jena West|Großschwabhausen|Mellingen(Thür)|Oberweimar"/>
-		<dp pt="2607020828" pp="4" l="RB21" fb="RB21" ppth="Vieselbach|Erfurt Hbf"/>
-	</s>
-	<s id="7251400783770106660-2607020712-13">
-		<tl f="D" t="p" o="EB" c="EB" n="80972"/>
-		<ar pt="2607020800" pp="1" l="RB26" fb="RB26" ppth="Kranichfeld|Tannroda|München(Bad Berka)|Bad Berka|Bad Berka Zeughausplatz|Hetschburg|Legefeld|Holzdorf(b Weimar)|Obergrunstedt|Nohra(Weimar)|Weimar Berkaer Bf|Weimar West"/>
-	</s>
 	<s id="8146211345322644510-2607020820-2">
 		<tl f="N" t="p" o="8004NT" c="RE" n="3955"/>
 		<ar pt="2607020832" pp="2" l="RE3" fb="RE3" ppth="Erfurt Hbf"/>
@@ -46,11 +51,6 @@
 		<tl f="N" t="p" o="8004NT" c="RE" n="3904"/>
 		<ar pt="2607020852" pp="4" l="RE3" fb="RE3" ppth="Gera Hbf|Hermsdorf-Klosterlausnitz|Stadtroda|Jena-Göschwitz|Jena West"/>
 		<dp pt="2607020854" pp="4" l="RE3" fb="RE3" ppth="Erfurt Hbf"/>
-	</s>
-	<s id="5233684198194253141-2607020713-15">
-		<tl f="D" t="p" o="AMRB" c="ABR" n="74611"/>
-		<ar pt="2607020816" pp="2" l="RB20" fb="RB20" ppth="Eisenach Hbf|Wutha|Schönau(Hörsel)|Sättelstädt|Mechterstädt|Fröttstädt|Gotha|Seebergen|Wandersleben|Neudietendorf|Erfurt-Bischleben|Erfurt Hbf|Vieselbach|Hopfgarten(Weimar)"/>
-		<dp pt="2607020817" pp="2" l="RB20" fb="RB20" ppth="Oßmannstedt|Apolda|Niedertrebra|Bad Sulza|Großheringen|Bad Kösen|Naumburg(Saale)Hbf"/>
 	</s>
 	<s id="-5564341032707733950-2607020812-1">
 		<tl f="D" t="p" o="EB" c="EB" n="80929"/>
