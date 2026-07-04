@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<timetable station="Fulda">
+	<s id="8067953717408713936-2607040612-1">
+		<tl f="N" t="p" o="8005KG" c="RE" n="15757"/>
+		<dp pt="2607040612" pp="1" l="RE50" fb="RE50" ppth="Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach"/>
+	</s>
+	<s id="3641449931777704722-2607040527-4">
+		<tl f="F" t="p" o="80" c="ICE" n="781"/>
+		<ar pt="2607040654" pp="4" fb="ICE 781" ppth="Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2607040656" pp="4" fb="ICE 781" ppth="Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-2448772166451129805-2607040601-7">
+		<tl f="N" t="p" o="8005KG" c="RE" n="15760"/>
+		<ar pt="2607040637" pp="1" l="RE50" fb="RE50" ppth="Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)"/>
+	</s>
+	<s id="4710261157634090091-2607040538-4">
+		<tl f="N" t="p" o="8005KG" c="RE" n="15570"/>
+		<ar pt="2607040601" pp="1" l="RE50" fb="RE50" ppth="Schlüchtern|Flieden|Neuhof(Kr Fulda)"/>
+	</s>
+</timetable>
