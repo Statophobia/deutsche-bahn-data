@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Harburg">
+	<s id="7311933899979687719-2607050639-6">
+		<tl f="D" t="p" o="R1" c="ME" n="82108"/>
+		<ar pt="2607050659" pp="2" l="RB31" fb="RB31" ppth="Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+		<dp pt="2607050700" pp="2" l="RB31" fb="RB31" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="1273081990742197177-2607050634-2">
+		<tl f="D" t="p" o="R1" c="ME" n="81611"/>
+		<ar pt="2607050643" pp="4" l="RE3" fb="RE3" ppth="Hamburg Hbf"/>
+		<dp pt="2607050644" pp="4" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Radbruch|Bardowick|Lüneburg"/>
+	</s>
+	<s id="1902796620404485330-2607050539-6">
+		<tl f="D" t="p" o="R1" c="ME" n="82106"/>
+		<ar pt="2607050559" pp="1" l="RB31" fb="RB31" ppth="Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+		<dp pt="2607050600" pp="1" l="RB31" fb="RB31" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="6878731496014552581-2607050555-2">
+		<tl f="D" t="p" o="R1" c="ME" n="82109"/>
+		<ar pt="2607050605" pp="4" l="RB31" fb="RB31" ppth="Hamburg Hbf"/>
+		<dp pt="2607050609" pp="4" l="RB31" fb="RB31" ppth="Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)"/>
+	</s>
+	<s id="8503777394879306018-2607042322-15">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2607050656" pp="1" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Köln Messe/Deutz Gl.11-12|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf"/>
+		<dp pt="2607050658" pp="1" fb="ICE 920" hi="1" ppth="Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="5049160830677505746-2607050636-2">
+		<tl f="D" t="p" o="R1" c="ME" n="81911"/>
+		<ar pt="2607050646" pp="3" l="RB41" fb="RB41" ppth="Hamburg Hbf"/>
+		<dp pt="2607050648" pp="3" l="RB41" fb="RB41" ppth="Hittfeld|Klecken|Buchholz(Nordheide)|Sprötze|Tostedt|Lauenbrück|Scheeßel|Rotenburg(Wümme)|Sottrum|Ottersberg(Han)|Sagehorn|Bremen-Oberneuland|Bremen Hbf"/>
+	</s>
+	<s id="-8594749958192812225-2607050536-5">
+		<tl f="D" t="p" o="R1" c="ME" n="81606"/>
+		<ar pt="2607050608" pp="1" l="RE3" fb="RE3" ppth="Lüneburg|Bardowick|Radbruch|Winsen(Luhe)"/>
+		<dp pt="2607050609" pp="1" l="RE3" fb="RE3" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="6073005251834123685-2607050616-2">
+		<tl f="D" t="p" o="R1" c="ME" n="82009"/>
+		<ar pt="2607050626" pp="3" l="RE4" fb="RE4" ppth="Hamburg Hbf"/>
+		<dp pt="2607050627" pp="3" l="RE4" fb="RE4" ppth="Buchholz(Nordheide)|Tostedt|Scheeßel|Rotenburg(Wümme)"/>
+	</s>
+	<s id="1326370929197328629-2607050644-2">
+		<tl t="p" o="80" c="ECE" n="5"/>
+		<ar pt="2607050654" pp="3" fb="ECE 5" ppth="Hamburg Hbf"/>
+		<dp pt="2607050656" pp="3" fb="ECE 5" ppth="Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB"/>
+	</s>
+	<s id="-3500545049874534285-2607050603-4">
+		<tl f="F" t="p" o="80" c="ICE" n="105"/>
+		<ar pt="2607050633" pp="3" fb="ICE 105" hi="1" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2607050635" pp="3" fb="ICE 105" ppth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+	</s>
+	<s id="2897765782443439104-2607050606-3">
+		<tl f="F" t="p" o="80" c="ICE" n="583"/>
+		<ar pt="2607050629" pp="4" fb="ICE 583" hi="1" ppth="Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2607050631" pp="4" fb="ICE 583" ppth="Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf|München Hbf"/>
+	</s>
+	<s id="-1906309101737004298-2607050457-14">
+		<tl f="D" t="p" o="R1" c="ME" n="81906"/>
+		<ar pt="2607050613" pp="2" l="RB41" fb="RB41" ppth="Bremen Hbf|Bremen-Oberneuland|Sagehorn|Ottersberg(Han)|Sottrum|Rotenburg(Wümme)|Scheeßel|Lauenbrück|Tostedt|Sprötze|Buchholz(Nordheide)|Klecken|Hittfeld"/>
+		<dp pt="2607050614" pp="2" l="RB41" fb="RB41" ppth="Hamburg Hbf"/>
+	</s>
+</timetable>
