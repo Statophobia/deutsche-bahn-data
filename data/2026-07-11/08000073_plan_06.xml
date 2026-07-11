@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<timetable station="Singen(Hohentwiel)">
+	<s id="6389780007036236318-2607110632-6">
+		<tl t="p" o="85L7" c="SBB" n="19705"/>
+		<ar pt="2607110651" pp="3" l="S62" fb="S62" ppth="Schaffhausen|Herblingen|Thayngen|Bietingen|Gottmadingen"/>
+	</s>
+	<s id="-2897723492710631428-2607110645-1">
+		<tl f="N" t="p" o="800693" c="RE" n="3042"/>
+		<dp pt="2607110645" pp="4" l="RE3" fb="RE3" ppth="Schaffhausen|Erzingen(Baden)"/>
+	</s>
+	<s id="2625201994388735184-2607110607-6">
+		<tl t="p" o="85L7" c="SBB" n="19703"/>
+		<ar pt="2607110625" pp="5" l="S62" fb="S62" ppth="Schaffhausen|Herblingen|Thayngen|Bietingen|Gottmadingen"/>
+	</s>
+	<s id="1424127997756731511-2607110632-4">
+		<tl t="p" o="L701" c="SBB" n="87658"/>
+		<ar pt="2607110642" pp="1" l="S6" fb="S6" ppth="Radolfzell|Böhringen-Rickelshausen|Singen Industriegebiet"/>
+		<dp pt="2607110645" pp="1" l="S6" fb="S6" ppth="Singen Landesgartenschau|Mühlhausen(b Engen)|Welschingen-Neuhausen|Engen"/>
+	</s>
+	<s id="-7322036184789788645-2607110602-1">
+		<tl t="p" o="L7" c="SBB" n="19702"/>
+		<dp pt="2607110602" pp="5" l="S62" fb="S62" ppth="Gottmadingen|Bietingen|Thayngen|Herblingen|Schaffhausen"/>
+	</s>
+	<s id="-9071571728674717774-2607110547-9">
+		<tl f="N" t="p" o="800647" c="RE" n="4703"/>
+		<ar pt="2607110645" pp="2" l="RE2" fb="RE2" ppth="Villingen(Schwarzw)|Donaueschingen|Geisingen|Immendingen|Engen|Welschingen-Neuhausen|Mühlhausen(b Engen)|Singen Landesgartenschau"/>
+	</s>
+	<s id="6555164920587705178-2607110620-2">
+		<tl f="N" t="p" o="NZ" c="RE" n="52386"/>
+		<ar pt="2607110627" pp="1" l="IC87" fb="RE IC87" ppth="Radolfzell"/>
+		<dp pt="2607110629" pp="1" l="IC87" fb="RE IC87" ppth="Engen|Tuttlingen|Spaichingen|Rottweil|Oberndorf(Neckar)|Sulz(Neckar)|Horb|Bondorf(b Herrenberg)|Gäufelden|Herrenberg|Böblingen|Stuttgart Hbf"/>
+	</s>
+	<s id="7524642151439289525-2607110620-2">
+		<tl f="F" t="p" o="80" c="IC" n="2386"/>
+		<ar pt="2607110627" pp="1" fb="IC 2386" wings="6555164920587705178-2607110620" ppth="Radolfzell"/>
+		<dp pt="2607110629" pp="1" fb="IC 2386" wings="6555164920587705178-2607110620" ppth="Engen|Tuttlingen|Spaichingen|Rottweil|Oberndorf(Neckar)|Sulz(Neckar)|Horb|Bondorf(b Herrenberg)|Gäufelden|Herrenberg|Böblingen|Stuttgart Hbf"/>
+	</s>
+	<s id="7543894500788822380-2607110632-1">
+		<tl t="p" o="L7" c="SBB" n="19704"/>
+		<dp pt="2607110632" pp="5" l="S62" fb="S62" ppth="Gottmadingen|Bietingen|Thayngen|Herblingen|Schaffhausen"/>
+	</s>
+</timetable>
