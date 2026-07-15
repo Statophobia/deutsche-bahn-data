@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <timetable station="Uelzen">
-	<s id="2767622053269807320-2607151303-1">
-		<tl f="N" t="p" o="800489" c="RE" n="92539"/>
-		<dp pt="2607151303" pp="304" l="RE20" fb="RE20" ppth="Stederdorf(Kr Uelzen)|Wieren|Soltendieck|Schnega|Salzwedel|Pretzier(Altm)|Fleetmark|Brunau-Packebusch|Hohenwulsch|Kläden(Stendal)|Steinfeld(Stendal)|Stendal Hbf"/>
+	<s id="-2874003840827548435-2607151104-20">
+		<tl f="N" t="p" o="800248" c="RE" n="82824"/>
+		<ar pt="2607151338" pp="103" l="RE2" fb="RE2" ppth="Göttingen|Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln|Elze(Han)|Nordstemmen|Sarstedt|Hannover Hbf|Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg"/>
 	</s>
 	<s id="-313768281056296761-2607151241-12">
 		<tl f="N" t="p" o="800489" c="RE" n="93336"/>
@@ -11,6 +11,22 @@
 	<s id="-741937423432529351-2607151307-1">
 		<tl f="N" t="p" o="RSNM" c="RB" n="16358"/>
 		<dp pt="2607151307" pp="302" l="RB37" fb="RB37" ppth="Ebstorf(Uelzen)|Brockhöfe|Munster(Örtze)|Soltau(Han)|Visselhövede|Langwedel|Achim|Bremen-Mahndorf|Bremen Hbf"/>
+	</s>
+	<s id="-1721771494675524237-2607151256-7">
+		<tl f="D" t="p" o="R1" c="ME" n="82123"/>
+		<ar pt="2607151357" pp="301" l="RE3" fb="RE3" tra="1822526547062403328-2607151414-1" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen"/>
+	</s>
+	<s id="7974581688842219813-2607151238-12">
+		<tl f="D" t="p" o="X2" c="erx" n="83614"/>
+		<ar pt="2607151353" pp="303" l="RB47" fb="RB47" ppth="Gifhorn|Gifhorn Stadt|Triangel|Wahrenholz|Schönewörde|Vorhop|Knesebeck|Wittingen|Bad Bodenteich|Wieren|Stederdorf(Kr Uelzen)"/>
+	</s>
+	<s id="2767622053269807320-2607151303-1">
+		<tl f="N" t="p" o="800489" c="RE" n="92539"/>
+		<dp pt="2607151303" pp="304" l="RE20" fb="RE20" ppth="Stederdorf(Kr Uelzen)|Wieren|Soltendieck|Schnega|Salzwedel|Pretzier(Altm)|Fleetmark|Brunau-Packebusch|Hohenwulsch|Kläden(Stendal)|Steinfeld(Stendal)|Stendal Hbf"/>
+	</s>
+	<s id="-5460939846778522267-2607151308-1">
+		<tl f="D" t="p" o="X2" c="erx" n="83619"/>
+		<dp pt="2607151308" pp="303" l="RB47" fb="RB47" ppth="Stederdorf(Kr Uelzen)|Wieren|Bad Bodenteich|Wittingen|Knesebeck|Vorhop|Schönewörde|Wahrenholz|Triangel|Gifhorn Stadt|Gifhorn"/>
 	</s>
 	<s id="-1050438932730484552-2607151221-3">
 		<tl f="F" t="p" o="80" c="ICE" n="2511"/>
@@ -24,21 +40,5 @@
 	<s id="-5345756847556552176-2607151300-1">
 		<tl f="D" t="p" o="R1" c="ME" n="82122"/>
 		<dp pt="2607151300" pp="103" l="RE3" fb="RE3" tra="-8400241610239571421-2607151140-9" ppth="Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
-	</s>
-	<s id="-1721771494675524237-2607151256-7">
-		<tl f="D" t="p" o="R1" c="ME" n="82123"/>
-		<ar pt="2607151357" pp="301" l="RE3" fb="RE3" tra="1822526547062403328-2607151414-1" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen"/>
-	</s>
-	<s id="-5460939846778522267-2607151308-1">
-		<tl f="D" t="p" o="X2" c="erx" n="83619"/>
-		<dp pt="2607151308" pp="303" l="RB47" fb="RB47" ppth="Stederdorf(Kr Uelzen)|Wieren|Bad Bodenteich|Wittingen|Knesebeck|Vorhop|Schönewörde|Wahrenholz|Triangel|Gifhorn Stadt|Gifhorn"/>
-	</s>
-	<s id="7974581688842219813-2607151238-12">
-		<tl f="D" t="p" o="X2" c="erx" n="83614"/>
-		<ar pt="2607151353" pp="303" l="RB47" fb="RB47" ppth="Gifhorn|Gifhorn Stadt|Triangel|Wahrenholz|Schönewörde|Vorhop|Knesebeck|Wittingen|Bad Bodenteich|Wieren|Stederdorf(Kr Uelzen)"/>
-	</s>
-	<s id="-2874003840827548435-2607151104-20">
-		<tl f="N" t="p" o="800248" c="RE" n="82824"/>
-		<ar pt="2607151338" pp="103" l="RE2" fb="RE2" ppth="Göttingen|Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln|Elze(Han)|Nordstemmen|Sarstedt|Hannover Hbf|Langenhagen Mitte|Isernhagen|Großburgwedel|Celle|Eschede|Unterlüß|Suderburg"/>
 	</s>
 </timetable>
