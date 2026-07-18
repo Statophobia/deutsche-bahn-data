@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="-6836417876429418811-2607181918-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1000"/>
+		<ar pt="2607182315" pp="7" fb="ICE 1000" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2607182317" pp="7" fb="ICE 1000" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="7106596216782637287-2607182346-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21962"/>
+		<ar pt="2607182358" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2607190000" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="1803816001739031859-2607182314-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21958"/>
+		<ar pt="2607182329" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2607182331" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="3265133052771071185-2607182204-15">
+		<tl f="N" t="p" o="800158" c="RE" n="3359"/>
+		<ar pt="2607182341" pp="4" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182344" pp="4" l="RE3" fb="RE3" ppth="Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog"/>
+	</s>
+	<s id="707692460492138158-2607182342-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1540"/>
+		<dp pt="2607182342" pp="7" fb="ICE 1540" ppth="Berlin Hbf|Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="4447890004106418758-2607181848-14">
+		<tl f="F" t="p" o="80" c="ICE" n="645"/>
+		<ar pt="2607182353" pp="6" fb="ICE 645" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-4452421295555593768-2607182246-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21954"/>
+		<ar pt="2607182258" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2607182300" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="-4301138458196909304-2607182252-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21957"/>
+		<ar pt="2607182259" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182301" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="1311782343570289532-2607182306-2">
+		<tl f="F" t="p" o="80" c="ICE" n="2543"/>
+		<ar pt="2607182315" pp="4" fb="ICE 2543" ppth="Berlin Hbf"/>
+		<dp pt="2607182319" pp="4" fb="ICE 2543" ppth="Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="3504143196433707859-2607182301-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21956"/>
+		<ar pt="2607182313" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2607182315" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="393750974960766514-2607182331-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21960"/>
+		<ar pt="2607182343" pp="8" l="FEX" fb="FEX" pde="Blankenfelde(Teltow-Fläming)" ppth="Flughafen BER"/>
+		<dp pt="2607182345" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="4512456530991552636-2607182130-18">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62039"/>
+		<ar pt="2607182304" pp="8" l="RE8" fb="RE8" ppth="Elsterwerda|Hohenleipisch|Rückersdorf|Doberlug-Kirchhain|Walddrehna|Luckau-Uckro|Drahnsdorf|Golßen(Niederlausitz)|Klasdorf Glashütte|Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2607182306" pp="8" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Falkensee|Nauen|Paulinenaue|Friesack(Mark)|Neustadt(Dosse)|Breddin|Glöwen|Bad Wilsnack|Wittenberge"/>
+	</s>
+	<s id="-4550645364654346112-2607181745-10">
+		<tl f="F" t="p" o="80" c="ICE" n="955"/>
+		<ar pt="2607182307" pp="5" fb="ICE 955" wings="-8275737537227179086-2607181750" ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-3050912806916685959-2607182352-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21965"/>
+		<ar pt="2607182359" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607190001" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="8603949856800861913-2607182337-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21963"/>
+		<ar pt="2607182344" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182346" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-3463800771318874764-2607182322-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21961"/>
+		<ar pt="2607182329" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182331" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-4453510486180462303-2607182304-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21959"/>
+		<ar pt="2607182314" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182316" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-7138410051225202863-2607182320-3">
+		<tl f="F" t="p" o="80" c="ICE" n="905"/>
+		<ar pt="2607182335" pp="3" fb="ICE 905" hi="1" ppth="Berlin Gesundbrunnen|Berlin Hbf"/>
+		<dp pt="2607182337" pp="3" fb="ICE 905" ppth="Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Naumburg(Saale)Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf|Treuchtlingen|Donauwörth|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="-9077160869576132165-2607181821-6">
+		<tl f="F" t="p" o="80" c="ICE" n="655"/>
+		<ar pt="2607182330" pp="5" fb="ICE 655" ppth="Wuppertal Hbf|Hagen Hbf|Hannover Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-8275737537227179086-2607181750-13">
+		<tl f="F" t="p" o="80" c="ICE" n="945"/>
+		<ar pt="2607182307" pp="5" fb="ICE 945" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="1795408190012027840-2607181948-9">
+		<tl f="F" t="p" o="80" c="ICE" n="792"/>
+		<ar pt="2607182304" pp="7" fb="ICE 792" wings="-4997549881047772123-2607181948" ppth="Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-7046504936651524928-2607182334-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3522"/>
+		<dp pt="2607182334" pp="4" l="RE5" fb="RE5" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Blankensee(Meckl)|Cammin(Meckl)|Burg Stargard(Meckl)|Neubrandenburg"/>
+	</s>
+	<s id="6524097521449315873-2607182034-14">
+		<tl f="N" t="p" o="800158" c="RE" n="4369"/>
+		<ar pt="2607182324" pp="6" l="RE5" fb="RE5" ppth="Rostock Hbf|Güstrow|Langhagen|Waren(Müritz)|Kratzeburg|Neustrelitz Hbf|Fürstenberg(Havel)|Dannenwalde(Gransee)|Gransee|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz"/>
+	</s>
+	<s id="8365149767290642133-2607182021-30">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62036"/>
+		<ar pt="2607182349" pp="3" l="RE8" fb="RE8" ppth="Wismar|Dorf Mecklenburg|Moidentin|Bad Kleinen|Lübstorf|Schwerin Hbf|Schwerin Mitte|Schwerin-Görries|Schwerin Süd|Holthusen|Sülstorf|Rastow|Lüblow(Meckl)|Ludwigslust|Grabow(Meckl)|Karstädt|Wittenberge|Bad Wilsnack|Glöwen|Breddin|Neustadt(Dosse)|Friesack(Mark)|Paulinenaue|Nauen|Falkensee|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2607182351" pp="3" l="RE8" fb="RE8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)"/>
+	</s>
+</timetable>

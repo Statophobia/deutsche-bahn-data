@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Halle(Saale)Hbf">
+	<s id="5468341598321489509-2607182222-17">
+		<tl f="D" t="p" o="AMS" c="ABR" n="74797"/>
+		<ar pt="2607182326" pp="4 A-C" l="S7" fb="S7" pde="Berga-Kelbra" ppth="Sangerhausen|Riestedt|Blankenheim(Sangerhausen)|Wolferode|Lutherstadt Eisleben|Erdeborn|Röblingen am See|Amsdorf|Wansleben am See|Teutschenthal|Teutschenthal Ost|Zscherben|Angersdorf|Halle Südstadt|Halle-Silberhöhe|Halle Rosengarten"/>
+	</s>
+	<s id="6499470529402875659-2607182310-1">
+		<tl f="D" t="p" o="AMRE" c="ABR" n="74736"/>
+		<dp pt="2607182310" pp="5 A-C" l="RE9" fb="RE9" ppth="Röblingen am See|Lutherstadt Eisleben|Wolferode|Blankenheim(Sangerhausen)|Sangerhausen|Wallhausen(Helme)|Bennungen|Roßla|Berga-Kelbra"/>
+	</s>
+	<s id="5731203406501117806-2607182318-6">
+		<tl f="S" t="p" o="800486" c="S" n="94595"/>
+		<ar pt="2607182329" pp="" l="S5" fb="S5" ppth="Halle-Trotha|Halle Wohnstadt Nord|Halle Zoo|Halle Dessauer Brücke|Halle Steintorbrücke"/>
+	</s>
+	<s id="-251946487788968635-2607182300-1">
+		<tl f="S" t="p" o="800486" c="S" n="94588"/>
+		<dp pt="2607182300" pp="" l="S5" fb="S5" ppth="Halle Steintorbrücke|Halle Dessauer Brücke|Halle Zoo|Halle Wohnstadt Nord|Halle-Trotha"/>
+	</s>
+	<s id="-7678096483165044027-2607182320-1">
+		<tl f="D" t="p" o="AMRB" c="ABR" n="74690"/>
+		<dp pt="2607182320" pp="11 E-G" l="RB25" fb="RB25" ppth="Halle-Ammendorf|Schkopau|Merseburg Hbf|Großkorbetha|Weißenfels|Leißling|Naumburg(Saale)Hbf|Bad Kösen|Camburg(Saale)|Dornburg(Saale)"/>
+	</s>
+	<s id="-9151538897035029733-2607182141-24">
+		<tl f="D" t="p" o="AMRB" c="ABR" n="74689"/>
+		<ar pt="2607182335" pp="7" l="RB25" fb="RB25" ppth="Saalfeld(Saale)|Rudolstadt-Schwarza|Rudolstadt(Thür)|Uhlstädt|Zeutsch|Orlamünde|Kahla(Thür)|Rothenstein(Saale)|Jena-Göschwitz|Jena Paradies|Jena Saalbf|Jena-Zwätzen|Porstendorf|Dornburg(Saale)|Camburg(Saale)|Bad Kösen|Naumburg(Saale)Hbf|Leißling|Weißenfels|Großkorbetha|Merseburg Hbf|Schkopau|Halle-Ammendorf"/>
+	</s>
+	<s id="4888957904673763657-2607182309-1">
+		<tl t="p" o="RSMD" c="RSM" n="75740"/>
+		<dp pt="2607182309" pp="13" l="RE24" fb="RE24" ppth="Könnern|Belleben|Sandersleben(Anh)|Freckleben|Drohndorf-Mehringen|Aschersleben|Frose|Nachterstedt-Hoym|Gatersleben|Hedersleben-Wedderstedt|Wegeleben|Halberstadt Hbf"/>
+	</s>
+	<s id="8617305306705083970-2607181345-19">
+		<tl f="F" t="p" o="85" c="ICE" n="276"/>
+		<ar pt="2607182302" pp="" fb="ICE 276" ppth="Brig|Visp|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Aschaffenburg Hbf|Fulda|Eisenach Hbf|Erfurt Hbf"/>
+		<dp pt="2607182318" pp="" fb="ICE 276" ppth="Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-4357990992099008814-2607182333-6">
+		<tl f="S" t="p" o="8004A9" c="S" n="37879"/>
+		<ar pt="2607182355" pp="5 D-F" l="S8" fb="S8" ppth="Bitterfeld|Roitzsch(Bitterf)|Brehna|Landsberg(b. Halle/Saale)|Hohenthurm"/>
+	</s>
+	<s id="-5083558051405008269-2607182021-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1500"/>
+		<ar pt="2607182313" pp="7" fb="ICE 1500" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf"/>
+		<dp pt="2607182315" pp="7" fb="ICE 1500" ppth="Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="1315013190723119882-2607182318-1">
+		<tl t="p" o="RSMD" c="Bus" n="10696"/>
+		<dp pt="2607182318" pp="" l="RB47" fb="Bus RB47" ppth="Halle-Trotha|Teicha|Wallwitz(Saalkr)|Nauendorf(Saalkr)|Domnitz(Saalkr)|Könnern|Baalberge|Bernburg-Roschwitz|Bernburg Hbf"/>
+	</s>
+	<s id="8783826388719378635-2607182326-1">
+		<tl f="S" t="p" o="8004A9" c="S" n="37878"/>
+		<dp pt="2607182326" pp="4 D-F" l="S8" fb="S8" ppth="Hohenthurm|Landsberg(b. Halle/Saale)|Brehna|Roitzsch(Bitterf)|Bitterfeld|Greppin|Wolfen(Bitterfeld)|Jeßnitz(Anh)|Raguhn|Marke|Dessau Süd|Dessau Hbf"/>
+	</s>
+</timetable>
