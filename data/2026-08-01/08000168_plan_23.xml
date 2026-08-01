@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Uelzen">
+	<s id="-4550435493069381661-2608012300-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81642"/>
+		<dp pt="2608012300" pp="103" l="RB31" fb="RB31" ppth="Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2345871439640296356-2608012306-6">
+		<tl f="D" t="p" o="R1" c="ME" n="81677"/>
+		<ar pt="2608012357" pp="301" l="RE3" fb="RE3" ppth="Hamburg-Harburg|Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen"/>
+	</s>
+	<s id="543136091307521408-2608012309-1">
+		<tl f="N" t="p" o="800248" c="RE" n="82841"/>
+		<dp pt="2608012309" pp="103" l="RE2" fb="RE2" ppth="Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf|Sarstedt|Nordstemmen|Elze(Han)|Banteln|Alfeld(Leine)|Freden(Leine)|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg|Göttingen"/>
+	</s>
+	<s id="1645690183033695457-2608012233-12">
+		<tl f="D" t="p" o="R1" c="ME" n="81643"/>
+		<ar pt="2608012347" pp="302" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg|Bienenbüttel|Bad Bevensen"/>
+		<dp pt="2608012351" pp="302" l="RB31" fb="RB31" ppth="Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="1983981787191650824-2608012228-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1081"/>
+		<ar pt="2608012314" pp="101" fb="ICE 1081" ppth="Hamburg Hbf|Hamburg-Harburg|Lüneburg"/>
+		<dp pt="2608012316" pp="101" fb="ICE 1081" ppth="Celle|Hannover Hbf|Göttingen|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="4760651137475633059-2608012358-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81644"/>
+		<dp pt="2608012358" pp="103" l="RB31" fb="RB31" ppth="Bad Bevensen|Bienenbüttel|Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-9012391486710318142-2608012003-16">
+		<tl t="p" o="X2" c="Bus" n="630"/>
+		<ar pt="2608012302" pp="" l="RB47" fb="Bus RB47" ppth="Braunschweig Hbf|Braunschweig-Gliesmarode|Meine|Rötgesbüttel|Gifhorn|Gifhorn Stadt|Triangel|Wahrenholz|Schönewörde|Vorhop|Knesebeck|Wittingen|Bad Bodenteich|Wieren|Stederdorf(Kr Uelzen)"/>
+	</s>
+</timetable>
