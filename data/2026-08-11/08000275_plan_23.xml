@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<timetable station="Neustadt(Weinstr)Hbf">
+	<s id="-4352008297451802664-2608112304-6">
+		<tl t="p" o="8005L1" c="Bus" n="55950"/>
+		<ar pt="2608112358" pp="5" l="RB51" fb="Bus RB51" ppth="Landau(Pfalz)Hbf|Knöringen-Essingen|Edesheim(Pfalz)|Edenkoben|Maikammer-Kirrweiler"/>
+	</s>
+	<s id="2111171269374663756-2608112230-4">
+		<tl f="N" t="p" o="800640" c="RE" n="22652"/>
+		<ar pt="2608112256" pp="3" l="RE1" fb="RE1" ppth="Kaiserslautern Hbf|Hochspeyer|Lambrecht(Pfalz)"/>
+		<dp pt="2608112302" pp="3" l="RE1" fb="RE1" ppth="Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf"/>
+	</s>
+	<s id="7887917735695822981-2608112121-5">
+		<tl f="S" t="p" o="801539" c="S" n="38258"/>
+		<ar pt="2608112321" pp="1" l="S2" fb="S2" pde="Karlsruhe Hbf" ppth="Schifferstadt|Böhl-Iggelheim|Haßloch(Pfalz)|Neustadt-Böbig"/>
+		<dp pt="2608112330" pp="1" l="S2" fb="S2" ppth="Lambrecht(Pfalz)|Neidenfels|Weidenthal|Frankenstein(Pfalz)|Hochspeyer|Kaiserslautern Hbf"/>
+	</s>
+	<s id="675453399937563768-2608112305-1">
+		<tl t="p" o="800520" c="Bus" n="12387"/>
+		<dp pt="2608112305" pp="5" l="RB53" fb="Bus RB53" ppth="Neustadt(Weinstr) Süd|Maikammer-Kirrweiler|Edenkoben|Edesheim(Pfalz)|Knöringen-Essingen|Landau(Pfalz)Hbf"/>
+	</s>
+	<s id="-8595860005808443663-2608112301-7">
+		<tl f="S" t="p" o="801539" c="S" n="38267"/>
+		<ar pt="2608112329" pp="4" l="S3" fb="S3" ppth="Kaiserslautern Hbf|Hochspeyer|Frankenstein(Pfalz)|Weidenthal|Neidenfels|Lambrecht(Pfalz)"/>
+		<dp pt="2608112330" pp="4" l="S3" fb="S3" pde="Karlsruhe Hbf" ppth="Neustadt-Böbig|Haßloch(Pfalz)|Böhl-Iggelheim|Schifferstadt|Limburgerhof|Ludwigshafen-Rheingönheim|Ludwigshafen-Mundenheim|Ludwigshafen(Rh)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf|Mannheim ARENA/Maimarkt|Mannheim-Seckenheim|Mannheim-Friedrichsfeld Süd|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf"/>
+	</s>
+	<s id="8280296046192255306-2608112239-3">
+		<tl f="N" t="p" o="800640" c="RE" n="4149"/>
+		<ar pt="2608112300" pp="2" l="RE1" fb="RE1" ppth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte"/>
+		<dp pt="2608112302" pp="2" l="RE1" fb="RE1" ppth="Lambrecht(Pfalz)|Hochspeyer|Kaiserslautern Hbf"/>
+	</s>
+	<s id="-7350198023572212475-2608112206-7">
+		<tl t="p" o="8005L1" c="Bus" n="56938"/>
+		<ar pt="2608112300" pp="5" l="RB51" fb="Bus RB51" ppth="Landau(Pfalz)Hbf|Knöringen-Essingen|Edesheim(Pfalz)|Edenkoben|Maikammer-Kirrweiler|Neustadt(Weinstr) Süd"/>
+	</s>
+</timetable>
