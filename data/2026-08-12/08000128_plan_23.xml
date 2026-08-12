@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="1116577686148397167-2608121816-11">
+		<tl f="F" t="p" o="80" c="ICE" n="274"/>
+		<ar pt="2608122344" pp="4" fb="ICE 274" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe"/>
+		<dp pt="2608122347" pp="4" fb="ICE 274" ppth="Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="-1669063220584259198-2608122334-3">
+		<tl f="D" t="p" o="N4" c="CAN" n="93501"/>
+		<ar pt="2608122348" pp="5" l="RB87" fb="RB87" pde="Eschwege" ppth="Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="3974852296828929209-2608122336-3">
+		<tl f="N" t="p" o="800248" c="RE" n="13977"/>
+		<ar pt="2608122353" pp="6" l="RE2" fb="RE2" ppth="Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="7341509532011274779-2608122030-5">
+		<tl f="F" t="p" o="80" c="ICE" n="679"/>
+		<ar pt="2608122349" pp="10" fb="ICE 679" ppth="Berlin Hbf|Magdeburg Hbf|Braunschweig Hbf|Hildesheim Hbf"/>
+		<dp pt="2608122351" pp="10" fb="ICE 679" ppth="Kassel-Wilhelmshöhe"/>
+	</s>
+	<s id="7233032038798774885-2608122246-11">
+		<tl f="D" t="p" o="N4" c="CAN" n="24036"/>
+		<ar pt="2608122345" pp="5" l="RB83" fb="RB83" ppth="Kassel Hbf|Vellmar-Niedervellmar|Fuldatal-Ihringshausen|Speele|Hann Münden|Hedemünden|Gertenbach|Witzenhausen Nord|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="-5254818801804111887-2608122314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24099"/>
+		<dp pt="2608122314" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Friedland(Han)|Eichenberg|Bad Sooden-Allendorf|Eschwege-Niederhone|Eschwege"/>
+	</s>
+	<s id="-2771848429149037972-2608122314-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24039"/>
+		<dp pt="2608122314" pp="5" l="RB83" fb="RB83" wings="-5254818801804111887-2608122314" ppth="Friedland(Han)|Eichenberg|Witzenhausen Nord|Gertenbach|Hedemünden|Hann Münden|Speele|Fuldatal-Ihringshausen|Vellmar-Niedervellmar|Kassel Hbf"/>
+	</s>
+	<s id="-1995620042778275293-2608122311-1">
+		<tl f="N" t="p" o="800248" c="RE" n="13978"/>
+		<dp pt="2608122311" pp="6" l="RE2" fb="RE2" ppth="Nörten-Hardenberg|Northeim(Han)"/>
+	</s>
+</timetable>
