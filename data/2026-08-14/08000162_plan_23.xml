@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Herford">
+	<s id="-7643816199533926631-2608142221-11">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90684"/>
+		<ar pt="2608142327" pp="2" l="RB72" fb="RB72" ppth="Paderborn Hbf|Altenbeken|Steinheim-Sandebeck|Leopoldstal|Horn-Bad Meinberg|Detmold|Lage(Lippe)|Bad Salzuflen-Sylbach|Schötmar|Bad Salzuflen"/>
+	</s>
+	<s id="6688617323959389818-2608142336-1">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="90681"/>
+		<dp pt="2608142336" pp="2" l="RB72" fb="RB72" ppth="Bad Salzuflen|Schötmar|Bad Salzuflen-Sylbach|Lage(Lippe)|Detmold|Horn-Bad Meinberg|Leopoldstal|Steinheim-Sandebeck|Altenbeken|Paderborn Hbf"/>
+	</s>
+	<s id="-6357942264043245025-2608142321-4">
+		<tl t="p" o="R2" c="Bus" n="6303"/>
+		<ar pt="2608142353" pp="" l="RB61" fb="Bus RB61" ppth="Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
+		<dp pt="2608142353" pp="" l="RB61" fb="Bus RB61" ppth="Brake(b Bielefeld)|Bielefeld Hbf"/>
+	</s>
+	<s id="7415184132363065936-2608142241-3">
+		<tl t="p" o="R2" c="Bus" n="7865"/>
+		<ar pt="2608142311" pp="" l="RE78" fb="Bus RE78" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2608142311" pp="" l="RE78" fb="Bus RE78" ppth="Löhne(Westf)"/>
+	</s>
+	<s id="-7992662040880876767-2608142233-3">
+		<tl t="p" o="R2" c="Bus" n="6294"/>
+		<ar pt="2608142303" pp="" l="RB61" fb="Bus RB61" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2608142303" pp="" l="RB61" fb="Bus RB61" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)"/>
+	</s>
+	<s id="-6325947934797757575-2608142330-2">
+		<tl t="p" o="W3" c="Bus" n="75838"/>
+		<ar pt="2608142351" pp="" l="RE70" fb="Bus RE70" ppth="Löhne(Westf)"/>
+		<dp pt="2608142351" pp="" l="RE70" fb="Bus RE70" ppth="Bielefeld Hbf"/>
+	</s>
+</timetable>
