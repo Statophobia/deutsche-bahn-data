@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="9033977058736277846-2608192346-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31487"/>
+		<dp pt="2608192346" pp="25" l="RB46" fb="RB46" ppth="Herne-Wanne-Eickel Hbf|Bochum-Riemke|Bochum-Hamme|Bochum West|Bochum Hbf"/>
+	</s>
+	<s id="-1887045720703052188-2608192249-6">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31484"/>
+		<ar pt="2608192311" pp="25" l="RB46" fb="RB46" ppth="Bochum Hbf|Bochum West|Bochum-Hamme|Bochum-Riemke|Herne-Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-7669553602395205291-2608192316-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89901"/>
+		<ar pt="2608192328" pp="6" l="RE3" fb="RE3" ppth="Oberhausen Hbf|Essen-Altenessen"/>
+		<dp pt="2608192329" pp="6" l="RE3" fb="RE3" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="-4644128910074535892-2608192253-4">
+		<tl f="S" t="p" o="8003L1" c="S" n="30278"/>
+		<ar pt="2608192304" pp="7" l="S2" fb="S2" ppth="Essen Hbf|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2608192305" pp="7" l="S2" fb="S2" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund-Nette/Oestrich|Dortmund-Westerfilde|Dortmund-Huckarde|Dortmund-Wischlingen|Dortmund-Dorstfeld"/>
+	</s>
+	<s id="-384128344217424085-2608192338-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31280"/>
+		<ar pt="2608192358" pp="6" l="RB32" fb="RB32" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+		<dp pt="2608192359" pp="6" l="RB32" fb="RB32" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="-6095963934964675781-2608192321-10">
+		<tl f="S" t="p" o="8003L1" c="S" n="30281"/>
+		<ar pt="2608192353" pp="4" l="S2" fb="S2" ppth="Dortmund-Dorstfeld|Dortmund-Wischlingen|Dortmund-Huckarde|Dortmund-Westerfilde|Dortmund-Nette/Oestrich|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2608192354" pp="4" l="S2" fb="S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf"/>
+	</s>
+</timetable>
