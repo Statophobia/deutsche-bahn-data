@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<timetable station="Duisburg Hbf">
+	<s id="5991888741465759761-2608202337-2">
+		<tl t="p" o="R4NRN" c="Bus" n="262"/>
+		<ar pt="2608202355" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+		<dp pt="2608202357" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-7732718178915649034-2608202306-3">
+		<tl f="N" t="p" o="800349" c="RE" n="55849"/>
+		<ar pt="2608202323" pp="10" l="RE2" fb="RE2" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202325" pp="10" l="RE2" fb="RE2" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-646695318094650914-2608202307-2">
+		<tl t="p" o="R4NRN" c="Bus" n="258"/>
+		<ar pt="2608202325" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+		<dp pt="2608202327" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-5595627870476813544-2608202221-6">
+		<tl f="N" t="p" o="800349" c="RE" n="55847"/>
+		<ar pt="2608202259" pp="8" l="RE42" fb="RE42" ppth="Mönchengladbach Hbf|Viersen|Krefeld Hbf|Krefeld-Uerdingen|Rheinhausen"/>
+		<dp pt="2608202301" pp="8" l="RE42" fb="RE42" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf"/>
+	</s>
+	<s id="-1664344233201226425-2608202145-18">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20041"/>
+		<ar pt="2608202316" pp="6" l="RE19" fb="RE19" ppth="Arnhem Centraal|Zevenaar|Emmerich-Elten|Emmerich|Praest|Millingen(b Rees)|Empel-Rees|Haldern(Rheinl)|Mehrhoog|Wesel Feldmark|Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Oberhausen Hbf"/>
+	</s>
+	<s id="3736117015423388331-2608201746-10">
+		<tl f="F" t="p" o="80" c="ICE" n="526"/>
+		<ar pt="2608202317" pp="13" fb="ICE 526" ppth="München Hbf|Nürnberg Hbf|Würzburg Hbf|Aschaffenburg Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf"/>
+		<dp pt="2608202319" pp="13" fb="ICE 526" ppth="Dortmund Hbf"/>
+	</s>
+	<s id="-5696427854597781402-2608202218-12">
+		<tl t="p" o="NXRE" c="NX" n="26838"/>
+		<ar pt="2608202321" pp="2" l="RE1" fb="RE1" ppth="Hamm(Westf)Hbf|Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf"/>
+		<dp pt="2608202323" pp="2" l="RE1" fb="RE1" ppth="Düsseldorf Flughafen|Düsseldorf Hbf|Neuss Hbf|Dormagen|Köln Hbf|Köln-Ehrenfeld|Horrem|Düren|Langerwehe|Eschweiler Hbf|Stolberg(Rheinl)Hbf|Aachen-Rothe Erde|Aachen Hbf"/>
+	</s>
+	<s id="4132234141586896447-2608202151-14">
+		<tl t="p" o="NXRE" c="NX" n="26839"/>
+		<ar pt="2608202336" pp="12" l="RE1" fb="RE1" ppth="Aachen Hbf|Aachen-Rothe Erde|Stolberg(Rheinl)Hbf|Eschweiler Hbf|Langerwehe|Düren|Horrem|Köln-Ehrenfeld|Köln Hbf|Dormagen|Neuss Hbf|Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202338" pp="12" l="RE1" fb="RE1" ppth="Oberhausen Hbf|Essen-Altenessen|Gelsenkirchen Hbf|Herne|Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+	<s id="7582314568044505717-2608202101-6">
+		<tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+		<ar pt="2608202304" pp="2" fb="IC 60403" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf"/>
+		<dp pt="2608202306" pp="2" fb="IC 60403" ppth="Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="6156021685419226371-2608202310-1">
+		<tl t="p" o="TDRR" c="RRB" n="26040"/>
+		<dp pt="2608202310" pp="6" l="RB31" fb="RB31" ppth="Rheinhausen|Rumeln|Trompet|Moers"/>
+	</s>
+	<s id="5794789380325951395-2608202304-5">
+		<tl f="N" t="p" o="800349" c="RE" n="55842"/>
+		<ar pt="2608202333" pp="10" l="RE2" fb="RE2" ppth="Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen Hbf|Mülheim(Ruhr)Hbf"/>
+		<dp pt="2608202336" pp="10" l="RE2" fb="RE2" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="8716113742443377397-2608202326-3">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20042"/>
+		<ar pt="2608202343" pp="10" l="RE19" fb="RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202344" pp="10" l="RE19" fb="RE19" ppth="Oberhausen Hbf|Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Friedrichsfeld(Niederrhein)|Wesel|Wesel Feldmark|Mehrhoog|Haldern(Rheinl)|Empel-Rees|Millingen(b Rees)|Praest|Emmerich"/>
+	</s>
+	<s id="-7143320589401074721-2608202335-1">
+		<tl t="p" o="NX" c="Bus" n="6162"/>
+		<dp pt="2608202335" pp="" l="RE6" fb="Bus RE6" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus|Wattenscheid|Bochum Hbf (Buddenbergplatz)|Dortmund Hbf"/>
+	</s>
+	<s id="-5761329669373786716-2608202336-5">
+		<tl f="S" t="p" o="800337" c="S" n="31194"/>
+		<ar pt="2608202354" pp="5" l="S1" fb="S1" ppth="Essen Hbf|Essen West|Mülheim(Ruhr)Hbf|Mülheim(Ruhr)Styrum"/>
+		<dp pt="2608202355" pp="5" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf|Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Mitte|Düsseldorf-Eller|Hilden|Hilden Süd|Solingen Vogelpark|Solingen Hbf"/>
+	</s>
+	<s id="-5067285706679593203-2608202137-27">
+		<tl f="N" t="p" o="800333" c="RB" n="10342"/>
+		<ar pt="2608202326" pp="8" l="RB33" fb="RB33" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Kohlscheid|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Brachelen|Hückelhoven-Baal|Erkelenz|Herrath|Wickrath|Rheydt Hbf|Mönchengladbach Hbf|Viersen|Anrath|Forsthaus|Krefeld Hbf|Krefeld-Oppum|Krefeld-Linn|Krefeld-Uerdingen|Krefeld-Hohenbudberg Chempark|Rheinhausen|Rheinhausen Ost|Duisburg-Hochfeld Süd"/>
+	</s>
+	<s id="-9150284369718897886-2608202234-7">
+		<tl f="N" t="p" o="800349" c="RE" n="21496"/>
+		<ar pt="2608202259" pp="6" l="RE42" fb="RE42" ppth="Gelsenkirchen Hbf|Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf"/>
+		<dp pt="2608202301" pp="6" l="RE42" fb="RE42" ppth="Rheinhausen|Krefeld-Uerdingen|Krefeld Hbf|Viersen|Mönchengladbach Hbf"/>
+	</s>
+	<s id="5896740699411171164-2608202328-5">
+		<tl t="p" o="TDRR" c="RRB" n="26041"/>
+		<ar pt="2608202346" pp="8" l="RB31" fb="RB31" ppth="Moers|Trompet|Rumeln|Rheinhausen"/>
+	</s>
+	<s id="8283504208782285902-2608202306-5">
+		<tl f="S" t="p" o="800337" c="S" n="31192"/>
+		<ar pt="2608202324" pp="5" l="S1" fb="S1" ppth="Essen Hbf|Essen West|Mülheim(Ruhr)Hbf|Mülheim(Ruhr)Styrum"/>
+		<dp pt="2608202325" pp="5" l="S1" fb="S1" ppth="Duisburg-Schlenk|Duisburg-Buchholz|Duisburg-Großenbaum|Duisburg-Rahm|Angermund|Düsseldorf Flughafen|Düsseldorf-Unterrath|Düsseldorf-Derendorf|Düsseldorf-Zoo|Düsseldorf Wehrhahn|Düsseldorf Hbf|Düsseldorf Volksgarten|Düsseldorf-Oberbilk|Düsseldorf-Eller Mitte|Düsseldorf-Eller|Hilden|Hilden Süd|Solingen Vogelpark|Solingen Hbf"/>
+	</s>
+	<s id="-1352971648805775037-2608202252-2">
+		<tl t="p" o="R4NRN" c="Bus" n="256"/>
+		<ar pt="2608202310" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+		<dp pt="2608202312" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="3122645314241102855-2608202246-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89901"/>
+		<ar pt="2608202303" pp="10" l="RE3" fb="RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202310" pp="10" l="RE3" fb="RE3" ppth="Oberhausen Hbf|Essen-Altenessen|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="4735162129806996524-2608202257-3">
+		<tl t="p" o="R4NRN" c="Bus" n="123"/>
+		<ar pt="2608202349" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202351" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="-5851721557238592488-2608202101-6">
+		<tl t="p" o="84" c="NJ" n="403"/>
+		<ar pt="2608202304" pp="2" fb="NJ 403" hi="1" wings="7582314568044505717-2608202101" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf"/>
+		<dp pt="2608202306" pp="2" fb="NJ 403" wings="7582314568044505717-2608202101" ppth="Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="2445365610332320219-2608202128-20">
+		<tl t="p" o="NXRE" c="NX" n="89740"/>
+		<ar pt="2608202344" pp="5" l="RE6" fb="RE6" ppth="Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)|Herford|Bielefeld Hbf|Gütersloh Hbf|Rheda-Wiedenbrück|Oelde|Beckum-Neubeckum|Ahlen(Westf)|Hamm-Heessen|Hamm(Westf)Hbf|Kamen|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf"/>
+		<dp pt="2608202348" pp="5" l="RE6" fb="RE6" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-4737482986446738332-2608201947-10">
+		<tl f="F" t="p" o="80" c="ICE" n="842"/>
+		<ar pt="2608202348" pp="2" fb="ICE 842" ppth="Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf"/>
+		<dp pt="2608202349" pp="2" fb="ICE 842" ppth="Düsseldorf Flughafen"/>
+	</s>
+	<s id="-2982859918294871248-2608202334-1">
+		<tl f="N" t="p" o="800333" c="RB" n="10349"/>
+		<dp pt="2608202334" pp="6" l="RB33" fb="RB33" ppth="Duisburg-Hochfeld Süd|Rheinhausen Ost|Rheinhausen|Krefeld-Hohenbudberg Chempark|Krefeld-Uerdingen|Krefeld-Linn|Krefeld-Oppum|Krefeld Hbf|Forsthaus|Anrath|Viersen|Mönchengladbach Hbf"/>
+	</s>
+	<s id="-1696482145472978640-2608201945-9">
+		<tl f="F" t="p" o="80" c="ICE" n="619"/>
+		<ar pt="2608202313" pp="2" fb="ICE 619" ppth="Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf"/>
+		<dp pt="2608202315" pp="2" fb="ICE 619" ppth="Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Heidelberg Hbf|Stuttgart Hbf|Ulm Hbf|Günzburg|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="1504154078880201178-2608202212-3">
+		<tl t="p" o="R4NRN" c="Bus" n="117"/>
+		<ar pt="2608202304" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202306" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="-418511204483369970-2608202348-1">
+		<tl t="p" o="NX" c="Bus" n="1098"/>
+		<dp pt="2608202348" pp="" l="RE1" fb="Bus RE1" ppth="Mülheim(Ruhr)Hbf|Essen Hbf Kruppstraße/Am Thyssenhaus|Wattenscheid|Bochum Hbf (Buddenbergplatz)|Dortmund Hbf"/>
+	</s>
+	<s id="-9038400160189462590-2608202242-3">
+		<tl t="p" o="R4NRN" c="Bus" n="121"/>
+		<ar pt="2608202334" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202336" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="85652358382540219-2608202332-5">
+		<tl t="p" o="TDRR" c="RRB" n="82571"/>
+		<ar pt="2608202353" pp="6" l="RE44" fb="RE44" ppth="Bottrop Hbf|Bottrop-Vonderort|Oberhausen-Osterfeld Süd|Oberhausen Hbf"/>
+	</s>
+	<s id="6950248645505077359-2608202227-3">
+		<tl t="p" o="R4NRN" c="Bus" n="119"/>
+		<ar pt="2608202319" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen"/>
+		<dp pt="2608202321" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+	</s>
+	<s id="4783379476124698957-2608202303-9">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89902"/>
+		<ar pt="2608202349" pp="1 B-D" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf|Essen-Altenessen|Oberhausen Hbf"/>
+		<dp pt="2608202352" pp="1 B-D" l="RE3" fb="RE3" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-1175282737661670872-2608202322-2">
+		<tl t="p" o="R4NRN" c="Bus" n="260"/>
+		<ar pt="2608202340" pp="" l="RE19" fb="Bus RE19" ppth="Oberhausen Hbf"/>
+		<dp pt="2608202342" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+</timetable>
