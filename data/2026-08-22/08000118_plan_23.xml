@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Gelsenkirchen Hbf">
+	<s id="8925808644332138894-2608222233-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31279"/>
+		<ar pt="2608222300" pp="5" l="RB32" fb="RB32" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2608222301" pp="5" l="RB32" fb="RB32" ppth="Essen-Zollverein Nord|Essen-Altenessen|Essen-Bergeborbeck|Essen-Dellwig|Oberhausen Hbf"/>
+	</s>
+	<s id="-5595627870476813544-2608222221-9">
+		<tl f="N" t="p" o="800349" c="RE" n="55847"/>
+		<ar pt="2608222324" pp="7" l="RE42" fb="RE42" ppth="Mönchengladbach Hbf|Viersen|Krefeld Hbf|Krefeld-Uerdingen|Rheinhausen|Duisburg Hbf|Mülheim(Ruhr)Hbf|Essen Hbf"/>
+	</s>
+	<s id="-4234275784034752444-2608222334-5">
+		<tl f="S" t="p" o="8003L1" c="S" n="30281"/>
+		<ar pt="2608222353" pp="4" l="S2" fb="S2" ppth="Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2608222354" pp="4" l="S2" fb="S2" ppth="Gelsenkirchen-Rotthausen|Essen-Kray Nord|Essen Hbf"/>
+	</s>
+	<s id="-4644128910074535892-2608222253-4">
+		<tl f="S" t="p" o="8003L1" c="S" n="30278"/>
+		<ar pt="2608222304" pp="7" l="S2" fb="S2" ppth="Essen Hbf|Essen-Kray Nord|Gelsenkirchen-Rotthausen"/>
+		<dp pt="2608222305" pp="7" l="S2" fb="S2" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede"/>
+	</s>
+	<s id="3122645314241102855-2608222246-6">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89901"/>
+		<ar pt="2608222328" pp="6" l="RE3" fb="RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf|Essen-Altenessen"/>
+		<dp pt="2608222329" pp="6" l="RE3" fb="RE3" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+	<s id="4783379476124698957-2608222303-6">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89902"/>
+		<ar pt="2608222330" pp="5" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Mengede|Castrop-Rauxel Hbf|Herne|Herne-Wanne-Eickel Hbf"/>
+		<dp pt="2608222331" pp="5" l="RE3" fb="RE3" ppth="Essen-Altenessen|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-384128344217424085-2608222338-6">
+		<tl f="N" t="p" o="8003L1" c="RB" n="31280"/>
+		<ar pt="2608222358" pp="6" l="RB32" fb="RB32" ppth="Oberhausen Hbf|Essen-Dellwig|Essen-Bergeborbeck|Essen-Altenessen|Essen-Zollverein Nord"/>
+		<dp pt="2608222359" pp="6" l="RB32" fb="RB32" ppth="Herne-Wanne-Eickel Hbf|Herne|Castrop-Rauxel Hbf|Dortmund-Mengede|Dortmund Hbf"/>
+	</s>
+</timetable>
