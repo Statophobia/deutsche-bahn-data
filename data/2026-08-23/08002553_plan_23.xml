@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-2217509866570922369-2608232019-18">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11039"/>
+		<ar pt="2608232331" pp="9" l="RE6" fb="RE6" ppth="Westerland(Sylt)|Keitum|Morsum|Klanxbüll|Niebüll|Langenhorn(Schlesw)|Bredstedt|Husum|Friedrichstadt|Lunden|Heide(Holst)|Meldorf|St Michaelisdonn|Burg(Dithm)|Wilster|Itzehoe|Elmshorn"/>
+	</s>
+	<s id="3173503229217504110-2608232342-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11288"/>
+		<dp pt="2608232342" pp="12" l="RE7" fb="RE7" ppth="Pinneberg|Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+	</s>
+	<s id="573841601175746681-2608232205-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11289"/>
+		<ar pt="2608232317" pp="12" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg"/>
+	</s>
+	<s id="442161405481707538-2608232119-13">
+		<tl f="N" t="p" o="800201" c="RE" n="11189"/>
+		<ar pt="2608232317" pp="12" l="RE7" fb="RE7" wings="573841601175746681-2608232205" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Brokstedt|Wrist|Elmshorn|Pinneberg"/>
+	</s>
+	<s id="2976703934606339199-2608232315-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11238"/>
+		<dp pt="2608232315" pp="9" l="RE70" fb="RE70" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf"/>
+	</s>
+	<s id="8904312633218535484-2608232319-1">
+		<tl t="p" o="80" c="ECE" n="13466"/>
+		<dp pt="2608232319" pp="9" fb="ECE 13466" ppth="Schleswig|Flensburg|Padborg st|Kolding st|Middelfart st|Odense st|Ringsted st|Koebenhavn Syd|Koebenhavns Lufthavn st"/>
+	</s>
+</timetable>
