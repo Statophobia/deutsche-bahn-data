@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<timetable station="Herford">
+	<s id="1355323037154564737-2608242234-3">
+		<tl t="p" o="R2" c="Bus" n="6316"/>
+		<ar pt="2608242304" pp="" l="RB61" fb="Bus RB61" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2608242304" pp="" l="RB61" fb="Bus RB61" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)"/>
+	</s>
+	<s id="1834416950852286228-2608242253-2">
+		<tl t="p" o="NX" c="Bus" n="8400"/>
+		<ar pt="2608242311" pp="" l="RE6" fb="Bus RE6" ppth="Löhne(Westf)"/>
+	</s>
+	<s id="3653140806269426700-2608242234-6">
+		<tl t="p" o="NXRE" c="NX" n="91630"/>
+		<ar pt="2608242311" pp="4" l="RE6" fb="RE6" ppth="Beckum-Neubeckum|Oelde|Rheda-Wiedenbrück|Gütersloh Hbf|Bielefeld Hbf"/>
+		<dp pt="2608242311" pp="4" l="RE6" fb="RE6" ppth="Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)"/>
+	</s>
+	<s id="6365166293929457575-2608242230-4">
+		<tl t="p" o="R2" c="Bus" n="6321"/>
+		<ar pt="2608242302" pp="" l="RB61" fb="Bus RB61" ppth="Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
+		<dp pt="2608242302" pp="" l="RB61" fb="Bus RB61" ppth="Brake(b Bielefeld)|Bielefeld Hbf"/>
+	</s>
+</timetable>
