@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Wuppertal Hbf">
+	<s id="1386895924199887700-2608252252-11">
+		<tl t="p" o="NXRB" c="NX" n="17376"/>
+		<ar pt="2608252336" pp="2" l="RB48" fb="RB48" ppth="Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel"/>
+		<dp pt="2608252337" pp="2" l="RB48" fb="RB48" ppth="Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="8296045927390297280-2608252340-1">
+		<tl t="p" o="TDRR" c="Bus" n="70159"/>
+		<dp pt="2608252340" pp="" l="S7" fb="Bus S7" ppth="Wuppertal-Unterbarmen|Wuppertal-Barmen|Wuppertal-Oberbarmen|Wuppertal-Ronsdorf|Remscheid-Lüttringhausen|Remscheid-Lennep"/>
+	</s>
+	<s id="-74441273704802335-2608252121-16">
+		<tl t="p" o="NXRE" c="NX" n="26437"/>
+		<ar pt="2608252300" pp="2" l="RE4" fb="RE4" ppth="Aachen Hbf|Aachen Schanz|Aachen West|Herzogenrath|Übach-Palenberg|Geilenkirchen|Lindern|Hückelhoven-Baal|Erkelenz|Rheydt Hbf|Mönchengladbach Hbf|Neuss Hbf|Düsseldorf-Bilk|Düsseldorf Hbf|Wuppertal-Vohwinkel"/>
+		<dp pt="2608252302" pp="2" l="RE4" fb="RE4" ppth="Wuppertal-Barmen|Wuppertal-Oberbarmen|Schwelm|Ennepetal|Hagen Hbf"/>
+	</s>
+	<s id="2579078581490934825-2608251852-6">
+		<tl f="F" t="p" o="80" c="ICE" n="552"/>
+		<ar pt="2608252346" pp="1" fb="ICE 552" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hannover Hbf|Hagen Hbf"/>
+		<dp pt="2608252347" pp="1" fb="ICE 552" ppth="Köln Hbf"/>
+	</s>
+	<s id="-7809569619599747671-2608252333-6">
+		<tl t="p" o="NXRE" c="NX" n="26440"/>
+		<ar pt="2608252355" pp="1" l="RE4" fb="RE4" ppth="Hagen Hbf|Ennepetal|Schwelm|Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2608252357" pp="1" l="RE4" fb="RE4" ppth="Wuppertal-Vohwinkel|Düsseldorf Hbf"/>
+	</s>
+	<s id="1995726314794342149-2608252222-7">
+		<tl t="p" o="TDRR" c="Bus" n="70148"/>
+		<ar pt="2608252318" pp="" l="S7" fb="Bus S7" ppth="Remscheid-Lennep|Remscheid-Lüttringhausen|Wuppertal-Ronsdorf|Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal-Unterbarmen"/>
+	</s>
+	<s id="-6197616492787820814-2608252312-3">
+		<tl t="p" o="NXRB" c="NX" n="17381"/>
+		<ar pt="2608252319" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen"/>
+		<dp pt="2608252320" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Vohwinkel|Haan-Gruiten|Haan|Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+</timetable>

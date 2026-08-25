@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Wolfsburg Hbf">
+	<s id="5845049446990543970-2608252314-1">
+		<tl t="p" o="R0" c="ENO" n="83538"/>
+		<dp pt="2608252314" pp="4" l="RE30" fb="RE30" ppth="Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte|Hannover Hbf"/>
+	</s>
+	<s id="-6743768385420850532-2608252330-1">
+		<tl t="p" o="R0" c="Bus" n="5290"/>
+		<dp pt="2608252330" pp="" l="RE50" fb="Bus RE50" ppth="Fallersleben|Weddel(Braunschw)|Braunschweig Hbf"/>
+	</s>
+	<s id="-818969756114670817-2608252320-1">
+		<tl f="N" t="p" o="RSMD" c="RB" n="80385"/>
+		<dp pt="2608252320" pp="9" l="RB36" fb="RB36" ppth="Oebisfelde|Bösdorf(Sachs-Anh)|Rätzlingen|Wegenstedt|Flechtingen|Haldensleben|Vahldorf|Groß Ammensleben|Meitzendorf|Barleben|Magdeburg-Eichenweiler|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="3778695356863398992-2608251950-10">
+		<tl f="F" t="p" o="80" c="ICE" n="947"/>
+		<ar pt="2608252303" pp="5" fb="ICE 947" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf"/>
+		<dp pt="2608252305" pp="5" fb="ICE 947" ppth="Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="4407080485050482040-2608252147-4">
+		<tl f="F" t="p" o="80" c="ICE" n="840"/>
+		<ar pt="2608252308" pp="1" fb="ICE 840" ppth="Berlin Hbf|Berlin-Spandau|Stendal Hbf"/>
+		<dp pt="2608252309" pp="1" fb="ICE 840" ppth="Hannover Hbf"/>
+	</s>
+	<s id="753815628173128733-2608252230-4">
+		<tl t="p" o="R0" c="Bus" n="5585"/>
+		<ar pt="2608252326" pp="" l="RE50" fb="Bus RE50" ppth="Braunschweig Hbf|Weddel(Braunschw)|Fallersleben"/>
+	</s>
+	<s id="-1653210131841273505-2608252248-11">
+		<tl t="p" o="R0" c="ENO" n="83537"/>
+		<ar pt="2608252343" pp="8" l="RE30" fb="RE30" ppth="Hannover Hbf|Lehrte|Immensen-Arpke|Dollbergen|Dedenhausen|Meinersen|Leiferde(b Gifhorn)|Gifhorn|Calberlah|Fallersleben"/>
+	</s>
+</timetable>
