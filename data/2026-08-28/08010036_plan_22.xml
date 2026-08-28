@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Lichtenberg">
+	<s id="2546276175697436247-2608282209-5">
+		<tl f="N" t="p" o="800165" c="RB" n="18336"/>
+		<ar pt="2608282245" pp="16" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2608282247" pp="16" l="RB24" fb="RB24" ppth="Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="4153153877719876337-2608282135-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18337"/>
+		<ar pt="2608282215" pp="21" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen"/>
+		<dp pt="2608282217" pp="21" l="RB24" fb="RB24" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-6044547761420980817-2608282239-1">
+		<tl t="p" o="NBRB25" c="NEB" n="61216"/>
+		<dp pt="2608282239" pp="17" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="569340960794263889-2608282258-1">
+		<tl t="p" o="NBRB12" c="NEB" n="93036"/>
+		<dp pt="2608282258" pp="20" l="RB12" fb="RB12" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-4025536473298837571-2608282151-2">
+		<tl f="F" t="p" o="80" c="EC" n="431"/>
+		<ar pt="2608282203" pp="15" fb="EC 431" hi="1" ppth="Berlin Gesundbrunnen"/>
+		<dp pt="2608282208" pp="15" fb="EC 431" ppth="Frankfurt(Oder)|Rzepin|Swiebodzin|Zbaszynek|Zbaszyn|Nowy Tomysl|Opalenica|Poznan Glowny|Koscian|Leszno|Rawicz|Zmigrod|Oborniki Slaskie|Wroclaw Glowny|Brzeg|Opole Glowne|Kedzierzyn Kozle|Gliwice|Zabrze|Katowice|Jaworzno Szczakowa|Trzebinia|Krzeszowice|Krakow Glowny|Krakow Plaszow|Bochnia|Brzesko Okocim|Tarnow|Debica|Rzeszow Glowny|Lancut|Przeworsk|Jaroslaw|Przemysl Glowny"/>
+	</s>
+	<s id="1828101511219222898-2608282238-1">
+		<tl t="p" o="NBRB26" c="NEB" n="5185"/>
+		<dp pt="2608282238" pp="15" l="RB26" fb="RB26" ppth="Berlin-Mahlsdorf|Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)|Obersdorf|Trebnitz(Mark)|Alt Rosenthal|Seelow-Gusow|Werbig|Küstrin-Kietz|Kostrzyn"/>
+	</s>
+	<s id="3614210875136353828-2608282138-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18234"/>
+		<ar pt="2608282222" pp="21" l="RB32" fb="RB32" ppth="Ludwigsfelde|Birkengrund|Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+	</s>
+	<s id="1866274841721670369-2608282105-13">
+		<tl t="p" o="51PR" c="NEB" n="5184"/>
+		<ar pt="2608282224" pp="15" l="RB26" fb="RB26" ppth="Kostrzyn|Küstrin-Kietz|Werbig|Seelow-Gusow|Alt Rosenthal|Trebnitz(Mark)|Obersdorf|Müncheberg(Mark)|Rehfelde|Herrensee|Strausberg|Berlin-Mahlsdorf"/>
+	</s>
+	<s id="6588446328839732382-2608282249-2">
+		<tl t="p" o="NBRB12" c="NEB" n="91937"/>
+		<ar pt="2608282252" pp="16" l="RB12" fb="RB12" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="6799585529788101315-2608282222-2">
+		<tl t="p" o="NBRB25" c="NEB" n="61215"/>
+		<ar pt="2608282225" pp="20" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+	</s>
+	<s id="-168162374449317290-2608282241-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18237"/>
+		<dp pt="2608282241" pp="21" l="RB32" fb="RB32" ppth="Berlin Ostkreuz|Berlin-Schöneweide|Flughafen BER|Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="-8880007135505675114-2608281649-11">
+		<tl f="F" t="p" o="51" c="EC" n="40"/>
+		<ar pt="2608282213" pp="22" fb="EC 40" ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)"/>
+		<dp pt="2608282215" pp="22" fb="EC 40" hi="1" ppth="Berlin Gesundbrunnen"/>
+	</s>
+</timetable>
