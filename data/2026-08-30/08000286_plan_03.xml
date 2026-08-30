@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<timetable station="Oberhausen Hbf">
+	<s id="1980330664937697871-2608300344-2">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="20004"/>
+		<ar pt="2608300349" pp="9" l="RE19" fb="RE19" ppth="Duisburg Hbf"/>
+		<dp pt="2608300350" pp="9" l="RE19" fb="RE19" ppth="Oberhausen-Sterkrade|Oberhausen-Holten|Dinslaken|Voerde(Niederrhein)|Friedrichsfeld(Niederrhein)|Wesel"/>
+	</s>
+	<s id="405252769874417053-2608300317-1">
+		<tl t="p" o="R4NRN" c="Bus" n="272"/>
+		<dp pt="2608300317" pp="" l="RE19" fb="Bus RE19" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-6172433776482579625-2608300240-3">
+		<tl t="p" o="R2" c="Bus" n="3414"/>
+		<ar pt="2608300325" pp="" l="RE3" fb="Bus RE3" ppth="Gelsenkirchen Hbf|Essen-Altenessen"/>
+		<dp pt="2608300325" pp="" l="RE3" fb="Bus RE3" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="4292682114262773151-2608300337-1">
+		<tl t="p" o="R4NRN" c="Bus" n="271"/>
+		<dp pt="2608300337" pp="" l="RE19" fb="Bus RE19" ppth="Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="-6542237239183391429-2608300224-4">
+		<tl t="p" o="R2" c="Bus" n="3373"/>
+		<ar pt="2608300334" pp="" l="RE3" fb="Bus RE3" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+		<dp pt="2608300334" pp="" l="RE3" fb="Bus RE3" ppth="Essen-Altenessen|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="1092014454866930735-2608300317-1">
+		<tl f="S" t="p" o="8003L1" c="S" n="30384"/>
+		<dp pt="2608300317" pp="10" l="S3" fb="S3" ppth="Mülheim(Ruhr)Styrum|Mülheim(Ruhr)West|Mülheim(Ruhr)Hbf|Essen-Frohnhausen|Essen West|Essen Hbf"/>
+	</s>
+	<s id="3286518195039909666-2608300230-4">
+		<tl t="p" o="R4NRN" c="Bus" n="138"/>
+		<ar pt="2608300340" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+	</s>
+	<s id="8054076728038144402-2608300217-4">
+		<tl t="p" o="R4NRN" c="Bus" n="137"/>
+		<ar pt="2608300327" pp="" l="RE19" fb="Bus RE19" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf"/>
+	</s>
+</timetable>

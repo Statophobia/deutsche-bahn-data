@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<timetable station="Mainz Hbf">
+	<s id="-3630133428693107067-2608300438-1">
+		<tl f="S" t="p" o="800528" c="S" n="34996"/>
+		<dp pt="2608300438" pp="5a/b" l="S8" fb="S8" ppth="Mainz Nord|Wiesbaden Ost|Wiesbaden Hbf"/>
+	</s>
+	<s id="4340191459750433314-2608300421-9">
+		<tl t="p" o="TR" c="TR" n="33601"/>
+		<ar pt="2608300452" pp="11" l="RB26" fb="RB26" ppth="Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim"/>
+	</s>
+	<s id="-2313035466673712598-2608300438-4">
+		<tl f="S" t="p" o="800528" c="S" n="34907"/>
+		<ar pt="2608300449" pp="5a/b" l="S8" fb="S8" ppth="Wiesbaden Hbf|Wiesbaden Ost|Mainz Nord"/>
+	</s>
+	<s id="8312784838991968502-2608300408-4">
+		<tl f="S" t="p" o="800528" c="S" n="34905"/>
+		<ar pt="2608300419" pp="5a/b" l="S8" fb="S8" ppth="Wiesbaden Hbf|Wiesbaden Ost|Mainz Nord"/>
+	</s>
+	<s id="-6354789650402715810-2608300457-1">
+		<tl f="F" t="p" o="80" c="ICE" n="78"/>
+		<dp pt="2608300457" pp="4a/b" fb="ICE 78" ppth="Frankfurt(Main)Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf"/>
+	</s>
+</timetable>
