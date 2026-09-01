@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Hannover Hbf">
+	<s id="-7760418834858959960-2608312335-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1272"/>
+		<ar pt="2609010353" pp="10" fb="ICE 1272" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Göttingen"/>
+		<dp pt="2609010417" pp="10" fb="ICE 1272" ppth="Wolfsburg Hbf|Berlin-Spandau|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="198930520352454804-2609010353-1">
+		<tl t="p" o="RSNM" c="Bus" n="84444"/>
+		<dp pt="2609010353" pp="" l="RB38" fb="Bus RB38" ppth="Langenhagen Mitte|Mellendorf|Lindwedel|Schwarmstedt"/>
+	</s>
+	<s id="-4768330375831781564-2609010315-1">
+		<tl t="p" o="TDHS" c="Bus" n="5514"/>
+		<dp pt="2609010315" pp="" l="S5" fb="Bus S5" ppth="Hannover-Ledeburg|Hannover-Vinnhorst|Langenhagen Mitte|Hannover Flughafen"/>
+	</s>
+	<s id="2838569995200463458-2609010024-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1891"/>
+		<ar pt="2609010315" pp="10" fb="ICE 1891" ppth="Gelsenkirchen Hbf|Dortmund Hbf"/>
+		<dp pt="2609010317" pp="10" fb="ICE 1891" ppth="Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="4788166721631719015-2609010240-5">
+		<tl t="p" o="TDHS" c="Bus" n="5513"/>
+		<ar pt="2609010321" pp="" l="S5" fb="Bus S5" ppth="Hannover Flughafen|Langenhagen Mitte|Hannover-Vinnhorst|Hannover-Ledeburg"/>
+	</s>
+</timetable>
