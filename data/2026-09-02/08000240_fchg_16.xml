@@ -1,0 +1,2268 @@
+<?xml version="1.0" ?><timetable station="Mainz Hbf" eva="8000240">
+
+<s id="-6499102015631007727-2609021803-1" eva="8000240">
+    <dp cp="6a/b" ct="2609021803" l="RE13"/>
+</s>
+
+
+<s id="-6827720526952345243-2609021653-4" eva="8000240">
+    <ar cp="5a" ct="2609021904">
+        <m id="r70444195" t="d" c="38" ts="2609021801" ts-tts="26-09-02 18:01:56.165"/>
+    </ar>
+    <dp cp="5a" ct="2609021906">
+        <m id="r70444195" t="d" c="38" ts="2609021801" ts-tts="26-09-02 18:01:56.165"/>
+    </dp>
+</s>
+
+
+<s id="-4559765168642706801-2609021550-44" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <ar ct="2609021902" l="RB26"/>
+</s>
+
+
+<s id="8231837130586066697-2609021642-2" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <ar ct="2609021655" l="S6">
+        <m id="r70444111" t="f" c="0" ts="2609021800" ts-tts="26-09-02 18:00:54.109"/>
+    </ar>
+    <dp ct="2609021654" l="S6">
+        <m id="r70444111" t="f" c="0" ts="2609021800" ts-tts="26-09-02 18:00:54.109"/>
+    </dp>
+</s>
+
+
+<s id="8867073802494668219-2609021713-6" eva="8000240">
+    <ar cp="6a/b" ct="2609021758" l="RE13"/>
+</s>
+
+
+<s id="7406773522709285635-2609021551-14" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar cpth="Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" ct="2609021815" l="RE3">
+        <m id="r70424478" t="d" c="38" ts="2609021512" ts-tts="26-09-02 15:12:30.345"/>
+    </ar>
+    <dp cpth="Frankfurt-Höchst|Frankfurt(Main)Hbf" ct="2609021817" l="RE3">
+        <m id="r70424478" t="d" c="38" ts="2609021512" ts-tts="26-09-02 15:12:30.345"/>
+    </dp>
+</s>
+
+
+<s id="-1856703301880573236-2609021507-18" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar ppth="Idar-Oberstein|Fischbach-Weierbach|Kirnsulzbach|Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" pp="3a/b" ct="2609021845" pt="2609021633" l="RB33" fb="RB33">
+        <m id="r70421553" t="d" c="48" ts="2609021454" ts-tts="26-09-02 14:54:51.093"/>
+    </ar>
+    <tl t="p" o="V6RB" c="vlx" n="29575"/>
+</s>
+
+
+<s id="-6203972860199385760-2609021624-3" eva="8000240">
+    <ar cp="3b" ct="2609021719">
+        <m id="r70441820" t="f" c="0" ts="2609021736" ts-tts="26-09-02 17:36:14.741"/>
+        <m id="r70441822" t="f" c="0" ts="2609021736" ts-tts="26-09-02 17:36:14.741"/>
+        <m id="r70443769" t="f" c="0" ts="2609021757" ts-tts="26-09-02 17:57:31.768"/>
+    </ar>
+    <dp cp="3b" ct="2609021726">
+        <m id="r70441820" t="f" c="0" ts="2609021736" ts-tts="26-09-02 17:36:14.741"/>
+        <m id="r70441822" t="f" c="0" ts="2609021736" ts-tts="26-09-02 17:36:14.741"/>
+        <m id="r70443769" t="f" c="0" ts="2609021757" ts-tts="26-09-02 17:57:31.768"/>
+    </dp>
+</s>
+
+
+<s id="3077993508235039616-2609021053-4" eva="8000240">
+    <m id="r2684454" t="h" from="2609021812" to="2609021812" cat="Information" ts="2609021757" ts-tts="26-09-02 17:57:16.068" pr="3"/>
+    <m id="r2684150" t="h" from="2609020900" to="2609021300" cat="Störung" ts="2609020951" ts-tts="26-09-02 12:16:02.360" pr="1"/>
+    <ar cpth="Köln Hbf|Bonn Hbf|Koblenz Hbf" ppth="Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="4a/b" ct="2609021416" pt="2609021239" fb="IC 2843">
+        <m id="r70359968" t="f" c="0" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70385721" t="d" c="36" ts="2609020940" ts-tts="26-09-02 09:40:40.251"/>
+        <m id="r70385723" t="d" c="36" ts="2609020940" ts-tts="26-09-02 09:40:40.251"/>
+        <m id="r70393480" t="d" c="47" ts="2609021050" ts-tts="26-09-02 10:50:14.538"/>
+        <m id="r70393482" t="d" c="47" ts="2609021050" ts-tts="26-09-02 10:50:14.538"/>
+        <m id="r70393567" t="f" c="0" ts="2609021051" ts-tts="26-09-02 10:52:03.141"/>
+        <m id="r70393568" t="f" c="0" ts="2609021051" ts-tts="26-09-02 10:52:03.141"/>
+        <m id="r70393733" t="f" c="0" ts="2609021053" ts-tts="26-09-02 10:53:36.191"/>
+        <m id="r70393734" t="f" c="0" ts="2609021053" ts-tts="26-09-02 10:53:36.191"/>
+        <m id="r70396383" t="f" c="0" ts="2609021115" ts-tts="26-09-02 11:15:19.837"/>
+        <m id="r70396384" t="f" c="0" ts="2609021115" ts-tts="26-09-02 11:15:19.837"/>
+        <m id="r70399894" t="f" c="0" ts="2609021140" ts-tts="26-09-02 11:40:11.167"/>
+        <m id="r70399895" t="f" c="0" ts="2609021140" ts-tts="26-09-02 11:40:11.167"/>
+        <m id="r70401369" t="d" c="58" ts="2609021154" ts-tts="26-09-02 11:54:41.233"/>
+        <m id="r70401371" t="d" c="58" ts="2609021154" ts-tts="26-09-02 11:54:41.233"/>
+        <m id="r70404904" t="f" c="0" ts="2609021227" ts-tts="26-09-02 12:27:18.288"/>
+        <m id="r70404905" t="f" c="0" ts="2609021227" ts-tts="26-09-02 12:27:18.288"/>
+        <m id="r70441909" t="f" c="0" ts="2609021737" ts-tts="26-09-02 17:37:32.674"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Esslingen(Neckar)|Ulm Hbf|Memmingen|Kempten(Allgäu)Hbf" ppth="Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Esslingen(Neckar)|Ulm Hbf|Memmingen|Kempten(Allgäu)Hbf|Sonthofen|Oberstdorf" pp="4a/b" ct="2609021417" pt="2609021242" fb="IC 2843">
+        <m id="r70359968" t="f" c="0" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70385721" t="d" c="36" ts="2609020940" ts-tts="26-09-02 09:40:40.251"/>
+        <m id="r70385723" t="d" c="36" ts="2609020940" ts-tts="26-09-02 09:40:40.251"/>
+        <m id="r70393480" t="d" c="47" ts="2609021050" ts-tts="26-09-02 10:50:14.538"/>
+        <m id="r70393482" t="d" c="47" ts="2609021050" ts-tts="26-09-02 10:50:14.538"/>
+        <m id="r70393567" t="f" c="0" ts="2609021051" ts-tts="26-09-02 10:52:03.141"/>
+        <m id="r70393568" t="f" c="0" ts="2609021051" ts-tts="26-09-02 10:52:03.141"/>
+        <m id="r70393733" t="f" c="0" ts="2609021053" ts-tts="26-09-02 10:53:36.191"/>
+        <m id="r70393734" t="f" c="0" ts="2609021053" ts-tts="26-09-02 10:53:36.191"/>
+        <m id="r70396383" t="f" c="0" ts="2609021115" ts-tts="26-09-02 11:15:19.837"/>
+        <m id="r70396384" t="f" c="0" ts="2609021115" ts-tts="26-09-02 11:15:19.837"/>
+        <m id="r70399894" t="f" c="0" ts="2609021140" ts-tts="26-09-02 11:40:11.167"/>
+        <m id="r70399895" t="f" c="0" ts="2609021140" ts-tts="26-09-02 11:40:11.167"/>
+        <m id="r70401369" t="d" c="58" ts="2609021154" ts-tts="26-09-02 11:54:41.233"/>
+        <m id="r70401371" t="d" c="58" ts="2609021154" ts-tts="26-09-02 11:54:41.233"/>
+        <m id="r70404904" t="f" c="0" ts="2609021227" ts-tts="26-09-02 12:27:18.288"/>
+        <m id="r70404905" t="f" c="0" ts="2609021227" ts-tts="26-09-02 12:27:18.288"/>
+        <m id="r70441909" t="f" c="0" ts="2609021737" ts-tts="26-09-02 17:37:32.674"/>
+    </dp>
+    <tl f="F" t="e" o="80" c="IC" n="2843"/>
+    <ref>
+        <tl f="F" t="p" o="80" c="ICE" n="2013"/>
+    </ref>
+</s>
+
+
+<s id="-6319606980777922739-2609022156-1" eva="8000240">
+    <dp ct="2609022156" l="RE3"/>
+</s>
+
+
+<s id="-3393819774693370241-2609021607-18" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar cpth="Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" ppth="Idar-Oberstein|Fischbach-Weierbach|Kirnsulzbach|Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" pp="6a/b" ct="2609021809" pt="2609021734" l="RB33" fb="RB33">
+        <m id="r70420678" t="d" c="48" ts="2609021446" ts-tts="26-09-02 14:46:32.964"/>
+    </ar>
+    <dp cpth="Mainz Römisches Theater|Mainz-Laubenheim|Bodenheim|Nackenheim|Nierstein|Oppenheim|Dienheim|Guntersblum|Osthofen|Worms Hbf" ppth="Mainz Römisches Theater|Mainz-Laubenheim|Bodenheim|Nackenheim|Nierstein|Oppenheim|Dienheim|Guntersblum|Osthofen|Worms Hbf" pp="6a/b" ct="2609021811" pt="2609021739" l="RB33" fb="RB33">
+        <m id="r70420678" t="d" c="48" ts="2609021446" ts-tts="26-09-02 14:46:32.964"/>
+    </dp>
+    <tl t="p" o="V6RB" c="vlx" n="29577"/>
+</s>
+
+
+<s id="2273489519844095038-2609021809-3" eva="8000240">
+    <ar ct="2609021906" l="RE3"/>
+    <dp ct="2609021908" l="RE3"/>
+</s>
+
+
+<s id="1224483337279985840-2609021451-14" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Gau Algesheim|Ingelheim" ppth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" pp="3a/b" ct="2609021805" pt="2609021706" l="RE3" fb="RE3">
+        <m id="r70430253" t="d" c="38" ts="2609021558" ts-tts="26-09-02 15:58:10.871"/>
+    </ar>
+    <dp cpth="Frankfurt-Höchst|Frankfurt(Main)Hbf" ppth="Frankfurt-Höchst|Frankfurt(Main)Hbf" pp="3a/b" ct="2609021807" pt="2609021717" l="RE3" fb="RE3">
+        <m id="r70430253" t="d" c="38" ts="2609021558" ts-tts="26-09-02 15:58:10.871"/>
+    </dp>
+    <tl t="p" o="V6RE" c="vlx" n="29523"/>
+</s>
+
+
+<s id="-7133899159347076370-2609021606-10" eva="8000240">
+    <ar cpth="Philippsburg(Baden)|Germersheim|Speyer Hbf|Schifferstadt|Ludwigshafen(Rh)Hbf|Frankenthal Hbf|Worms Hbf" cp="1a/b" ct="2609021755" l="RE4">
+        <m id="r70430245" t="d" c="43" ts="2609021558" ts-tts="26-09-02 15:58:10.871"/>
+    </ar>
+</s>
+
+
+<s id="-1174677827281850852-2609021809-3" eva="8000240">
+    <ar ct="2609021859" l="RE3"/>
+    <dp ct="2609021901" l="RE3"/>
+</s>
+
+
+<s id="-1491801149393798989-2609021450-44" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <ar ct="2609021806" l="RB26"/>
+</s>
+
+
+<s id="-255727505000070163-2609021729-3" eva="8000240">
+    <ar ct="2609021805" l="RE3">
+        <m id="r70440821" t="q" c="91" ts="2609021727" ts-tts="26-09-02 17:27:41.704"/>
+        <m id="r70443337" t="d" c="34" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443338" t="q" c="88" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443339" t="d" c="34" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443340" t="q" c="88" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+    </ar>
+    <dp ct="2609021808" l="RE3">
+        <m id="r70440821" t="q" c="91" ts="2609021727" ts-tts="26-09-02 17:27:41.704"/>
+        <m id="r70443337" t="d" c="34" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443338" t="q" c="88" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443339" t="d" c="34" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+        <m id="r70443340" t="q" c="88" ts="2609021752" ts-tts="26-09-02 17:52:20.787"/>
+    </dp>
+</s>
+
+
+<s id="6466037640009165182-2609021749-1" eva="8000240">
+    <dp ct="2609021751" l="RE4"/>
+</s>
+
+
+<s id="-1997540880650284844-2609021751-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021751" l="S6"/>
+</s>
+
+
+<s id="-1280181072827641993-2609021650-44" eva="8000240">
+    <ar ct="2609021956" l="RB26"/>
+</s>
+
+
+<s id="7014829877852391814-2609021750-44" eva="8000240">
+    <ar ct="2609022058" l="RB26"/>
+</s>
+
+
+<s id="6665834500878391423-2609021707-18" eva="8000240">
+    <ar cpth="Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" ct="2609021840" l="RB33">
+        <m id="r70436733" t="d" c="48" ts="2609021650" ts-tts="26-09-02 16:50:51.751"/>
+    </ar>
+</s>
+
+
+<s id="-2504502400781213055-2609021407-18" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar cpth="Idar-Oberstein|Fischbach-Weierbach|Kirnsulzbach|Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" ppth="Idar-Oberstein|Fischbach-Weierbach|Kirnsulzbach|Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" cp="8" pp="3a" ct="2609021751" pt="2609021533" cs="p" clt="2609021503" l="RB33" fb="RB33">
+        <m id="r70421425" t="d" c="48" ts="2609021453" ts-tts="26-09-02 14:54:04.295"/>
+        <m id="r70423026" t="d" c="38" ts="2609021503" ts-tts="26-09-02 15:03:09.679"/>
+        <m id="r70431910" t="d" c="38" ts="2609021610" ts-tts="26-09-02 16:10:37.796"/>
+        <m id="r70431911" t="d" c="38" ts="2609021610" ts-tts="26-09-02 16:10:37.796"/>
+        <m id="r70433190" t="d" c="38" ts="2609021621" ts-tts="26-09-02 16:21:32.132"/>
+        <m id="r70433191" t="d" c="38" ts="2609021621" ts-tts="26-09-02 16:21:32.132"/>
+    </ar>
+    <tl t="p" o="V6RB" c="vlx" n="29573"/>
+</s>
+
+
+<s id="-7085858054631753323-2609021351-14" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" ppth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" pp="3a/b" ct="2609021755" pt="2609021557" l="RE3" fb="RE3">
+        <m id="r70421367" t="d" c="38" ts="2609021453" ts-tts="26-09-02 14:53:17.633"/>
+    </ar>
+    <dp cpth="" ppth="Frankfurt-Höchst|Frankfurt(Main)Hbf" pp="3a/b" ct="2609021731" pt="2609021611" cs="c" clt="2609021708" l="RE3" fb="RE3">
+        <m id="r70421367" t="d" c="38" ts="2609021453" ts-tts="26-09-02 14:53:17.633"/>
+    </dp>
+    <tl t="p" o="V6RE" c="vlx" n="29521"/>
+</s>
+
+
+<s id="6808671483388583264-2609021738-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021749" l="S8"/>
+</s>
+
+
+<s id="-8258534647783435505-2609021727-1" eva="8000240">
+    <dp ct="2609021735" l="RB33">
+        <m id="r70442767" t="d" c="38" ts="2609021746" ts-tts="26-09-02 17:46:37.947"/>
+    </dp>
+</s>
+
+
+<s id="2567349266925336068-2609021657-3" eva="8000240">
+    <ar cp="6a/b" ct="2609021742" l="RB31">
+        <m id="r70436769" t="q" c="85" ts="2609021650" ts-tts="26-09-02 16:51:07.320"/>
+        <m id="r70439399" t="d" c="32" ts="2609021712" ts-tts="26-09-02 17:12:23.665"/>
+    </ar>
+    <dp cp="6a/b" ct="2609021745" l="RB31">
+        <m id="r70436769" t="q" c="85" ts="2609021650" ts-tts="26-09-02 16:51:07.320"/>
+        <m id="r70439399" t="d" c="32" ts="2609021712" ts-tts="26-09-02 17:12:23.665"/>
+    </dp>
+</s>
+
+
+<s id="-1164837587132247680-2609021704-7" eva="8000240">
+    <ar ct="2609021840" l="RE2">
+        <m id="r70436556" t="d" c="48" ts="2609021648" ts-tts="26-09-02 16:48:31.531"/>
+    </ar>
+    <dp ct="2609021844" l="RE2">
+        <m id="r70436556" t="d" c="48" ts="2609021648" ts-tts="26-09-02 16:48:31.531"/>
+    </dp>
+</s>
+
+
+<s id="-2718516490855189932-2609022143-15" eva="8000240">
+    <ar ct="2609022253" l="RB31"/>
+</s>
+
+
+<s id="-1075852080959816797-2609021813-1" eva="8000240">
+    <dp ct="2609021813" l="RE4"/>
+</s>
+
+
+<s id="1088188151847720506-2609021251-14" eva="8000240">
+    <ar cpth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" ppth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" pp="4a/b" ct="2609021743" pt="2609021506" l="RE3" fb="RE3">
+        <m id="r70416166" t="d" c="38" ts="2609021409" ts-tts="26-09-02 14:09:56.544"/>
+        <m id="r70416167" t="d" c="38" ts="2609021409" ts-tts="26-09-02 14:09:56.544"/>
+        <m id="r70424982" t="d" c="99" ts="2609021515" ts-tts="26-09-02 15:15:52.704"/>
+        <m id="r70436533" t="d" c="38" ts="2609021648" ts-tts="26-09-02 16:48:15.983"/>
+        <m id="r70436534" t="d" c="38" ts="2609021648" ts-tts="26-09-02 16:48:15.983"/>
+    </ar>
+    <dp cpth="" ppth="Frankfurt-Höchst|Frankfurt(Main)Hbf" pp="4a/b" ct="2609021558" pt="2609021517" cs="c" clt="2609021450" l="RE3" fb="RE3">
+        <m id="r70416166" t="d" c="38" ts="2609021409" ts-tts="26-09-02 14:09:56.544"/>
+        <m id="r70416167" t="d" c="38" ts="2609021409" ts-tts="26-09-02 14:09:56.544"/>
+        <m id="r70424982" t="d" c="99" ts="2609021515" ts-tts="26-09-02 15:15:52.704"/>
+        <m id="r70436533" t="d" c="38" ts="2609021648" ts-tts="26-09-02 16:48:15.983"/>
+        <m id="r70436534" t="d" c="38" ts="2609021648" ts-tts="26-09-02 16:48:15.983"/>
+    </dp>
+    <tl t="p" o="V6RE" c="vlx" n="29519"/>
+</s>
+
+
+<s id="-4356853165457193863-2609021909-3" eva="8000240">
+    <ar ct="2609021954" l="RE2">
+        <m id="r70442410" t="d" c="48" ts="2609021742" ts-tts="26-09-02 17:42:12.597"/>
+    </ar>
+    <dp ct="2609021958" l="RE2">
+        <m id="r70442410" t="d" c="48" ts="2609021742" ts-tts="26-09-02 17:42:12.597"/>
+    </dp>
+</s>
+
+
+<s id="902777173026660779-2609021808-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+    <ar ct="2609021819" l="S8"/>
+</s>
+
+
+<s id="1092276258832149353-2609021738-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp ct="2609021738" l="S8"/>
+</s>
+
+
+<s id="8059604165694357809-2609021808-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp ct="2609021808" l="S8"/>
+</s>
+
+
+<s id="5549648196771416068-2609022137-1" eva="8000240">
+    <dp ct="2609022137" l="RE2"/>
+</s>
+
+
+<s id="3877523980056642391-2609021806-10" eva="8000240">
+    <ar ct="2609021947" l="RE4"/>
+    <dp ct="2609021949" l="RE4"/>
+</s>
+
+
+<s id="4759852328888448180-2609020950-10" eva="8000240">
+    <m id="r2684261" t="h" from="2609021200" to="2609021500" cat="Störung" ts="2609021246" ts-tts="26-09-02 13:16:03.568" pr="1"/>
+    <ar ct="2609021519">
+        <m id="r70401769" t="f" c="0" ts="2609021159" ts-tts="26-09-02 11:59:36.638"/>
+        <m id="r70415021" t="f" c="0" ts="2609021400" ts-tts="26-09-02 14:00:06.076"/>
+        <m id="r70428025" t="f" c="0" ts="2609021541" ts-tts="26-09-02 15:42:05.342"/>
+        <m id="r70439555" t="f" c="0" ts="2609021713" ts-tts="26-09-02 17:13:41.424"/>
+        <m id="r70441777" t="f" c="0" ts="2609021735" ts-tts="26-09-02 17:35:43.667"/>
+        <m id="r70441778" t="f" c="0" ts="2609021735" ts-tts="26-09-02 17:35:43.667"/>
+    </ar>
+    <dp ct="2609021522">
+        <m id="r70401769" t="f" c="0" ts="2609021159" ts-tts="26-09-02 11:59:36.638"/>
+        <m id="r70415021" t="f" c="0" ts="2609021400" ts-tts="26-09-02 14:00:06.076"/>
+        <m id="r70428025" t="f" c="0" ts="2609021541" ts-tts="26-09-02 15:42:05.342"/>
+        <m id="r70439555" t="f" c="0" ts="2609021713" ts-tts="26-09-02 17:13:41.424"/>
+        <m id="r70441777" t="f" c="0" ts="2609021735" ts-tts="26-09-02 17:35:43.667"/>
+        <m id="r70441778" t="f" c="0" ts="2609021735" ts-tts="26-09-02 17:35:43.667"/>
+    </dp>
+</s>
+
+
+<s id="1737635750239977646-2609021532-31" eva="8000240">
+    <ar cpth="Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Ludwigshafen-Oggersheim|Frankenthal Süd|Frankenthal Hbf|Bobenheim|Worms Hbf|Osthofen|Mettenheim|Alsheim|Guntersblum|Dienheim|Oppenheim|Nierstein|Nackenheim|Bodenheim|Mainz-Laubenheim|Mainz Römisches Theater" ct="2609021743" l="S5">
+        <m id="r70414918" t="d" c="41" ts="2609021359" ts-tts="26-09-02 13:59:03.907"/>
+        <m id="r70414920" t="d" c="41" ts="2609021359" ts-tts="26-09-02 13:59:03.907"/>
+    </ar>
+</s>
+
+
+<s id="5367078711042089103-2609021614-15" eva="8000240">
+    <ar ct="2609021732" l="RB31"/>
+</s>
+
+
+<s id="3590471134137752222-2609022127-1" eva="8000240">
+    <dp ct="2609022127" l="RB33"/>
+</s>
+
+
+<s id="-183488429436094491-2609021453-4" eva="8000240">
+    <m id="r2024805180" t="c" ts="2609021634" ts-tts="26-09-02 16:34:30.557"/>
+    <m id="r2024805004" t="c" ts="2609021621" ts-tts="26-09-02 16:21:16.415"/>
+    <m id="r2024805003" t="c" ts="2609021621" ts-tts="26-09-02 16:21:16.415"/>
+    <ar ppth="Köln Hbf|Bonn Hbf|Koblenz Hbf" cp="4a/b" ct="2609021724" pt="2609021639" fb="IC 1146">
+        <m id="r70433167" t="f" c="0" ts="2609021621" ts-tts="26-09-02 16:21:16.532"/>
+        <m id="r70433897" t="d" c="38" ts="2609021628" ts-tts="26-09-02 16:28:01.705"/>
+        <m id="r70439354" t="f" c="0" ts="2609021712" ts-tts="26-09-02 17:12:08.148"/>
+        <m id="r70439355" t="f" c="0" ts="2609021712" ts-tts="26-09-02 17:12:08.148"/>
+    </ar>
+    <dp ppth="Mannheim Hbf|Heidelberg Hbf" cp="4a/b" ct="2609021726" pt="2609021642" fb="IC 1146">
+        <m id="r70433897" t="d" c="38" ts="2609021628" ts-tts="26-09-02 16:28:01.705"/>
+        <m id="r70439354" t="f" c="0" ts="2609021712" ts-tts="26-09-02 17:12:08.148"/>
+        <m id="r70439355" t="f" c="0" ts="2609021712" ts-tts="26-09-02 17:12:08.148"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="IC" n="1146"/>
+</s>
+
+
+<s id="800989273079035886-2609021803-1" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <dp cpth="Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" ct="2609021803" cs="c" clt="2609021724" l="RB26"/>
+</s>
+
+
+<s id="-4639778016972467252-2609021350-44" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <ar cpth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf" ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim" pp="11" ct="2609021742" pt="2609021658" cs="c" clt="2609021724" l="RB26" fb="RB26">
+        <m id="r70436942" t="d" c="40" ts="2609021652" ts-tts="26-09-02 16:52:56.163"/>
+    </ar>
+    <tl t="p" o="TR" c="TR" n="33639"/>
+</s>
+
+
+<s id="1529882691755634040-2609021708-3" eva="8000240">
+    <ar ct="2609021723" l="RB33"/>
+</s>
+
+
+<s id="-1766888679341716676-2609021609-3" eva="8000240">
+    <ar cpth="" ct="2609021639" cs="c" clt="2609021451" l="RE3">
+        <m id="r70421157" t="d" c="99" ts="2609021450" ts-tts="26-09-02 14:50:41.687"/>
+        <m id="r70421158" t="d" c="99" ts="2609021450" ts-tts="26-09-02 14:50:41.687"/>
+        <m id="r70436732" t="d" c="38" ts="2609021650" ts-tts="26-09-02 16:50:51.751"/>
+        <m id="r70437482" t="d" c="47" ts="2609021657" ts-tts="26-09-02 16:57:21.181"/>
+    </ar>
+    <dp cpth="Ingelheim|Bad Kreuznach|Bad Münster a Stein|Staudernheim|Bad Sobernheim|Kirn|Idar-Oberstein|Neubrücke(Nahe)|Türkismühle|St Wendel|Ottweiler(Saar)|Neunkirchen(Saar)Hbf|Saarbrücken Hbf" cp="8" ct="2609021722" l="RE3">
+        <m id="r70421157" t="d" c="99" ts="2609021450" ts-tts="26-09-02 14:50:41.687"/>
+        <m id="r70421158" t="d" c="99" ts="2609021450" ts-tts="26-09-02 14:50:41.687"/>
+        <m id="r70434621" t="f" c="0" ts="2609021634" ts-tts="26-09-02 16:34:46.265"/>
+        <m id="r70436732" t="d" c="38" ts="2609021650" ts-tts="26-09-02 16:50:51.751"/>
+        <m id="r70437482" t="d" c="47" ts="2609021657" ts-tts="26-09-02 16:57:21.181"/>
+    </dp>
+</s>
+
+
+<s id="-8344333542377970432-2609021752-5" eva="8000240">
+    <ar ct="2609021843" l="RE14"/>
+</s>
+
+
+<s id="3686537859711005460-2609021552-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021553" l="S6">
+        <m id="r70440437" t="f" c="0" ts="2609021721" ts-tts="26-09-02 17:21:44.309"/>
+    </dp>
+</s>
+
+
+<s id="-4569944238577077758-2609021716-1" eva="8000240">
+    <dp ct="2609021720" l="RE3">
+        <m id="r70400267" t="f" c="1000" ts="2609021143" ts-tts="26-09-02 11:43:33.083"/>
+        <m id="r70400270" t="f" c="0" ts="2609021143" ts-tts="26-09-02 11:43:33.083"/>
+        <m id="r70400271" t="f" c="0" ts="2609021143" ts-tts="26-09-02 11:43:33.083"/>
+        <m id="r70438301" t="d" c="34" ts="2609021703" ts-tts="26-09-02 17:03:18.938"/>
+    </dp>
+</s>
+
+
+<s id="1714196958901623738-2609021708-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar cp="5a" ct="2609021720" l="S8"/>
+</s>
+
+
+<s id="4254421639690320955-2609021638-4" eva="8000240">
+    <ar ct="2609021713" l="RE4"/>
+    <dp ct="2609021716" l="RE4"/>
+</s>
+
+
+<s id="3622037787017604124-2609021624-3" eva="8000240">
+    <ar ct="2609021706" l="RE2">
+        <m id="r70404728" t="q" c="85" ts="2609021224" ts-tts="26-09-02 12:24:58.548"/>
+        <m id="r70435888" t="d" c="43" ts="2609021643" ts-tts="26-09-02 16:44:06.715"/>
+        <m id="r70438158" t="q" c="91" ts="2609021701" ts-tts="26-09-02 17:02:01.010"/>
+        <m id="r70439512" t="d" c="34" ts="2609021713" ts-tts="26-09-02 17:13:10.363"/>
+        <m id="r70439513" t="q" c="88" ts="2609021713" ts-tts="26-09-02 17:13:10.363"/>
+    </ar>
+    <dp ct="2609021716" l="RE2">
+        <m id="r70404728" t="q" c="85" ts="2609021224" ts-tts="26-09-02 12:24:58.548"/>
+        <m id="r70435888" t="d" c="43" ts="2609021643" ts-tts="26-09-02 16:44:06.715"/>
+        <m id="r70438158" t="q" c="91" ts="2609021701" ts-tts="26-09-02 17:02:01.010"/>
+        <m id="r70439512" t="d" c="34" ts="2609021713" ts-tts="26-09-02 17:13:10.363"/>
+        <m id="r70439513" t="q" c="88" ts="2609021713" ts-tts="26-09-02 17:13:10.363"/>
+    </dp>
+</s>
+
+
+<s id="-4416976251024152502-2609021703-1" eva="8000240">
+    <dp ct="2609021711" l="RE13">
+        <m id="r70439509" t="d" c="48" ts="2609021713" ts-tts="26-09-02 17:13:10.363"/>
+        <m id="r70439774" t="d" c="42" ts="2609021716" ts-tts="26-09-02 17:16:32.530"/>
+    </dp>
+</s>
+
+
+<s id="-7433098883765501184-2609021551-3" eva="8000240">
+    <ar ct="2609021632" l="RB31">
+        <m id="r70439229" t="d" c="34" ts="2609021710" ts-tts="26-09-02 17:10:50.284"/>
+    </ar>
+    <dp ct="2609021637" l="RB31">
+        <m id="r70439229" t="d" c="34" ts="2609021710" ts-tts="26-09-02 17:10:50.284"/>
+    </dp>
+</s>
+
+
+<s id="9095299156662319527-2609021708-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021708" l="S8"/>
+</s>
+
+
+<s id="-5609294476330405396-2609022108-11" eva="8000240">
+    <ar ct="2609022153" l="RB31"/>
+</s>
+
+
+<s id="-1303184768092098273-2609022103-1" eva="8000240">
+    <dp ct="2609022103" l="RE13"/>
+</s>
+
+
+<s id="3324667993313492998-2609021613-6" eva="8000240">
+    <ar ct="2609021704" l="RE13">
+        <m id="r70435010" t="d" c="44" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+        <m id="r70435011" t="d" c="44" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+    </ar>
+</s>
+
+
+<s id="-949968479398115556-2609021732-31" eva="8000240">
+    <ar ct="2609021938" l="S5"/>
+</s>
+
+
+<s id="-2052222982576990269-2609021504-8" eva="8000240">
+    <ar cpth="Koblenz Hbf|Boppard Hbf|Oberwesel|Bacharach|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt" ppth="Koblenz Hbf|Boppard Hbf|Oberwesel|Bacharach|Bingen(Rhein) Hbf|Gau Algesheim|Ingelheim" pp="2a/b" ct="2609021654" pt="2609021609" cs="c" clt="2609021637" l="RE2" fb="RE2">
+        <m id="r70356767" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:18.299"/>
+        <m id="r70356769" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:18.299"/>
+        <m id="r70432655" t="d" c="38" ts="2609021617" ts-tts="26-09-02 16:17:22.528"/>
+        <m id="r70432656" t="q" c="88" ts="2609021617" ts-tts="26-09-02 16:17:22.528"/>
+        <m id="r70432998" t="f" c="0" ts="2609021620" ts-tts="26-09-02 16:20:13.790"/>
+        <m id="r70433015" t="f" c="0" ts="2609021620" ts-tts="26-09-02 16:20:13.790"/>
+        <m id="r70435083" t="f" c="0" ts="2609021637" ts-tts="26-09-02 16:37:53.027"/>
+        <m id="r70438243" t="f" c="0" ts="2609021702" ts-tts="26-09-02 17:02:32.351"/>
+    </ar>
+    <dp cpth="" ppth="Frankfurt-Höchst|Frankfurt(Main)Hbf" pp="2a/b" ct="2609021658" pt="2609021617" cs="c" clt="2609021637" l="RE2" fb="RE2">
+        <m id="r70356767" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:18.299"/>
+        <m id="r70356769" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:18.299"/>
+        <m id="r70432655" t="d" c="38" ts="2609021617" ts-tts="26-09-02 16:17:22.528"/>
+        <m id="r70432656" t="q" c="88" ts="2609021617" ts-tts="26-09-02 16:17:22.528"/>
+        <m id="r70432998" t="f" c="0" ts="2609021620" ts-tts="26-09-02 16:20:13.790"/>
+        <m id="r70433015" t="f" c="0" ts="2609021620" ts-tts="26-09-02 16:20:13.790"/>
+        <m id="r70435083" t="f" c="0" ts="2609021637" ts-tts="26-09-02 16:37:53.027"/>
+        <m id="r70438243" t="f" c="0" ts="2609021702" ts-tts="26-09-02 17:02:32.351"/>
+    </dp>
+    <tl f="N" t="p" o="800640" c="RE" n="4263"/>
+</s>
+
+
+<s id="608758547871377250-2609022102-1" eva="8000240">
+    <dp ct="2609022102" l="RB26"/>
+</s>
+
+
+<s id="4697179368856536642-2609021527-1" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <dp cpth="Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Ockenheim|Gensingen-Horrweiler|Bad Kreuznach|Bad Münster a Stein|Norheim|Staudernheim|Bad Sobernheim|Monzingen|Martinstein|Hochstetten(Nahe)|Kirn" ct="2609021528" l="RB33">
+        <m id="r70431515" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </dp>
+</s>
+
+
+<s id="3181420205851388113-2609021538-4" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <ar ct="2609021618" l="RE14">
+        <m id="r70436949" t="f" c="0" ts="2609021652" ts-tts="26-09-02 16:52:56.163"/>
+    </ar>
+    <dp ct="2609021620" l="RE14">
+        <m id="r70436949" t="f" c="0" ts="2609021652" ts-tts="26-09-02 16:52:56.163"/>
+    </dp>
+</s>
+
+
+<s id="3587248291837914728-2609021638-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <ar ct="2609021649" l="S8"/>
+</s>
+
+
+<s id="8342273024543632274-2609021549-5" eva="8000240">
+    <ar cp="1a/b" ct="2609021646" l="RE14"/>
+</s>
+
+
+<s id="7779572505946327571-2609021632-31" eva="8000240">
+    <ar ct="2609021836" l="S5">
+        <m id="r70435310" t="d" c="48" ts="2609021639" ts-tts="26-09-02 16:39:41.796"/>
+    </ar>
+</s>
+
+
+<s id="-1797131029278033890-2609021824-3" eva="8000240">
+    <ar cpth="" cs="c" clt="2609021616">
+        <m id="r70432524" t="d" c="36" ts="2609021616" ts-tts="26-09-02 16:16:04.461"/>
+        <m id="r70435276" t="f" c="0" ts="2609021639" ts-tts="26-09-02 16:39:26.229"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2609021616">
+        <m id="r70432524" t="d" c="36" ts="2609021616" ts-tts="26-09-02 16:16:04.461"/>
+        <m id="r70435276" t="f" c="0" ts="2609021639" ts-tts="26-09-02 16:39:26.229"/>
+    </dp>
+</s>
+
+
+<s id="-6983367188748728722-2609021638-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+    <dp ct="2609021638" l="S8"/>
+</s>
+
+
+<s id="2805882215028788438-2609021902-7" eva="8000240">
+    <ar ct="2609022008" l="RE2">
+        <m id="r70356791" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:49.200"/>
+        <m id="r70356793" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:49.200"/>
+    </ar>
+    <dp ct="2609022016" l="RE2">
+        <m id="r70356791" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:49.200"/>
+        <m id="r70356793" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:49.200"/>
+    </dp>
+</s>
+
+
+<s id="-5608304461545399933-2609021826-3" eva="8000240">
+    <ar cpth="" ct="2609021907" cs="c" clt="2609021638" l="RE2">
+        <m id="r70435134" t="d" c="38" ts="2609021638" ts-tts="26-09-02 16:38:08.565"/>
+    </ar>
+    <dp cpth="" ct="2609021909" cs="c" clt="2609021638" l="RE2">
+        <m id="r70435134" t="d" c="38" ts="2609021638" ts-tts="26-09-02 16:38:08.565"/>
+    </dp>
+</s>
+
+
+<s id="-7296753961114727188-2609021709-3" eva="8000240">
+    <ar cpth="" ct="2609021813" cs="c" clt="2609021637" l="RE2">
+        <m id="r70356775" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:33.811"/>
+        <m id="r70356777" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:33.811"/>
+        <m id="r70435014" t="d" c="57" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+        <m id="r70435015" t="q" c="88" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+        <m id="r70435084" t="d" c="38" ts="2609021637" ts-tts="26-09-02 16:37:53.027"/>
+    </ar>
+    <dp cpth="Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Bacharach|Oberwesel|Boppard Hbf|Koblenz Hbf" ct="2609021818" cs="c" clt="2609021637" l="RE2">
+        <m id="r70356775" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:33.811"/>
+        <m id="r70356777" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:33.811"/>
+        <m id="r70435014" t="d" c="57" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+        <m id="r70435015" t="q" c="88" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+        <m id="r70435084" t="d" c="38" ts="2609021637" ts-tts="26-09-02 16:37:53.027"/>
+    </dp>
+</s>
+
+
+<s id="-923409113514250205-2609022027-6" eva="8000240">
+    <ar cpth="" ct="2609022127" cs="c" clt="2609021637" l="RE2">
+        <m id="r70435007" t="d" c="38" ts="2609021637" ts-tts="26-09-02 16:37:21.905"/>
+    </ar>
+</s>
+
+
+<s id="-7725217986755905545-2609021837-1" eva="8000240">
+    <dp cpth="" ct="2609021837" cs="c" clt="2609021637" l="RE2">
+        <m id="r70434965" t="d" c="40" ts="2609021636" ts-tts="26-09-02 16:37:06.290"/>
+    </dp>
+</s>
+
+
+<s id="-4369719575556674656-2609021853-5" eva="8000240">
+    <ar cpth="Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Gau Algesheim|Ingelheim" ct="2609021919" cs="p" clt="2609021635" l="RE2">
+        <m id="r70434665" t="d" c="40" ts="2609021635" ts-tts="26-09-02 16:35:17.289"/>
+    </ar>
+</s>
+
+
+<s id="5198409961958056944-2609021432-31" eva="8000240">
+    <ar cp="1a/b" ct="2609021637" l="S5">
+        <m id="r70428833" t="d" c="43" ts="2609021547" ts-tts="26-09-02 15:48:04.102"/>
+    </ar>
+</s>
+
+
+<s id="4142268732553005038-2609021653-5" eva="8000240">
+    <ar cpth="" ct="2609021719" cs="c" clt="2609021634" l="RE2">
+        <m id="r70434630" t="d" c="40" ts="2609021634" ts-tts="26-09-02 16:34:46.265"/>
+    </ar>
+</s>
+
+
+<s id="2585748133615037068-2609021703-1" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <dp cpth="Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" ct="2609021703" cs="c" clt="2609021634" l="RB26">
+        <m id="r70434619" t="d" c="40" ts="2609021634" ts-tts="26-09-02 16:34:30.715"/>
+    </dp>
+</s>
+
+
+<s id="-4773592264040992523-2609022033-1" eva="8000240">
+    <dp ct="2609022033" l="RB31"/>
+</s>
+
+
+<s id="-7593195199466751271-2609021250-44" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <ar cpth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim" ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim" pp="11" ct="2609021650" pt="2609021555" cs="c" clt="2609021633" l="RB26" fb="RB26">
+        <m id="r70429375" t="d" c="40" ts="2609021550" ts-tts="26-09-02 15:50:55.202"/>
+        <m id="r70429377" t="d" c="40" ts="2609021550" ts-tts="26-09-02 15:50:55.202"/>
+    </ar>
+    <tl t="p" o="TR" c="TR" n="33637"/>
+</s>
+
+
+<s id="-394564232498542128-2609021651-14" eva="8000240">
+    <ar cpth="St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim" ct="2609021906" l="RE3"/>
+    <dp cpth="Frankfurt-Höchst|Frankfurt(Main)Hbf" ct="2609021917" l="RE3"/>
+</s>
+
+
+<s id="-2212697441663336751-2609021356-1" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <dp cpth="Ingelheim|Ockenheim|Bad Kreuznach|Bad Münster a Stein|Staudernheim|Bad Sobernheim|Kirn|Idar-Oberstein|Neubrücke(Nahe)|Türkismühle|St Wendel" ct="2609021359" l="RE3">
+        <m id="r70415458" t="d" c="43" ts="2609021403" ts-tts="26-09-02 14:03:59.543"/>
+    </dp>
+</s>
+
+
+<s id="-325371891866747533-2609021627-1" eva="8000240">
+    <dp cpth="Gau Algesheim|Ockenheim|Gensingen-Horrweiler|Bad Kreuznach|Bad Münster a Stein|Norheim|Staudernheim|Bad Sobernheim|Monzingen|Martinstein|Hochstetten(Nahe)|Kirn|Kirnsulzbach|Fischbach-Weierbach|Idar-Oberstein" ct="2609021627" cs="c" clt="2609021628" l="RB33">
+        <m id="r70433323" t="f" c="0" ts="2609021622" ts-tts="26-09-02 16:23:05.520"/>
+    </dp>
+</s>
+
+
+<s id="-7998337475521502886-2609021500-7" eva="8000240">
+    <ar cpth="Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim" ppth="Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" ct="2609021651" pt="2609021533" cs="c" clt="2609021628" l="RB33" fb="RB33">
+        <m id="r70423291" t="d" c="38" ts="2609021503" ts-tts="26-09-02 15:04:12.179"/>
+        <m id="r70423292" t="d" c="38" ts="2609021503" ts-tts="26-09-02 15:04:12.179"/>
+        <m id="r70433336" t="d" c="34" ts="2609021623" ts-tts="26-09-02 16:23:21.063"/>
+    </ar>
+    <tl t="e" o="V6RB" c="vlx" n="98764"/>
+    <ref>
+        <tl t="p" o="V6RB" c="vlx" n="29573"/>
+    </ref>
+</s>
+
+
+<s id="-8151414699418042331-2609021514-15" eva="8000240">
+    <ar ct="2609021629" l="RB31"/>
+</s>
+
+
+<s id="-1318802061882057996-2609022027-1" eva="8000240">
+    <dp ct="2609022027" l="RB33"/>
+</s>
+
+
+<s id="-3507737590834935479-2609021938-4" eva="8000240">
+    <ar cpth="" ct="2609022011" cs="c" clt="2609021623" l="RE4">
+        <m id="r70433382" t="d" c="38" ts="2609021623" ts-tts="26-09-02 16:24:07.875"/>
+    </ar>
+</s>
+
+
+<s id="-502535294321117857-2609021738-4" eva="8000240">
+    <ar cpth="" ct="2609021811" cs="c" clt="2609021623" l="RE4">
+        <m id="r70433334" t="d" c="38" ts="2609021623" ts-tts="26-09-02 16:23:21.063"/>
+    </ar>
+</s>
+
+
+<s id="-4912023742533794813-2609021647-1" eva="8000240">
+    <dp cpth="" ct="2609021647" cs="c" clt="2609021623" l="RE4">
+        <m id="r70433171" t="f" c="0" ts="2609021621" ts-tts="26-09-02 16:21:16.532"/>
+        <m id="r70433332" t="d" c="38" ts="2609021623" ts-tts="26-09-02 16:23:21.064"/>
+    </dp>
+</s>
+
+
+<s id="-3714087697927322723-2609021849-1" eva="8000240">
+    <dp cpth="" ct="2609021849" cs="c" clt="2609021623" l="RE4">
+        <m id="r70433333" t="d" c="38" ts="2609021623" ts-tts="26-09-02 16:23:21.064"/>
+    </dp>
+</s>
+
+
+<s id="6423634419829337550-2609021434-5" eva="8000240">
+    <m id="r2024805018" t="c" ts="2609021622" ts-tts="26-09-02 16:23:05.388"/>
+    <ar ct="2609021623"/>
+    <dp ct="2609021622"/>
+</s>
+
+
+<s id="246578764092169748-2609021608-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021621" l="S8"/>
+</s>
+
+
+<s id="5231698931406052122-2609021603-1" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <dp ct="2609021605" l="RB26">
+        <m id="r70432980" t="d" c="43" ts="2609021619" ts-tts="26-09-02 16:19:58.211"/>
+        <m id="r70432982" t="d" c="43" ts="2609021619" ts-tts="26-09-02 16:19:58.211"/>
+    </dp>
+</s>
+
+
+<s id="6414157840437755981-2609021608-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+    <dp ct="2609021617" l="S8"/>
+</s>
+
+
+<s id="-1640390785137022575-2609021613-1" eva="8000240">
+    <dp ct="2609021616" l="RE4">
+        <m id="r70407608" t="q" c="82" ts="2609021249" ts-tts="26-09-02 12:50:06.138"/>
+        <m id="r70407610" t="q" c="82" ts="2609021249" ts-tts="26-09-02 12:50:06.138"/>
+    </dp>
+</s>
+
+
+<s id="4435821736483903534-2609021556-1" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <dp cpth="Mainz-Mombach|Ingelheim|Bad Kreuznach|Bad Münster a Stein|Staudernheim|Bad Sobernheim|Kirn|Idar-Oberstein|Neubrücke(Nahe)|Türkismühle|St Wendel|Ottweiler(Saar)|Neunkirchen(Saar)Hbf|Saarbrücken Hbf" ct="2609021601" l="RE3">
+        <m id="r70431510" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+        <m id="r70432486" t="d" c="34" ts="2609021615" ts-tts="26-09-02 16:15:48.867"/>
+    </dp>
+</s>
+
+
+<s id="8806141078412116597-2609022014-14" eva="8000240">
+    <ar ct="2609022118" l="RB31"/>
+</s>
+
+
+<s id="-1471653600703431001-2609021513-6" eva="8000240">
+    <ar ct="2609021601" l="RE13">
+        <m id="r70432404" t="d" c="44" ts="2609021614" ts-tts="26-09-02 16:14:46.539"/>
+    </ar>
+</s>
+
+
+<s id="-2359976733196780683-2609022013-6" eva="8000240">
+    <ar ct="2609022055" l="RE13"/>
+</s>
+
+
+<s id="6169617505253784286-2609021402-1" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <dp ct="2609021403" l="RB26"/>
+</s>
+
+
+<s id="7831158926464437219-2609021502-1" eva="8000240">
+    <m id="r2684407" t="h" from="2609021355" to="2609021806" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609021609" ts-tts="26-09-02 16:09:50.818" pr="1"/>
+    <dp cpth="Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" ct="2609021527" cs="c" clt="2609021516" l="RB26"/>
+</s>
+
+
+<s id="-5785459581656262036-2609022009-3" eva="8000240">
+    <ar ct="2609022039" l="RE3"/>
+    <dp ct="2609022053" l="RE3"/>
+</s>
+
+
+<s id="-5371167929639745146-2609021607-1" eva="8000240">
+    <dp ct="2609021608" l="RB33"/>
+</s>
+
+
+<s id="12775629928578336-2609021524-3" eva="8000240">
+    <ar cp="8" ct="2609021609" l="RE3">
+        <m id="r70431621" t="d" c="45" ts="2609021608" ts-tts="26-09-02 16:08:17.661"/>
+    </ar>
+</s>
+
+
+<s id="1394730363083816087-2609021603-1" eva="8000240">
+    <dp ct="2609021606" l="RE13">
+        <m id="r70431509" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+        <m id="r70431511" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </dp>
+</s>
+
+
+<s id="-3369776896639358760-2609021533-1" eva="8000240">
+    <dp ct="2609021534" l="RB31">
+        <m id="r70431512" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </dp>
+</s>
+
+
+<s id="3132748482096279500-2609021427-1" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <dp cpth="Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Ockenheim|Gensingen-Horrweiler|Bad Kreuznach|Bad Münster a Stein|Norheim|Staudernheim|Bad Sobernheim|Monzingen|Martinstein|Hochstetten(Nahe)|Kirn" ct="2609021428" l="RB33">
+        <m id="r70431513" t="d" c="43" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </dp>
+</s>
+
+
+<s id="2385284278497908713-2609021409-3" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <ar ct="2609021448" l="RE3">
+        <m id="r70431517" t="d" c="45" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </ar>
+    <dp ct="2609021454" l="RE3">
+        <m id="r70431517" t="d" c="45" ts="2609021607" ts-tts="26-09-02 16:07:31.053"/>
+    </dp>
+</s>
+
+
+<s id="-6188732330267059473-2609022007-18" eva="8000240">
+    <ar ct="2609022133" l="RB33"/>
+</s>
+
+
+<s id="737434024186617871-2609022003-1" eva="8000240">
+    <dp ct="2609022003" l="RE13"/>
+</s>
+
+
+<s id="733799220502554052-2609022003-1" eva="8000240">
+    <dp ct="2609022003" l="RB26"/>
+</s>
+
+
+<s id="7905496543427052776-2609021509-3" eva="8000240">
+    <ar ct="2609021551" l="RE2">
+        <m id="r70394802" t="f" c="0" ts="2609021104" ts-tts="26-09-02 11:04:27.457"/>
+        <m id="r70394803" t="f" c="0" ts="2609021104" ts-tts="26-09-02 11:04:27.457"/>
+        <m id="r70430602" t="f" c="0" ts="2609021600" ts-tts="26-09-02 16:01:02.179"/>
+    </ar>
+    <dp ct="2609021557" l="RE2">
+        <m id="r70394802" t="f" c="0" ts="2609021104" ts-tts="26-09-02 11:04:27.457"/>
+        <m id="r70394803" t="f" c="0" ts="2609021104" ts-tts="26-09-02 11:04:27.457"/>
+        <m id="r70430601" t="d" c="31" ts="2609021600" ts-tts="26-09-02 16:01:02.179"/>
+    </dp>
+</s>
+
+
+<s id="1820632580748839372-2609021338-4" eva="8000240">
+    <ar cpth="Frankfurt(Main)Hbf|Frankfurt-Höchst|Hochheim(Main)" ct="2609021422" l="RE4">
+        <m id="r70414677" t="d" c="43" ts="2609021356" ts-tts="26-09-02 13:56:12.667"/>
+        <m id="r70430109" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:22.058"/>
+        <m id="r70430110" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:22.058"/>
+        <m id="r70430134" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:37.706"/>
+        <m id="r70430244" t="f" c="0" ts="2609021558" ts-tts="26-09-02 15:58:10.871"/>
+    </ar>
+    <dp cpth="Worms Hbf|Frankenthal Hbf|Ludwigshafen(Rh)Hbf|Schifferstadt|Speyer Hbf|Germersheim|Philippsburg(Baden)" ct="2609021425" l="RE4">
+        <m id="r70414677" t="d" c="43" ts="2609021356" ts-tts="26-09-02 13:56:12.667"/>
+        <m id="r70430109" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:22.058"/>
+        <m id="r70430110" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:22.058"/>
+        <m id="r70430134" t="f" c="0" ts="2609021556" ts-tts="26-09-02 15:56:37.706"/>
+        <m id="r70430244" t="f" c="0" ts="2609021558" ts-tts="26-09-02 15:58:10.871"/>
+    </dp>
+</s>
+
+
+<s id="-4622366008702052925-2609021538-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021558" l="S8">
+        <m id="r70428432" t="d" c="67" ts="2609021545" ts-tts="26-09-02 15:45:28.088"/>
+    </ar>
+</s>
+
+
+<s id="-6642082676928970753-2609021050-44" eva="8000240">
+    <ar ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim" cp="2a/b" pp="11" ct="2609021557" pt="2609021356" l="RB26" fb="RB26">
+        <m id="r70401154" t="d" c="41" ts="2609021152" ts-tts="26-09-02 11:52:21.538"/>
+        <m id="r70401157" t="d" c="41" ts="2609021152" ts-tts="26-09-02 11:52:21.538"/>
+        <m id="r70401155" t="d" c="41" ts="2609021152" ts-tts="26-09-02 11:52:21.538"/>
+        <m id="r70409051" t="d" c="55" ts="2609021301" ts-tts="26-09-02 13:01:45.835"/>
+    </ar>
+    <tl t="p" o="TR" c="TR" n="33633"/>
+</s>
+
+
+<s id="5258584023973085671-2609021406-10" eva="8000240">
+    <ar cpth="Germersheim|Speyer Hbf|Schifferstadt|Ludwigshafen(Rh)Hbf|Frankenthal Hbf|Worms Hbf" ct="2609021549" l="RE4">
+        <m id="r70410282" t="d" c="1" ts="2609021313" ts-tts="26-09-02 13:13:41.524"/>
+        <m id="r70413567" t="d" c="34" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+        <m id="r70413570" t="d" c="34" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+    </ar>
+    <dp cpth="Hochheim(Main)|Frankfurt-Höchst|Frankfurt(Main)Hbf" ct="2609021553" l="RE4">
+        <m id="r70410282" t="d" c="1" ts="2609021313" ts-tts="26-09-02 13:13:41.524"/>
+        <m id="r70413567" t="d" c="34" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+        <m id="r70413570" t="d" c="34" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+    </dp>
+</s>
+
+
+<s id="3423870481256725814-2609021951-14" eva="8000240">
+    <ar ct="2609022159" l="RE3"/>
+    <dp ct="2609022231" l="RE3"/>
+</s>
+
+
+<s id="-247160197683148154-2609021950-44" eva="8000240">
+    <ar ct="2609022257" l="RB26"/>
+</s>
+
+
+<s id="4779559045584802827-2609021538-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021538" l="S8">
+        <m id="r70428177" t="d" c="67" ts="2609021543" ts-tts="26-09-02 15:43:07.886"/>
+        <m id="r70428187" t="d" c="67" ts="2609021543" ts-tts="26-09-02 15:43:07.886"/>
+        <m id="r70428322" t="f" c="0" ts="2609021544" ts-tts="26-09-02 15:44:56.954"/>
+        <m id="r70428323" t="f" c="0" ts="2609021544" ts-tts="26-09-02 15:44:56.954"/>
+    </dp>
+</s>
+
+
+<s id="-2792537538014935095-2609021203-3" eva="8000240">
+    <ar cpth="Frankfurt(Main)Hbf|Frankfurt-Höchst" ct="2609021253" l="RE3">
+        <m id="r70403415" t="d" c="43" ts="2609021216" ts-tts="26-09-02 12:16:41.275"/>
+    </ar>
+    <dp cpth="Ingelheim|Bad Kreuznach|Bad Münster a Stein|Staudernheim|Bad Sobernheim|Kirn|Idar-Oberstein|Neubrücke(Nahe)|Türkismühle|St Wendel" ct="2609021257" l="RE3">
+        <m id="r70403415" t="d" c="43" ts="2609021216" ts-tts="26-09-02 12:16:41.275"/>
+    </dp>
+</s>
+
+
+<s id="-780320189855543671-2609021332-31" eva="8000240">
+    <ar ct="2609021541" l="S5">
+        <m id="r70420228" t="d" c="43" ts="2609021443" ts-tts="26-09-02 14:43:57.067"/>
+    </ar>
+</s>
+
+
+<s id="8559888452944676434-2609021637-1" eva="8000240">
+    <dp cpth="" ct="2609021637" cs="c" clt="2609021537" l="RE2">
+        <m id="r70427604" t="d" c="40" ts="2609021536" ts-tts="26-09-02 15:36:54.476"/>
+    </dp>
+</s>
+
+
+<s id="-1703957002314123553-2609021933-1" eva="8000240">
+    <dp ct="2609021933" l="RB31"/>
+</s>
+
+
+<s id="84909745116774673-2609021927-1" eva="8000240">
+    <dp ct="2609021927" l="RB33"/>
+</s>
+
+
+<s id="-6660636900240658098-2609021927-3" eva="8000240">
+    <ar ct="2609021959" l="RE3">
+        <m id="r70400390" t="f" c="1000" ts="2609021144" ts-tts="26-09-02 11:44:35.128"/>
+        <m id="r70400393" t="f" c="0" ts="2609021144" ts-tts="26-09-02 11:44:35.128"/>
+        <m id="r70400394" t="f" c="0" ts="2609021144" ts-tts="26-09-02 11:44:35.128"/>
+    </ar>
+    <dp ct="2609022007" l="RE3">
+        <m id="r70400390" t="f" c="1000" ts="2609021144" ts-tts="26-09-02 11:44:35.128"/>
+        <m id="r70400393" t="f" c="0" ts="2609021144" ts-tts="26-09-02 11:44:35.129"/>
+        <m id="r70400394" t="f" c="0" ts="2609021144" ts-tts="26-09-02 11:44:35.129"/>
+    </dp>
+</s>
+
+
+<s id="1660684918076522891-2609021307-18" eva="8000240">
+    <ar ppth="Idar-Oberstein|Fischbach-Weierbach|Kirnsulzbach|Kirn|Hochstetten(Nahe)|Martinstein|Monzingen|Bad Sobernheim|Staudernheim|Norheim|Bad Münster a Stein|Bad Kreuznach|Gensingen-Horrweiler|Ockenheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)" cp="11" pp="2a" ct="2609021527" pt="2609021433" l="RB33" fb="RB33">
+        <m id="r70418351" t="d" c="43" ts="2609021427" ts-tts="26-09-02 14:27:21.170"/>
+        <m id="r70421189" t="d" c="34" ts="2609021451" ts-tts="26-09-02 14:51:28.309"/>
+    </ar>
+    <tl t="p" o="V6RB" c="vlx" n="29571"/>
+</s>
+
+
+<s id="7655251692790856840-2609021414-15" eva="8000240">
+    <ar ct="2609021526" l="RB31"/>
+</s>
+
+
+<s id="3901887998574910198-2609021453-5" eva="8000240">
+    <ar cpth="Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Gau Algesheim" ppth="Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Gau Algesheim|Ingelheim" pp="11" ct="2609021617" pt="2609021519" cs="c" clt="2609021524" l="RE2" fb="RE2"/>
+    <tl t="p" o="TR" c="TR" n="33685"/>
+</s>
+
+
+<s id="4109119431753639719-2609021438-4" eva="8000240">
+    <ar ct="2609021517" l="RE14">
+        <m id="r70424193" t="d" c="48" ts="2609021509" ts-tts="26-09-02 15:09:23.601"/>
+    </ar>
+    <dp ct="2609021519" l="RE14">
+        <m id="r70424193" t="d" c="48" ts="2609021509" ts-tts="26-09-02 15:09:23.601"/>
+    </dp>
+</s>
+
+
+<s id="-6602524682247329621-2609021508-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <ar ct="2609021520" l="S8"/>
+</s>
+
+
+<s id="1721626064620048835-2609021150-44" eva="8000240">
+    <ar cpth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim" ct="2609021527" cs="c" clt="2609021517" l="RB26">
+        <m id="r70410022" t="d" c="38" ts="2609021310" ts-tts="26-09-02 13:10:50.504"/>
+    </ar>
+</s>
+
+
+<s id="-2551135362792488535-2609021242-1" eva="8000240">
+    <m id="r2684307" t="h" from="2609021406" to="2609021600" cat="Störung" ts="2609021413" ts-tts="26-09-02 15:16:03.496" pr="1"/>
+    <dp ct="2609021252" l="RE15">
+        <m id="r70408642" t="d" c="43" ts="2609021256" ts-tts="26-09-02 12:57:06.156"/>
+    </dp>
+</s>
+
+
+<s id="-865134609708263762-2609021914-15" eva="8000240">
+    <ar ct="2609022025" l="RB31"/>
+</s>
+
+
+<s id="-5140150713576799438-2609021913-6" eva="8000240">
+    <ar ct="2609021955" l="RE13"/>
+</s>
+
+
+<s id="-183624687456478153-2609021508-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021508" l="S8"/>
+</s>
+
+
+<s id="6091493670824049683-2609021907-18" eva="8000240">
+    <ar ct="2609022033" l="RB33"/>
+</s>
+
+
+<s id="-2218143863383894093-2609021503-1" eva="8000240">
+    <dp ct="2609021504" l="RE13"/>
+</s>
+
+
+<s id="-9145093497517640175-2609021903-1" eva="8000240">
+    <dp ct="2609021903" l="RE13"/>
+</s>
+
+
+<s id="6523655494884723514-2609021903-1" eva="8000240">
+    <dp ct="2609021903" l="RB26"/>
+</s>
+
+
+<s id="922131156183603014-2609021413-6" eva="8000240">
+    <ar ct="2609021503" l="RE13">
+        <m id="r70420439" t="d" c="44" ts="2609021444" ts-tts="26-09-02 14:44:59.271"/>
+    </ar>
+</s>
+
+
+<s id="6140244794229844611-2609021451-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021452" l="S6"/>
+</s>
+
+
+<s id="-112401797118759604-2609021851-14" eva="8000240">
+    <ar ct="2609022106" l="RE3"/>
+    <dp ct="2609022117" l="RE3"/>
+</s>
+
+
+<s id="-8732172510482071480-2609021438-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+    <ar ct="2609021451" l="S8"/>
+</s>
+
+
+<s id="-2398755033195965345-2609021850-44" eva="8000240">
+    <ar ct="2609022157" l="RB26"/>
+</s>
+
+
+<s id="-5808615129414944265-2609021351-5" eva="8000240">
+    <ar ct="2609021443" l="RE14"/>
+    <dp ct="2609021450" l="RE14"/>
+</s>
+
+
+<s id="-3331121380486205002-2609021403-1" eva="8000240">
+    <dp ct="2609021407" l="RE13">
+        <m id="r70420144" t="d" c="48" ts="2609021443" ts-tts="26-09-02 14:43:10.402"/>
+    </dp>
+</s>
+
+
+<s id="1369348682338897139-2609021151-14" eva="8000240">
+    <ar cp="8" ct="2609021411" l="RE3">
+        <m id="r70420093" t="d" c="38" ts="2609021442" ts-tts="26-09-02 14:42:23.812"/>
+    </ar>
+</s>
+
+
+<s id="-1719944261581525884-2609021051-14" eva="8000240">
+    <ar ct="2609021308" l="RE3">
+        <m id="r70411159" t="d" c="48" ts="2609021320" ts-tts="26-09-02 13:20:42.252"/>
+        <m id="r70419732" t="d" c="38" ts="2609021439" ts-tts="26-09-02 14:39:48.073"/>
+    </ar>
+    <dp ct="2609021319" l="RE3">
+        <m id="r70411159" t="d" c="48" ts="2609021320" ts-tts="26-09-02 13:20:42.252"/>
+        <m id="r70419732" t="d" c="38" ts="2609021439" ts-tts="26-09-02 14:39:48.073"/>
+    </dp>
+</s>
+
+
+<s id="304562140859640648-2609021437-1" eva="8000240">
+    <dp ct="2609021438" l="RE2"/>
+</s>
+
+
+<s id="-5668530351683622381-2609021438-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp ct="2609021438" l="S8"/>
+</s>
+
+
+<s id="-9174774963210553103-2609021232-31" eva="8000240">
+    <ar ct="2609021438" l="S5"/>
+</s>
+
+
+<s id="-2740123800346113648-2609021433-1" eva="8000240">
+    <dp ct="2609021434" l="RB31"/>
+</s>
+
+
+<s id="-3416346749840607436-2609021833-1" eva="8000240">
+    <dp ct="2609021833" l="RB31"/>
+</s>
+
+
+<s id="-3315699349694106159-2609021107-18" eva="8000240">
+    <ar cp="4a/b" ct="2609021236" l="RB33">
+        <m id="r70419017" t="d" c="48" ts="2609021433" ts-tts="26-09-02 14:33:19.255"/>
+    </ar>
+</s>
+
+
+<s id="-8677862450998013180-2609021134-11" eva="8000240">
+    <ar ct="2609021229" l="RB31">
+        <m id="r70419005" t="d" c="42" ts="2609021433" ts-tts="26-09-02 14:33:19.255"/>
+    </ar>
+</s>
+
+
+<s id="-6306836557048644050-2609021250-18" eva="8000240">
+    <ar ct="2609021429" l="RB31">
+        <m id="r70418352" t="d" c="99" ts="2609021427" ts-tts="26-09-02 14:27:21.170"/>
+        <m id="r70418353" t="d" c="99" ts="2609021427" ts-tts="26-09-02 14:27:21.170"/>
+        <m id="r70418462" t="d" c="42" ts="2609021428" ts-tts="26-09-02 14:29:10.123"/>
+    </ar>
+</s>
+
+
+<s id="-4841313450340914087-2609021327-1" eva="8000240">
+    <m id="r900032510" t="r" from="2609021425" to="2609021700" ts="2609021428" ts-tts="26-09-02 14:29:09.932"/>
+    <dp cp="4b" ct="2609021331" l="RB33">
+        <m id="r70411218" t="f" c="0" ts="2609021321" ts-tts="26-09-02 13:21:13.333"/>
+        <m id="r70412414" t="d" c="43" ts="2609021333" ts-tts="26-09-02 13:33:08.214"/>
+    </dp>
+</s>
+
+
+<s id="-1387841537797227245-2609021827-1" eva="8000240">
+    <dp ct="2609021827" l="RB33"/>
+</s>
+
+
+<s id="5318964829617834398-2609021408-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021425" l="S8"/>
+</s>
+
+
+<s id="-7937556967056290041-2609021304-7" eva="8000240">
+    <ar ct="2609021419" l="RE2">
+        <m id="r70394329" t="f" c="0" ts="2609021101" ts-tts="26-09-02 11:01:05.995"/>
+        <m id="r70416275" t="d" c="31" ts="2609021410" ts-tts="26-09-02 14:10:59.042"/>
+    </ar>
+    <dp ct="2609021422" l="RE2">
+        <m id="r70394329" t="f" c="0" ts="2609021101" ts-tts="26-09-02 11:01:05.995"/>
+        <m id="r70416275" t="d" c="31" ts="2609021410" ts-tts="26-09-02 14:10:59.042"/>
+    </dp>
+</s>
+
+
+<s id="808233052271008044-2609021814-15" eva="8000240">
+    <ar ct="2609021925" l="RB31"/>
+</s>
+
+
+<s id="-7165105743879198366-2609021813-6" eva="8000240">
+    <ar ct="2609021855" l="RE13"/>
+</s>
+
+
+<s id="-3396743686997106176-2609021408-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+    <dp ct="2609021411" l="S8"/>
+</s>
+
+
+<s id="5194516900091722008-2609021807-18" eva="8000240">
+    <ar ct="2609021933" l="RB33"/>
+</s>
+
+
+<s id="1852810883877973873-2609021253-10" eva="8000240">
+    <ar ct="2609021402" l="RE13"/>
+</s>
+
+
+<s id="3453661158526672336-2609030529-6" eva="8000240">
+    <ar cpth="" cs="c" clt="2609021400" l="RE13">
+        <m id="r70415165" t="d" c="42" ts="2609021400" ts-tts="26-09-02 14:00:52.856"/>
+    </ar>
+</s>
+
+
+<s id="2349690454587510218-2609021309-3" eva="8000240">
+    <ar ct="2609021351" l="RE2">
+        <m id="r70356749" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:02.838"/>
+        <m id="r70356751" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:02.838"/>
+        <m id="r70412989" t="d" c="48" ts="2609021339" ts-tts="26-09-02 13:40:08.462"/>
+        <m id="r70412990" t="q" c="88" ts="2609021339" ts-tts="26-09-02 13:40:08.462"/>
+    </ar>
+    <dp ct="2609021357" l="RE2">
+        <m id="r70356749" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:02.838"/>
+        <m id="r70356751" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:15:02.838"/>
+        <m id="r70412989" t="d" c="48" ts="2609021339" ts-tts="26-09-02 13:40:08.462"/>
+        <m id="r70412990" t="q" c="88" ts="2609021339" ts-tts="26-09-02 13:40:08.462"/>
+    </dp>
+</s>
+
+
+<s id="1739496880812450721-2609021338-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021355" l="S8"/>
+</s>
+
+
+<s id="-5818998491878887950-2609021206-10" eva="8000240">
+    <ar cpth="Germersheim|Speyer Hbf|Schifferstadt|Ludwigshafen(Rh)Hbf|Frankenthal Hbf|Worms Hbf" ct="2609021349" l="RE4">
+        <m id="r70400627" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400629" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400631" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400633" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70402435" t="f" c="0" ts="2609021205" ts-tts="26-09-02 12:05:33.677"/>
+    </ar>
+    <dp cpth="Hochheim(Main)|Frankfurt-Höchst|Frankfurt(Main)Hbf" ct="2609021351" l="RE4">
+        <m id="r70400627" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400629" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400631" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70400633" t="d" c="48" ts="2609021146" ts-tts="26-09-02 11:46:54.558"/>
+        <m id="r70402435" t="f" c="0" ts="2609021205" ts-tts="26-09-02 12:05:33.677"/>
+    </dp>
+</s>
+
+
+<s id="-8671100822102729016-2609021351-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021351" l="S6"/>
+</s>
+
+
+<s id="7397238124951337720-2609021751-14" eva="8000240">
+    <ar ct="2609022000" l="RE3"/>
+</s>
+
+
+<s id="-4867746213436475772-2609021224-3" eva="8000240">
+    <m id="r2024802434" t="c" ts="2609021321" ts-tts="26-09-02 13:21:13.223"/>
+    <ar cp="3b" ct="2609021344">
+        <m id="r70405271" t="d" c="51" ts="2609021229" ts-tts="26-09-02 12:29:22.672"/>
+        <m id="r70405273" t="d" c="51" ts="2609021229" ts-tts="26-09-02 12:29:38.211"/>
+    </ar>
+    <dp cp="3b" ct="2609021346">
+        <m id="r70405271" t="d" c="51" ts="2609021229" ts-tts="26-09-02 12:29:22.672"/>
+        <m id="r70405273" t="d" c="51" ts="2609021229" ts-tts="26-09-02 12:29:38.211"/>
+    </dp>
+</s>
+
+
+<s id="3301102967189501413-2609021138-4" eva="8000240">
+    <ar cpth="Frankfurt(Main)Hbf|Frankfurt-Höchst|Hochheim(Main)" ct="2609021212" l="RE4">
+        <m id="r70410269" t="f" c="0" ts="2609021313" ts-tts="26-09-02 13:13:41.524"/>
+        <m id="r70413478" t="f" c="0" ts="2609021343" ts-tts="26-09-02 13:44:01.892"/>
+        <m id="r70413569" t="f" c="0" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+        <m id="r70413572" t="f" c="0" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+    </ar>
+    <dp cpth="Worms Hbf|Frankenthal Hbf|Ludwigshafen(Rh)Hbf|Schifferstadt|Speyer Hbf|Germersheim" ct="2609021217" l="RE4">
+        <m id="r70410269" t="f" c="0" ts="2609021313" ts-tts="26-09-02 13:13:41.524"/>
+        <m id="r70413478" t="f" c="0" ts="2609021343" ts-tts="26-09-02 13:44:01.892"/>
+        <m id="r70413569" t="f" c="0" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+        <m id="r70413572" t="f" c="0" ts="2609021345" ts-tts="26-09-02 13:45:35.489"/>
+    </dp>
+</s>
+
+
+<s id="1552239923906879233-2609021132-31" eva="8000240">
+    <ar cpth="Hemsbach|Weinheim-Sulzbach|Weinheim(Bergstr)Hbf|Heddesheim/Hirschberg|Ladenburg|Neu-Edingen/Friedrichsfeld|Mannheim-Seckenheim|Mannheim ARENA/Maimarkt|Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Ludwigshafen(Rh)Hbf|Ludwigshafen-Oggersheim|Frankenthal Süd|Frankenthal Hbf|Bobenheim|Worms Hbf|Osthofen|Mettenheim|Alsheim|Guntersblum|Dienheim|Oppenheim|Nierstein|Nackenheim|Bodenheim|Mainz-Laubenheim|Mainz Römisches Theater" ct="2609021340" l="S5">
+        <m id="r70399942" t="d" c="48" ts="2609021140" ts-tts="26-09-02 11:40:42.087"/>
+        <m id="r70399944" t="d" c="48" ts="2609021140" ts-tts="26-09-02 11:40:42.087"/>
+    </ar>
+</s>
+
+
+<s id="-710513219121781474-2609021338-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp ct="2609021338" l="S8"/>
+</s>
+
+
+<s id="-3893025853988182197-2609021333-1" eva="8000240">
+    <dp cp="4a" ct="2609021334" l="RB31"/>
+</s>
+
+
+<s id="-1164934234512484429-2609021207-18" eva="8000240">
+    <ar ct="2609021334" l="RB33"/>
+</s>
+
+
+<s id="3454252489751998903-2609021234-11" eva="8000240">
+    <ar ct="2609021326" l="RB31"/>
+</s>
+
+
+<s id="-1873138967895700187-2609021253-6" eva="8000240">
+    <ar ct="2609021324" l="RE2"/>
+</s>
+
+
+<s id="7644001982706893986-2609021308-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <ar ct="2609021320" l="S8"/>
+</s>
+
+
+<s id="-1612168290370370104-2609021253-4" eva="8000240">
+    <ar cpth="" cp="5a" ct="2609021508" cs="c" clt="2609021316">
+        <m id="r70406083" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70406085" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70406087" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70409620" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70409622" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70409621" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70410591" t="d" c="37" ts="2609021316" ts-tts="26-09-02 13:16:17.447"/>
+    </ar>
+    <dp cpth="" cp="5a" ct="2609021510" cs="c" clt="2609021316">
+        <m id="r70406083" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70406085" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70406087" t="d" c="36" ts="2609021238" ts-tts="26-09-02 12:38:26.343"/>
+        <m id="r70409620" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70409622" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70409621" t="f" c="0" ts="2609021306" ts-tts="26-09-02 13:06:41.456"/>
+        <m id="r70410591" t="d" c="37" ts="2609021316" ts-tts="26-09-02 13:16:17.447"/>
+    </dp>
+</s>
+
+
+<s id="-4320223233307856040-2609021714-15" eva="8000240">
+    <ar ct="2609021825" l="RB31"/>
+</s>
+
+
+<s id="4044181154819982122-2609021238-4" eva="8000240">
+    <ar ct="2609021311" l="RE14">
+        <m id="r70356555" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:47.671"/>
+        <m id="r70356557" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:47.671"/>
+    </ar>
+    <dp ct="2609021314" l="RE14">
+        <m id="r70356555" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:47.671"/>
+        <m id="r70356557" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:47.671"/>
+    </dp>
+</s>
+
+
+<s id="2106311831767821848-2609021308-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021309" l="S8"/>
+</s>
+
+
+<s id="-1482286911390703787-2609021303-1" eva="8000240">
+    <dp ct="2609021303" l="RE13"/>
+</s>
+
+
+<s id="-4991655720494108285-2609021302-1" eva="8000240">
+    <dp ct="2609021303" l="RB26"/>
+</s>
+
+
+<s id="4334506600698118356-2609020950-44" eva="8000240">
+    <ar ct="2609021301" l="RB26"/>
+</s>
+
+
+<s id="-7335660306892303568-2609021153-10" eva="8000240">
+    <ar ct="2609021300" l="RE13"/>
+</s>
+
+
+<s id="-4169469829765385546-2609021238-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021259" l="S8">
+        <m id="r70408066" t="d" c="43" ts="2609021252" ts-tts="26-09-02 12:52:25.836"/>
+    </ar>
+</s>
+
+
+<s id="-125862710024244840-2609021252-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp cp="4a/b" ct="2609021252" l="S6"/>
+</s>
+
+
+<s id="252382403909831165-2609021151-5" eva="8000240">
+    <ar ct="2609021247" l="RE14"/>
+    <dp ct="2609021250" l="RE14"/>
+</s>
+
+
+<s id="-6116812113323447362-2609021238-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021241" l="S8">
+        <m id="r70407381" t="f" c="0" ts="2609021247" ts-tts="26-09-02 12:47:46.115"/>
+    </dp>
+</s>
+
+
+<s id="-668452146651823608-2609021032-31" eva="8000240">
+    <ar ct="2609021244" l="S5"/>
+</s>
+
+
+<s id="-7027302928029134514-2609021237-1" eva="8000240">
+    <dp ct="2609021238" l="RE2"/>
+</s>
+
+
+<s id="6865517585811580944-2609021233-1" eva="8000240">
+    <dp ct="2609021235" l="RB31">
+        <m id="r70405977" t="d" c="43" ts="2609021237" ts-tts="26-09-02 12:37:24.176"/>
+    </dp>
+</s>
+
+
+<s id="9160975838471986991-2609021227-1" eva="8000240">
+    <dp ct="2609021229" l="RB33">
+        <m id="r70405461" t="d" c="43" ts="2609021231" ts-tts="26-09-02 12:31:26.604"/>
+    </dp>
+</s>
+
+
+<s id="5433458561289262992-2609021104-7" eva="8000240">
+    <ar ct="2609021225" l="RE2">
+        <m id="r70356739" t="f" c="71" ts="2609020014" ts-tts="26-09-02 00:14:47.419"/>
+        <m id="r70356741" t="f" c="71" ts="2609020014" ts-tts="26-09-02 00:14:47.419"/>
+        <m id="r70389623" t="d" c="48" ts="2609021019" ts-tts="26-09-02 10:19:57.350"/>
+        <m id="r70389624" t="q" c="88" ts="2609021019" ts-tts="26-09-02 10:19:57.350"/>
+    </ar>
+    <dp ct="2609021229" l="RE2">
+        <m id="r70356739" t="f" c="71" ts="2609020014" ts-tts="26-09-02 00:14:47.419"/>
+        <m id="r70356741" t="f" c="71" ts="2609020014" ts-tts="26-09-02 00:14:47.419"/>
+        <m id="r70389623" t="d" c="48" ts="2609021019" ts-tts="26-09-02 10:19:57.350"/>
+        <m id="r70389624" t="q" c="88" ts="2609021019" ts-tts="26-09-02 10:19:57.350"/>
+    </dp>
+</s>
+
+
+<s id="-2594182769496593975-2609021203-1" eva="8000240">
+    <dp cp="6a/b" ct="2609021214" l="RE13">
+        <m id="r70405091" t="d" c="43" ts="2609021228" ts-tts="26-09-02 12:28:20.475"/>
+    </dp>
+</s>
+
+
+<s id="-7373467964293423387-2609021052-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021053" l="S6">
+        <m id="r70404993" t="f" c="0" ts="2609021227" ts-tts="26-09-02 12:27:33.815"/>
+    </dp>
+</s>
+
+
+<s id="-3536189491158611258-2609020850-44" eva="8000240">
+    <ar ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim" cp="2a/b" pp="11" ct="2609021229" pt="2609021155" l="RB26" fb="RB26">
+        <m id="r70404960" t="d" c="43" ts="2609021227" ts-tts="26-09-02 12:27:18.289"/>
+    </ar>
+    <tl t="p" o="TR" c="TR" n="33627"/>
+</s>
+
+
+<s id="-2498226938262505867-2609021208-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar cp="5a" ct="2609021221" l="S8"/>
+</s>
+
+
+<s id="-6686841388283405276-2609020951-14" eva="8000240">
+    <ar cp="6a/b" ct="2609021218" l="RE3">
+        <m id="r70388619" t="d" c="48" ts="2609021006" ts-tts="26-09-02 10:06:30.924"/>
+    </ar>
+</s>
+
+
+<s id="-6208210295016408326-2609021024-3" eva="8000240">
+    <m id="r2684150" t="h" from="2609020900" to="2609021300" cat="Störung" ts="2609020951" ts-tts="26-09-02 12:16:02.360" pr="1"/>
+    <m id="r2024800640" t="c" ts="2609021108" ts-tts="26-09-02 11:08:36.170"/>
+    <ar cp="3b" ct="2609021123"/>
+    <dp cp="3b" ct="2609021125"/>
+</s>
+
+
+<s id="-3987770513815330460-2609020539-14" eva="8000240">
+    <m id="r2684150" t="h" from="2609020900" to="2609021300" cat="Störung" ts="2609020951" ts-tts="26-09-02 12:16:02.360" pr="1"/>
+    <m id="r2024800549" t="c" ts="2609021105" ts-tts="26-09-02 11:05:14.035"/>
+    <m id="r2024800548" t="c" ts="2609021105" ts-tts="26-09-02 11:05:14.035"/>
+    <ar ppth="Hannover Hbf|Minden(Westf)|Bad Oeynhausen|Herford|Bielefeld Hbf|Gütersloh Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf" pp="5a/b" ct="2609021125" pt="2609021039" fb="IC 2040">
+        <m id="r70370001" t="d" c="43" ts="2609020652" ts-tts="26-09-02 06:52:47.364"/>
+        <m id="r70370004" t="d" c="43" ts="2609020652" ts-tts="26-09-02 06:52:47.364"/>
+        <m id="r70372769" t="f" c="0" ts="2609020727" ts-tts="26-09-02 07:27:11.571"/>
+        <m id="r70372770" t="f" c="0" ts="2609020727" ts-tts="26-09-02 07:27:11.571"/>
+        <m id="r70378420" t="d" c="55" ts="2609020827" ts-tts="26-09-02 08:27:58.814"/>
+        <m id="r70378422" t="d" c="55" ts="2609020827" ts-tts="26-09-02 08:27:58.814"/>
+        <m id="r70378908" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+        <m id="r70378909" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+        <m id="r70378910" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+    </ar>
+    <dp ppth="Mannheim Hbf|Heidelberg Hbf" pp="5a/b" ct="2609021127" pt="2609021042" fb="IC 2040">
+        <m id="r70370001" t="d" c="43" ts="2609020652" ts-tts="26-09-02 06:52:47.364"/>
+        <m id="r70370004" t="d" c="43" ts="2609020652" ts-tts="26-09-02 06:52:47.364"/>
+        <m id="r70372769" t="f" c="0" ts="2609020727" ts-tts="26-09-02 07:27:11.571"/>
+        <m id="r70372770" t="f" c="0" ts="2609020727" ts-tts="26-09-02 07:27:11.571"/>
+        <m id="r70378420" t="d" c="55" ts="2609020827" ts-tts="26-09-02 08:27:58.814"/>
+        <m id="r70378422" t="d" c="55" ts="2609020827" ts-tts="26-09-02 08:27:58.814"/>
+        <m id="r70378908" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+        <m id="r70378909" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+        <m id="r70378910" t="f" c="0" ts="2609020832" ts-tts="26-09-02 08:32:38.670"/>
+    </dp>
+    <tl f="F" t="p" o="80" c="IC" n="2040"/>
+</s>
+
+
+<s id="8125274319994745100-2609021053-4" eva="8000240">
+    <m id="r2684150" t="h" from="2609020900" to="2609021300" cat="Störung" ts="2609020951" ts-tts="26-09-02 12:16:02.360" pr="1"/>
+    <ar cpth="" cs="c" clt="2609020158">
+        <m id="r70359956" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359958" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359959" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359961" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359962" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359964" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359965" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359967" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2609020158">
+        <m id="r70359956" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359958" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359959" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359961" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359962" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359964" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359965" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+        <m id="r70359967" t="d" c="37" ts="2609020158" ts-tts="26-09-02 01:59:06.290"/>
+    </dp>
+</s>
+
+
+<s id="-6481439876214998765-2609020824-3" eva="8000240">
+    <m id="r2684150" t="h" from="2609020900" to="2609021300" cat="Störung" ts="2609020951" ts-tts="26-09-02 12:16:02.360" pr="1"/>
+    <m id="r2024799461" t="c" ts="2609020927" ts-tts="26-09-02 09:27:28.209"/>
+    <m id="r2024799460" t="c" ts="2609020927" ts-tts="26-09-02 09:27:28.209"/>
+    <m id="r2024799267alt" t="c" ts="2609020909" ts-tts="26-09-02 09:09:06.253"/>
+    <m id="r2024799267" t="c" ts="2609020909" ts-tts="26-09-02 09:09:06.110"/>
+    <m id="r2024799459" t="c" ts="2609020927" ts-tts="26-09-02 09:27:28.209"/>
+    <ar cp="3b" ct="2609020929">
+        <m id="r70382312" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+    </ar>
+    <dp cp="3b" ct="2609020931"/>
+</s>
+
+
+<s id="-2299311546660053732-2609021208-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp ct="2609021213" l="S8">
+        <m id="r70403238" t="d" c="43" ts="2609021214" ts-tts="26-09-02 12:14:21.374"/>
+    </dp>
+</s>
+
+
+<s id="7162535713404875604-2609021053-10" eva="8000240">
+    <ar cp="6a/b" ct="2609021208" l="RE13">
+        <m id="r70396780" t="d" c="48" ts="2609021118" ts-tts="26-09-02 11:18:10.363"/>
+    </ar>
+</s>
+
+
+<s id="1718774797940322569-2609021202-1" eva="8000240">
+    <dp cp="3a" ct="2609021206" l="RB26"/>
+</s>
+
+
+<s id="2650317574306272047-2609021013-1" eva="8000240">
+    <dp cpth="Worms Hbf|Frankenthal Hbf|Ludwigshafen(Rh)Hbf|Schifferstadt|Speyer Hbf|Germersheim" ct="2609021017" l="RE4">
+        <m id="r70399668" t="f" c="0" ts="2609021137" ts-tts="26-09-02 11:38:06.636"/>
+        <m id="r70400583" t="f" c="0" ts="2609021146" ts-tts="26-09-02 11:46:38.972"/>
+        <m id="r70402371" t="f" c="0" ts="2609021205" ts-tts="26-09-02 12:05:18.096"/>
+    </dp>
+</s>
+
+
+<s id="-8673871834997125602-2609021156-1" eva="8000240">
+    <dp ct="2609021201" l="RE3">
+        <m id="r70402123" t="d" c="43" ts="2609021203" ts-tts="26-09-02 12:03:13.501"/>
+    </dp>
+</s>
+
+
+<s id="-3912565184509663526-2609021006-10" eva="8000240">
+    <ar cpth="Graben-Neudorf|Philippsburg(Baden)|Germersheim|Speyer Hbf|Schifferstadt|Ludwigshafen(Rh)Hbf|Frankenthal Hbf|Worms Hbf" ct="2609021159" l="RE4">
+        <m id="r70356551" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:32.279"/>
+        <m id="r70356553" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:32.279"/>
+        <m id="r70384039" t="d" c="48" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384040" t="q" c="88" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384051" t="d" c="48" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384052" t="q" c="88" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+    </ar>
+    <dp cpth="Hochheim(Main)|Frankfurt-Höchst|Frankfurt(Main)Hbf" ct="2609021202" l="RE4">
+        <m id="r70356551" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:32.279"/>
+        <m id="r70356553" t="f" c="71" ts="2609020005" ts-tts="26-09-02 00:05:32.279"/>
+        <m id="r70384039" t="d" c="48" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384040" t="q" c="88" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384051" t="d" c="48" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+        <m id="r70384052" t="q" c="88" ts="2609020925" ts-tts="26-09-02 09:26:10.747"/>
+    </dp>
+</s>
+
+
+<s id="556858085637929752-2609020750-44" eva="8000240">
+    <m id="r2684029" t="h" from="2609020609" to="2609020809" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609020610" ts-tts="26-09-02 06:10:42.817" pr="1"/>
+    <m id="r2684022" t="h" from="2609020546" to="2609020700" cat="Störung. (Quelle: zuginfo.nrw)" ts="2609020549" ts-tts="26-09-02 06:16:02.381" pr="1"/>
+    <ar ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf|Rhens|Spay|Boppard Hbf|Boppard-Bad Salzig|Boppard-Hirzenach|St Goar|Oberwesel|Bacharach|Niederheimbach|Trechtingshausen|Bingen(Rhein) Hbf|Bingen(Rhein) Stadt|Bingen-Gaulsheim|Gau Algesheim|Ingelheim|Heidesheim(Rheinhess)|Uhlerborn|Budenheim" cp="3a/b" pp="11" ct="2609021200" pt="2609021057" l="RB26" fb="RB26">
+        <m id="r70384327" t="d" c="35" ts="2609020928" ts-tts="26-09-02 09:28:30.282"/>
+    </ar>
+    <tl t="p" o="TR" c="TR" n="33625"/>
+</s>
+
+
+<s id="3665201116495013418-2609021109-3" eva="8000240">
+    <ar ct="2609021144" l="RE2">
+        <m id="r70397512" t="d" c="43" ts="2609021124" ts-tts="26-09-02 11:24:22.924"/>
+    </ar>
+    <dp ct="2609021156" l="RE2">
+        <m id="r70397512" t="d" c="43" ts="2609021124" ts-tts="26-09-02 11:24:22.924"/>
+    </dp>
+</s>
+
+
+<s id="6420984137128199026-2609021152-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609021155" l="S6"/>
+</s>
+
+
+<s id="-9016707716443890511-2609021138-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <ar ct="2609021149" l="S8"/>
+</s>
+
+
+<s id="6483270424560829623-2609021133-1" eva="8000240">
+    <dp cp="8" ct="2609021140" l="RB31">
+        <m id="r70400511" t="d" c="43" ts="2609021145" ts-tts="26-09-02 11:45:37.069"/>
+    </dp>
+</s>
+
+
+<s id="5043028397913178501-2609021127-1" eva="8000240">
+    <dp ct="2609021129" l="RB33">
+        <m id="r70395615" t="f" c="0" ts="2609021108" ts-tts="26-09-02 11:08:51.893"/>
+        <m id="r70400512" t="d" c="43" ts="2609021145" ts-tts="26-09-02 11:45:37.069"/>
+    </dp>
+</s>
+
+
+<s id="-1281222336211446798-2609021138-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+    <dp cp="6a/b" ct="2609021143" l="S8">
+        <m id="r70400331" t="d" c="43" ts="2609021143" ts-tts="26-09-02 11:44:04.121"/>
+    </dp>
+</s>
+
+
+<s id="7070759561535429881-2609021002-1" eva="8000240">
+    <dp ct="2609021008" l="RB26">
+        <m id="r70400207" t="d" c="48" ts="2609021142" ts-tts="26-09-02 11:43:01.992"/>
+        <m id="r70400210" t="d" c="48" ts="2609021142" ts-tts="26-09-02 11:43:01.992"/>
+        <m id="r70400213" t="d" c="48" ts="2609021142" ts-tts="26-09-02 11:43:01.992"/>
+    </dp>
+</s>
+
+
+<s id="-5310070015895810468-2609020932-31" eva="8000240">
+    <ar ct="2609021143" l="S5"/>
+</s>
+
+
+<s id="-3739181628054245188-2609021007-18" eva="8000240">
+    <ar cp="4a/b" ct="2609021140" l="RB33">
+        <m id="r70396561" t="d" c="43" ts="2609021116" ts-tts="26-09-02 11:16:37.172"/>
+    </ar>
+</s>
+
+
+<s id="3545875677361090529-2609021034-11" eva="8000240">
+    <ar cp="8" ct="2609021128" l="RB31">
+        <m id="r70396560" t="d" c="42" ts="2609021116" ts-tts="26-09-02 11:16:37.171"/>
+    </ar>
+</s>
+
+
+<s id="-7044428036101557693-2609021108-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <ar cp="6a/b" ct="2609021124" l="S8">
+        <m id="r70397000" t="d" c="43" ts="2609021119" ts-tts="26-09-02 11:19:43.470"/>
+    </ar>
+</s>
+
+
+<s id="-2099011300689937405-2609020851-14" eva="8000240">
+    <ar ct="2609021107" l="RE3">
+        <m id="r70396343" t="d" c="42" ts="2609021114" ts-tts="26-09-02 11:14:48.499"/>
+    </ar>
+    <dp ct="2609021119" l="RE3">
+        <m id="r70396343" t="d" c="42" ts="2609021114" ts-tts="26-09-02 11:14:48.499"/>
+    </dp>
+</s>
+
+
+<s id="-3912824498223311224-2609021103-1" eva="8000240">
+    <dp ct="2609021106" l="RE13">
+        <m id="r70396861" t="d" c="43" ts="2609021118" ts-tts="26-09-02 11:18:57.016"/>
+    </dp>
+</s>
+
+
+<s id="5980299014160024137-2609021038-4" eva="8000240">
+    <ar ct="2609021115" l="RE14"/>
+    <dp ct="2609021117" l="RE14"/>
+</s>
+
+
+<s id="7321974813251239364-2609021053-5" eva="8000240">
+    <ar cp="3a/b" ct="2609021119" l="RE2"/>
+</s>
+
+
+<s id="5421153890884941863-2609021009-3" eva="8000240">
+    <ar ct="2609021107" l="RE3">
+        <m id="r70396448" t="d" c="48" ts="2609021115" ts-tts="26-09-02 11:15:50.717"/>
+        <m id="r70396449" t="d" c="48" ts="2609021115" ts-tts="26-09-02 11:15:50.717"/>
+    </ar>
+    <dp ct="2609021111" l="RE3">
+        <m id="r70394946" t="f" c="0" ts="2609021105" ts-tts="26-09-02 11:05:14.163"/>
+        <m id="r70396448" t="d" c="48" ts="2609021115" ts-tts="26-09-02 11:15:50.717"/>
+        <m id="r70396449" t="d" c="48" ts="2609021115" ts-tts="26-09-02 11:15:50.717"/>
+    </dp>
+</s>
+
+
+<s id="9197180292450968832-2609021108-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+    <dp ct="2609021109" l="S8"/>
+</s>
+
+
+<s id="5484947506062273561-2609020958-6" eva="8000240">
+    <ar ct="2609021052" l="RE14"/>
+    <dp ct="2609021054" l="RE14">
+        <m id="r70394945" t="f" c="0" ts="2609021105" ts-tts="26-09-02 11:05:14.163"/>
+    </dp>
+</s>
+
+
+<s id="-2670044658970914321-2609021102-1" eva="8000240">
+    <dp ct="2609021103" l="RB26"/>
+</s>
+
+
+<s id="615872889297854101-2609021033-1" eva="8000240">
+    <dp cp="8" ct="2609021035" l="RB31">
+        <m id="r70392043" t="d" c="43" ts="2609021039" ts-tts="26-09-02 10:39:52.809"/>
+        <m id="r70392046" t="d" c="43" ts="2609021039" ts-tts="26-09-02 10:39:52.809"/>
+    </dp>
+</s>
+
+
+<s id="-6757571966824521835-2609021027-1" eva="8000240">
+    <dp ct="2609021035" l="RB33">
+        <m id="r70392045" t="d" c="43" ts="2609021039" ts-tts="26-09-02 10:39:52.809"/>
+    </dp>
+</s>
+
+
+<s id="-5993156648427646408-2609021037-1" eva="8000240">
+    <dp ct="2609021038" l="RE2"/>
+</s>
+
+
+<s id="-3506777953479696765-2609020904-7" eva="8000240">
+    <ar ct="2609021019" l="RE2">
+        <m id="r70385495" t="d" c="43" ts="2609020938" ts-tts="26-09-02 09:38:51.569"/>
+    </ar>
+    <dp ct="2609021027" l="RE2">
+        <m id="r70385495" t="d" c="43" ts="2609020938" ts-tts="26-09-02 09:38:51.569"/>
+    </dp>
+</s>
+
+
+<s id="2166079075395895461-2609020953-10" eva="8000240">
+    <ar ct="2609021059" l="RE13"/>
+</s>
+
+
+<s id="-2492354999016807963-2609020956-1" eva="8000240">
+    <dp ct="2609021014" l="RE3">
+        <m id="r70388043" t="d" c="99" ts="2609021001" ts-tts="26-09-02 10:01:35.917"/>
+        <m id="r70388044" t="d" c="99" ts="2609021001" ts-tts="26-09-02 10:01:35.917"/>
+    </dp>
+</s>
+
+
+<s id="2846214950676975755-2609020909-3" eva="8000240">
+    <ar ct="2609020949" l="RE2">
+        <m id="r70356685" t="f" c="71" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356687" t="f" c="71" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356693" t="q" c="85" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356694" t="q" c="88" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+    </ar>
+    <dp ct="2609020953" l="RE2">
+        <m id="r70356685" t="f" c="71" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356687" t="f" c="71" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356693" t="q" c="85" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70356694" t="q" c="88" ts="2609020013" ts-tts="26-09-02 00:13:14.737"/>
+        <m id="r70382318" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+    </dp>
+</s>
+
+
+<s id="-4237214455784391334-2609020952-1" eva="8000240">
+    <m id="r2684046" t="h" from="2609020530" to="2609021000" cat="Störung" ts="2609020634" ts-tts="26-09-02 08:16:01.551" pr="1"/>
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609020953" l="S6"/>
+</s>
+
+
+<s id="2332531973064409174-2609020927-1" eva="8000240">
+    <dp ct="2609020936" l="RB33">
+        <m id="r70382313" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+        <m id="r70382314" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+        <m id="r70382316" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+        <m id="r70382317" t="f" c="0" ts="2609020909" ts-tts="26-09-02 09:09:06.243"/>
+        <m id="r70386446" t="d" c="43" ts="2609020945" ts-tts="26-09-02 09:45:50.612"/>
+    </dp>
+</s>
+
+
+<s id="4178793572863103484-2609020526-2" eva="8000240">
+    <m id="r2684069" t="h" from="2609020526" to="2609030727" cat="Information" ts="2609020720" ts-tts="26-09-02 07:20:12.163" pr="2"/>
+    <ar cpth="Wiesbaden Hbf" ct="2609020537">
+        <m id="r70372247" t="q" c="95" ts="2609020721" ts-tts="26-09-02 07:21:29.782"/>
+        <m id="r70372249" t="q" c="95" ts="2609020721" ts-tts="26-09-02 07:21:29.782"/>
+    </ar>
+    <dp cpth="Worms Hbf|Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Gessertshausen|Augsburg Hbf|München-Pasing|München Hbf" ct="2609020540">
+        <m id="r70372247" t="q" c="95" ts="2609020721" ts-tts="26-09-02 07:21:29.782"/>
+        <m id="r70372249" t="q" c="95" ts="2609020721" ts-tts="26-09-02 07:21:29.782"/>
+    </dp>
+</s>
+
+
+<s id="-4349125883081449731-2609020902-1" eva="8000240">
+    <dp ct="2609020903" l="RB26"/>
+</s>
+
+
+<s id="7542506691935008353-2609020853-1" eva="8000240">
+    <dp cp="8" ct="2609020856" l="RE3">
+        <m id="r70380908" t="f" c="0" ts="2609020852" ts-tts="26-09-02 08:52:18.624"/>
+        <m id="r70381547" t="d" c="43" ts="2609020858" ts-tts="26-09-02 08:59:01.432"/>
+    </dp>
+</s>
+
+
+<s id="-7656922624899184039-2609020851-1" eva="8000240">
+    <m id="r2684046" t="h" from="2609020530" to="2609021000" cat="Störung" ts="2609020634" ts-tts="26-09-02 08:16:01.551" pr="1"/>
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+    <dp ct="2609020852" l="S6"/>
+</s>
+
+
+<s id="-4093818067797809403-2609020802-1" eva="8000240">
+    <dp ct="2609020805" l="RB26">
+        <m id="r70377570" t="d" c="43" ts="2609020818" ts-tts="26-09-02 08:18:54.866"/>
+        <m id="r70377571" t="d" c="43" ts="2609020818" ts-tts="26-09-02 08:18:54.866"/>
+    </dp>
+</s>
+
+
+<s id="-8210742491863153741-2609022308-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="-382188550925052545-2609022308-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="-4761713970192543614-2609022338-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="2266898522098409824-2609022308-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="-5725100065542419868-2609022338-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+</s>
+
+
+<s id="8930530406232454277-2609022256-17" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="-3257500054428407377-2609022208-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="4708120241455596954-2609022238-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="2022687925680362991-2609022208-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="6157184204895257710-2609022238-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="8240363430158966520-2609022138-4" eva="8000240">
+    <ar ct="2609022211" l="RE4">
+        <m id="r70356860" t="f" c="71" ts="2609020018" ts-tts="26-09-02 00:18:09.592"/>
+        <m id="r70356862" t="f" c="71" ts="2609020018" ts-tts="26-09-02 00:18:09.592"/>
+    </ar>
+</s>
+
+
+<s id="5475545787198091829-2609022109-4" eva="8000240">
+    <ar ct="2609022146" l="RE2">
+        <m id="r70356795" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:16:04.587"/>
+        <m id="r70356797" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:16:04.587"/>
+    </ar>
+    <dp ct="2609022151" l="RE2">
+        <m id="r70356795" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:16:04.587"/>
+        <m id="r70356797" t="f" c="71" ts="2609020015" ts-tts="26-09-02 00:16:04.587"/>
+    </dp>
+</s>
+
+
+<s id="-6133813868819106709-2609022138-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="1554917175117197130-2609022138-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="439744023798656330-2609022108-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="4150477028228221309-2609022108-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="7078455821982027725-2609022038-4" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="-2124188522477429457-2609022052-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="-673960965114311752-2609022008-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="-8825511929501920329-2609022038-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="-6910881384367420670-2609022008-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="-6745391545043882673-2609022038-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="-1473988678411286148-2609022053-4" eva="8000240">
+    <ar cp="5a"/>
+    <dp cp="5a"/>
+</s>
+
+
+<s id="-8447191312522651241-2609021951-5" eva="8000240">
+    <ar ct="2609022043" l="RE14">
+        <m id="r70356852" t="f" c="71" ts="2609020017" ts-tts="26-09-02 00:17:54.230"/>
+    </ar>
+    <dp ct="2609022049" l="RE14">
+        <m id="r70356852" t="f" c="71" ts="2609020017" ts-tts="26-09-02 00:17:54.230"/>
+    </dp>
+</s>
+
+
+<s id="-2931066193501650683-2609021952-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="2162282176627802392-2609021938-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="6013868233462973012-2609021908-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.382" pr="2"/>
+</s>
+
+
+<s id="-3486710434353623065-2609021908-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+</s>
+
+
+<s id="6746953765926679230-2609021938-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.269" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.381" pr="2"/>
+</s>
+
+
+<s id="1109341111428867704-2609021851-1" eva="8000240">
+    <m id="r2681854" t="h" from="2608281130" to="2612120630" cat="Störung" ts="2608281408" ts-tts="26-09-01 23:16:03.778" pr="2"/>
+</s>
+
+
+<s id="-1101136529902671336-2609021838-4" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="5615825443960741470-2609021838-1" eva="8000240">
+    <m id="r2642359" t="h" from="2608280000" to="2609052359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.270" pr="2"/>
+    <m id="r2653809" t="h" from="2608280000" to="2609032359" cat="Bauarbeiten" ts="2608272304" ts-tts="26-09-01 23:16:03.383" pr="2"/>
+</s>
+
+
+<s id="-2184183339020510937-2609021853-4" eva="8000240">
+    <ar cp="5a"/>
+    <dp cp="5a"/>
+</s>
+
+</timetable>
