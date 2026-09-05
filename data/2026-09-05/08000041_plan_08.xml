@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<timetable station="Bochum Hbf">
+	<s id="-6885406375957880985-2609050807-4">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30763"/>
+		<ar pt="2609050820" pp="6" l="RB40" fb="RB40" ppth="Essen Hbf|Essen-Kray Süd|Wattenscheid"/>
+		<dp pt="2609050821" pp="6" l="RB40" fb="RB40" ppth="Witten Hbf|Wetter(Ruhr)|Hagen-Vorhalle|Hagen Hbf"/>
+	</s>
+	<s id="-8326801126745271676-2609050730-8">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89872"/>
+		<ar pt="2609050815" pp="4" l="RE3" fb="RE3" ppth="Hamm(Westf)Hbf|Bönen-Nordbögge|Kamen|Kamen-Methler|Dortmund-Kurl|Dortmund-Scharnhorst|Dortmund Hbf"/>
+		<dp pt="2609050816" pp="4" l="RE3" fb="RE3" ppth="Wattenscheid|Essen Hbf"/>
+	</s>
+	<s id="8954672720291700270-2609050816-5">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30764"/>
+		<ar pt="2609050842" pp="4" l="RB40" fb="RB40" ppth="Hagen Hbf|Hagen-Vorhalle|Wetter(Ruhr)|Witten Hbf"/>
+		<dp pt="2609050843" pp="4" l="RB40" fb="RB40" ppth="Wattenscheid|Essen-Kray Süd|Essen Hbf"/>
+	</s>
+	<s id="-1978783703054698507-2609050712-7">
+		<tl t="p" o="NXRE" c="NX" n="26706"/>
+		<ar pt="2609050831" pp="3" l="RE11" fb="RE11" ppth="Paderborn Hbf|Lippstadt|Soest|Hamm(Westf)Hbf|Kamen|Dortmund Hbf"/>
+		<dp pt="2609050833" pp="3" l="RE11" fb="RE11" ppth="Wattenscheid|Essen Hbf"/>
+	</s>
+	<s id="1959329235074623762-2609050849-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31434"/>
+		<dp pt="2609050849" pp="1" l="RB46" fb="RB46" ppth="Bochum West|Bochum-Hamme|Bochum-Riemke|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="4543905400624932468-2609050823-9">
+		<tl f="S" t="p" o="800337" c="S" n="56328"/>
+		<ar pt="2609050846" pp="7" l="S1" fb="S1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West"/>
+		<dp pt="2609050847" pp="7" l="S1" fb="S1" ppth="Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West"/>
+	</s>
+	<s id="3241673854107330470-2609050813-3">
+		<tl t="p" o="NXRE" c="NX" n="26709"/>
+		<ar pt="2609050823" pp="5" l="RE11" fb="RE11" ppth="Essen Hbf|Wattenscheid"/>
+		<dp pt="2609050824" pp="5" l="RE11" fb="RE11" ppth="Dortmund Hbf|Kamen|Hamm(Westf)Hbf|Soest|Lippstadt|Paderborn Hbf|Altenbeken|Willebadessen|Warburg(Westf)|Hofgeismar|Kassel-Wilhelmshöhe"/>
+	</s>
+	<s id="-6076041068989584351-2609050834-3">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31306"/>
+		<ar pt="2609050846" pp="6" l="RE16" fb="RE16" ppth="Essen Hbf|Wattenscheid"/>
+		<dp pt="2609050847" pp="6" l="RE16" fb="RE16" ppth="Witten Hbf|Wetter(Ruhr)|Hagen Hbf|Hohenlimburg|Iserlohn-Letmathe|Letmathe Dechenhöhle|Iserlohn"/>
+	</s>
+	<s id="3955572866191744833-2609050816-5">
+		<tl f="N" t="p" o="8003L1" c="RE" n="16218"/>
+		<ar pt="2609050847" pp="2" l="RE41" fb="RE41" ppth="Haltern am See|Marl-Sinsen|Recklinghausen Hbf|Recklinghausen Süd"/>
+	</s>
+	<s id="2008186815074062851-2609050752-8">
+		<tl f="S" t="p" o="800337" c="S" n="56325"/>
+		<ar pt="2609050813" pp="8" l="S1" fb="S1" ppth="Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Eiberg|Wattenscheid-Höntrop|Bochum-Ehrenfeld"/>
+		<dp pt="2609050814" pp="8" l="S1" fb="S1" ppth="Bochum-Langendreer West|Bochum-Langendreer|Dortmund-Kley|Dortmund-Oespel|Dortmund Universität|Dortmund-Dorstfeld Süd|Dortmund-Dorstfeld|Dortmund Hbf"/>
+	</s>
+	<s id="532268465977205982-2609050822-8">
+		<tl f="S" t="p" o="800337" c="S" n="56327"/>
+		<ar pt="2609050843" pp="8" l="S1" fb="S1" ppth="Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Eiberg|Wattenscheid-Höntrop|Bochum-Ehrenfeld"/>
+		<dp pt="2609050844" pp="8" l="S1" fb="S1" ppth="Bochum-Langendreer West|Bochum-Langendreer|Dortmund-Kley|Dortmund-Oespel|Dortmund Universität|Dortmund-Dorstfeld Süd|Dortmund-Dorstfeld|Dortmund Hbf"/>
+	</s>
+	<s id="2743191672435061964-2609050746-6">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31431"/>
+		<ar pt="2609050809" pp="1" l="RB46" fb="RB46" ppth="Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Bochum-Riemke|Bochum-Hamme|Bochum West"/>
+	</s>
+	<s id="-3965946311701600582-2609050753-9">
+		<tl f="S" t="p" o="800337" c="S" n="56326"/>
+		<ar pt="2609050816" pp="7" l="S1" fb="S1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West"/>
+		<dp pt="2609050817" pp="7" l="S1" fb="S1" ppth="Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West"/>
+	</s>
+	<s id="-2153674285477033600-2609050844-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1545"/>
+		<ar pt="2609050857" pp="5" fb="ICE 1545" ppth="Essen Hbf"/>
+		<dp pt="2609050858" pp="5" fb="ICE 1545" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Hannover Hbf|Berlin-Spandau|Berlin-Charlottenburg"/>
+	</s>
+	<s id="6028670720785871645-2609050812-1">
+		<tl f="N" t="p" o="8003L1" c="RE" n="16219"/>
+		<dp pt="2609050812" pp="2" l="RE41" fb="RE41" ppth="Recklinghausen Süd|Recklinghausen Hbf|Marl-Sinsen|Haltern am See"/>
+	</s>
+	<s id="-750270704607475543-2609050840-3">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89871"/>
+		<ar pt="2609050850" pp="5" l="RE3" fb="RE3" ppth="Essen Hbf|Wattenscheid"/>
+		<dp pt="2609050851" pp="5" l="RE3" fb="RE3" ppth="Dortmund Hbf|Dortmund-Scharnhorst|Dortmund-Kurl|Kamen-Methler|Kamen|Bönen-Nordbögge|Hamm(Westf)Hbf"/>
+	</s>
+</timetable>

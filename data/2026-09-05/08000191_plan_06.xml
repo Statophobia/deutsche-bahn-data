@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<timetable station="Karlsruhe Hbf">
+	<s id="-9055684118861392770-2609050542-16">
+		<tl f="S" t="p" o="801518" c="S" n="38609"/>
+		<ar pt="2609050636" pp="1" l="S6" fb="S6" ppth="Mannheim Hbf|Mannheim-Neckarau|Mannheim-Rheinau|Schwetzingen-Hirschacker|Schwetzingen Nordstadt|Schwetzingen|Oftersheim|Hockenheim|Neulußheim|Waghäusel|Wiesental|Graben-Neudorf|Friedrichstal(Baden)|Blankenloch|Karlsruhe-Hagsfeld"/>
+	</s>
+	<s id="-3821258657591965600-2609050606-6">
+		<tl f="N" t="p" o="8005L1" c="RB" n="55955"/>
+		<ar pt="2609050626" pp="101" l="RB51" fb="RB51" ppth="Wörth(Rhein)|Maximiliansau West|Karlsruhe-Knielingen|Karlsruhe-Mühlburg|Karlsruhe West"/>
+	</s>
+	<s id="1900719707115120493-2609050633-1">
+		<tl f="N" t="p" o="800571" c="RB" n="15884"/>
+		<dp pt="2609050633" pp="6" l="RB44" fb="RB44" ppth="Ettlingen West|Bruchhausen(b Ettlingen)|Malsch|Malsch Süd|Muggensturm Badesee|Muggensturm|Rastatt|Baden-Baden Haueneberstein|Baden-Baden|Sinzheim Nord|Sinzheim|Baden-Baden Rebland|Bühl(Baden)"/>
+	</s>
+	<s id="-5676428147416065355-2609050548-12">
+		<tl f="N" t="p" o="800647" c="RE" n="4702"/>
+		<ar pt="2609050642" pp="8" l="RE2" fb="RE2" ppth="Offenburg|Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Muggensturm|Malsch|Bruchhausen(b Ettlingen)|Ettlingen West"/>
+	</s>
+	<s id="3344888193211045561-2609050607-1">
+		<tl f="N" t="p" o="800647" c="RE" n="4709"/>
+		<dp pt="2609050607" pp="7" l="RE2" fb="RE2" ppth="Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier|Offenburg|Gengenbach|Biberach(Baden)|Haslach|Hausach|Hornberg(Schwarzw)|Triberg|St Georgen(Schwarzw)|Villingen(Schwarzw)|Donaueschingen|Immendingen|Engen|Singen(Hohentwiel)|Radolfzell|Allensbach|Konstanz-Petershausen|Konstanz"/>
+	</s>
+	<s id="-521217330813819261-2609042156-12">
+		<tl t="p" o="81" c="NJ" n="471"/>
+		<ar pt="2609050602" pp="5" fb="NJ 471" wings="5489382238418385337-2609042156" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf"/>
+		<dp pt="2609050604" pp="5" fb="NJ 471" wings="5489382238418385337-2609042156" ppth="Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5489382238418385337-2609042156-12">
+		<tl f="F" t="p" o="NZ" c="IC" n="60471"/>
+		<ar pt="2609050602" pp="5" fb="IC 60471" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Hannover Hbf|Göttingen|Hanau Hbf|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf"/>
+		<dp pt="2609050604" pp="5" fb="IC 60471" ppth="Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5297629333744557492-2609050613-1">
+		<tl f="S" t="p" o="801518" c="S" n="38942"/>
+		<dp pt="2609050613" pp="1" l="S9" fb="S9" ppth="Karlsruhe-Hagsfeld|Blankenloch|Friedrichstal(Baden)|Graben-Neudorf|Wiesental|Waghäusel|Neulußheim|Hockenheim|Oftersheim|Schwetzingen|Schwetzingen Nordstadt|Schwetzingen-Hirschacker|Mannheim-Rheinau|Mannheim-Neckarau|Mannheim Hbf|Mannheim Handelshafen/Jungbusch|Mannheim-Neckarstadt|Mannheim-Luzenberg|Mannheim-Waldhof|Lampertheim|Bürstadt|Bobstadt|Biblis|Groß-Rohrheim"/>
+	</s>
+	<s id="8189707621727874292-2609050446-6">
+		<tl f="F" t="p" o="80" c="ICE" n="76"/>
+		<ar pt="2609050633" pp="4" fb="ICE 76" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden"/>
+		<dp pt="2609050637" pp="4" fb="ICE 76" ppth="Mannheim Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf"/>
+	</s>
+	<s id="-7076743867914661973-2609050633-1">
+		<tl f="N" t="p" o="8005L1" c="RB" n="12436"/>
+		<dp pt="2609050633" pp="101" l="RB51" fb="RB51" ppth="Karlsruhe West|Karlsruhe-Mühlburg|Karlsruhe-Knielingen|Maximiliansau West|Wörth(Rhein)|Kandel"/>
+	</s>
+	<s id="-3316077366275075692-2609050516-5">
+		<tl f="F" t="p" o="80" c="ICE" n="204"/>
+		<ar pt="2609050657" pp="3" fb="ICE 204" ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden"/>
+		<dp pt="2609050659" pp="3" fb="ICE 204" ppth="Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Gelsenkirchen Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="6269074963653201969-2609050659-1">
+		<tl f="N" t="p" o="800520" c="RB" n="81449"/>
+		<dp pt="2609050659" pp="102" l="RB52" fb="RB52" ppth="Karlsruhe-Mühlburg|Wörth(Rhein)|Maximiliansau-Im Rüsten|Hagenbach|Neuburg(Rhein)|Berg(Pfalz)|Lauterbourg"/>
+	</s>
+</timetable>
