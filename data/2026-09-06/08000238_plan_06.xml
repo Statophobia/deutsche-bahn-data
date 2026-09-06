@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="8209469800275406026-2609052219-9">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2609060647" pp="2" fb="ICE 1080" ppth="München Hbf|Augsburg Hbf|Nürnberg Hbf|Bamberg|Göttingen|Hannover Hbf|Celle|Uelzen"/>
+		<dp pt="2609060649" pp="2" fb="ICE 1080" ppth="Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="3476924354915365047-2609060644-1">
+		<tl f="D" t="p" o="X1" c="erx" n="21106"/>
+		<dp pt="2609060644" pp="5" l="RE83" fb="RE83" pde="Kiel Hbf" ppth="Adendorf|Echem|Lauenburg(Elbe)|Büchen|Mölln(Lauenb)|Ratzeburg|Lübeck Flughafen|Lübeck Hochschulstadtteil|Lübeck Hbf"/>
+	</s>
+	<s id="6878731496014552581-2609060557-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82109"/>
+		<ar pt="2609060634" pp="1" l="RE3" fb="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)"/>
+		<dp pt="2609060635" pp="1" l="RE3" fb="RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="6786330195269430117-2609060533-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81609"/>
+		<ar pt="2609060624" pp="6" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-4168693373835425356-2609060510-10">
+		<tl f="D" t="p" o="X1" c="erx" n="21103"/>
+		<ar pt="2609060617" pp="5" l="RE83" fb="RE83" ppth="Lübeck Hbf|Lübeck Hochschulstadtteil|Lübeck Flughafen|Ratzeburg|Mölln(Lauenb)|Büchen|Lauenburg(Elbe)|Echem|Adendorf"/>
+	</s>
+	<s id="-6026100001913276581-2609060605-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82108"/>
+		<ar pt="2609060628" pp="3" l="RE3" fb="RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2609060631" pp="3" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-8254610297767882258-2609060634-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81608"/>
+		<dp pt="2609060634" pp="6" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7911763598988154921-2609060553-4">
+		<tl f="F" t="p" o="80" c="ICE" n="783"/>
+		<ar pt="2609060628" pp="1" fb="ICE 783" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg"/>
+		<dp pt="2609060630" pp="1" fb="ICE 783" ppth="Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+</timetable>

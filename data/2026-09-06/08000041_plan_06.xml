@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<timetable station="Bochum Hbf">
+	<s id="-3637289291376402230-2609060603-2">
+		<tl f="D" t="p" o="R2RE" c="ERB" n="89868"/>
+		<ar pt="2609060615" pp="3" l="RE3" fb="RE3" ppth="Dortmund Hbf"/>
+		<dp pt="2609060616" pp="3" l="RE3" fb="RE3" ppth="Wattenscheid|Essen Hbf"/>
+	</s>
+	<s id="-2926993949686146623-2609060649-1">
+		<tl f="D" t="p" o="R4NRN" c="VIA" n="31426"/>
+		<dp pt="2609060649" pp="1" l="RB46" fb="RB46" ppth="Bochum West|Bochum-Hamme|Bochum-Riemke|Herne-Wanne-Eickel Hbf|Gelsenkirchen Hbf"/>
+	</s>
+	<s id="-6726518469363059949-2609060616-5">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30758"/>
+		<ar pt="2609060642" pp="4" l="RB40" fb="RB40" ppth="Hagen Hbf|Hagen-Vorhalle|Wetter(Ruhr)|Witten Hbf"/>
+		<dp pt="2609060643" pp="4" l="RB40" fb="RB40" ppth="Wattenscheid|Essen-Kray Süd|Essen Hbf"/>
+	</s>
+	<s id="-5337518693619554113-2609060621-2">
+		<tl t="p" o="NXRE" c="NX" n="26702"/>
+		<ar pt="2609060631" pp="3" l="RE11" fb="RE11" ppth="Dortmund Hbf"/>
+		<dp pt="2609060633" pp="3" l="RE11" fb="RE11" ppth="Wattenscheid|Essen Hbf"/>
+	</s>
+	<s id="-5962154382149198734-2609060526-6">
+		<tl f="F" t="p" o="80" c="ICE" n="843"/>
+		<ar pt="2609060631" pp="5" fb="ICE 843" ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf"/>
+		<dp pt="2609060632" pp="5" fb="ICE 843" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="2859257474314177429-2609060623-9">
+		<tl f="S" t="p" o="800337" c="S" n="56320"/>
+		<ar pt="2609060646" pp="7" l="S1" fb="S1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West"/>
+		<dp pt="2609060647" pp="7" l="S1" fb="S1" ppth="Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West"/>
+	</s>
+	<s id="3873074707338483620-2609060644-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1543"/>
+		<ar pt="2609060654" pp="6" fb="ICE 1543" ppth="Essen Hbf"/>
+		<dp pt="2609060655" pp="6" fb="ICE 1543" ppth="Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Herford|Hannover Hbf|Berlin-Spandau|Berlin-Charlottenburg"/>
+	</s>
+	<s id="9096336950417725302-2609060607-4">
+		<tl f="N" t="p" o="8003L1" c="RB" n="30759"/>
+		<ar pt="2609060620" pp="6" l="RB40" fb="RB40" ppth="Essen Hbf|Essen-Kray Süd|Wattenscheid"/>
+		<dp pt="2609060621" pp="6" l="RB40" fb="RB40" ppth="Witten Hbf|Wetter(Ruhr)|Hagen-Vorhalle|Hagen Hbf"/>
+	</s>
+	<s id="1197525167066499512-2609060553-9">
+		<tl f="S" t="p" o="800337" c="S" n="56318"/>
+		<ar pt="2609060616" pp="7" l="S1" fb="S1" ppth="Dortmund Hbf|Dortmund-Dorstfeld|Dortmund-Dorstfeld Süd|Dortmund Universität|Dortmund-Oespel|Dortmund-Kley|Bochum-Langendreer|Bochum-Langendreer West"/>
+		<dp pt="2609060617" pp="7" l="S1" fb="S1" ppth="Bochum-Ehrenfeld|Wattenscheid-Höntrop|Essen-Eiberg|Essen-Steele Ost|Essen-Steele|Essen Hbf|Essen West"/>
+	</s>
+	<s id="-8366932637630416288-2609060622-8">
+		<tl f="S" t="p" o="800337" c="S" n="56319"/>
+		<ar pt="2609060643" pp="8" l="S1" fb="S1" ppth="Essen West|Essen Hbf|Essen-Steele|Essen-Steele Ost|Essen-Eiberg|Wattenscheid-Höntrop|Bochum-Ehrenfeld"/>
+		<dp pt="2609060644" pp="8" l="S1" fb="S1" ppth="Bochum-Langendreer West|Bochum-Langendreer|Dortmund-Kley|Dortmund-Oespel|Dortmund Universität|Dortmund-Dorstfeld Süd|Dortmund-Dorstfeld|Dortmund Hbf"/>
+	</s>
+</timetable>

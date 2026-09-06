@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<timetable station="Uelzen">
+	<s id="8209469800275406026-2609052219-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2609060629" pp="102" fb="ICE 1080" ppth="München Hbf|Augsburg Hbf|Nürnberg Hbf|Bamberg|Göttingen|Hannover Hbf|Celle"/>
+		<dp pt="2609060631" pp="102" fb="ICE 1080" ppth="Lüneburg|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7869042678796337118-2609060614-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82857"/>
+		<dp pt="2609060614" pp="301" l="RE3" fb="RE3" ppth="Suderburg|Unterlüß|Eschede|Celle|Großburgwedel|Isernhagen|Langenhagen Mitte|Hannover Hbf"/>
+	</s>
+	<s id="6878731496014552581-2609060557-7">
+		<tl f="D" t="p" o="R1" c="ME" n="82109"/>
+		<ar pt="2609060657" pp="301" l="RE3" fb="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)|Lüneburg|Bienenbüttel|Bad Bevensen"/>
+	</s>
+	<s id="5702822149690302160-2609060445-20">
+		<tl f="N" t="p" o="800489" c="RE" n="16922"/>
+		<ar pt="2609060641" pp="304" l="RE20" fb="RE20" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg-Eichenweiler|Magdeburg-Rothensee|Wolmirstedt|Zielitz Ort|Tangerhütte|Stendal Hbf|Steinfeld(Stendal)|Kläden(Stendal)|Hohenwulsch|Brunau-Packebusch|Fleetmark|Pretzier(Altm)|Salzwedel|Schnega|Soltendieck|Wieren|Stederdorf(Kr Uelzen)"/>
+	</s>
+	<s id="-6026100001913276581-2609060605-1">
+		<tl f="D" t="p" o="R1" c="ME" n="82108"/>
+		<dp pt="2609060605" pp="103" l="RE3" fb="RE3" ppth="Bad Bevensen|Bienenbüttel|Lüneburg|Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="4180424140630502365-2609060521-3">
+		<tl f="F" t="p" o="80" c="ICE" n="573"/>
+		<ar pt="2609060606" pp="101" fb="ICE 573" ppth="Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2609060608" pp="101" fb="ICE 573" ppth="Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+</timetable>
