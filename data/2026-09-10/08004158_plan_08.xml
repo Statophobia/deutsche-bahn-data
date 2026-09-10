@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<timetable station="München-Pasing">
+	<s id="5730940897199655585-2609100702-11">
+		<tl f="N" t="p" o="800790" c="RB" n="59424"/>
+		<ar pt="2609100819" pp="3" l="RB6" fb="RB6" ppth="Garmisch-Partenkirchen|Farchant|Oberau|Eschenlohe|Ohlstadt|Murnau|Uffing a Staffelsee|Huglfing|Weilheim(Oberbay)|Tutzing"/>
+		<dp pt="2609100819" pp="3" l="RB6" fb="RB6" ppth="München Hbf Gl.27-36"/>
+	</s>
+	<s id="-2543008509222161707-2609100845-2">
+		<tl f="F" t="p" o="80" c="ICE" n="690"/>
+		<ar pt="2609100853" pp="10" fb="ICE 690" hi="1" ppth="München Hbf"/>
+		<dp pt="2609100854" pp="10" fb="ICE 690" ppth="Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-6751634208807819479-2609100724-20">
+		<tl f="S" t="p" o="800725" c="S" n="6828"/>
+		<ar pt="2609100813" pp="5" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing|München Leuchtenbergring|München Ost|München Rosenheimer Platz|München Isartor|München Marienplatz|München Karlsplatz|München Hbf (tief)|München Hackerbrücke|München Donnersbergerbrücke|München Hirschgarten|München-Laim"/>
+		<dp pt="2609100815" pp="5" l="S8" fb="S8" ppth="München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="1625078195538126122-2609100759-2">
+		<tl t="p" o="GYRB" c="ARV" n="57020"/>
+		<ar pt="2609100805" pp="10" l="RB86" fb="RB86" wings="-5130438489673986793-2609100759" ppth="München Hbf"/>
+		<dp pt="2609100806" pp="10" l="RB86" fb="RB86" wings="-5130438489673986793-2609100759" ppth="Mammendorf|Haspelmoor|Althegnenberg|Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße|Augsburg Hbf|Augsburg-Oberhausen|Neusäß|Westheim(Schwab)|Diedorf(Schwab)|Gessertshausen|Kutzenhausen|Dinkelscherben"/>
+	</s>
+	<s id="5565730437087396519-2609100608-26">
+		<tl t="p" o="GYRE" c="ARV" n="57031"/>
+		<ar pt="2609100845" pp="10" l="RE89" fb="RE89" wings="-1973748938715824006-2609100647" ppth="Aalen Hbf|Bopfingen|Nördlingen|Möttingen|Hoppingen|Harburg(Schwab)|Ebermergen|Wörnitzstein|Donauwörth|Bäumenheim|Mertingen Bahnhof|Nordendorf|Westendorf|Meitingen|Herbertshofen|Langweid(Lech)|Gablingen|Gersthofen|Augsburg-Oberhausen|Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering"/>
+		<dp pt="2609100846" pp="10" l="RE89" fb="RE89" wings="-1973748938715824006-2609100647" ppth="München Hbf"/>
+	</s>
+	<s id="4465341466789956924-2609100804-7">
+		<tl f="S" t="p" o="800725" c="S" n="22135"/>
+		<ar pt="2609100826" pp="3" l="S4" fb="S4" ppth="Buchenau(Oberbay)|Fürstenfeldbruck|Eichenau(Oberbay)|Puchheim|München-Aubing|München Leienfelsstr."/>
+		<dp pt="2609100828" pp="3" l="S4" fb="S4" ppth="München Hbf"/>
+	</s>
+	<s id="-5130438489673986793-2609100759-2">
+		<tl t="p" o="GYRB" c="ARV" n="57120"/>
+		<ar pt="2609100805" pp="10" l="RB87" fb="RB87" ppth="München Hbf"/>
+		<dp pt="2609100806" pp="10" l="RB87" fb="RB87" ppth="Mammendorf|Haspelmoor|Althegnenberg|Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße|Augsburg Hbf|Augsburg-Oberhausen|Gersthofen|Gablingen|Langweid(Lech)|Herbertshofen|Meitingen|Westendorf|Nordendorf|Mertingen Bahnhof|Bäumenheim|Donauwörth"/>
+	</s>
+	<s id="-8987371480529387920-2609100804-20">
+		<tl f="S" t="p" o="800725" c="S" n="6832"/>
+		<ar pt="2609100853" pp="5" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing|München Leuchtenbergring|München Ost|München Rosenheimer Platz|München Isartor|München Marienplatz|München Karlsplatz|München Hbf (tief)|München Hackerbrücke|München Donnersbergerbrücke|München Hirschgarten|München-Laim"/>
+		<dp pt="2609100855" pp="5" l="S8" fb="S8" ppth="München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="-6024786359463681192-2609100728-11">
+		<tl f="S" t="p" o="800725" c="S" n="22133"/>
+		<ar pt="2609100806" pp="3" l="S4" fb="S4" ppth="Geltendorf|Türkenfeld|Grafrath|Schöngeising|Buchenau(Oberbay)|Fürstenfeldbruck|Eichenau(Oberbay)|Puchheim|München-Aubing|München Leienfelsstr."/>
+		<dp pt="2609100808" pp="3" l="S4" fb="S4" ppth="München Hbf"/>
+	</s>
+	<s id="-3744647284310700530-2609100828-2">
+		<tl f="N" t="p" o="800790" c="RB" n="29083"/>
+		<ar pt="2609100835" pp="4" l="RB6" fb="RB6" ppth="München Hbf Gl.27-36"/>
+		<dp pt="2609100835" pp="4" l="RB6" fb="RB6" ppth="Gauting|Tutzing|Weilheim(Oberbay)|Huglfing|Uffing a Staffelsee|Murnau|Ohlstadt|Eschenlohe|Oberau|Farchant|Garmisch-Partenkirchen"/>
+	</s>
+	<s id="-8657636774180651715-2609100447-29">
+		<tl t="p" o="GYRE" c="ARV" n="57125"/>
+		<ar pt="2609100811" pp="10" l="RE80" fb="RE80" ppth="Würzburg Hbf|Würzburg Süd|Würzburg-Heidingsfeld Ost|Winterhausen|Goßmannsdorf|Ochsenfurt|Marktbreit|Uffenheim|Steinach(bei Rothenburg ob der Tauber)|Burgbernheim-Wildbad|Oberdachstetten|Ansbach|Triesdorf|Muhr am See|Gunzenhausen|Treuchtlingen|Otting-Weilheim|Donauwörth|Mertingen Bahnhof|Nordendorf|Meitingen|Augsburg-Oberhausen|Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering"/>
+		<dp pt="2609100812" pp="10" l="RE80" fb="RE80" ppth="München Hbf"/>
+	</s>
+	<s id="-4983465223878438174-2609100844-2">
+		<tl f="S" t="p" o="800725" c="S" n="22132"/>
+		<ar pt="2609100851" pp="4" l="S4" fb="S4" ppth="München Hbf"/>
+		<dp pt="2609100853" pp="4" l="S4" fb="S4" ppth="München Leienfelsstr.|München-Aubing|Puchheim|Eichenau(Oberbay)|Fürstenfeldbruck|Buchenau(Oberbay)|Schöngeising|Grafrath|Türkenfeld|Geltendorf"/>
+	</s>
+	<s id="-1368500381411751851-2609100744-20">
+		<tl f="S" t="p" o="800725" c="S" n="6830"/>
+		<ar pt="2609100833" pp="5" l="S8" fb="S8" ppth="München Flughafen Terminal|München Flughafen Besucherpark|Hallbergmoos|Ismaning|Unterföhring|München-Johanneskirchen|München-Englschalking|München-Daglfing|München Leuchtenbergring|München Ost|München Rosenheimer Platz|München Isartor|München Marienplatz|München Karlsplatz|München Hbf (tief)|München Hackerbrücke|München Donnersbergerbrücke|München Hirschgarten|München-Laim"/>
+		<dp pt="2609100835" pp="5" l="S8" fb="S8" ppth="München-Westkreuz|München-Neuaubing|München-Freiham|Harthaus|Germering-Unterpfaffenhofen|Geisenbrunn|Gilching-Argelsried|Neugilching|Weßling(Oberbay)|Steinebach|Seefeld-Hechendorf|Herrsching"/>
+	</s>
+	<s id="-7642183577117025919-2609100725-13">
+		<tl f="S" t="p" o="800725" c="S" n="6833"/>
+		<ar pt="2609100801" pp="5" l="S8" fb="S8" ppth="Herrsching|Seefeld-Hechendorf|Steinebach|Weßling(Oberbay)|Neugilching|Gilching-Argelsried|Geisenbrunn|Germering-Unterpfaffenhofen|Harthaus|München-Freiham|München-Neuaubing|München-Westkreuz"/>
+		<dp pt="2609100803" pp="5" l="S8" fb="S8" ppth="München-Laim|München Hirschgarten|München Donnersbergerbrücke|München Hackerbrücke|München Hbf (tief)|München Karlsplatz|München Marienplatz|München Isartor|München Rosenheimer Platz|München Ost|München Leuchtenbergring|München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="592718015642030889-2609100611-24">
+		<tl t="p" o="GYRE" c="ARV" n="57025"/>
+		<ar pt="2609100811" pp="10" l="RE9" fb="RE9" wings="-8657636774180651715-2609100447" ppth="Ulm Hbf|Neu-Ulm|Nersingen|Leipheim|Günzburg|Offingen|Mindelaltheim|Burgau(Schwab)|Jettingen|Freihalden|Dinkelscherben|Kutzenhausen|Gessertshausen|Diedorf(Schwab)|Westheim(Schwab)|Neusäß|Augsburg-Oberhausen|Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering"/>
+		<dp pt="2609100812" pp="10" l="RE9" fb="RE9" wings="-8657636774180651715-2609100447" ppth="München Hbf"/>
+	</s>
+	<s id="-869487963763886493-2609100608-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1063"/>
+		<ar pt="2609100821" pp="10" fb="ICE 1063" ppth="Stuttgart Hbf|Esslingen(Neckar)|Ulm Hbf|Neu-Ulm|Günzburg|Augsburg Hbf"/>
+		<dp pt="2609100823" pp="10" fb="ICE 1063" hi="1" ppth="München Hbf"/>
+	</s>
+	<s id="7163584059813530833-2609100806-2">
+		<tl f="S" t="p" o="800725" c="S" n="22128"/>
+		<ar pt="2609100813" pp="4" l="S4" fb="S4" ppth="München Hbf"/>
+		<dp pt="2609100813" pp="4" l="S4" fb="S4" ppth="München Leienfelsstr.|München-Aubing|Puchheim|Eichenau(Oberbay)|Fürstenfeldbruck|Buchenau(Oberbay)|Schöngeising|Grafrath|Türkenfeld|Geltendorf"/>
+	</s>
+	<s id="-5941731272651119169-2609100805-13">
+		<tl f="S" t="p" o="800725" c="S" n="6837"/>
+		<ar pt="2609100841" pp="5" l="S8" fb="S8" ppth="Herrsching|Seefeld-Hechendorf|Steinebach|Weßling(Oberbay)|Neugilching|Gilching-Argelsried|Geisenbrunn|Germering-Unterpfaffenhofen|Harthaus|München-Freiham|München-Neuaubing|München-Westkreuz"/>
+		<dp pt="2609100843" pp="5" l="S8" fb="S8" ppth="München-Laim|München Hirschgarten|München Donnersbergerbrücke|München Hackerbrücke|München Hbf (tief)|München Karlsplatz|München Marienplatz|München Isartor|München Rosenheimer Platz|München Ost|München Leuchtenbergring|München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="-8754013340184452284-2609100759-2">
+		<tl f="N" t="p" o="800790" c="RB" n="59507"/>
+		<ar pt="2609100804" pp="4" l="RB66" fb="RB66" ppth="München Hbf Gl.27-36"/>
+		<dp pt="2609100805" pp="4" l="RB66" fb="RB66" ppth="Starnberg|Tutzing|Weilheim(Oberbay)"/>
+	</s>
+	<s id="-1973748938715824006-2609100647-24">
+		<tl t="p" o="GYRE" c="ARV" n="57131"/>
+		<ar pt="2609100845" pp="10" l="RE9" fb="RE9" ppth="Ulm Hbf|Neu-Ulm|Nersingen|Leipheim|Günzburg|Offingen|Mindelaltheim|Burgau(Schwab)|Jettingen|Freihalden|Dinkelscherben|Kutzenhausen|Gessertshausen|Diedorf(Schwab)|Westheim(Schwab)|Neusäß|Augsburg-Oberhausen|Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering"/>
+		<dp pt="2609100846" pp="10" l="RE9" fb="RE9" ppth="München Hbf"/>
+	</s>
+	<s id="-2885390514254092007-2609100823-2">
+		<tl f="S" t="p" o="800725" c="S" n="22130"/>
+		<ar pt="2609100830" pp="4" l="S4" fb="S4" ppth="München Hbf"/>
+		<dp pt="2609100833" pp="4" l="S4" fb="S4" ppth="München Leienfelsstr.|München-Aubing|Puchheim|Eichenau(Oberbay)|Fürstenfeldbruck|Buchenau(Oberbay)"/>
+	</s>
+	<s id="-8718137235634536207-2609100749-10">
+		<tl t="p" o="GYRB" c="ARV" n="57029"/>
+		<ar pt="2609100830" pp="10" l="RB87" fb="RB87" ppth="Augsburg Hbf|Augsburg Haunstetterstraße|Augsburg-Hochzoll|Kissing|Mering-St Afra|Mering|Althegnenberg|Haspelmoor|Mammendorf"/>
+		<dp pt="2609100831" pp="10" l="RB87" fb="RB87" ppth="München Hbf"/>
+	</s>
+	<s id="-2510137812171220546-2609100808-11">
+		<tl f="S" t="p" o="800725" c="S" n="22137"/>
+		<ar pt="2609100846" pp="3" l="S4" fb="S4" ppth="Geltendorf|Türkenfeld|Grafrath|Schöngeising|Buchenau(Oberbay)|Fürstenfeldbruck|Eichenau(Oberbay)|Puchheim|München-Aubing|München Leienfelsstr."/>
+		<dp pt="2609100848" pp="3" l="S4" fb="S4" ppth="München Hbf"/>
+	</s>
+	<s id="2567373452981114953-2609100745-13">
+		<tl f="S" t="p" o="800725" c="S" n="6835"/>
+		<ar pt="2609100821" pp="5" l="S8" fb="S8" ppth="Herrsching|Seefeld-Hechendorf|Steinebach|Weßling(Oberbay)|Neugilching|Gilching-Argelsried|Geisenbrunn|Germering-Unterpfaffenhofen|Harthaus|München-Freiham|München-Neuaubing|München-Westkreuz"/>
+		<dp pt="2609100823" pp="5" l="S8" fb="S8" ppth="München-Laim|München Hirschgarten|München Donnersbergerbrücke|München Hackerbrücke|München Hbf (tief)|München Karlsplatz|München Marienplatz|München Isartor|München Rosenheimer Platz|München Ost|München Leuchtenbergring|München-Daglfing|München-Englschalking|München-Johanneskirchen|Unterföhring|Ismaning|Hallbergmoos|München Flughafen Besucherpark|München Flughafen Terminal"/>
+	</s>
+	<s id="-3214080308399119626-2609100834-2">
+		<tl t="p" o="GYRE" c="ARV" n="57022"/>
+		<ar pt="2609100842" pp="10" l="RE9" fb="RE9" ppth="München Hbf"/>
+		<dp pt="2609100843" pp="10" l="RE9" fb="RE9" ppth="Mering|Mering-St Afra|Kissing|Augsburg-Hochzoll|Augsburg Haunstetterstraße|Augsburg Hbf|Augsburg-Oberhausen|Neusäß|Westheim(Schwab)|Diedorf(Schwab)|Gessertshausen|Kutzenhausen|Dinkelscherben|Freihalden|Jettingen|Burgau(Schwab)|Mindelaltheim|Offingen|Günzburg|Leipheim|Nersingen|Neu-Ulm|Ulm Hbf"/>
+	</s>
+	<s id="8391269654792375485-2609100732-5">
+		<tl f="N" t="p" o="800790" c="RE" n="4878"/>
+		<ar pt="2609100839" pp="3" l="RE61" fb="RE61" ppth="Garmisch-Partenkirchen|Eschenlohe|Murnau|Weilheim(Oberbay)"/>
+		<dp pt="2609100840" pp="3" l="RE61" fb="RE61" ppth="München Hbf Gl.27-36"/>
+	</s>
+	<s id="-2857505077719690053-2609100640-9">
+		<tl t="p" o="GARE" c="ARV" n="78906"/>
+		<ar pt="2609100810" pp="4" l="72" fb="72" ppth="Memmingen|Sontheim(Schwab)|Stetten(Schwab)|Mindelheim|Türkheim(Bay)Bf|Buchloe|Kaufering|Geltendorf"/>
+		<dp pt="2609100811" pp="4" l="72" fb="72" ppth="München Hbf"/>
+	</s>
+</timetable>
