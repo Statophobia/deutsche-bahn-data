@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="-6415332363171616450-2609190650-4">
+		<tl f="F" t="p" o="80" c="ICE" n="2553"/>
+		<ar pt="2609190829" pp="1" fb="ICE 2553" ppth="Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf"/>
+		<dp pt="2609190831" pp="1" fb="ICE 2553" ppth="Singen(Hohentwiel)"/>
+	</s>
+	<s id="-6170549415128335761-2609190810-8">
+		<tl f="N" t="p" o="800647" c="RE" n="4717"/>
+		<ar pt="2609190856" pp="4" l="RE2" fb="RE2" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+		<dp pt="2609190858" pp="4" l="RE2" fb="RE2" ppth="Gengenbach|Haslach|Hausach|Hornberg(Schwarzw)|Triberg|St Georgen(Schwarzw)|Villingen(Schwarzw)|Donaueschingen|Immendingen|Engen|Singen(Hohentwiel)|Radolfzell|Allensbach|Konstanz-Petershausen|Konstanz"/>
+	</s>
+	<s id="5442696905334707386-2609190841-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87511"/>
+		<dp pt="2609190841" pp="6" l="RS1" fb="RS1" ppth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach"/>
+	</s>
+	<s id="7242350564319117419-2609190750-10">
+		<tl f="D" t="p" o="S6" c="SWE" n="87508"/>
+		<ar pt="2609190835" pp="7" l="RS1" fb="RS1" tra="1764513248823343107-2609190857-1" ppth="Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum"/>
+	</s>
+	<s id="7880580308463223564-2609190734-8">
+		<tl f="N" t="p" o="8006C5" c="RE" n="34957"/>
+		<ar pt="2609190823" pp="4" l="RE7" fb="RE7" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+	</s>
+	<s id="3265078890121583221-2609190752-5">
+		<tl f="D" t="p" o="S6" c="SWE" n="87411"/>
+		<ar pt="2609190822" pp="2" l="RS4" fb="RS4" pde="Strasbourg" ppth="Kehl|Kork|Legelshurst|Appenweier"/>
+	</s>
+	<s id="-2096143780968631337-2609190843-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87414"/>
+		<dp pt="2609190843" pp="2" l="RS4" fb="RS4" ppth="Appenweier|Legelshurst|Kork|Kehl|Krimmeri-Meinau|Strasbourg"/>
+	</s>
+	<s id="-3790029201765037026-2609190824-1">
+		<tl f="F" t="p" o="80" c="ICE" n="202"/>
+		<dp pt="2609190824" pp="3" fb="ICE 202" ppth="Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Gelsenkirchen Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="1764513248823343107-2609190857-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87364"/>
+		<dp pt="2609190857" pp="7" l="RS2" fb="RS2" tra="7242350564319117419-2609190750-10" ppth="Appenweier|Zusenhofen|Oberkirch|Oberkirch-Köhlersiedlung|Lautenbach(Baden)|Hubacker|Ramsbach Höfle|Ramsbach Birkhof|Oppenau|Ibach|Löcherberg|Bad Peterstal|Bad Griesbach(Schwarzwald)"/>
+	</s>
+	<s id="2589025876948184653-2609190639-17">
+		<tl f="N" t="p" o="800647" c="RE" n="4712"/>
+		<ar pt="2609190859" pp="6" l="RE2" fb="RE2" ppth="Konstanz|Konstanz-Petershausen|Allensbach|Radolfzell|Singen(Hohentwiel)|Engen|Immendingen|Geisingen|Donaueschingen|Villingen(Schwarzw)|St Georgen(Schwarzw)|Triberg|Hornberg(Schwarzw)|Hausach|Haslach|Gengenbach"/>
+		<dp pt="2609190902" pp="6" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="-7424498035552871406-2609190836-1">
+		<tl f="N" t="p" o="8006C5" c="RE" n="34998"/>
+		<dp pt="2609190836" pp="4" l="RE7" fb="RE7" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+</timetable>
