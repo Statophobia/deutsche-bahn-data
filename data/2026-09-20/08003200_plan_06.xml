@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="-9141956662086947622-2609200637-8">
+		<tl f="D" t="p" o="H4" c="RT" n="20491"/>
+		<ar pt="2609200652" pp="7" l="RT5" fb="RT5" ppth="Auestadion, Kassel|Heinrich-Heine-Straße, Kassel|Am Weinberg, Kassel|Rathaus/Fünffensterstraße, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Scheidemannplatz, Kassel|Kassel Hbf (tief)"/>
+		<dp pt="2609200653" pp="7" l="RT5" fb="RT5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Guxhagen|Körle"/>
+	</s>
+	<s id="7511148090173910504-2609200412-9">
+		<tl f="F" t="p" o="80" c="ICE" n="1271"/>
+		<ar pt="2609200647" pp="2" fb="ICE 1271" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Hannover Hbf|Göttingen"/>
+		<dp pt="2609200649" pp="2" fb="ICE 1271" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf"/>
+	</s>
+	<s id="-983987197830251062-2609200618-2">
+		<tl f="D" t="p" o="N4" c="CAN" n="63559"/>
+		<ar pt="2609200621" pp="7" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+		<dp pt="2609200622" pp="7" l="RB5" fb="RB5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Guxhagen|Körle"/>
+	</s>
+	<s id="4824199135438040568-2609200615-2">
+		<tl f="N" t="p" o="8005MW" c="RE" n="4173"/>
+		<ar pt="2609200619" pp="7" l="RE30" fb="RE30" ppth="Kassel Hbf"/>
+		<dp pt="2609200620" pp="7" l="RE30" fb="RE30" ppth="Edermünde-Grifte|Felsberg-Gensungen|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)|Frankfurt(Main)West|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="1663072533275665667-2609200441-4">
+		<tl f="F" t="p" o="80" c="ICE" n="778"/>
+		<ar pt="2609200610" pp="3" fb="ICE 778" ppth="Frankfurt(Main)Hbf|Hanau Hbf|Fulda"/>
+		<dp pt="2609200612" pp="3" fb="ICE 778" ppth="Göttingen|Hannover Hbf|Celle|Lüneburg|Hamburg Hbf|Hamburg Dammtor|Neumünster|Kiel Hbf"/>
+	</s>
+	<s id="-5872418283427804584-2609200611-6">
+		<tl f="D" t="p" o="N4" c="CAN" n="63560"/>
+		<ar pt="2609200633" pp="9" l="RB5" fb="RB5" ppth="Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2609200634" pp="9" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+	</s>
+	<s id="4812498729385658618-2609200613-1">
+		<tl f="F" t="p" o="80" c="ICE" n="791"/>
+		<dp pt="2609200613" pp="2" fb="ICE 791" ppth="Fulda|Frankfurt(Main)Süd|Darmstadt Hbf|Bensheim|Weinheim(Bergstr)Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Bruchsal|Karlsruhe Hbf"/>
+	</s>
+</timetable>

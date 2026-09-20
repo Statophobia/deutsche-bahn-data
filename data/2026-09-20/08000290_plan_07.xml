@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="-2293708380295905980-2609200702-8">
+		<tl f="N" t="p" o="800647" c="RE" n="4713"/>
+		<ar pt="2609200755" pp="4" l="RE2" fb="RE2" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+		<dp pt="2609200758" pp="4" l="RE2" fb="RE2" ppth="Gengenbach|Haslach|Hausach|Hornberg(Schwarzw)|Triberg|St Georgen(Schwarzw)|Villingen(Schwarzw)|Donaueschingen|Immendingen|Engen|Singen(Hohentwiel)|Radolfzell|Allensbach|Konstanz-Petershausen|Konstanz"/>
+	</s>
+	<s id="6279463528180673286-2609200741-1">
+		<tl f="N" t="p" o="8006C5" c="RE" n="34996"/>
+		<dp pt="2609200741" pp="4" l="RE7" fb="RE7" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="5567141049045573239-2609200728-1">
+		<tl f="F" t="p" o="80" c="ICE" n="376"/>
+		<dp pt="2609200728" pp="3" fb="ICE 376" ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="6148647192284050257-2609200712-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="88593"/>
+		<dp pt="2609200712" pp="5" l="RS12" fb="RS12" tra="8360556690287936120-2609200610-14" ppth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Zell(Harmersbach)|Birach|Unterharmersbach|Kirnbach-Grün|Oberharmersbach Dorf|Oberharmersbach-Riersbach"/>
+	</s>
+	<s id="6472735087110308203-2609200716-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87360"/>
+		<dp pt="2609200716" pp="7" l="RS2" fb="RS2" tra="-5263763658106550785-2609200639-10" ppth="Appenweier|Zusenhofen|Oberkirch|Oberkirch-Köhlersiedlung|Lautenbach(Baden)|Hubacker|Ramsbach Höfle|Ramsbach Birkhof|Oppenau|Ibach|Löcherberg|Bad Peterstal|Bad Griesbach(Schwarzwald)"/>
+	</s>
+	<s id="8661393180998785712-2609200735-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87410"/>
+		<dp pt="2609200735" pp="2" l="RS4" fb="RS4" ppth="Appenweier|Legelshurst|Kork|Kehl|Krimmeri-Meinau|Strasbourg"/>
+	</s>
+	<s id="3111310063298862757-2609200520-17">
+		<tl f="N" t="p" o="800647" c="RE" n="4710"/>
+		<ar pt="2609200744" pp="5" l="RE2" fb="RE2" ppth="Konstanz|Allensbach|Radolfzell|Böhringen-Rickelshausen|Singen Industriegebiet|Singen(Hohentwiel)|Engen|Immendingen|Donaueschingen|Villingen(Schwarzw)|St Georgen(Schwarzw)|Triberg|Hornberg(Schwarzw)|Hausach|Biberach(Baden)|Gengenbach"/>
+		<dp pt="2609200753" pp="5" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="-8772328986314355147-2609200641-10">
+		<tl f="D" t="p" o="S6" c="SWE" n="88600"/>
+		<ar pt="2609200725" pp="7" l="RS1" fb="RS1" ppth="Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum"/>
+	</s>
+	<s id="3118775461012204759-2609200757-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87362"/>
+		<dp pt="2609200757" pp="7" l="RS2" fb="RS2" ppth="Appenweier|Zusenhofen|Oberkirch|Oberkirch-Köhlersiedlung|Lautenbach(Baden)|Hubacker|Ramsbach Höfle|Ramsbach Birkhof|Oppenau|Ibach|Löcherberg|Bad Peterstal|Bad Griesbach(Schwarzwald)"/>
+	</s>
+	<s id="-1645829189341263702-2609192237-14">
+		<tl f="F" t="p" o="80" c="ICE" n="2523"/>
+		<ar pt="2609200729" pp="1" fb="ICE 2523" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf"/>
+	</s>
+	<s id="-8720823085809177771-2609200741-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87509"/>
+		<dp pt="2609200741" pp="7" l="RS1" fb="RS1" ppth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach"/>
+	</s>
+	<s id="-5263763658106550785-2609200639-10">
+		<tl f="D" t="p" o="S6" c="SWE" n="88590"/>
+		<ar pt="2609200714" pp="7" l="RS12" fb="RS12" tra="6472735087110308203-2609200716-1" ppth="Oberharmersbach-Riersbach|Oberharmersbach Dorf|Kirnbach-Grün|Unterharmersbach|Birach|Zell(Harmersbach)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum"/>
+	</s>
+</timetable>
