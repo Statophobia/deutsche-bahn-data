@@ -1,18 +1,8 @@
 <?xml version="1.0" ?>
 <timetable station="Ingolstadt Hbf">
-	<s id="-8483210532685931151-2609221507-5">
-		<tl f="N" t="p" o="800765" c="RE" n="4027"/>
-		<ar pt="2609221554" pp="2" l="RE1" fb="RE1" ppth="Nürnberg Hbf|Allersberg(Rothsee)|Kinding(Altmühltal)|Ingolstadt Nord"/>
-		<dp pt="2609221608" pp="2" l="RE1" fb="RE1" ppth="Rohrbach(Ilm)|Pfaffenhofen(Ilm)|München Hbf"/>
-	</s>
 	<s id="-8253571500114866383-2609221605-5">
 		<tl f="N" t="p" o="800765" c="RE" n="4029"/>
 		<ar pt="2609221652" pp="7" l="RE1" fb="RE1" ppth="Nürnberg Hbf|Allersberg(Rothsee)|Kinding(Altmühltal)|Ingolstadt Nord"/>
-	</s>
-	<s id="-3367329299726718923-2609221624-2">
-		<tl f="D" t="p" o="A9" c="ag" n="84161"/>
-		<ar pt="2609221628" pp="6" l="RB17" fb="RB17" ppth="Ingolstadt Nord"/>
-		<dp pt="2609221640" pp="6" l="RB17" fb="RB17" ppth="Ernsgaden|Vohburg-Rockolding|Münchsmünster|Neustadt(Donau)|Abensberg|Saal(Donau)|Bad Abbach|Poikam|Gundelshausen|Sinzing|Regensburg Hbf"/>
 	</s>
 	<s id="5818020606803679032-2609221606-2">
 		<tl f="F" t="p" o="80" c="ICE" n="784"/>
@@ -24,34 +14,13 @@
 		<ar pt="2609221603" pp="5" l="RB17" fb="RB17" ppth="Ingolstadt Nord"/>
 		<dp pt="2609221605" pp="5" l="RB17" fb="RB17" ppth="Ernsgaden|Vohburg-Rockolding|Münchsmünster|Neustadt(Donau)|Abensberg|Saal(Donau)|Bad Abbach|Poikam|Sinzing|Regensburg-Prüfening|Regensburg Hbf"/>
 	</s>
-	<s id="1575145726393666584-2609221523-16">
-		<tl f="D" t="p" o="A9" c="ag" n="84287"/>
-		<ar pt="2609221648" pp="6" l="RB15" fb="RB15" ppth="Lauingen|Dillingen(Donau)|Höchstädt(Donau)|Blindheim|Schwenningen(Bay)|Tapfheim|Donauwörth|Genderkingen|Rain|Burgheim|Straß-Moos|Unterhausen(Bay)|Neuburg(Donau)|Rohrenfeld|Weichering"/>
-	</s>
 	<s id="5749228464457793288-2609221611-1">
 		<tl f="D" t="p" o="A9" c="ag" n="84284"/>
 		<dp pt="2609221611" pp="1 D-E" l="RB15" fb="RB15" ppth="Weichering|Rohrenfeld|Neuburg(Donau)|Unterhausen(Bay)|Straß-Moos|Burgheim|Rain|Genderkingen|Donauwörth|Tapfheim|Schwenningen(Bay)|Blindheim|Höchstädt(Donau)|Dillingen(Donau)|Lauingen"/>
 	</s>
-	<s id="984563771444147884-2609221606-1">
-		<tl f="D" t="p" o="Y8" c="BRB" n="84070"/>
-		<dp pt="2609221606" pp="1 A-C" l="RB14" fb="RB14" ppth="Ingolstadt Nord|Eitensheim|Adelschlag|Eichstätt Bahnhof|Wasserzell(b Eichstätt)|Rebdorf-Hofmühle|Eichstätt Stadt"/>
-	</s>
 	<s id="-3444985983007820659-2609221640-1">
 		<tl f="D" t="p" o="A9" c="ag" n="84168"/>
 		<dp pt="2609221640" pp="5" l="RB17" fb="RB17" ppth="Ingolstadt Nord"/>
-	</s>
-	<s id="2417946036128754395-2609221517-2">
-		<tl f="F" t="p" o="80" c="ICE" n="1004"/>
-		<ar pt="2609221603" pp="4" fb="ICE 1004" ppth="München Hbf"/>
-		<dp pt="2609221605" pp="4" fb="ICE 1004" ppth="Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
-	</s>
-	<s id="-2912147939679754410-2609221603-7">
-		<tl f="D" t="p" o="Y8" c="BRB" n="86710"/>
-		<ar pt="2609221647" pp="1" l="RB13" fb="RB13" ppth="Dasing|Obergriesbach|Aichach|Radersdorf|Schrobenhausen|Brunnen(Oberbay)"/>
-	</s>
-	<s id="1429303059092711827-2609221602-5">
-		<tl f="N" t="p" o="800765" c="RE" n="59410"/>
-		<ar pt="2609221652" pp="2" l="RE1" fb="RE1" ppth="München Hbf|Petershausen(Obb)|Pfaffenhofen(Ilm)|Rohrbach(Ilm)"/>
 	</s>
 	<s id="8785454855588606733-2609221529-8">
 		<tl f="N" t="p" o="800765" c="RB" n="59102"/>
@@ -62,10 +31,6 @@
 		<tl f="N" t="p" o="800765" c="RE" n="4026"/>
 		<ar pt="2609221551" pp="7" l="RE1" fb="RE1" ppth="München Hbf|Petershausen(Obb)|Pfaffenhofen(Ilm)|Rohrbach(Ilm)"/>
 		<dp pt="2609221608" pp="7" l="RE1" fb="RE1" ppth="Ingolstadt Nord|Kinding(Altmühltal)|Allersberg(Rothsee)|Nürnberg Hbf"/>
-	</s>
-	<s id="-1109741751663371610-2609221608-1">
-		<tl f="D" t="p" o="Y8" c="BRB" n="86719"/>
-		<dp pt="2609221608" pp="6" l="RB13" fb="RB13" ppth="Brunnen(Oberbay)|Schrobenhausen|Radersdorf|Aichach|Obergriesbach|Dasing"/>
 	</s>
 	<s id="4074917124933381702-2609221237-6">
 		<tl f="F" t="p" o="80" c="ICE" n="1009"/>
@@ -84,6 +49,41 @@
 	<s id="-314283010170179543-2609221616-7">
 		<tl f="D" t="p" o="Y8" c="BRB" n="84069"/>
 		<ar pt="2609221648" pp="1" l="RB14" fb="RB14" ppth="Eichstätt Stadt|Rebdorf-Hofmühle|Wasserzell(b Eichstätt)|Eichstätt Bahnhof|Ingolstadt Audi|Ingolstadt Nord"/>
+	</s>
+	<s id="-8483210532685931151-2609221507-5">
+		<tl f="N" t="p" o="800765" c="RE" n="4027"/>
+		<ar pt="2609221554" pp="2" l="RE1" fb="RE1" ppth="Nürnberg Hbf|Allersberg(Rothsee)|Kinding(Altmühltal)|Ingolstadt Nord"/>
+		<dp pt="2609221608" pp="2" l="RE1" fb="RE1" ppth="Rohrbach(Ilm)|Pfaffenhofen(Ilm)|München Hbf"/>
+	</s>
+	<s id="-3367329299726718923-2609221624-2">
+		<tl f="D" t="p" o="A9" c="ag" n="84161"/>
+		<ar pt="2609221628" pp="6" l="RB17" fb="RB17" ppth="Ingolstadt Nord"/>
+		<dp pt="2609221640" pp="6" l="RB17" fb="RB17" ppth="Ernsgaden|Vohburg-Rockolding|Münchsmünster|Neustadt(Donau)|Abensberg|Saal(Donau)|Bad Abbach|Poikam|Gundelshausen|Sinzing|Regensburg Hbf"/>
+	</s>
+	<s id="1575145726393666584-2609221523-16">
+		<tl f="D" t="p" o="A9" c="ag" n="84287"/>
+		<ar pt="2609221648" pp="6" l="RB15" fb="RB15" ppth="Lauingen|Dillingen(Donau)|Höchstädt(Donau)|Blindheim|Schwenningen(Bay)|Tapfheim|Donauwörth|Genderkingen|Rain|Burgheim|Straß-Moos|Unterhausen(Bay)|Neuburg(Donau)|Rohrenfeld|Weichering"/>
+	</s>
+	<s id="984563771444147884-2609221606-1">
+		<tl f="D" t="p" o="Y8" c="BRB" n="84070"/>
+		<dp pt="2609221606" pp="1 A-C" l="RB14" fb="RB14" ppth="Ingolstadt Nord|Eitensheim|Adelschlag|Eichstätt Bahnhof|Wasserzell(b Eichstätt)|Rebdorf-Hofmühle|Eichstätt Stadt"/>
+	</s>
+	<s id="2417946036128754395-2609221517-2">
+		<tl f="F" t="p" o="80" c="ICE" n="1004"/>
+		<ar pt="2609221603" pp="4" fb="ICE 1004" ppth="München Hbf"/>
+		<dp pt="2609221605" pp="4" fb="ICE 1004" ppth="Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-2912147939679754410-2609221603-7">
+		<tl f="D" t="p" o="Y8" c="BRB" n="86710"/>
+		<ar pt="2609221647" pp="1" l="RB13" fb="RB13" ppth="Dasing|Obergriesbach|Aichach|Radersdorf|Schrobenhausen|Brunnen(Oberbay)"/>
+	</s>
+	<s id="1429303059092711827-2609221602-5">
+		<tl f="N" t="p" o="800765" c="RE" n="59410"/>
+		<ar pt="2609221652" pp="2" l="RE1" fb="RE1" ppth="München Hbf|Petershausen(Obb)|Pfaffenhofen(Ilm)|Rohrbach(Ilm)"/>
+	</s>
+	<s id="-1109741751663371610-2609221608-1">
+		<tl f="D" t="p" o="Y8" c="BRB" n="86719"/>
+		<dp pt="2609221608" pp="6" l="RB13" fb="RB13" ppth="Brunnen(Oberbay)|Schrobenhausen|Radersdorf|Aichach|Obergriesbach|Dasing"/>
 	</s>
 	<s id="-1718865581350203245-2609221535-12">
 		<tl f="N" t="p" o="800765" c="RB" n="59157"/>

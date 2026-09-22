@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <timetable station="Herford">
-	<s id="-4187572938074821536-2609221548-3">
-		<tl f="D" t="p" o="R2RB" c="ERB" n="89654"/>
-		<ar pt="2609221558" pp="4" l="RB71" fb="RB71" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
-		<dp pt="2609221601" pp="4" l="RB71" fb="RB71" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bieren-Rödinghausen|Mesch Neue Mühle|Bad Holzhausen|Lübbecke(Westf)|Espelkamp|Rahden"/>
-	</s>
-	<s id="-4140470391187734614-2609221122-13">
-		<tl f="F" t="p" o="80" c="IC" n="2440"/>
-		<ar pt="2609221631" pp="6" fb="IC 2440" ppth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen"/>
-		<dp pt="2609221632" pp="6" fb="IC 2440" ppth="Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Stuttgart Hbf"/>
-	</s>
 	<s id="8599047848639220891-2609221636-1">
 		<tl f="N" t="p" o="RSNM" c="RB" n="14575"/>
 		<dp pt="2609221636" pp="7" l="RB77" fb="RB77" ppth="Löhne(Westf)|Bad Oeynhausen Süd|Vlotho|Rinteln|Hessisch Oldendorf|Hameln|Coppenbrügge|Marienau|Osterwald|Elze(Han)|Nordstemmen|Emmerke|Hildesheim Hbf"/>
@@ -28,6 +18,26 @@
 		<ar pt="2609221600" pp="6" l="RB71" fb="RB71" ppth="Rahden|Espelkamp|Lübbecke(Westf)|Bad Holzhausen|Mesch Neue Mühle|Bieren-Rödinghausen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
 		<dp pt="2609221601" pp="6" l="RB71" fb="RB71" ppth="Brake(b Bielefeld)|Bielefeld Hbf"/>
 	</s>
+	<s id="2683252994559519477-2609221631-2">
+		<tl f="D" t="p" o="W3" c="WFB" n="95833"/>
+		<ar pt="2609221641" pp="5" l="RE70" fb="RE70" ppth="Bielefeld Hbf"/>
+		<dp pt="2609221641" pp="5" l="RE70" fb="RE70" ppth="Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)|Bückeburg|Stadthagen|Haste|Wunstorf|Hannover Hbf|Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
+	</s>
+	<s id="201535978532296242-2609221334-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1549"/>
+		<ar pt="2609221613" pp="4" fb="ICE 1549" ppth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf"/>
+		<dp pt="2609221614" pp="4" fb="ICE 1549" ppth="Hannover Hbf|Berlin-Spandau|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-4187572938074821536-2609221548-3">
+		<tl f="D" t="p" o="R2RB" c="ERB" n="89654"/>
+		<ar pt="2609221558" pp="4" l="RB71" fb="RB71" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
+		<dp pt="2609221601" pp="4" l="RB71" fb="RB71" ppth="Hiddenhausen-Schweicheln|Kirchlengern|Bünde(Westf)|Bieren-Rödinghausen|Mesch Neue Mühle|Bad Holzhausen|Lübbecke(Westf)|Espelkamp|Rahden"/>
+	</s>
+	<s id="-4140470391187734614-2609221122-13">
+		<tl f="F" t="p" o="80" c="IC" n="2440"/>
+		<ar pt="2609221631" pp="6" fb="IC 2440" ppth="Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Leipzig/Halle Flughafen|Halle(Saale)Hbf|Köthen|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bad Oeynhausen"/>
+		<dp pt="2609221632" pp="6" fb="IC 2440" ppth="Bielefeld Hbf|Gütersloh Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Hagen Hbf|Wuppertal Hbf|Solingen Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Stuttgart Hbf"/>
+	</s>
 	<s id="-7207199453880579221-2609221509-8">
 		<tl f="D" t="p" o="R2RE" c="ERB" n="52284"/>
 		<ar pt="2609221625" pp="6" l="RE78" fb="RE78" ppth="Nienburg(Weser)|Leese-Stolzenau|Petershagen-Lahde|Minden(Westf)|Porta Westfalica|Bad Oeynhausen|Löhne(Westf)"/>
@@ -38,11 +48,6 @@
 		<ar pt="2609221629" pp="4" l="RB61" fb="RB61" ppth="Hengelo|Oldenzaal|Bad Bentheim|Schüttorf|Salzbergen|Rheine|Hörstel|Ibbenbüren-Esch|Ibbenbüren|Ibbenbüren-Laggenbeck|Osnabrück Altstadt|Osnabrück Hbf|Wissingen|Westerhausen|Melle|Bruchmühlen|Bünde(Westf)|Kirchlengern|Hiddenhausen-Schweicheln"/>
 		<dp pt="2609221630" pp="4" l="RB61" fb="RB61" ppth="Bielefeld Hbf"/>
 	</s>
-	<s id="2683252994559519477-2609221631-2">
-		<tl f="D" t="p" o="W3" c="WFB" n="95833"/>
-		<ar pt="2609221641" pp="5" l="RE70" fb="RE70" ppth="Bielefeld Hbf"/>
-		<dp pt="2609221641" pp="5" l="RE70" fb="RE70" ppth="Löhne(Westf)|Bad Oeynhausen|Porta Westfalica|Minden(Westf)|Bückeburg|Stadthagen|Haste|Wunstorf|Hannover Hbf|Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde|Braunschweig Hbf"/>
-	</s>
 	<s id="-9148412200777522099-2609221612-3">
 		<tl f="D" t="p" o="R2RB" c="ERB" n="20376"/>
 		<ar pt="2609221623" pp="5" l="RB61" fb="RB61" ppth="Bielefeld Hbf|Brake(b Bielefeld)"/>
@@ -51,11 +56,6 @@
 	<s id="-8358169314773759698-2609221434-14">
 		<tl f="N" t="p" o="RSNM" c="RB" n="14570"/>
 		<ar pt="2609221623" pp="7" l="RB77" fb="RB77" ppth="Hildesheim Hbf|Emmerke|Nordstemmen|Elze(Han)|Osterwald|Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)"/>
-	</s>
-	<s id="201535978532296242-2609221334-8">
-		<tl f="F" t="p" o="80" c="ICE" n="1549"/>
-		<ar pt="2609221613" pp="4" fb="ICE 1549" ppth="Köln Hbf|Solingen Hbf|Wuppertal Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf"/>
-		<dp pt="2609221614" pp="4" fb="ICE 1549" ppth="Hannover Hbf|Berlin-Spandau|Berlin Gesundbrunnen"/>
 	</s>
 	<s id="9175998320386553509-2609221521-11">
 		<tl f="D" t="p" o="R2RB" c="ERB" n="90670"/>

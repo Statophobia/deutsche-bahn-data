@@ -1,21 +1,8 @@
 <?xml version="1.0" ?>
 <timetable station="Berlin Gesundbrunnen">
-	<s id="9027946082783998872-2609221627-3">
-		<tl t="p" o="NBRB27" c="NEB" n="61088"/>
-		<ar pt="2609221644" pp="6" l="RB27" fb="RB27" ppth="Basdorf|Schönerlinde"/>
-	</s>
 	<s id="1389785616641395473-2609221601-1">
 		<tl f="F" t="p" o="80" c="ICE" n="1163"/>
 		<dp pt="2609221601" pp="7" fb="ICE 1163" ppth="Berlin Hbf|Berlin Südkreuz|Nürnberg Hbf|Stuttgart Hbf"/>
-	</s>
-	<s id="-6869612311979445257-2609221617-3">
-		<tl f="N" t="p" o="800165" c="RE" n="3125"/>
-		<ar pt="2609221639" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
-		<dp pt="2609221642" pp="7" l="RE2" fb="RE2" ppth="Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
-	</s>
-	<s id="-2543008509222161707-2609220845-15">
-		<tl f="F" t="p" o="80" c="ICE" n="690"/>
-		<ar pt="2609221643" pp="8" fb="ICE 690" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf"/>
 	</s>
 	<s id="-8389517943155718188-2609221601-1">
 		<tl t="p" o="NBRB27" c="NEB" n="61087"/>
@@ -54,14 +41,6 @@
 		<ar pt="2609221619" pp="10" l="RE2" fb="RE2" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau"/>
 		<dp pt="2609221622" pp="10" l="RE2" fb="RE2" ppth="Berlin Ostkreuz|Berlin-Schöneweide"/>
 	</s>
-	<s id="2560667805316521576-2609221221-7">
-		<tl f="F" t="p" o="80" c="ICE" n="1508"/>
-		<ar pt="2609221631" pp="8" fb="ICE 1508" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf"/>
-	</s>
-	<s id="6002142654769305817-2609221611-1">
-		<tl f="N" t="p" o="800158" c="RE" n="3330"/>
-		<dp pt="2609221611" pp="10" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Biesenthal|Eberswalde Hbf|Angermünde"/>
-	</s>
 	<s id="3487725221476870902-2609221324-5">
 		<tl f="F" t="p" o="80" c="ICE" n="935"/>
 		<ar pt="2609221654" pp="6" fb="ICE 935" ppth="Ostseebad Binz|Bergen auf Rügen|Stralsund Hbf|Neustrelitz Hbf"/>
@@ -70,5 +49,26 @@
 	<s id="1438647084713904480-2609221649-1">
 		<tl t="p" o="NBRB27" c="NEB" n="61089"/>
 		<dp pt="2609221649" pp="6" l="RB27" fb="RB27" ppth="Schönerlinde|Schönwalde(Barnim)|Basdorf|Wandlitz|Wandlitzsee"/>
+	</s>
+	<s id="9027946082783998872-2609221627-3">
+		<tl t="p" o="NBRB27" c="NEB" n="61088"/>
+		<ar pt="2609221644" pp="6" l="RB27" fb="RB27" ppth="Basdorf|Schönerlinde"/>
+	</s>
+	<s id="-6869612311979445257-2609221617-3">
+		<tl f="N" t="p" o="800165" c="RE" n="3125"/>
+		<ar pt="2609221639" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2609221642" pp="7" l="RE2" fb="RE2" ppth="Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-2543008509222161707-2609220845-15">
+		<tl f="F" t="p" o="80" c="ICE" n="690"/>
+		<ar pt="2609221643" pp="8" fb="ICE 690" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="2560667805316521576-2609221221-7">
+		<tl f="F" t="p" o="80" c="ICE" n="1508"/>
+		<ar pt="2609221631" pp="8" fb="ICE 1508" ppth="München Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="6002142654769305817-2609221611-1">
+		<tl f="N" t="p" o="800158" c="RE" n="3330"/>
+		<dp pt="2609221611" pp="10" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Biesenthal|Eberswalde Hbf|Angermünde"/>
 	</s>
 </timetable>
