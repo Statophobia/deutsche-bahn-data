@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Wolfsburg Hbf">
+	<s id="789381465621699355-2609270747-3">
+		<tl f="F" t="p" o="80" c="ICE" n="944"/>
+		<ar pt="2609270852" pp="1" fb="ICE 944" wings="5065395714490050726-2609270747" ppth="Berlin Hbf|Berlin-Spandau"/>
+		<dp pt="2609270853" pp="1" fb="ICE 944" wings="5065395714490050726-2609270747" ppth="Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+	</s>
+	<s id="5065395714490050726-2609270747-3">
+		<tl f="F" t="p" o="80" c="ICE" n="954"/>
+		<ar pt="2609270852" pp="1" fb="ICE 954" ppth="Berlin Hbf|Berlin-Spandau"/>
+		<dp pt="2609270853" pp="1" fb="ICE 954" ppth="Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Hagen Hbf|Wuppertal Hbf|Köln Hbf"/>
+	</s>
+	<s id="9053095917459469794-2609270802-1">
+		<tl t="p" o="R0" c="Bus" n="5658"/>
+		<dp pt="2609270802" pp="" l="RE50" fb="Bus RE50" ppth="Fallersleben"/>
+	</s>
+	<s id="-8139375524535137070-2609270845-2">
+		<tl t="p" o="R0" c="Bus" n="5157"/>
+		<ar pt="2609270856" pp="" l="RE50" fb="Bus RE50" ppth="Fallersleben"/>
+	</s>
+	<s id="5775571953053799792-2609270726-4">
+		<tl f="F" t="p" o="80" c="ICE" n="795"/>
+		<ar pt="2609270838" pp="1" fb="ICE 795" ppth="Berlin-Charlottenburg|Berlin-Spandau|Stendal Hbf"/>
+		<dp pt="2609270839" pp="1" fb="ICE 795" ppth="Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Frankfurt(Main)Süd|Darmstadt Hbf|Bensheim|Weinheim(Bergstr)Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Karlsruhe Hbf"/>
+	</s>
+	<s id="7570979582184103280-2609270748-11">
+		<tl t="p" o="R0" c="ENO" n="83507"/>
+		<ar pt="2609270843" pp="4" l="RE30" fb="RE30" ppth="Hannover Hbf|Lehrte|Immensen-Arpke|Dollbergen|Dedenhausen|Meinersen|Leiferde(b Gifhorn)|Gifhorn|Calberlah|Fallersleben"/>
+	</s>
+	<s id="-2949440726131702047-2609270814-1">
+		<tl t="p" o="R0" c="ENO" n="83508"/>
+		<dp pt="2609270814" pp="4" l="RE30" fb="RE30" ppth="Fallersleben|Calberlah|Gifhorn|Leiferde(b Gifhorn)|Meinersen|Dedenhausen|Dollbergen|Immensen-Arpke|Lehrte|Hannover Hbf"/>
+	</s>
+</timetable>
