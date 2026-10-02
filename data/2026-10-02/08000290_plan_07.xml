@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="4519966598502397025-2610020705-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87408"/>
+		<dp pt="2610020705" pp="7" l="RS4" fb="RS4" ppth="Appenweier|Legelshurst|Kork|Kehl|Krimmeri-Meinau|Strasbourg"/>
+	</s>
+	<s id="6087674187301049560-2610020636-3">
+		<tl f="F" t="p" o="87" c="TGV" n="9530"/>
+		<ar pt="2610020714" pp="5" fb="TGV 9530" ppth="Freiburg(Breisgau) Hbf|Ringsheim/Europa-Park"/>
+		<dp pt="2610020715" pp="5" fb="TGV 9530" ppth="Strasbourg|Paris Est"/>
+	</s>
+	<s id="6084542420969462186-2610020008-11">
+		<tl f="F" t="p" o="80" c="ICE" n="273"/>
+		<ar pt="2610020729" pp="1" fb="ICE 273" ppth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Eisenach Hbf|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf"/>
+		<dp pt="2610020730" pp="1" fb="ICE 273" ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="-4713099473788965699-2610020722-5">
+		<tl f="D" t="p" o="S6" c="SWE" n="87407"/>
+		<ar pt="2610020752" pp="6" l="RS4" fb="RS4" pde="Strasbourg" ppth="Kehl|Kork|Legelshurst|Appenweier"/>
+	</s>
+	<s id="8661393180998785712-2610020735-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87410"/>
+		<dp pt="2610020735" pp="7" l="RS4" fb="RS4" ppth="Appenweier|Legelshurst|Kork|Kehl|Krimmeri-Meinau|Strasbourg"/>
+	</s>
+	<s id="2507135410692266280-2610020740-1">
+		<tl f="N" t="p" o="8006C5" c="RE" n="17005"/>
+		<dp pt="2610020740" pp="6" l="RE7" fb="RE7" ppth="Friesenheim(Baden)|Lahr(Schwarzw)|Orschweier|Ringsheim/Europa-Park|Herbolzheim(Breisg)|Kenzingen|Riegel-Malterdingen|Emmendingen|Denzlingen|Freiburg-Herdern|Freiburg(Breisgau) Hbf|Schallstadt|Bad Krozingen|Heitersheim|Müllheim im Markgräflerland|Auggen|Schliengen|Bad Bellingen|Rheinweiler|Kleinkems|Istein|Efringen-Kirchen|Eimeldingen|Haltingen|Weil am Rhein|Basel Bad Bf"/>
+	</s>
+	<s id="3111310063298862757-2610020520-17">
+		<tl f="N" t="p" o="800647" c="RE" n="4710"/>
+		<ar pt="2610020744" pp="7" l="RE2" fb="RE2" ppth="Konstanz|Allensbach|Radolfzell|Böhringen-Rickelshausen|Singen Industriegebiet|Singen(Hohentwiel)|Engen|Immendingen|Donaueschingen|Villingen(Schwarzw)|St Georgen(Schwarzw)|Triberg|Hornberg(Schwarzw)|Hausach|Biberach(Baden)|Gengenbach"/>
+		<dp pt="2610020753" pp="7" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="-2051341140417212994-2610020653-5">
+		<tl f="D" t="p" o="S6" c="SWE" n="88597"/>
+		<ar pt="2610020712" pp="7" l="RS4" fb="RS4" ppth="Kehl|Kork|Legelshurst|Appenweier"/>
+	</s>
+	<s id="-7459684978264836055-2610020505-17">
+		<tl f="N" t="p" o="800647" c="RE" n="4706"/>
+		<ar pt="2610020721" pp="5" l="RE2" fb="RE2" ppth="Radolfzell|Singen(Hohentwiel)|Engen|Immendingen|Geisingen|Donaueschingen|Villingen(Schwarzw)|St Georgen(Schwarzw)|Triberg|Hornberg(Schwarzw)|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum"/>
+	</s>
+	<s id="-2293708380295905980-2610020702-8">
+		<tl f="N" t="p" o="800647" c="RE" n="4713"/>
+		<ar pt="2610020755" pp="5" l="RE2" fb="RE2" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+		<dp pt="2610020758" pp="5" l="RE2" fb="RE2" ppth="Gengenbach|Haslach|Hausach|Hornberg(Schwarzw)|Triberg|St Georgen(Schwarzw)|Villingen(Schwarzw)|Donaueschingen|Immendingen|Engen|Singen(Hohentwiel)|Radolfzell|Allensbach|Konstanz-Petershausen|Konstanz"/>
+	</s>
+	<s id="6158813696004313014-2610020626-11">
+		<tl f="N" t="p" o="8006C5" c="RE" n="17004"/>
+		<ar pt="2610020710" pp="6" l="RE7" fb="RE7" ppth="Freiburg(Breisgau) Hbf|Denzlingen|Emmendingen|Riegel-Malterdingen|Kenzingen|Herbolzheim(Breisg)|Ringsheim/Europa-Park|Orschweier|Lahr(Schwarzw)|Friesenheim(Baden)"/>
+		<dp pt="2610020735" pp="6" l="RE7" fb="RE7" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+</timetable>
