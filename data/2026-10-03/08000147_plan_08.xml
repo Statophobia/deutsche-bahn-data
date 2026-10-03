@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Harburg">
+	<s id="-1966697291515374285-2610030754-2">
+		<tl t="p" o="RSNM" c="Bus" n="84406"/>
+		<ar pt="2610030834" pp="" l="RB38" fb="Bus RB38" ppth="Buchholz(Nordheide)"/>
+	</s>
+	<s id="-1822966271854478829-2610030400-13">
+		<tl f="F" t="p" o="80" c="ICE" n="1028"/>
+		<ar pt="2610030805" pp="2" fb="ICE 1028" ppth="Köln Hbf|Köln Messe/Deutz|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Oberhausen Hbf|Gelsenkirchen Hbf|Herne-Wanne-Eickel Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf"/>
+		<dp pt="2610030807" pp="2" fb="ICE 1028" hi="1" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-7058442198521206872-2610021836-12">
+		<tl t="p" o="81" c="NJ" n="492"/>
+		<ar pt="2610030825" pp="1" fb="NJ 492" wings="-8677182982400525824-2610022046" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|München Ost|Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+		<dp pt="2610030827" pp="1" fb="NJ 492" hi="1" wings="-8677182982400525824-2610022046" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-7769358482247838628-2610030808-4">
+		<tl t="p" o="R1" c="Bus" n="9270"/>
+		<ar pt="2610030847" pp="" l="RB41" fb="Bus RB41" ppth="Buchholz(Nordheide)|Klecken|Hittfeld"/>
+	</s>
+	<s id="-8677182982400525824-2610022046-13">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2610030825" pp="1" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf"/>
+		<dp pt="2610030827" pp="1" fb="NJ 40420" hi="1" ppth="Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="-1039266865788575878-2610030731-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1536"/>
+		<ar pt="2610030845" pp="1" fb="ICE 1536" ppth="Hannover Hbf|Uelzen|Lüneburg"/>
+		<dp pt="2610030847" pp="1" fb="ICE 1536" ppth="Hamburg Hbf|Schwerin Hbf|Bützow|Rostock Hbf"/>
+	</s>
+	<s id="-1656742390364091013-2610030734-9">
+		<tl f="D" t="p" o="R1" c="ME" n="81610"/>
+		<ar pt="2610030809" pp="1" l="RB31" fb="RB31" pde="Uelzen" ppth="Lüneburg|Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld"/>
+	</s>
+	<s id="-3370472471089950866-2610030814-1">
+		<tl t="p" o="R1" c="Bus" n="9175"/>
+		<dp pt="2610030814" pp="" l="RB41" fb="Bus RB41" ppth="Hittfeld|Klecken|Buchholz(Nordheide)"/>
+	</s>
+	<s id="-4956399162740083947-2610030850-2">
+		<tl t="p" o="FLX20" c="FLX" n="1801"/>
+		<ar pt="2610030859" pp="3" l="20" fb="FLX 1801" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2610030901" pp="3" l="20" fb="FLX 1801" ppth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Gelsenkirchen Hbf|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf"/>
+	</s>
+	<s id="60207537989398301-2610030824-4">
+		<tl f="F" t="p" o="80" c="ICE" n="2517"/>
+		<ar pt="2610030849" pp="3" fb="ICE 2517" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2610030851" pp="3" fb="ICE 2517" ppth="Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Gelsenkirchen Hbf|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Freiburg(Breisgau) Hbf"/>
+	</s>
+	<s id="-2275836909676922659-2610030733-5">
+		<tl f="D" t="p" o="R1" c="ME" n="82012"/>
+		<ar pt="2610030830" pp="2" l="RE4" fb="RE4" ppth="Bremen Hbf|Rotenburg(Wümme)|Tostedt|Buchholz(Nordheide)"/>
+		<dp pt="2610030832" pp="2" l="RE4" fb="RE4" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="-7826121091385121434-2610030753-3">
+		<tl f="F" t="p" o="80" c="ICE" n="785"/>
+		<ar pt="2610030811" pp="4" fb="ICE 785" hi="1" ppth="Hamburg Dammtor|Hamburg Hbf"/>
+		<dp pt="2610030813" pp="4" fb="ICE 785" ppth="Lüneburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="-6812705754883244725-2610030815-2">
+		<tl f="D" t="p" o="R1" c="ME" n="82013"/>
+		<ar pt="2610030825" pp="3" l="RE4" fb="RE4" ppth="Hamburg Hbf"/>
+		<dp pt="2610030827" pp="3" l="RE4" fb="RE4" ppth="Buchholz(Nordheide)|Tostedt|Rotenburg(Wümme)|Bremen Hbf"/>
+	</s>
+	<s id="8083119908266500870-2610030846-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81615"/>
+		<dp pt="2610030846" pp="4" l="RB31" fb="RB31" pde="Uelzen" ppth="Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick|Lüneburg"/>
+	</s>
+	<s id="-3462194525490294786-2610030823-1">
+		<tl t="p" o="RSNM" c="Bus" n="84413"/>
+		<dp pt="2610030823" pp="" l="RB38" fb="Bus RB38" ppth="Buchholz(Nordheide)"/>
+	</s>
+</timetable>
