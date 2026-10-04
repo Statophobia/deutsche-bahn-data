@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="-6305062277403605512-2610040729-12">
+		<tl f="N" t="p" o="8006C5" c="RE" n="17008"/>
+		<ar pt="2610040815" pp="5" l="RE7" fb="RE7" ppth="Freiburg(Breisgau) Hbf|Freiburg-Herdern|Denzlingen|Emmendingen|Riegel-Malterdingen|Kenzingen|Herbolzheim(Breisg)|Ringsheim/Europa-Park|Orschweier|Lahr(Schwarzw)|Friesenheim(Baden)"/>
+	</s>
+	<s id="5584579166009026160-2610040836-1">
+		<tl f="N" t="p" o="8006C5" c="RE" n="63754"/>
+		<dp pt="2610040836" pp="5" l="RE7" fb="RE7" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="-1560519305424128894-2610040734-8">
+		<tl f="N" t="p" o="8006C5" c="RE" n="17007"/>
+		<ar pt="2610040823" pp="6" l="RE7" fb="RE7" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+		<dp pt="2610040826" pp="6" l="RE7" fb="RE7" ppth="Friesenheim(Baden)|Lahr(Schwarzw)|Ringsheim/Europa-Park|Herbolzheim(Breisg)|Kenzingen|Riegel-Malterdingen|Emmendingen|Denzlingen|Freiburg(Breisgau) Hbf"/>
+	</s>
+	<s id="2589025876948184653-2610040639-17">
+		<tl f="N" t="p" o="800647" c="RE" n="4712"/>
+		<ar pt="2610040859" pp="7" l="RE2" fb="RE2" ppth="Konstanz|Konstanz-Petershausen|Allensbach|Radolfzell|Singen(Hohentwiel)|Engen|Immendingen|Geisingen|Donaueschingen|Villingen(Schwarzw)|St Georgen(Schwarzw)|Triberg|Hornberg(Schwarzw)|Hausach|Haslach|Gengenbach"/>
+		<dp pt="2610040902" pp="7" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Karlsruhe Hbf"/>
+	</s>
+	<s id="-6170549415128335761-2610040810-8">
+		<tl f="N" t="p" o="800647" c="RE" n="4717"/>
+		<ar pt="2610040856" pp="5" l="RE2" fb="RE2" ppth="Karlsruhe Hbf|Rastatt|Baden-Baden|Bühl(Baden)|Achern|Renchen|Appenweier"/>
+		<dp pt="2610040858" pp="5" l="RE2" fb="RE2" ppth="Gengenbach|Haslach|Hausach|Hornberg(Schwarzw)|Triberg|St Georgen(Schwarzw)|Villingen(Schwarzw)|Donaueschingen|Immendingen|Engen|Singen(Hohentwiel)|Radolfzell|Allensbach|Konstanz-Petershausen|Konstanz"/>
+	</s>
+	<s id="-2096143780968631337-2610040843-1">
+		<tl f="D" t="p" o="S6" c="SWE" n="87414"/>
+		<dp pt="2610040843" pp="7" l="RS4" fb="RS4" ppth="Appenweier|Legelshurst|Kork|Kehl|Krimmeri-Meinau|Strasbourg"/>
+	</s>
+	<s id="3265078890121583221-2610040752-5">
+		<tl f="D" t="p" o="S6" c="SWE" n="87411"/>
+		<ar pt="2610040822" pp="7" l="RS4" fb="RS4" pde="Strasbourg" ppth="Kehl|Kork|Legelshurst|Appenweier"/>
+	</s>
+</timetable>
