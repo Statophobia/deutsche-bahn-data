@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="2294310420082866098-2610080417-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18301"/>
+		<ar pt="2610080420" pp="13" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg"/>
+		<dp pt="2610080422" pp="13" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Flughafen BER|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="1753936398743828908-2610080441-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73801"/>
+		<ar pt="2610080444" pp="1" l="RE1" fb="RE1" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2610080446" pp="1" l="RE1" fb="RE1" ppth="Erkner|Fangschleuse|Fürstenwalde(Spree)|Frankfurt(Oder)|Eisenhüttenstadt"/>
+	</s>
+	<s id="-1315986740124521104-2610080441-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18201"/>
+		<ar pt="2610080444" pp="13" l="RB32" fb="RB32" ppth="Berlin-Lichtenberg"/>
+		<dp pt="2610080446" pp="13" l="RB32" fb="RB32" ppth="Berlin-Schöneweide|Flughafen BER|Birkengrund|Ludwigsfelde"/>
+	</s>
+	<s id="-9035188977208765437-2610080343-9">
+		<tl f="N" t="p" o="800165" c="RB" n="18300"/>
+		<ar pt="2610080439" pp="14" l="RB24" fb="RB24" ppth="Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Flughafen BER|Berlin-Schöneweide"/>
+		<dp pt="2610080441" pp="14" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="-1743945993301121433-2610080456-2">
+		<tl f="N" t="p" o="800165" c="RE" n="75801"/>
+		<ar pt="2610080459" pp="1" l="RE7" fb="RE7" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2610080502" pp="1" l="RE7" fb="RE7" ppth="Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg"/>
+	</s>
+	<s id="5332074585575833413-2610080423-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="33751"/>
+		<ar pt="2610080425" pp="1" l="RE1" fb="RE1" ppth="Berlin Ostbahnhof"/>
+		<dp pt="2610080427" pp="1" l="RE1" fb="RE1" ppth="Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)"/>
+	</s>
+	<s id="-5004362574935785226-2610080337-11">
+		<tl f="D" t="p" o="OWRE" c="OE" n="33716"/>
+		<ar pt="2610080446" pp="2" l="RE1" fb="RE1" ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner"/>
+		<dp pt="2610080448" pp="2" l="RE1" fb="RE1" ppth="Berlin Ostbahnhof"/>
+	</s>
+	<s id="6685828500358640439-2610080353-12">
+		<tl f="N" t="p" o="800165" c="RE" n="75800"/>
+		<ar pt="2610080458" pp="2" l="RE7" fb="RE7" ppth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen"/>
+		<dp pt="2610080500" pp="2" l="RE7" fb="RE7" ppth="Berlin Ostbahnhof"/>
+	</s>
+</timetable>
