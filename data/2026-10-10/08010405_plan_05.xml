@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Wannsee">
+	<s id="-503142292887263523-2610100502-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18241"/>
+		<ar pt="2610100510" pp="5" l="RB21" fb="RB21" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2610100511" pp="5" l="RB21" fb="RB21" ppth="Potsdam Griebnitzsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort"/>
+	</s>
+	<s id="2429840792513063478-2610100534-1">
+		<tl f="N" t="p" o="800165" c="RE" n="3707"/>
+		<dp pt="2610100534" pp="8" l="RE7" fb="RE7" ppth="Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten|Borkheide|Brück(Mark)|Baitz|Bad Belzig"/>
+	</s>
+	<s id="3050349645088022484-2610100514-8">
+		<tl f="N" t="p" o="800165" c="RB" n="18242"/>
+		<ar pt="2610100551" pp="6" l="RB21" fb="RB21" ppth="Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Potsdam Griebnitzsee"/>
+		<dp pt="2610100552" pp="6" l="RB21" fb="RB21" ppth="Berlin-Charlottenburg|Berlin-Spandau|Falkensee|Hennigsdorf(b Berlin)"/>
+	</s>
+	<s id="-3230321142130898626-2610100513-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73716"/>
+		<ar pt="2610100521" pp="5" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2610100523" pp="5" l="RE1" fb="RE1" ppth="Potsdam Hbf|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="-1200517049494217189-2610100412-13">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73713"/>
+		<ar pt="2610100539" pp="6" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Hbf"/>
+		<dp pt="2610100540" pp="6" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg"/>
+	</s>
+	<s id="-4930019562765654472-2610100441-7">
+		<tl f="N" t="p" o="800165" c="RE" n="3704"/>
+		<ar pt="2610100528" pp="8" l="RE7" fb="RE7" ppth="Bad Belzig|Baitz|Brück(Mark)|Borkheide|Beelitz-Heilstätten|Potsdam Hbf"/>
+	</s>
+	<s id="-1204337956933080892-2610100532-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73758"/>
+		<ar pt="2610100540" pp="5" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg"/>
+		<dp pt="2610100541" pp="5" l="RE1" fb="RE1" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Brandenburg Hbf"/>
+	</s>
+</timetable>

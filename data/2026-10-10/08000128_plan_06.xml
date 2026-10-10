@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<timetable station="Göttingen">
+	<s id="1663072533275665667-2610100441-5">
+		<tl f="F" t="p" o="80" c="ICE" n="778"/>
+		<ar pt="2610100630" pp="9" fb="ICE 778" ppth="Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe"/>
+		<dp pt="2610100632" pp="9" fb="ICE 778" ppth="Hannover Hbf|Celle|Lüneburg|Hamburg Hbf|Hamburg Dammtor|Neumünster|Kiel Hbf"/>
+	</s>
+	<s id="-7058442198521206872-2610091836-10">
+		<tl t="p" o="81" c="NJ" n="492"/>
+		<ar pt="2610100605" pp="9" fb="NJ 492" wings="-8677182982400525824-2610092046" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|München Ost|Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2610100609" pp="9" fb="NJ 492" wings="-8677182982400525824-2610092046" ppth="Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="4218079493388775123-2610100610-1">
+		<tl f="D" t="p" o="N1" c="NWB" n="74904"/>
+		<dp pt="2610100610" pp="6" l="RB85" fb="RB85" ppth="Lenglern|Lödingsen|Adelebsen|Offensen(Kr North)|Vernawahlshausen|Bodenfelde|Bad Karlshafen|Lauenförde-Beverungen|Beverungen-Wehrden|Höxter-Ottbergen|Brakel(Höxter)|Bad Driburg(Westf)|Altenbeken|Paderborn Hbf"/>
+	</s>
+	<s id="-8677182982400525824-2610092046-11">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2610100605" pp="9" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Kassel-Wilhelmshöhe"/>
+		<dp pt="2610100609" pp="9" fb="NJ 40420" ppth="Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona"/>
+	</s>
+	<s id="8864836601995268008-2610100605-6">
+		<tl f="D" t="p" o="N4" c="CAN" n="24062"/>
+		<ar pt="2610100645" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Eschwege|Eschwege-Niederhone|Bad Sooden-Allendorf|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="4587264793236645845-2610100614-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24065"/>
+		<dp pt="2610100614" pp="5" l="RB87" fb="RB87" pde="Bebra" ppth="Friedland(Han)|Eichenberg|Bad Sooden-Allendorf|Eschwege-Niederhone|Eschwege"/>
+	</s>
+	<s id="4899059224440602492-2610100614-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24005"/>
+		<dp pt="2610100614" pp="5" l="RB83" fb="RB83" wings="4587264793236645845-2610100614" ppth="Friedland(Han)|Eichenberg|Witzenhausen Nord"/>
+	</s>
+	<s id="7511148090173910504-2610100412-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1271"/>
+		<ar pt="2610100625" pp="10" fb="ICE 1271" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Hannover Hbf"/>
+		<dp pt="2610100627" pp="10" fb="ICE 1271" ppth="Kassel-Wilhelmshöhe|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf"/>
+	</s>
+	<s id="1271247141507133448-2610100444-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1573"/>
+		<ar pt="2610100655" pp="11" fb="ICE 1573" ppth="Oldenburg(Oldb)Hbf|Delmenhorst|Bremen Hbf|Hannover Hbf"/>
+		<dp pt="2610100707" pp="11" fb="ICE 1573" ppth="Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)|Frankfurt(Main)Hbf|Darmstadt Hbf|Bensheim|Weinheim(Bergstr)Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Bruchsal|Karlsruhe Hbf"/>
+	</s>
+	<s id="7075770399435518357-2610100536-12">
+		<tl f="N" t="p" o="800248" c="RE" n="82803"/>
+		<ar pt="2610100650" pp="6" l="RE2" fb="RE2" ppth="Hannover Hbf|Sarstedt|Nordstemmen|Elze(Han)|Banteln|Alfeld(Leine)|Freden(Leine)|Kreiensen|Einbeck-Salzderhelden|Northeim(Han)|Nörten-Hardenberg"/>
+	</s>
+	<s id="2509422718401317738-2610100620-4">
+		<tl f="D" t="p" o="N4" c="CAN" n="24002"/>
+		<ar pt="2610100645" pp="5" l="RB83" fb="RB83" wings="8864836601995268008-2610100605" ppth="Witzenhausen Nord|Eichenberg|Friedland(Han)"/>
+	</s>
+	<s id="3641449931777704722-2610100527-2">
+		<tl f="F" t="p" o="80" c="ICE" n="781"/>
+		<ar pt="2610100559" pp="10" fb="ICE 781" ppth="Hannover Hbf"/>
+		<dp pt="2610100602" pp="10" fb="ICE 781" ppth="Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+	<s id="8827304653122790980-2610100545-11">
+		<tl f="D" t="p" o="N1" c="NWB" n="74903"/>
+		<ar pt="2610100654" pp="7" l="RB85" fb="RB85" ppth="Höxter-Ottbergen|Beverungen-Wehrden|Lauenförde-Beverungen|Bad Karlshafen|Bodenfelde|Vernawahlshausen|Offensen(Kr North)|Adelebsen|Lödingsen|Lenglern"/>
+	</s>
+	<s id="8388284206224174823-2610100648-1">
+		<tl f="N" t="p" o="8002A3" c="RB" n="14105"/>
+		<dp pt="2610100648" pp="4" l="RB82" fb="RB82" ppth="Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Bad Gandersheim|Seesen|Langelsheim|Goslar|Oker|Bad Harzburg"/>
+	</s>
+	<s id="4194583095458686415-2610100604-1">
+		<tl f="N" t="p" o="800248" c="RE" n="82814"/>
+		<dp pt="2610100604" pp="6" l="RE2" fb="RE2" ppth="Nörten-Hardenberg|Northeim(Han)|Einbeck-Salzderhelden|Kreiensen|Freden(Leine)|Alfeld(Leine)|Banteln|Elze(Han)|Nordstemmen|Sarstedt|Hannover Hbf"/>
+	</s>
+</timetable>

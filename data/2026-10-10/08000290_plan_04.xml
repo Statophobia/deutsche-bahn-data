@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<timetable station="Offenburg">
+	<s id="-522102261798380111-2610100447-1">
+		<tl f="N" t="p" o="800647" c="RE" n="4700"/>
+		<dp pt="2610100447" pp="5" l="RE2" fb="RE2" ppth="Appenweier|Renchen|Achern|Bühl(Baden)|Baden-Baden|Rastatt|Muggensturm|Malsch|Bruchhausen(b Ettlingen)|Ettlingen West|Karlsruhe Hbf"/>
+	</s>
+	<s id="-1197270886930040789-2610092052-11">
+		<tl f="F" t="p" o="NZ" c="IC" n="60408"/>
+		<ar pt="2610100413" pp="1" fb="IC 60408" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Baden-Baden"/>
+		<dp pt="2610100415" pp="1" fb="IC 60408" ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+	<s id="5331894847185138451-2610092052-11">
+		<tl t="p" o="81" c="NJ" n="408"/>
+		<ar pt="2610100413" pp="1" fb="NJ 408" wings="-1197270886930040789-2610092052" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Baden-Baden"/>
+		<dp pt="2610100415" pp="1" fb="NJ 408" hi="1" wings="-1197270886930040789-2610092052" ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB"/>
+	</s>
+</timetable>
