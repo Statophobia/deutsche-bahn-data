@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Lichtenberg">
+	<s id="3110963614532180622-2610132240-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="93454"/>
+		<ar pt="2610132304" pp="" l="RE1" fb="RE1" ppth="Erkner"/>
+	</s>
+	<s id="3121984329751158669-2610132258-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18236"/>
+		<ar pt="2610132322" pp="21" l="RB32" fb="RB32" ppth="Flughafen BER|Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2610132324" pp="21" l="RB32" fb="RB32" ppth="Berlin-Hohenschönhausen|Oranienburg"/>
+	</s>
+	<s id="9089646163628567123-2610132319-2">
+		<tl f="D" t="p" o="OWRE" c="OE" n="93494"/>
+		<ar pt="2610132347" pp="" l="RE1" fb="RE1" ppth="Erkner"/>
+	</s>
+	<s id="4474770796816843224-2610132322-2">
+		<tl t="p" o="NBRB25" c="NEB" n="61217"/>
+		<ar pt="2610132325" pp="17" l="RB25" fb="RB25" ppth="Berlin Ostkreuz"/>
+		<dp pt="2610132329" pp="17" l="RB25" fb="RB25" ppth="Ahrensfelde|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen"/>
+	</s>
+	<s id="-6171049566980863677-2610132338-1">
+		<tl t="p" o="NBRB26" c="NEB" n="5187"/>
+		<dp pt="2610132338" pp="15" l="RB26" fb="RB26" ppth="Berlin-Mahlsdorf|Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)"/>
+	</s>
+</timetable>

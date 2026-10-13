@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin-Spandau">
+	<s id="6371141599347316471-2610132021-26">
+		<tl f="D" t="p" o="OWRE" c="OE" n="92136"/>
+		<ar pt="2610132320" pp="5" l="RE8" fb="RE8" ppth="Wismar|Dorf Mecklenburg|Moidentin|Bad Kleinen|Lübstorf|Schwerin Hbf|Schwerin Mitte|Schwerin-Görries|Schwerin Süd|Holthusen|Sülstorf|Rastow|Lüblow(Meckl)|Ludwigslust|Grabow(Meckl)|Karstädt|Wittenberge|Bad Wilsnack|Glöwen|Breddin|Neustadt(Dosse)|Friesack(Mark)|Paulinenaue|Nauen|Falkensee"/>
+	</s>
+	<s id="-2167438544370822717-2610132136-6">
+		<tl f="F" t="p" o="80" c="ICE" n="809"/>
+		<ar pt="2610132338" pp="6" fb="ICE 809" ppth="Hamburg-Altona|Hamburg Hbf|Büchen|Ludwigslust|Wittenberge"/>
+		<dp pt="2610132340" pp="6" fb="ICE 809" hi="1" ppth="Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="677187316121789157-2610132233-7">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62085"/>
+		<ar pt="2610132300" pp="5" l="RB10" fb="RB10" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof"/>
+		<dp pt="2610132302" pp="5" l="RB10" fb="RB10" ppth="Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz"/>
+	</s>
+	<s id="-7209646859690213608-2610132301-1">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62084"/>
+		<dp pt="2610132301" pp="6" l="RB10" fb="RB10" ppth="Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-1525831096448929178-2610132313-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18637"/>
+		<ar pt="2610132345" pp="5" l="RB14" fb="RB14" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof"/>
+	</s>
+	<s id="5087462819679825252-2610132317-1">
+		<tl f="N" t="p" o="800165" c="RB" n="18636"/>
+		<dp pt="2610132317" pp="4" l="RB14" fb="RB14" ppth="Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="7662991649989322363-2610132337-1">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62039"/>
+		<dp pt="2610132337" pp="4" l="RE8" fb="RE8" ppth="Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen|Paulinenaue|Friesack(Mark)|Neustadt(Dosse)|Breddin|Glöwen|Bad Wilsnack|Wittenberge"/>
+	</s>
+</timetable>
