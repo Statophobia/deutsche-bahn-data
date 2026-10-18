@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="7511148090173910504-2610180412-9">
+		<tl f="F" t="p" o="80" c="ICE" n="1271"/>
+		<ar pt="2610180647" pp="2" fb="ICE 1271" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Lüneburg|Uelzen|Hannover Hbf|Göttingen"/>
+		<dp pt="2610180649" pp="2" fb="ICE 1271" ppth="Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Regionalbf"/>
+	</s>
+	<s id="6754582840017742752-2610180415-5">
+		<tl f="F" t="p" o="80" c="ICE" n="2191"/>
+		<ar pt="2610180611" pp="2" fb="ICE 2191" ppth="Magdeburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen"/>
+		<dp pt="2610180613" pp="2" fb="ICE 2191" ppth="Fulda|Frankfurt(Main)Süd|Darmstadt Hbf|Bensheim|Weinheim(Bergstr)Hbf|Heidelberg Hbf|Wiesloch-Walldorf|Bruchsal|Karlsruhe Hbf"/>
+	</s>
+	<s id="1663072533275665667-2610180441-4">
+		<tl f="F" t="p" o="80" c="ICE" n="778"/>
+		<ar pt="2610180610" pp="3" fb="ICE 778" ppth="Frankfurt(Main)Hbf|Hanau Hbf|Fulda"/>
+		<dp pt="2610180612" pp="3" fb="ICE 778" ppth="Göttingen|Hannover Hbf|Celle|Lüneburg|Hamburg Hbf|Hamburg Dammtor|Neumünster|Kiel Hbf"/>
+	</s>
+	<s id="-8421789647227983596-2610180559-17">
+		<tl f="D" t="p" o="N4" c="CAN" n="24206"/>
+		<ar pt="2610180653" pp="9" l="RB5" fb="RB5" ppth="Bebra|Lispenhausen|Rotenburg a.d. Fulda|Heinebach|Altmorschen|Malsfeld-Beiseförth|Malsfeld|Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2610180654" pp="9" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+	</s>
+	<s id="3854344472714454229-2610180600-2">
+		<tl f="D" t="p" o="N4" c="CAN" n="24213"/>
+		<ar pt="2610180604" pp="7" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+		<dp pt="2610180605" pp="7" l="RB5" fb="RB5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Guxhagen|Körle|Melsungen-Röhrenfurth|Melsungen-Schwarzenberg|Melsungen Bartenwetzerbrücke|Melsungen|Malsfeld|Malsfeld-Beiseförth|Altmorschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen|Bebra|Ludwigsau-Friedlos|Bad Hersfeld|Haunetal-Neukirchen|Burghaun(Hünfeld)|Hünfeld|Fulda"/>
+	</s>
+	<s id="4824199135438040568-2610180615-2">
+		<tl f="N" t="p" o="8005MW" c="RE" n="4173"/>
+		<ar pt="2610180619" pp="7" l="RE30" fb="RE30" ppth="Kassel Hbf"/>
+		<dp pt="2610180620" pp="7" l="RE30" fb="RE30" ppth="Edermünde-Grifte|Felsberg-Gensungen|Wabern(Bz Kassel)|Borken(Hess)|Treysa|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)|Nieder Wöllstadt"/>
+	</s>
+	<s id="-8420153756940277737-2610180625-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24004"/>
+		<dp pt="2610180625" pp="" l="RB83" fb="RB83" ppth="Fuldatal-Ihringshausen|Speele|Hann Münden|Hedemünden|Gertenbach|Witzenhausen Nord|Eichenberg|Friedland(Han)|Göttingen"/>
+	</s>
+	<s id="-8179566454570610626-2610180639-1">
+		<tl t="p" o="NX" c="Bus" n="1101"/>
+		<dp pt="2610180639" pp="" l="RE11" fb="Bus RE11" ppth="Hofgeismar"/>
+	</s>
+	<s id="-8420153756940277737-2610180639-1">
+		<tl f="D" t="p" o="N4" c="CAN" n="24004"/>
+		<dp pt="2610180639" pp="1" l="RB83" fb="RB83" ppth="Fuldatal-Ihringshausen|Speele|Hann Münden|Hedemünden|Gertenbach|Witzenhausen Nord|Eichenberg|Friedland(Han)|Göttingen"/>
+	</s>
+</timetable>
