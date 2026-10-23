@@ -1,0 +1,846 @@
+<?xml version="1.0" ?><timetable station="Bonn Hbf" eva="8000044">
+
+<s id="3089154865811431600-2610230508-13" eva="8000044">
+    <ar ct="2610230552" l="S23"/>
+</s>
+
+
+<s id="5368767681964111467-2610230429-17" eva="8000044">
+    <ar ct="2610230535" l="RB26"/>
+    <dp ct="2610230537" l="RB26"/>
+</s>
+
+
+<s id="4996465201290136773-2610230526-5" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610220930" ts-tts="26-10-22 09:30:01.643" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610220930" ts-tts="26-10-22 09:30:01.643" pr="3"/>
+    <ar ct="2610230554" l="RE5"/>
+    <dp ct="2610230556" l="RE5"/>
+</s>
+
+
+<s id="7059263849963791853-2610230507-14" eva="8000044">
+    <ar ct="2610230654" l="RE5"/>
+    <dp ct="2610230656" l="RE5"/>
+</s>
+
+
+<s id="4753870957390372842-2610222159-13" eva="8000044">
+    <ar ct="2610230520">
+        <m id="-4980964131384736293-" t="f" c="0" ts="2610221503" ts-tts="26-10-22 15:03:04.268"/>
+        <m id="3902802805200880330-" t="f" c="0" ts="2610222259" ts-tts="26-10-22 22:59:44.545"/>
+    </ar>
+    <dp ct="2610230523">
+        <m id="-4980964131384736293-" t="f" c="0" ts="2610221503" ts-tts="26-10-22 15:03:04.268"/>
+        <m id="3902802805200880330-" t="f" c="0" ts="2610222259" ts-tts="26-10-22 22:59:44.545"/>
+        <m id="8780245489375175972-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.677"/>
+        <m id="-2880734630329418426-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.677"/>
+    </dp>
+</s>
+
+
+<s id="3705170726672743764-2610221813-10" eva="8000044">
+    <ar ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|Freilassing|Rosenheim|München Ost|Koblenz Hbf" pp="1" ct="2610230553" pt="2610230516" fb="NJ 448">
+        <m id="-3951234830839954825--3493133048539872967" t="d" c="24" ts="2610222201" ts-tts="26-10-22 22:01:36.286"/>
+        <m id="-8450001549633017868-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.629"/>
+        <m id="8307444644981610335-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.629"/>
+    </ar>
+    <dp ppth="Köln Hbf|Aachen Hbf|Verviers Central|Liège-Guillemins|Bruxelles-Nord|Bruxelles Midi" pp="1" ct="2610230556" pt="2610230518" fb="NJ 448">
+        <m id="-3951234830839954825--3493133048539872967" t="d" c="24" ts="2610222201" ts-tts="26-10-22 22:01:36.286"/>
+    </dp>
+    <tl t="p" o="81" c="NJ" n="448"/>
+</s>
+
+
+<s id="8868050453695511606-2610222159-13" eva="8000044">
+    <ar ct="2610230520">
+        <m id="-6965508061434828847-" t="f" c="0" ts="2610221503" ts-tts="26-10-22 15:03:04.263"/>
+        <m id="6152420138363234758-" t="f" c="0" ts="2610222259" ts-tts="26-10-22 22:59:44.593"/>
+    </ar>
+    <dp ct="2610230523">
+        <m id="-6965508061434828847-" t="f" c="0" ts="2610221503" ts-tts="26-10-22 15:03:04.263"/>
+        <m id="6152420138363234758-" t="f" c="0" ts="2610222259" ts-tts="26-10-22 22:59:44.594"/>
+        <m id="6295594064317154654-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.582"/>
+        <m id="-7769950693351239446-" t="f" c="0" ts="2610230532" ts-tts="26-10-23 05:32:03.582"/>
+    </dp>
+</s>
+
+
+<s id="-3517369880068807284-2610230450-9" eva="8000044">
+    <ar ct="2610230529" l="RB27">
+        <m id="6179376783253025505-8722149631768978741" t="q" c="82" ts="2610222216" ts-tts="26-10-22 22:16:11.470"/>
+    </ar>
+    <dp ct="2610230530" l="RB27">
+        <m id="6179376783253025505-8722149631768978741" t="q" c="82" ts="2610222216" ts-tts="26-10-22 22:16:11.470"/>
+    </dp>
+</s>
+
+
+<s id="-3676902740577658632-2610230516-10" eva="8000044">
+    <ar ct="2610230608" l="RE5"/>
+    <dp ct="2610230609" l="RE5"/>
+</s>
+
+
+<s id="-8466026579335334109-2610230411-7" eva="8000044">
+    <ar ct="2610230442" l="RB26">
+        <m id="-7046010358989659518" t="d" c="43" ts="2610230528" ts-tts="26-10-23 05:28:15.253"/>
+    </ar>
+    <dp ct="2610230452" l="RB26">
+        <m id="-7046010358989659518" t="d" c="43" ts="2610230528" ts-tts="26-10-23 05:28:15.254"/>
+    </dp>
+</s>
+
+
+<s id="4250821308365947570-2610230528-9" eva="8000044">
+    <ar ct="2610230943">
+        <m id="760126779419136972-3913885561340591714" t="d" c="47" ts="2610230525" ts-tts="26-10-23 05:25:19.026"/>
+    </ar>
+    <dp ct="2610230944">
+        <m id="760126779419136972-3913885561340591714" t="d" c="47" ts="2610230525" ts-tts="26-10-23 05:25:19.026"/>
+    </dp>
+</s>
+
+
+<s id="-5273191544879623408-2610230439-28" eva="8000044">
+    <ar ct="2610230635" l="RB26"/>
+    <dp ct="2610230637" l="RB26"/>
+</s>
+
+
+<s id="171164125345549435-2610230520-28" eva="8000044">
+    <ar ct="2610230732" l="RB26"/>
+    <dp ct="2610230734" l="RB26"/>
+</s>
+
+
+<s id="-4755181622791840323-2610230707-14" eva="8000044">
+    <ar ct="2610230854" l="RE5"/>
+    <dp ct="2610230856" l="RE5"/>
+</s>
+
+
+<s id="6219419822052992661-2610230438-13" eva="8000044">
+    <ar ct="2610230519" l="S23"/>
+</s>
+
+
+<s id="4334644660769016398-2610230716-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221130" ts-tts="26-10-22 11:30:02.046" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221130" ts-tts="26-10-22 11:30:02.046" pr="3"/>
+    <ar ct="2610230802" l="RE5"/>
+    <dp ct="2610230804" l="RE5"/>
+</s>
+
+
+<s id="9006849605607582963-2610230811-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221230" ts-tts="26-10-22 12:30:03.151" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221230" ts-tts="26-10-22 12:30:03.151" pr="3"/>
+    <ar ct="2610230954" l="RE5"/>
+    <dp ct="2610230956" l="RE5"/>
+</s>
+
+
+<s id="1781489595331106656-2610230539-16" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610220930" ts-tts="26-10-22 09:30:01.643" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610220930" ts-tts="26-10-22 09:30:01.643" pr="3"/>
+    <ar ct="2610230754" l="RE5"/>
+    <dp ct="2610230756" l="RE5"/>
+</s>
+
+
+<s id="-7441246546298307784-2610230510-1" eva="8000044">
+    <dp ct="2610230510" l="S23"/>
+</s>
+
+
+<s id="-2710494940240322632-2610230540-1" eva="8000044">
+    <dp ct="2610230540" l="S23"/>
+</s>
+
+
+<s id="-8363732388244500081-2610230816-10" eva="8000044">
+    <ar ct="2610230902" l="RE5"/>
+    <dp ct="2610230904" l="RE5"/>
+</s>
+
+
+<s id="-2013570739565140458-2610230902-37" eva="8000044">
+    <ar ct="2610231131" l="RB26"/>
+    <dp ct="2610231133" l="RB26"/>
+</s>
+
+
+<s id="5231040018868601169-2610230850-9" eva="8000044">
+    <ar ct="2610230925" l="RB26"/>
+    <dp ct="2610230927" l="RB26"/>
+</s>
+
+
+<s id="1521914912699173320-2610230408-13" eva="8000044">
+    <ar ct="2610230449" l="S23"/>
+</s>
+
+
+<s id="3044171634029069850-2610230536-8" eva="8000044">
+    <ar ct="2610230605" l="RB48"/>
+    <dp ct="2610230607" l="RB48"/>
+</s>
+
+
+<s id="-4903090403667940319-2610230505-18" eva="8000044">
+    <ar ct="2610230619" l="S23"/>
+</s>
+
+
+<s id="-2663684540931006688-2610230338-10" eva="8000044">
+    <ar ct="2610230431" l="RB26"/>
+    <dp ct="2610230432" l="RB26"/>
+</s>
+
+
+<s id="-5830342388584848760-2610231136-7" eva="8000044">
+    <ar ppth="Stuttgart Hbf|Vaihingen(Enz)|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" pt="2610231443" wings="149497836784990037-2610231136" l="" fb="IC 2841">
+        <m id="4574034661676066510-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="5615355509964311901-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="-6221620711763887-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="2648750144716389762-" t="f" c="0" ts="2610230343" ts-tts="26-10-23 03:43:41.161"/>
+        <m id="-4501964112329824008-" t="f" c="0" ts="2610230423" ts-tts="26-10-23 04:23:56.576"/>
+    </ar>
+    <dp ppth="Köln Hbf" pp="1" pt="2610231444" wings="149497836784990037-2610231136" l="" fb="IC 2841">
+        <m id="4574034661676066510-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="5615355509964311901-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="-6221620711763887-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:18.608"/>
+        <m id="2648750144716389762-" t="f" c="0" ts="2610230343" ts-tts="26-10-23 03:43:41.161"/>
+        <m id="-4501964112329824008-" t="f" c="0" ts="2610230423" ts-tts="26-10-23 04:23:56.576"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="IC" n="2841"/>
+</s>
+
+
+<s id="-9128483735153345013-2610230653-2" eva="8000044">
+    <ar>
+        <m id="5621786172628372433-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.090"/>
+        <m id="2217961498130953473-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.090"/>
+        <m id="-5992187162728427199-2262636407497877480" t="q" c="90" ts="2610230423" ts-tts="26-10-23 04:23:56.509"/>
+        <m id="-5992187162728427199--6155812080560484842" t="q" c="92" ts="2610230423" ts-tts="26-10-23 04:23:56.509"/>
+    </ar>
+    <dp>
+        <m id="5621786172628372433-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.090"/>
+        <m id="2217961498130953473-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.090"/>
+        <m id="-5992187162728427199-2262636407497877480" t="q" c="90" ts="2610230423" ts-tts="26-10-23 04:23:56.509"/>
+        <m id="-5992187162728427199--6155812080560484842" t="q" c="92" ts="2610230423" ts-tts="26-10-23 04:23:56.509"/>
+    </dp>
+</s>
+
+
+<s id="1632164780015880902-2610230653-2" eva="8000044">
+    <ar ppth="Köln Hbf" pp="3" pt="2610230713" wings="-9128483735153345013-2610230653" l="" fb="IC 2822">
+        <m id="6334642653328467217-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-6184213136255448523-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-2365628631203566418-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-4510266834377996924-" t="f" c="0" ts="2610230423" ts-tts="26-10-23 04:23:56.471"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Stuttgart Hbf" pp="3" pt="2610230714" wings="-9128483735153345013-2610230653" l="" fb="IC 2822">
+        <m id="6334642653328467217-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-6184213136255448523-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-2365628631203566418-" t="f" c="0" ts="2610230332" ts-tts="26-10-23 03:32:41.804"/>
+        <m id="-4510266834377996924-" t="f" c="0" ts="2610230423" ts-tts="26-10-23 04:23:56.471"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="IC" n="2822"/>
+</s>
+
+
+<s id="149497836784990037-2610231136-7" eva="8000044">
+    <ar>
+        <m id="1613965050687022610-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:17.224"/>
+        <m id="6841785937484444965-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:17.224"/>
+        <m id="-2286905302097434006" t="q" c="96" ts="2610230335" ts-tts="26-10-23 03:35:08.609"/>
+        <m id="3978758084098246889-" t="f" c="0" ts="2610230343" ts-tts="26-10-23 03:43:40.703"/>
+        <m id="-5505371443122000720-4457330221859242937" t="q" c="90" ts="2610230423" ts-tts="26-10-23 04:23:56.376"/>
+        <m id="-5505371443122000720-6985823454372284658" t="q" c="92" ts="2610230423" ts-tts="26-10-23 04:23:56.376"/>
+    </ar>
+    <dp>
+        <m id="1613965050687022610-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:17.224"/>
+        <m id="6841785937484444965-" t="f" c="0" ts="2610230329" ts-tts="26-10-23 03:29:17.224"/>
+        <m id="3978758084098246889-" t="f" c="0" ts="2610230343" ts-tts="26-10-23 03:43:40.703"/>
+        <m id="-5505371443122000720-4457330221859242937" t="q" c="90" ts="2610230423" ts-tts="26-10-23 04:23:56.376"/>
+        <m id="-5505371443122000720-6985823454372284658" t="q" c="92" ts="2610230423" ts-tts="26-10-23 04:23:56.376"/>
+    </dp>
+</s>
+
+
+<s id="2774174590951633862-2610222225-13" eva="8000044">
+    <ar ct="2610230417">
+        <m id="2123919647646499514-3120350956175501610" t="d" c="43" ts="2610222356" ts-tts="26-10-22 23:56:23.061"/>
+        <m id="-8349019878327904308-" t="f" c="0" ts="2610230123" ts-tts="26-10-23 01:23:28.651"/>
+        <m id="9097157188392591223-" t="f" c="0" ts="2610230239" ts-tts="26-10-23 02:39:10.053"/>
+    </ar>
+    <dp ct="2610230418">
+        <m id="2123919647646499514-3120350956175501610" t="d" c="43" ts="2610222356" ts-tts="26-10-22 23:56:23.061"/>
+        <m id="-8349019878327904308-" t="f" c="0" ts="2610230123" ts-tts="26-10-23 01:23:28.651"/>
+        <m id="9097157188392591223-" t="f" c="0" ts="2610230239" ts-tts="26-10-23 02:39:10.053"/>
+    </dp>
+</s>
+
+
+<s id="-5851721557238592488-2610232040-8" eva="8000044">
+    <ar>
+        <m id="3723322995396134630-" t="f" c="0" ts="2610230335" ts-tts="26-10-23 03:35:23.567"/>
+    </ar>
+    <dp>
+        <m id="3723322995396134630-" t="f" c="0" ts="2610230335" ts-tts="26-10-23 03:35:23.567"/>
+    </dp>
+</s>
+
+
+<s id="7582314568044505717-2610232040-8" eva="8000044">
+    <ar>
+        <m id="2399774902241982958-" t="f" c="0" ts="2610230335" ts-tts="26-10-23 03:35:23.440"/>
+    </ar>
+    <dp>
+        <m id="2399774902241982958-" t="f" c="0" ts="2610230335" ts-tts="26-10-23 03:35:23.440"/>
+    </dp>
+</s>
+
+
+<s id="5784493696718336260-2610232011-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610230030" ts-tts="26-10-23 00:30:04.304" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610230030" ts-tts="26-10-23 00:30:04.304" pr="3"/>
+</s>
+
+
+<s id="-2777793910937700723-2610230802-37" eva="8000044">
+    <ar ct="2610231031" l="RB26"/>
+    <dp ct="2610231033" l="RB26"/>
+</s>
+
+
+<s id="-982202126430000978-2610230750-9" eva="8000044">
+    <ar ct="2610230825" l="RB26"/>
+    <dp ct="2610230827" l="RB26"/>
+</s>
+
+
+<s id="3596733780499351643-2610230419-4" eva="8000044">
+    <ar cpth="Dortmund Hbf|Wuppertal Hbf|Köln Hbf" ct="2610230613"/>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Würzburg Hbf|Nürnberg Hbf" ct="2610230614"/>
+</s>
+
+
+<s id="3337083331722830688-2610231932-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Süd|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf"/>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf"/>
+</s>
+
+
+<s id="1613486808401986028-2610231916-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610222330" ts-tts="26-10-22 23:30:01.748" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610222330" ts-tts="26-10-22 23:30:01.748" pr="3"/>
+</s>
+
+
+<s id="-6295180803857975725-2610231907-14" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610222330" ts-tts="26-10-22 23:30:01.718" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610222330" ts-tts="26-10-22 23:30:01.718" pr="3"/>
+</s>
+
+
+<s id="7582314568044505717-2610222043-5" eva="8000044">
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich" pp="3" ct="2610230300" pt="2610230019" fb="IC 60403">
+        <m id="5660898751597170399-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.638"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="3" ct="2610230304" pt="2610230021" fb="IC 60403"/>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+
+<s id="-5851721557238592488-2610222043-5" eva="8000044">
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich" pp="3" ct="2610230300" pt="2610230019" hi="1" wings="7582314568044505717-2610222043" fb="NJ 403">
+        <m id="-3522064807262517769-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.680"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="3" ct="2610230304" pt="2610230021" wings="7582314568044505717-2610222043" fb="NJ 403"/>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="-317966696582275735-2610230701-37" eva="8000044">
+    <ar ct="2610230931" l="RB26"/>
+    <dp ct="2610230933" l="RB26"/>
+</s>
+
+
+<s id="576591884068486306-2610230650-9" eva="8000044">
+    <ar ct="2610230725" l="RB26"/>
+    <dp ct="2610230727" l="RB26"/>
+</s>
+
+
+<s id="739866519353242413-2610230150-9" eva="8000044">
+    <ar ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" ct="2610230240" pt="2610230225" l="RB30" fb="RB30">
+        <m id="-8706826369168569594-739924643915671844" t="d" c="37" ts="2610230120" ts-tts="26-10-23 01:20:07.498"/>
+        <m id="5903436191497359844--3549359675720494049" t="d" c="43" ts="2610230225" ts-tts="26-10-23 02:25:54.745"/>
+    </ar>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen" pp="3" ct="2610230242" pt="2610230227" l="RB30" fb="RB30">
+        <m id="-8706826369168569594-739924643915671844" t="d" c="37" ts="2610230120" ts-tts="26-10-23 01:20:07.498"/>
+        <m id="5903436191497359844--3549359675720494049" t="d" c="43" ts="2610230225" ts-tts="26-10-23 02:25:54.745"/>
+    </dp>
+    <tl f="N" t="e" o="800352" c="RB" n="70291"/>
+    <ref>
+        <tl f="N" t="p" o="800352" c="RB" n="52857"/>
+    </ref>
+</s>
+
+
+<s id="-1365721387873643126-2610230211-7" eva="8000044">
+    <ar ct="2610230231" l="RB26"/>
+    <dp ct="2610230234" l="RB26"/>
+</s>
+
+
+<s id="-6138664802463965504-2610231811-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610222230" ts-tts="26-10-22 22:30:01.910" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610222230" ts-tts="26-10-22 22:30:01.910" pr="3"/>
+</s>
+
+
+<s id="-7432589995430973116-2610230038-10" eva="8000044">
+    <ar cpth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" ppth="Köln/Bonn Flughafen|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" ct="2610230211" pt="2610230125" l="RB26" fb="RB26">
+        <m id="--6029720312627933123" t="d" c="34" ts="2610230210" ts-tts="26-10-23 02:10:55.472"/>
+    </ar>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen" pp="3" ct="2610230212" pt="2610230127" l="RB26" fb="RB26">
+        <m id="--6029720312627933123" t="d" c="34" ts="2610230210" ts-tts="26-10-23 02:10:55.472"/>
+    </dp>
+    <tl t="p" o="TR" c="TR" n="25401"/>
+</s>
+
+
+<s id="6788017908466860759-2610230036-8" eva="8000044">
+    <ar cpth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" ppth="Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" cp="5" pp="3" ct="2610230207" pt="2610230105" l="RB48" fb="RB48">
+        <m id="-6075959937193331304" t="d" c="38" ts="2610230116" ts-tts="26-10-23 01:16:16.631"/>
+    </ar>
+    <dp cpth="" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" ct="2610230204" pt="2610230107" cs="c" clt="2610230159" l="RB48" fb="RB48">
+        <m id="-6075959937193331304" t="d" c="38" ts="2610230116" ts-tts="26-10-23 01:16:16.631"/>
+    </dp>
+    <tl t="p" o="NXRB" c="NX" n="17383"/>
+</s>
+
+
+<s id="-7758441378396629399-2610230550-9" eva="8000044">
+    <ar ct="2610230625" l="RB26"/>
+    <dp ct="2610230627" l="RB26"/>
+</s>
+
+
+<s id="-4954303433445536193-2610230547-37" eva="8000044">
+    <ar ct="2610230830" l="RB26"/>
+    <dp ct="2610230832" l="RB26"/>
+</s>
+
+
+<s id="8503777394879306018-2610222322-8" eva="8000044">
+    <ar ct="2610230136">
+        <m id="-5291850728044573533--1945581277326451837" t="d" c="21" ts="2610222358" ts-tts="26-10-22 23:58:16.494"/>
+    </ar>
+    <dp ct="2610230138">
+        <m id="-5291850728044573533--1945581277326451837" t="d" c="21" ts="2610222358" ts-tts="26-10-22 23:58:16.494"/>
+        <m id="6292352621121120207-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.904"/>
+        <m id="7741348727716334068-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.904"/>
+    </dp>
+</s>
+
+
+<s id="3425381767318094194-2610222326-17" eva="8000044">
+    <ar ct="2610230031" l="RB27"/>
+    <dp ct="2610230033" l="RB27">
+        <m id="4202566307687764528-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.566"/>
+        <m id="-6835589079850337143-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.566"/>
+        <m id="-4846681160058818588-" t="f" c="0" ts="2610230143" ts-tts="26-10-23 01:43:06.566"/>
+    </dp>
+</s>
+
+
+<s id="1181739242997058766-2610222338-10" eva="8000044">
+    <ar ppth="Köln/Bonn Flughafen|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" ct="2610230132" pt="2610230025" l="RB26" fb="RB26"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2610230133" pt="2610230027" l="RB26" fb="RB26"/>
+    <tl t="p" o="TR" c="TR" n="25447"/>
+</s>
+
+
+<s id="2693058577071894781-2610230105-7" eva="8000044">
+    <ar ppth="Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2610230131" pt="2610230130" l="RB30" fb="RB30">
+        <m id="-5320444217088727581--2932242034794645705" t="d" c="37" ts="2610230028" ts-tts="26-10-23 00:28:52.576"/>
+    </ar>
+    <dp ppth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" pp="1" ct="2610230132" pt="2610230132" l="RB30" fb="RB30">
+        <m id="-5320444217088727581--2932242034794645705" t="d" c="37" ts="2610230028" ts-tts="26-10-23 00:28:52.576"/>
+    </dp>
+    <tl f="N" t="e" o="800352" c="RB" n="70341"/>
+    <ref>
+        <tl f="N" t="p" o="800352" c="RB" n="52856"/>
+    </ref>
+</s>
+
+
+<s id="1123272061820542344-2610231732-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf"/>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf"/>
+</s>
+
+
+<s id="4219316607098782039-2610231716-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610222130" ts-tts="26-10-22 21:30:02.303" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610222130" ts-tts="26-10-22 21:30:02.303" pr="3"/>
+</s>
+
+
+<s id="-3728199759878968782-2610222305-14" eva="8000044">
+    <m id="c39b8a0d-16ef-4e40-a27e-c1de33d51214" t="h" from="2610222052" to="2610231800" cat="URSACHE_UNSPEZIFIZIERT" ts="2610222052" ts-tts="26-10-22 20:52:53.487" pr="1"/>
+    <ar cpth="Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl" ppth="Solingen Hbf|Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" ct="2610230050" pt="2610230005" cs="c" clt="2610230046" l="RB48" fb="RB48">
+        <m id="--8459650649755982389" t="d" c="48" ts="2610230015" ts-tts="26-10-23 00:15:01.965"/>
+        <m id="-4055076070507186067" t="d" c="38" ts="2610230022" ts-tts="26-10-23 00:22:30.363"/>
+        <m id="-4099599934528154833" t="d" c="38" ts="2610230053" ts-tts="26-10-23 00:53:38.705"/>
+    </ar>
+    <dp cpth="" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem" pp="3" ct="2610230051" pt="2610230007" cs="c" clt="2610230046" l="RB48" fb="RB48">
+        <m id="--8459650649755982389" t="d" c="48" ts="2610230015" ts-tts="26-10-23 00:15:01.965"/>
+        <m id="-4055076070507186067" t="d" c="38" ts="2610230022" ts-tts="26-10-23 00:22:30.363"/>
+        <m id="-4099599934528154833" t="d" c="38" ts="2610230053" ts-tts="26-10-23 00:53:38.705"/>
+    </dp>
+    <tl t="p" o="NXRB" c="NX" n="17379"/>
+</s>
+
+
+<s id="-8011983624503141770-2610230043-4" eva="8000044">
+    <ar cpth="" ct="2610230118" cs="c" clt="2610230047" l="RB48">
+        <m id="-4881227912179810160" t="d" c="38" ts="2610230024" ts-tts="26-10-23 00:24:54.445"/>
+        <m id="-1693533913461554295" t="d" c="38" ts="2610230051" ts-tts="26-10-23 00:51:13.458"/>
+    </ar>
+    <dp cpth="Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf" ct="2610230119" cs="c" clt="2610230047" l="RB48">
+        <m id="-4881227912179810160" t="d" c="38" ts="2610230024" ts-tts="26-10-23 00:24:54.445"/>
+        <m id="-1693533913461554295" t="d" c="38" ts="2610230051" ts-tts="26-10-23 00:51:13.458"/>
+    </dp>
+</s>
+
+
+<s id="-3074360763218373139-2610230040-1" eva="8000044">
+    <dp ct="2610230040" l="S23"/>
+</s>
+
+
+<s id="-8805069584413237458-2610230105-7" eva="8000044">
+    <ar cpth="" cs="c" clt="2610230028" l="RB30">
+        <m id="-6496394543166406951--5904606417952302251" t="d" c="37" ts="2610230028" ts-tts="26-10-23 00:28:51.515"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2610230028" l="RB30">
+        <m id="-6496394543166406951--5904606417952302251" t="d" c="37" ts="2610230028" ts-tts="26-10-23 00:28:51.515"/>
+    </dp>
+</s>
+
+
+<s id="8794424153407784724-2610222102-37" eva="8000044">
+    <ar cpth="Mainz Hbf|Mainz-Mombach|Budenheim|Uhlerborn|Heidesheim(Rheinhess)|Ingelheim|Gau Algesheim|Bingen-Gaulsheim|Bingen(Rhein) Stadt|Bingen(Rhein) Hbf|Trechtingshausen|Niederheimbach|Bacharach|Oberwesel|St Goar|Boppard-Hirzenach|Boppard-Bad Salzig|Boppard Hbf|Spay|Rhens|Koblenz Hbf|Koblenz Stadtmitte|Koblenz-Lützel|Mülheim-Kärlich|Weißenthurm|Andernach|Namedy|Brohl|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Rolandseck|Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus" cp="2" ct="2610222341" l="RB26">
+        <m id="--5920904509134620835" t="d" c="43" ts="2610230021" ts-tts="26-10-23 00:21:54.978"/>
+    </ar>
+    <dp cpth="Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz" cp="2" ct="2610222349" l="RB26">
+        <m id="--5920904509134620835" t="d" c="43" ts="2610230021" ts-tts="26-10-23 00:21:54.978"/>
+    </dp>
+</s>
+
+
+<s id="2889738471108192133-2610222336-13" eva="8000044">
+    <ar ct="2610230022" l="S23"/>
+</s>
+
+
+<s id="203336033999008490-2610231611-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610222030" ts-tts="26-10-22 20:30:02.143" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610222030" ts-tts="26-10-22 20:30:02.143" pr="3"/>
+</s>
+
+
+<s id="-4310995180962388424-2610230010-1" eva="8000044">
+    <dp ct="2610230010" l="S23"/>
+</s>
+
+
+<s id="5017361891589673464-2610230857-3" eva="8000044">
+    <ar>
+        <m id="3083368504451364056-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:06.028"/>
+        <m id="-8675756410241276205-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:06.028"/>
+    </ar>
+    <dp>
+        <m id="3083368504451364056-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:06.028"/>
+        <m id="-8675756410241276205-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:06.028"/>
+    </dp>
+</s>
+
+
+<s id="9161562472128044038-2610230857-3" eva="8000044">
+    <ar ppth="Dortmund Hbf|Köln Hbf" pp="3" pt="2610231113" wings="5017361891589673464-2610230857" l="" fb="ICE 2523">
+        <m id="-5440679946668426194-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+        <m id="8029314354351257960-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+        <m id="8591838826177157743-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+    </ar>
+    <dp ppth="Koblenz Hbf|Mainz Hbf|Mannheim Hbf|Heidelberg Hbf|Vaihingen(Enz)|Stuttgart Hbf" pp="3" pt="2610231114" wings="5017361891589673464-2610230857" l="" fb="ICE 2523">
+        <m id="-5440679946668426194-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+        <m id="8029314354351257960-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+        <m id="8591838826177157743-" t="f" c="0" ts="2610230005" ts-tts="26-10-23 00:05:07.269"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2523"/>
+</s>
+
+
+<s id="-7566186731885125077-2610231313-7" eva="8000044">
+    <m id="7fe08993-d107-47b0-8fbf-e40cf023f184" t="h" from="2610201327" to="2610232047" cat="BAUARBEITEN" ts="2610221730" ts-tts="26-10-22 17:30:02.205" pr="3"/>
+    <ar cpth="Stuttgart Hbf|Vaihingen(Enz)|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf">
+        <m id="2920195268380503994-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:44.546"/>
+        <m id="-4675316464521093290-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:44.546"/>
+    </ar>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf">
+        <m id="2920195268380503994-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:44.546"/>
+        <m id="-4675316464521093290-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:44.546"/>
+    </dp>
+</s>
+
+
+<s id="5899453610275926762-2610231313-7" eva="8000044">
+    <ar ppth="Stuttgart Hbf|Vaihingen(Enz)|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf" pp="1" pt="2610231643" wings="-7566186731885125077-2610231313" l="" fb="ICE 2522">
+        <m id="1873456433636612047-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+        <m id="-8570430128028561730-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+        <m id="2983872771624962856-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+    </ar>
+    <dp ppth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf" pp="1" pt="2610231644" wings="-7566186731885125077-2610231313" l="" fb="ICE 2522">
+        <m id="1873456433636612047-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+        <m id="-8570430128028561730-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+        <m id="2983872771624962856-" t="f" c="0" ts="2610230002" ts-tts="26-10-23 00:02:45.356"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2522"/>
+</s>
+
+
+<s id="3337083331722830688-2610221932-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf" ct="2610222356"/>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf" ct="2610230000"/>
+</s>
+
+
+<s id="-60385797317179959-2610222232-10" eva="8000044">
+    <ar cpth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" ct="2610222353" l="RB26">
+        <m id="-93708999024648451" t="d" c="34" ts="2610222326" ts-tts="26-10-22 23:26:00.003"/>
+    </ar>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf" ct="2610222355" l="RB26">
+        <m id="-93708999024648451" t="d" c="34" ts="2610222326" ts-tts="26-10-22 23:26:00.003"/>
+    </dp>
+</s>
+
+
+<s id="3171053542741982707-2610222306-13" eva="8000044">
+    <ar ct="2610222350" l="S23"/>
+</s>
+
+
+<s id="3246898130497992209-2610222216-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610220230" ts-tts="26-10-22 02:30:01.396" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610220230" ts-tts="26-10-22 02:30:01.396" pr="3"/>
+    <ar ppth="Koblenz Hbf|Koblenz Stadtmitte|Andernach|Bad Breisig|Sinzig(Rhein)|Remagen|Oberwinter|Bonn-Bad Godesberg|Bonn UN Campus" pp="1" ct="2610222322" pt="2610222302" l="RE5" fb="RE5">
+        <m id="-5718909224107316156" t="d" c="48" ts="2610222338" ts-tts="26-10-22 23:38:25.100"/>
+    </ar>
+    <dp ppth="Brühl|Köln Süd|Köln Hbf|Köln Messe/Deutz" pp="1" ct="2610222345" pt="2610222304" l="RE5" fb="RE5">
+        <m id="-5718909224107316156" t="d" c="48" ts="2610222338" ts-tts="26-10-22 23:38:25.100"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28538"/>
+</s>
+
+
+<s id="-875439815476113391-2610222107-14" eva="8000044">
+    <ar cpth="Duisburg Hbf|Düsseldorf Hbf|Leverkusen Mitte|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ppth="Wesel|Friedrichsfeld(Niederrhein)|Voerde(Niederrhein)|Dinslaken|Oberhausen-Holten|Oberhausen-Sterkrade|Duisburg Hbf|Düsseldorf Hbf|Leverkusen Mitte|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" pp="3" ct="2610222341" pt="2610222254" l="RE5" fb="RE5">
+        <m id="--3426701521968239384" t="d" c="38" ts="2610222338" ts-tts="26-10-22 23:38:12.322"/>
+    </ar>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2610222342" pt="2610222256" l="RE5" fb="RE5">
+        <m id="--3426701521968239384" t="d" c="38" ts="2610222338" ts-tts="26-10-22 23:38:12.322"/>
+    </dp>
+    <tl t="p" o="NXRE" c="NX" n="28535"/>
+</s>
+
+
+<s id="6912024936286149124-2610222340-1" eva="8000044">
+    <dp ct="2610222340" l="S23"/>
+</s>
+
+
+<s id="-1456425092807439535-2610222150-9" eva="8000044">
+    <ar ppth="Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf" pp="3" ct="2610222326" pt="2610222224" l="RB26" fb="RB26"/>
+    <dp ppth="Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem|Rolandseck|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Brohl|Namedy|Andernach|Weißenthurm|Mülheim-Kärlich|Koblenz-Lützel|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2610222328" pt="2610222226" l="RB26" fb="RB26"/>
+    <tl t="p" o="TR" c="TR" n="25443"/>
+</s>
+
+
+<s id="-5418965806754525121-2610222205-18" eva="8000044">
+    <ar ct="2610222319" l="S23"/>
+</s>
+
+
+<s id="-8926157399752465663-2610231532-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf"/>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf"/>
+</s>
+
+
+<s id="5572978477671965402-2610231516-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221930" ts-tts="26-10-22 19:30:02.131" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221930" ts-tts="26-10-22 19:30:02.132" pr="3"/>
+</s>
+
+
+<s id="-411399804462636079-2610222310-1" eva="8000044">
+    <dp ct="2610222310" l="S23"/>
+</s>
+
+
+<s id="8570739711458019321-2610221936-7" eva="8000044">
+    <ar ct="2610222257">
+        <m id="4857490828651277254-" t="f" c="0" ts="2610220346" ts-tts="26-10-22 03:46:54.488"/>
+    </ar>
+    <dp ct="2610222304">
+        <m id="4857490828651277254-" t="f" c="0" ts="2610220346" ts-tts="26-10-22 03:46:54.488"/>
+    </dp>
+</s>
+
+
+<s id="8032754537640110209-2610222243-4" eva="8000044">
+    <ar cpth="" ct="2610222253" cs="c" clt="2610222250" l="RB48">
+        <m id="--7941463155769413589" t="d" c="34" ts="2610222246" ts-tts="26-10-22 22:46:57.340"/>
+        <m id="--2206988973053585663" t="d" c="34" ts="2610222251" ts-tts="26-10-22 22:51:33.126"/>
+    </ar>
+    <dp cpth="Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf" ct="2610222254" cs="c" clt="2610222250" l="RB48">
+        <m id="--7941463155769413589" t="d" c="34" ts="2610222246" ts-tts="26-10-22 22:46:57.340"/>
+        <m id="--2206988973053585663" t="d" c="34" ts="2610222251" ts-tts="26-10-22 22:51:33.126"/>
+    </dp>
+</s>
+
+
+<s id="2502816709988337202-2610222240-1" eva="8000044">
+    <dp ct="2610222241" l="S23"/>
+</s>
+
+
+<s id="-6077633102414600845-2610222003-37" eva="8000044">
+    <ar ct="2610222238" l="RB26"/>
+    <dp ct="2610222239" l="RB26"/>
+</s>
+
+
+<s id="5784493696718336260-2610222011-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610220030" ts-tts="26-10-22 00:30:02.324" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610220030" ts-tts="26-10-22 00:30:02.324" pr="3"/>
+    <ar cpth="Duisburg Hbf|Düsseldorf Hbf|Leverkusen Mitte|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" ppth="Wesel|Voerde(Niederrhein)|Dinslaken|Oberhausen-Sterkrade|Duisburg Hbf|Düsseldorf Hbf|Leverkusen Mitte|Köln Messe/Deutz|Köln Hbf|Köln Süd|Brühl" pp="3" ct="2610222231" pt="2610222154" l="RE5" fb="RE5"/>
+    <dp cpth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" ppth="Bonn UN Campus|Bonn-Bad Godesberg|Oberwinter|Remagen|Sinzig(Rhein)|Bad Breisig|Andernach|Koblenz Stadtmitte|Koblenz Hbf" pp="3" ct="2610222232" pt="2610222156" l="RE5" fb="RE5"/>
+    <tl t="p" o="NXRE" c="NX" n="28533"/>
+</s>
+
+
+<s id="747818816323543571-2610222116-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610220130" ts-tts="26-10-22 01:30:02.072" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610220130" ts-tts="26-10-22 01:30:02.072" pr="3"/>
+    <ar ct="2610222216" l="RE5"/>
+    <dp ct="2610222223" l="RE5"/>
+</s>
+
+
+<s id="-8056727995844707975-2610231411-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221830" ts-tts="26-10-22 18:30:01.985" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221830" ts-tts="26-10-22 18:30:01.985" pr="3"/>
+</s>
+
+
+<s id="8597804321112239438-2610222143-4" eva="8000044">
+    <ar cp="2" ct="2610222158" l="RB48"/>
+    <dp cp="2" ct="2610222209" l="RB48"/>
+</s>
+
+
+<s id="1123272061820542344-2610221732-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf" ct="2610222205">
+        <m id="8175167951206133481-" t="f" c="0" ts="2610221648" ts-tts="26-10-22 16:48:36.818"/>
+    </ar>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf" ct="2610222207">
+        <m id="8175167951206133481-" t="f" c="0" ts="2610221648" ts-tts="26-10-22 16:48:36.818"/>
+    </dp>
+</s>
+
+
+<s id="-7164527281878685474-2610230150-9" eva="8000044">
+    <ar cpth="" cs="c" clt="2610222150" l="RB30">
+        <m id="-3827756244986759399--3326454916057605725" t="d" c="37" ts="2610222150" ts-tts="26-10-22 21:50:05.008"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2610222150" l="RB30">
+        <m id="-3827756244986759399--3326454916057605725" t="d" c="37" ts="2610222150" ts-tts="26-10-22 21:50:05.008"/>
+    </dp>
+</s>
+
+
+<s id="-201884062082535749-2610222050-9" eva="8000044">
+    <ar ct="2610222129" l="RB26"/>
+    <dp ct="2610222130" l="RB26"/>
+</s>
+
+
+<s id="4087946231337119022-2610222053-2" eva="8000044">
+    <ar ct="2610222118"/>
+    <dp ct="2610222119"/>
+</s>
+
+
+<s id="652118935727167317-2610231316-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221730" ts-tts="26-10-22 17:30:02.216" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221730" ts-tts="26-10-22 17:30:02.216" pr="3"/>
+</s>
+
+
+<s id="8468774200543133363-2610222016-10" eva="8000044">
+    <ar ct="2610222104" l="RE5"/>
+    <dp ct="2610222105" l="RE5"/>
+</s>
+
+
+<s id="-8862741870757237260-2610221950-9" eva="8000044">
+    <ar ct="2610222046" l="RB26"/>
+    <dp ct="2610222047" l="RB26"/>
+</s>
+
+
+<s id="3319753175041874068-2610221953-2" eva="8000044">
+    <ar ct="2610222018">
+        <m id="-5600298125997608172" t="q" c="90" ts="2610221529" ts-tts="26-10-22 15:29:13.399"/>
+        <m id="-7304025364549486213-" t="f" c="0" ts="2610221529" ts-tts="26-10-22 15:29:46.665"/>
+    </ar>
+    <dp ct="2610222020">
+        <m id="-5600298125997608172" t="q" c="90" ts="2610221529" ts-tts="26-10-22 15:29:13.399"/>
+        <m id="-7304025364549486213-" t="f" c="0" ts="2610221529" ts-tts="26-10-22 15:29:46.665"/>
+    </dp>
+</s>
+
+
+<s id="7010757467826963006-2610231132-8" eva="8000044">
+    <ar cpth="Nürnberg Hbf|Würzburg Hbf|Hanau Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf"/>
+    <dp cpth="Köln Hbf|Wuppertal Hbf|Dortmund Hbf"/>
+</s>
+
+
+<s id="2114646852346876258-2610231116-10" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221530" ts-tts="26-10-22 15:30:02.463" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221530" ts-tts="26-10-22 15:30:02.464" pr="3"/>
+</s>
+
+
+<s id="9094733377247949256-2610231011-12" eva="8000044">
+    <m id="43d06898-ce83-4bed-a8ef-82230d58e465" t="h" from="2610161503" to="2612042100" cat="BAUARBEITEN" ts="2610221430" ts-tts="26-10-22 14:30:02.039" pr="3"/>
+    <m id="e3154eed-d31c-4aca-81b2-028dc6f704b8" t="h" from="2610201201" to="2610302100" cat="BAUARBEITEN" ts="2610221430" ts-tts="26-10-22 14:30:02.039" pr="3"/>
+</s>
+
+
+<s id="542680258128049209-2610230616-3" eva="8000044">
+    <ar cpth="Dortmund Hbf|Wuppertal Hbf|Köln Hbf"/>
+    <dp cpth="Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Hanau Hbf|Würzburg Hbf|Nürnberg Hbf"/>
+</s>
+
+</timetable>
