@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Bamberg">
+	<s id="1631808117724295962-2610250544-13">
+		<tl f="N" t="p" o="800755" c="RE" n="4943"/>
+		<ar pt="2610250634" pp="6" l="RE28" fb="RE28" ppth="Coburg|Creidlitz|Grub am Forst|Ebersdorf(b Coburg)|Schney|Lichtenfels|Bad Staffelstein|Ebensfeld|Zapfendorf|Ebing|Breitengüßbach|Hallstadt(b Bamberg)"/>
+	</s>
+	<s id="1632828310028148178-2610250603-9">
+		<tl f="N" t="p" o="800755" c="RE" n="4903"/>
+		<ar pt="2610250655" pp="4" l="RE19" fb="RE19" ppth="Sonneberg(Thür)Hbf|Neustadt(b Coburg)|Mönchröden|Rödental Mitte|Rödental|Dörfles-Esbach|Coburg Nord|Coburg"/>
+	</s>
+	<s id="-4955810515801327435-2610250625-1">
+		<tl f="N" t="p" o="800755" c="RE" n="4782"/>
+		<dp pt="2610250625" pp="8" l="RE20" fb="RE20" ppth="Haßfurt|Schweinfurt Hbf|Würzburg Hbf"/>
+	</s>
+	<s id="-409990580898757020-2610250627-1">
+		<tl f="N" t="p" o="800755" c="RE" n="4980"/>
+		<dp pt="2610250627" pp="6" l="RE14" fb="RE14" ppth="Breitengüßbach|Zapfendorf|Ebensfeld|Bad Staffelstein|Lichtenfels|Hochstadt-Marktzeuln|Kronach|Gundelsdorf|Stockheim(Oberfr)|Pressig-Rothenkirchen|Förtschendorf|Steinbach am Wald|Ludwigsstadt|Probstzella|Unterloquitz|Kaulsdorf(Saale)|Breternitz|Saalfeld(Saale)"/>
+	</s>
+	<s id="3830467640760360503-2610250632-1">
+		<tl f="N" t="p" o="800714" c="RB" n="58012"/>
+		<dp pt="2610250632" pp="1" l="RB53" fb="RB53" ppth="Oberhaid|Ebelsbach-Eltmann|Zeil|Haßfurt|Schonungen|Schweinfurt Stadt|Schweinfurt Mitte|Schweinfurt Hbf|Waigolshausen|Eßleben|Bergtheim|Seligenstadt(b Würzburg)|Rottendorf|Würzburg Hbf|Würzburg-Zell|Veitshöchheim|Thüngersheim|Retzbach-Zellingen|Himmelstadt|Karlstadt(Main)|Wernfeld|Gemünden(Main)|Rieneck|Burgsinn|Mittelsinn|Obersinn|Jossa"/>
+	</s>
+	<s id="3643530280569690631-2610250640-1">
+		<tl f="N" t="p" o="800759" c="RE" n="3001"/>
+		<dp pt="2610250640" pp="4" l="RE35" fb="RE35" wings="8294584516510842367-2610250640" ppth="Bad Staffelstein|Lichtenfels|Hochstadt-Marktzeuln|Burgkunstadt|Mainleus|Kulmbach|Neuenmarkt-Wirsberg|Marktschorgast|Stammbach|Münchberg|Schwarzenbach(Saale)|Hof Hbf"/>
+		<tra t="v" id="-8771149711235638727" ref-to="8294584516510842367-2610250640" s="a" o="p" jt="j"/>
+	</s>
+	<s id="8294584516510842367-2610250640-1">
+		<tl f="N" t="p" o="800759" c="RE" n="3400"/>
+		<dp pt="2610250640" pp="4" l="RE38" fb="RE38" ppth="Bad Staffelstein|Lichtenfels|Hochstadt-Marktzeuln|Burgkunstadt|Mainleus|Kulmbach|Neuenmarkt-Wirsberg|Trebgast|Bayreuth Hbf|Pegnitz|Hersbruck(r Pegnitz)|Nürnberg Hbf"/>
+		<tra t="v" id="-8771149711235638727" ref-from="3643530280569690631-2610250640" s="a" o="p" jt="j"/>
+	</s>
+</timetable>
