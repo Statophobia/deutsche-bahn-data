@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Potsdamer Platz">
+	<s id="-4243497460615869969-2610272105-13">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62034"/>
+		<ar pt="2610272247" pp="1" l="RE8" fb="RE8" ppth="Wittenberge|Bad Wilsnack|Glöwen|Breddin|Neustadt(Dosse)|Friesack(Mark)|Paulinenaue|Nauen|Falkensee|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf"/>
+		<dp pt="2610272248" pp="1" l="RE8" fb="RE8" ppth="Berlin Südkreuz|Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)"/>
+	</s>
+	<s id="2564341677225037754-2610272120-10">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62037"/>
+		<ar pt="2610272211" pp="4" l="RE8" fb="RE8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Berlin Südkreuz"/>
+		<dp pt="2610272212" pp="4" l="RE8" fb="RE8" ppth="Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen|Paulinenaue|Friesack(Mark)|Neustadt(Dosse)|Breddin|Glöwen|Bad Wilsnack|Wittenberge"/>
+	</s>
+	<s id="-8506657451205902759-2610272133-10">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62083"/>
+		<ar pt="2610272216" pp="1" l="RB10" fb="RB10" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf"/>
+		<dp pt="2610272217" pp="1" l="RB10" fb="RB10" ppth="Berlin Südkreuz"/>
+	</s>
+	<s id="-4530744212749064002-2610272201-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21948"/>
+		<ar pt="2610272220" pp="4" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Südkreuz"/>
+		<dp pt="2610272221" pp="4" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+	</s>
+	<s id="4930757697825694726-2610272207-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21951"/>
+		<ar pt="2610272210" pp="1" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+		<dp pt="2610272211" pp="1" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Flughafen BER"/>
+	</s>
+	<s id="8101959948247552571-2610272221-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21953"/>
+		<ar pt="2610272224" pp="1" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+		<dp pt="2610272226" pp="1" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Flughafen BER"/>
+	</s>
+	<s id="2990849633751260194-2610272231-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21952"/>
+		<ar pt="2610272249" pp="4" l="FEX" fb="FEX" ppth="Flughafen BER|Berlin Südkreuz"/>
+		<dp pt="2610272250" pp="4" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-8398605960620882941-2610272238-2">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62084"/>
+		<ar pt="2610272241" pp="4" l="RB10" fb="RB10" ppth="Berlin Südkreuz"/>
+		<dp pt="2610272242" pp="4" l="RB10" fb="RB10" ppth="Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-4301138458196909304-2610272252-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21957"/>
+		<ar pt="2610272255" pp="1" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+		<dp pt="2610272256" pp="1" l="FEX" fb="FEX" ppth="Berlin Südkreuz|Flughafen BER"/>
+	</s>
+</timetable>
