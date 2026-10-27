@@ -40,11 +40,6 @@
 		<ar pt="2610272125" pp="6 A-C" fb="ICE 221" ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen-Sterkrade|Düsseldorf Hbf"/>
 		<dp pt="2610272132" pp="6 A-C" fb="ICE 221" ppth="Siegburg/Bonn|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
 	</s>
-	<s id="6918490712666336808-2610271836-8">
-		<tl f="N" t="p" o="800352" c="RE" n="10040"/>
-		<ar pt="2610272139" pp="1 A-C" l="RE22" fb="RE22" pde="Trier Hbf" ppth="Kall|Mechernich|Euskirchen|Weilerswist|Erftstadt|Köln Süd|Köln West"/>
-		<dp pt="2610272142" pp="1 A-C" l="RE22" fb="RE22" hi="1" ppth="Köln Messe/Deutz"/>
-	</s>
 	<s id="5268242451257549226-2610271901-6">
 		<tl f="F" t="p" o="80" c="ICE" n="313"/>
 		<ar pt="2610272124" pp="5" fb="ICE 313" ppth="Antwerpen Centraal|Brussels Airport - Zaventem|Leuven|Liège-Guillemins|Aachen Hbf"/>
@@ -238,5 +233,10 @@
 	<s id="102731739506285413-2610272152-1">
 		<tl t="p" o="NXRB" c="NX" n="17372"/>
 		<dp pt="2610272152" pp="1 A-C" l="RB48" fb="RB48" ppth="Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen|Solingen Hbf|Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="7606512137013675791-2610272115-2">
+		<tl f="N" t="p" o="800352" c="RE" n="10045"/>
+		<ar pt="2610272118" pp="8 D-G" l="RE22" fb="RE22" ppth="Köln Messe/Deutz"/>
+		<dp pt="2610272121" pp="8 D-G" l="RE22" fb="RE22" pde="Gerolstein" ppth="Köln West|Köln Süd|Erftstadt|Weilerswist|Euskirchen|Mechernich|Kall"/>
 	</s>
 </timetable>
