@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<timetable station="Potsdam Hbf">
+	<s id="-5899264862262690222-2610300530-4">
+		<tl f="F" t="p" o="80" c="ICE" n="851"/>
+		<ar pt="2610300759" pp="4" fb="ICE 851" ppth="Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf"/>
+		<dp pt="2610300801" pp="4" fb="ICE 851" hi="1" ppth="Berlin Hbf"/>
+	</s>
+	<s id="7968126570757711809-2610300705-10">
+		<tl f="N" t="p" o="800165" c="RB" n="18455"/>
+		<ar pt="2610300815" pp="4" l="RB20" fb="RB20" wings="-1473416507389876475-2610300708" ppth="Oranienburg|Birkenwerder(b Berlin)|Hohen Neuendorf West|Hennigsdorf(b Berlin)|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof"/>
+		<dp pt="2610300817" pp="4" l="RB20" fb="RB20" wings="-1473416507389876475-2610300708" ppth="Potsdam Griebnitzsee"/>
+		<tra t="v" id="-4441393075363935645" ref-to="-1473416507389876475-2610300708" s="a" o="p"/>
+	</s>
+	<s id="-1473416507389876475-2610300708-9">
+		<tl f="N" t="p" o="800165" c="RB" n="18107"/>
+		<ar pt="2610300815" pp="4" l="RB22" fb="RB22" ppth="Königs Wusterhausen|Flughafen BER|Ludwigsfelde-Struveshof|Saarmund|Potsdam Pirschheide|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof"/>
+		<dp pt="2610300817" pp="4" l="RB22" fb="RB22" ppth="Potsdam Griebnitzsee"/>
+		<tra t="v" id="-4441393075363935645" ref-from="7968126570757711809-2610300705" s="a" o="p"/>
+	</s>
+	<s id="6720096508711541321-2610300711-13">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62129"/>
+		<ar pt="2610300819" pp="2" l="RB33" fb="RB33" ppth="Jüterbog|Altes Lager|Treuenbrietzen Süd|Treuenbrietzen|Buchholz(Zauche)|Elsholz|Beelitz Stadt|Ferch-Lienewitz|Caputh Schwielowsee|Caputh-Geltow|Potsdam Pirschheide|Potsdam Charlottenhof"/>
+	</s>
+	<s id="-1233923121096426430-2610300712-7">
+		<tl f="N" t="p" o="800165" c="RB" n="18247"/>
+		<ar pt="2610300820" pp="3" l="RB21" fb="RB21" ppth="Hennigsdorf(b Berlin)|Falkensee|Berlin-Spandau|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Griebnitzsee"/>
+		<dp pt="2610300823" pp="3" l="RB21" fb="RB21" ppth="Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort"/>
+	</s>
+	<s id="673544714985115962-2610300712-12">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73719"/>
+		<ar pt="2610300829" pp="4" l="RE1" fb="RE1" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)"/>
+		<dp pt="2610300832" pp="4" l="RE1" fb="RE1" ppth="Berlin-Wannsee|Berlin-Charlottenburg"/>
+	</s>
+	<s id="-3811000113167125819-2610300732-2">
+		<tl f="F" t="p" o="80" c="ICE" n="642"/>
+		<ar pt="2610300758" pp="3" fb="ICE 642" hi="1" ppth="Berlin Hbf"/>
+		<dp pt="2610300800" pp="3" fb="ICE 642" ppth="Braunschweig Hbf|Hannover Hbf|Minden(Westf)|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf"/>
+	</s>
+	<s id="-3302139211229248829-2610300744-5">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73759"/>
+		<ar pt="2610300808" pp="4" l="RE1" fb="RE1" ppth="Brandenburg Hbf|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof"/>
+		<dp pt="2610300810" pp="4" l="RE1" fb="RE1" ppth="Berlin-Wannsee|Berlin-Charlottenburg"/>
+	</s>
+	<s id="4996472133094835898-2610300750-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73806"/>
+		<ar pt="2610300805" pp="3" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee"/>
+		<dp pt="2610300807" pp="3" l="RE1" fb="RE1" ppth="Werder(Havel)|Brandenburg Hbf"/>
+	</s>
+	<s id="8016536011369243385-2610300812-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73722"/>
+		<ar pt="2610300829" pp="3" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee"/>
+		<dp pt="2610300831" pp="3" l="RE1" fb="RE1" ppth="Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf"/>
+	</s>
+	<s id="6474452278676622615-2610300814-6">
+		<tl f="N" t="p" o="800165" c="RB" n="18248"/>
+		<ar pt="2610300837" pp="4" l="RB21" fb="RB21" ppth="Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof"/>
+		<dp pt="2610300841" pp="4" l="RB21" fb="RB21" ppth="Potsdam Griebnitzsee|Berlin-Wannsee|Berlin-Charlottenburg|Berlin-Spandau|Falkensee|Hennigsdorf(b Berlin)"/>
+	</s>
+	<s id="2195126659921389481-2610300822-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73809"/>
+		<ar pt="2610300846" pp="4" l="RE1" fb="RE1" ppth="Brandenburg Hbf|Werder(Havel)"/>
+		<dp pt="2610300849" pp="4" l="RE1" fb="RE1" ppth="Berlin-Wannsee|Berlin-Charlottenburg"/>
+	</s>
+	<s id="1814597554532870017-2610300834-3">
+		<tl f="D" t="p" o="OWRE" c="OE" n="73764"/>
+		<ar pt="2610300851" pp="3" l="RE1" fb="RE1" ppth="Berlin-Charlottenburg|Berlin-Wannsee"/>
+		<dp pt="2610300853" pp="3" l="RE1" fb="RE1" ppth="Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Brandenburg Hbf"/>
+	</s>
+	<s id="6189510013847713023-2610300839-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18110"/>
+		<ar pt="2610300843" pp="3" l="RB22" fb="RB22" wings="3867844805049490573-2610300839" ppth="Potsdam Griebnitzsee"/>
+		<dp pt="2610300847" pp="3" l="RB22" fb="RB22" wings="3867844805049490573-2610300839" ppth="Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Potsdam Pirschheide|Saarmund|Ludwigsfelde-Struveshof|Flughafen BER|Königs Wusterhausen"/>
+		<tra t="v" id="-8852271937912110358" ref-to="3867844805049490573-2610300839" s="a" o="p"/>
+	</s>
+	<s id="3867844805049490573-2610300839-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18458"/>
+		<ar pt="2610300843" pp="3" l="RB20" fb="RB20" ppth="Potsdam Griebnitzsee"/>
+		<dp pt="2610300847" pp="3" l="RB20" fb="RB20" ppth="Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Hennigsdorf(b Berlin)|Hohen Neuendorf West|Birkenwerder(b Berlin)|Oranienburg"/>
+		<tra t="v" id="-8852271937912110358" ref-from="6189510013847713023-2610300839" s="a" o="p"/>
+	</s>
+	<s id="-157806024923752776-2610300842-1">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62128"/>
+		<dp pt="2610300842" pp="2" l="RB33" fb="RB33" ppth="Potsdam Charlottenhof|Potsdam Pirschheide|Caputh-Geltow|Caputh Schwielowsee|Ferch-Lienewitz|Beelitz Stadt|Elsholz|Buchholz(Zauche)|Treuenbrietzen|Treuenbrietzen Süd|Altes Lager|Jüterbog"/>
+	</s>
+</timetable>
