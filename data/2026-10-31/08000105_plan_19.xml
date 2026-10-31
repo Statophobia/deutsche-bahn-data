@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<timetable station="Frankfurt(Main)Hbf">
+	<s id="9020405910371587564-2610311411-12">
+		<tl f="F" t="p" o="80" c="ICE" n="675"/>
+		<ar pt="2610311908" pp="8" fb="ICE 675" ppth="Hamburg Hbf|Hamburg-Harburg|Lüneburg|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Wabern(Bz Kassel)|Treysa|Marburg(Lahn)|Gießen|Friedberg(Hess)"/>
+	</s>
+	<s id="3366099886625871029-2610311416-8">
+		<tl f="F" t="p" o="80" c="ICE" n="773"/>
+		<ar pt="2610311914" pp="7" fb="ICE 773" ppth="Kiel Hbf|Neumünster|Hamburg-Harburg|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe"/>
+		<dp pt="2610311920" pp="7" fb="ICE 773" ppth="Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+	<s id="2998770966738646951-2610311509-9">
+		<tl f="F" t="p" o="80" c="ICE" n="693"/>
+		<ar pt="2610311944" pp="7" fb="ICE 693" ppth="Berlin Gesundbrunnen|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach Hbf|Fulda"/>
+		<dp pt="2610311950" pp="7" fb="ICE 693" ppth="Mannheim Hbf|Stuttgart Hbf|Ulm Hbf|Augsburg Hbf|München-Pasing|München Hbf"/>
+	</s>
+	<s id="7866557424441304346-2610311521-5">
+		<tl f="F" t="p" o="87" c="ICE" n="9563"/>
+		<ar pt="2610311927" pp="1" fb="ICE 9563" ppth="Paris Est|Strasbourg|Kehl|Karlsruhe Hbf"/>
+	</s>
+	<s id="4992819178731237054-2610311625-7">
+		<tl f="F" t="p" o="80" c="ICE" n="317"/>
+		<ar pt="2610311927" pp="1" fb="ICE 317" ppth="Bruxelles Midi|Bruxelles-Nord|Liège-Guillemins|Aachen Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf"/>
+	</s>
+	<s id="-394564232498542128-2610311651-20">
+		<tl t="p" o="V6RE" c="vlx" n="29527"/>
+		<ar pt="2610311951" pp="20" l="RE3" fb="RE3" ppth="Saarbrücken Hbf|Neunkirchen(Saar)Hbf|Ottweiler(Saar)|St Wendel|Türkismühle|Neubrücke(Nahe)|Idar-Oberstein|Kirn|Bad Sobernheim|Staudernheim|Bad Münster a Stein|Bad Kreuznach|Ingelheim|Mainz Hbf|Mainz Römisches Theater|Mainz-Bischofsheim|Rüsselsheim|Frankfurt(M) Flughafen Regionalbf|Frankfurt-Niederrad"/>
+	</s>
+	<s id="-7233482064604777474-2610311702-21">
+		<tl f="D" t="p" o="K4RE" c="HLB" n="15015"/>
+		<ar pt="2610311939" pp="15" l="RE98" fb="RE98" wings="2848454490876459550-2610311754" ppth="Kassel Hbf|Kassel-Wilhelmshöhe|Baunatal-Guntershausen|Edermünde-Grifte|Felsberg-Wolfershausen|Felsberg-Altenbrunslar|Felsberg-Gensungen|Wabern(Bz Kassel)|Singlis|Borken(Hess)|Zimmersrode|Schlierbach(Schwalm-Eder-Kr.)|Treysa|Schwalmstadt-Wiera|Neustadt(Kr Marburg)|Stadtallendorf|Kirchhain(Bz Kassel)|Marburg(Lahn)|Gießen|Friedberg(Hess)"/>
+		<tra t="v" id="1818025902027932459" ref-to="2848454490876459550-2610311754" s="a" o="p" jt="s"/>
+	</s>
+	<s id="3066189143901278962-2610311737-18">
+		<tl f="N" t="p" o="800772" c="RE" n="4626"/>
+		<ar pt="2610311928" pp="7" l="RE55" fb="RE55" ppth="Würzburg Hbf|Retzbach-Zellingen|Karlstadt(Main)|Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Aschaffenburg Hbf|Kleinostheim|Dettingen(Main)|Kahl(Main)|Wolfgang(Kr Hanau)|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd"/>
+	</s>
+	<s id="2848454490876459550-2610311754-8">
+		<tl f="D" t="p" o="K4RE" c="HLB" n="15115"/>
+		<ar pt="2610311939" pp="15" l="RE99" fb="RE99" ppth="Siegen Hbf|Haiger|Dillenburg|Herborn(Dillkr)|Wetzlar|Gießen|Friedberg(Hess)"/>
+		<tra t="v" id="1818025902027932459" ref-from="-7233482064604777474-2610311702" s="a" o="p" jt="s"/>
+	</s>
+	<s id="-7793310811101471294-2610311806-17">
+		<tl f="D" t="p" o="R4" c="VIA" n="25184"/>
+		<ar pt="2610311932" pp="13" l="RB82" fb="RB82" ppth="Erbach(Odenw)|Erbach(Odenw) Nord|Michelstadt|Bad König Zell|Bad König|Höchst Mümling-Grumbach|Höchst(Odenw)|Höchst Hetschbach|Groß-Umstadt Wiebelsbach|Otzberg Lengfeld|Reinheim(Odenw)|Ober Ramstadt|Mühltal|Darmstadt TU-Lichtwiese|Darmstadt Ost|Darmstadt Nord"/>
+	</s>
+	<s id="-3134075690467254387-2610311807-16">
+		<tl f="N" t="p" o="8005ND" c="RB" n="15739"/>
+		<ar pt="2610311913" pp="14" l="RB34" fb="RB34" ppth="Glauburg-Stockheim|Glauburg-Glauberg|Altenstadt-Lindheim|Altenstadt(Hess)|Altenstadt-Höchst|Nidderau-Eichen|Nidderau|Nidderau-Windecken|Schöneck-Büdesheim|Schöneck-Kilianstädten|Schöneck-Oberdorfelden|Niederdorfelden|Bad Vilbel-Gronau|Bad Vilbel|Frankfurt(Main)West"/>
+	</s>
+	<s id="-4955847119807180491-2610311812-13">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4533"/>
+		<ar pt="2610311933" pp="9" l="RE50" fb="RE50" ppth="Fulda|Neuhof(Kr Fulda)|Flieden|Schlüchtern|Steinau(Straße)|Bad Soden-Salmünster|Wächtersbach|Gelnhausen|Langenselbold|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd"/>
+	</s>
+	<s id="895338070731693269-2610311816-13">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15533"/>
+		<ar pt="2610311910" pp="8" l="RB51" fb="RB51" ppth="Wächtersbach|Wirtheim|Haitz-Höchst|Gelnhausen|Hailer-Meerholz|Niedermittlau|Langenselbold|Rodenbach(b Hanau)|Wolfgang(Kr Hanau)|Hanau Hbf|Offenbach(Main)Hbf|Frankfurt(Main)Süd"/>
+	</s>
+	<s id="547902814442992204-2610311816-12">
+		<tl f="N" t="p" o="800574" c="RE" n="4676"/>
+		<ar pt="2610311925" pp="10" l="RE60" fb="RE60" ppth="Mannheim Hbf|Neu-Edingen/Friedrichsfeld|Ladenburg|Weinheim(Bergstr)Hbf|Hemsbach|Heppenheim(Bergstr)|Bensheim|Zwingenberg(Bergstr)|Bickenbach(Bergstr)|Darmstadt Hbf|Langen(Hess)"/>
+	</s>
+	<s id="5730753109994065604-2610311818-21">
+		<tl f="N" t="p" o="800574" c="RB" n="15328"/>
+		<ar pt="2610311947" pp="10" l="RB68" fb="RB68" ppth="Heidelberg Hbf|Heidelberg-Pfaffengrund/Wieblingen|Neu-Edingen/Friedrichsfeld|Ladenburg|Heddesheim/Hirschberg|Weinheim-Lützelsachsen|Weinheim(Bergstr)Hbf|Weinheim-Sulzbach|Hemsbach|Laudenbach(Bergstr)|Heppenheim(Bergstr)|Bensheim|Bensheim-Auerbach|Zwingenberg(Bergstr)|Hähnlein-Alsbach|Bickenbach(Bergstr)|Darmstadt-Eberstadt|Darmstadt Süd|Darmstadt Hbf|Langen(Hess)"/>
+	</s>
+	<s id="5163851623069289068-2610311819-6">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24859"/>
+		<ar pt="2610311917" pp="13" l="RB40" fb="RB40" ppth="Gießen|Butzbach|Bad Nauheim|Friedberg(Hess)|Frankfurt(Main)West"/>
+	</s>
+	<s id="-7023293033794470901-2610311819-13">
+		<tl f="N" t="p" o="800553" c="RB" n="15277"/>
+		<ar pt="2610311929" pp="21" l="RB22" fb="RB22" ppth="Limburg(Lahn)|Eschhofen|Lindenholzhausen|Niederbrechen|Oberbrechen|Niederselters|Bad Camberg|Wörsdorf|Idstein(Taunus)|Niedernhausen(Taunus)|Hofheim(Taunus)|Frankfurt-Höchst"/>
+	</s>
+	<s id="-5251979787845317603-2610311826-3">
+		<tl f="F" t="p" o="80" c="ICE" n="1657"/>
+		<ar pt="2610311913" pp="6" fb="ICE 1657" ppth="Wiesbaden Hbf|Frankfurt(M) Flughafen Fernbf"/>
+		<dp pt="2610311919" pp="6" fb="ICE 1657" ppth="Fulda|Bad Hersfeld|Eisenach Hbf|Gotha|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf"/>
+	</s>
+	<s id="-5130504330909114201-2610311828-10">
+		<tl f="S" t="p" o="800528" c="S" n="35762"/>
+		<ar pt="2610311906" pp="18" l="S7" fb="S7" ppth="Riedstadt-Goddelau|Riedstadt-Wolfskehlen|Groß Gerau-Dornheim|Groß Gerau-Dornberg|Mörfelden|Walldorf(Hess)|Zeppelinheim|Frankfurt am Main - Stadion|Frankfurt-Niederrad"/>
+	</s>
+	<s id="1407594009417555306-2610311829-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1613"/>
+		<ar pt="2610311949" pp="19" fb="ICE 1613" ppth="Köln Hbf|Siegburg/Bonn|Montabaur|Limburg Süd|Frankfurt(M) Flughafen Fernbf"/>
+	</s>
+	<s id="1732020541759569861-2610311832-10">
+		<tl f="N" t="p" o="RSTN" c="RB" n="21556"/>
+		<ar pt="2610311910" pp="22" l="RB12" fb="RB12" ppth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst"/>
+	</s>
+	<s id="-6778224917086060430-2610311832-3">
+		<tl f="D" t="p" o="R4RH" c="VIA" n="25027"/>
+		<ar pt="2610311918" pp="21" l="RB10" fb="RB10" ppth="Wiesbaden Hbf|Mainz-Kastel"/>
+	</s>
+	<s id="5479916749766899609-2610311832-11">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24647"/>
+		<ar pt="2610311925" pp="15" l="RB37" fb="RB37" ppth="Gießen|Großen Linden|Lang Göns|Kirch Göns|Butzbach|Ostheim(b Butzbach)|Bad Nauheim|Friedberg(Hess)|Bad Vilbel|Frankfurt(Main)West"/>
+	</s>
+	<s id="4752503104931124524-2610311835-13">
+		<tl f="N" t="p" o="800574" c="RE" n="4578"/>
+		<ar pt="2610311940" pp="17" l="RE70" fb="RE70" ppth="Mannheim Hbf|Lampertheim|Bürstadt|Biblis|Groß-Rohrheim|Gernsheim|Biebesheim|Stockstadt(Rhein)|Riedstadt-Goddelau|Groß Gerau-Dornberg|Walldorf(Hess)|Frankfurt-Niederrad"/>
+	</s>
+	<s id="8517328876761492547-2610311858-10">
+		<tl f="S" t="p" o="800528" c="S" n="35764"/>
+		<ar pt="2610311934" pp="18" l="S7" fb="S7" ppth="Riedstadt-Goddelau|Riedstadt-Wolfskehlen|Groß Gerau-Dornheim|Groß Gerau-Dornberg|Mörfelden|Walldorf(Hess)|Zeppelinheim|Frankfurt am Main - Stadion|Frankfurt-Niederrad"/>
+	</s>
+	<s id="2558275124303017823-2610311900-1">
+		<tl f="S" t="p" o="800528" c="S" n="35763"/>
+		<dp pt="2610311900" pp="18" l="S7" fb="S7" ppth="Frankfurt-Niederrad|Frankfurt am Main - Stadion|Zeppelinheim|Walldorf(Hess)|Mörfelden|Groß Gerau-Dornberg|Groß Gerau-Dornheim|Riedstadt-Wolfskehlen|Riedstadt-Goddelau"/>
+	</s>
+	<s id="-7749382620581494990-2610311902-10">
+		<tl f="N" t="p" o="RSTN" c="RB" n="21558"/>
+		<ar pt="2610311940" pp="22" l="RB12" fb="RB12" ppth="Königstein(Taunus)|Schneidhain|Kelkheim-Hornau|Kelkheim|Kelkheim-Münster|Liederbach|Liederbach-Süd|Frankfurt-Unterliederbach|Frankfurt-Höchst"/>
+	</s>
+	<s id="-7030463320599524849-2610311906-1">
+		<tl f="N" t="p" o="800574" c="RB" n="15331"/>
+		<dp pt="2610311906" pp="10" l="RB68" fb="RB68" ppth="Langen(Hess)|Darmstadt Hbf|Darmstadt Süd|Darmstadt-Eberstadt|Bickenbach(Bergstr)|Hähnlein-Alsbach|Zwingenberg(Bergstr)|Bensheim-Auerbach|Bensheim|Heppenheim(Bergstr)|Laudenbach(Bergstr)|Hemsbach|Weinheim-Sulzbach|Weinheim(Bergstr)Hbf|Weinheim-Lützelsachsen|Heddesheim/Hirschberg|Ladenburg|Neu-Edingen/Friedrichsfeld|Heidelberg-Pfaffengrund/Wieblingen|Heidelberg Hbf"/>
+	</s>
+	<s id="-4356853165457193863-2610311909-1">
+		<tl f="N" t="p" o="800640" c="RE" n="4264"/>
+		<dp pt="2610311909" pp="20" l="RE2" fb="RE2" ppth="Frankfurt-Niederrad|Frankfurt(M) Flughafen Regionalbf|Rüsselsheim|Mainz-Bischofsheim|Mainz Römisches Theater|Mainz Hbf|Ingelheim|Bingen(Rhein) Hbf|Bacharach|Oberwesel|Boppard Hbf|Koblenz Hbf"/>
+	</s>
+	<s id="-5717539657850502625-2610311912-2">
+		<tl f="D" t="p" o="R4" c="VIA" n="25252"/>
+		<ar pt="2610311918" pp="11" l="RE85" fb="RE85" ppth="Frankfurt(Main)Süd"/>
+	</s>
+	<s id="3867960889541770596-2610311915-1">
+		<tl f="N" t="p" o="8005A4" c="RB" n="15485"/>
+		<dp pt="2610311915" pp="12" l="RB61" fb="RB61" ppth="Neu-Isenburg|Dreieich-Buchschlag|Dreieich-Sprendlingen|Dreieich-Weibelfeld|Dreieich-Dreieichenhain|Dreieich-Götzenhain|Dreieich-Offenthal|Rödermark-Urberach|Rödermark-Ober Roden|Eppertshausen|Münster(Hessen)|Dieburg"/>
+	</s>
+	<s id="4066388296388261554-2610311917-1">
+		<tl f="N" t="p" o="RSTN" c="RB" n="21557"/>
+		<dp pt="2610311917" pp="22" l="RB12" fb="RB12" ppth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)"/>
+	</s>
+	<s id="-3230281095650007512-2610311920-1">
+		<tl f="N" t="p" o="800574" c="RE" n="4581"/>
+		<dp pt="2610311920" pp="17" l="RE70" fb="RE70" ppth="Frankfurt-Niederrad|Walldorf(Hess)|Groß Gerau-Dornberg|Riedstadt-Goddelau|Stockstadt(Rhein)|Biebesheim|Gernsheim|Groß-Rohrheim|Biblis|Bürstadt|Lampertheim|Mannheim Hbf"/>
+	</s>
+	<s id="-7908451041935798366-2610311920-1">
+		<tl f="N" t="p" o="8005MW" c="RE" n="4164"/>
+		<dp pt="2610311920" pp="15" l="RE30" fb="RE30" ppth="Friedberg(Hess)|Gießen|Marburg(Lahn)|Kirchhain(Bz Kassel)|Stadtallendorf|Neustadt(Kr Marburg)|Treysa|Borken(Hess)|Wabern(Bz Kassel)|Kassel-Wilhelmshöhe|Kassel Hbf"/>
+	</s>
+	<s id="9112893064709251162-2610311924-1">
+		<tl f="D" t="p" o="R4" c="VIA" n="25183"/>
+		<dp pt="2610311924" pp="11" l="RB82" fb="RB82" ppth="Darmstadt Nord|Darmstadt Ost|Darmstadt TU-Lichtwiese|Mühltal|Ober Ramstadt|Reinheim(Odenw)|Otzberg Lengfeld|Groß-Umstadt Wiebelsbach|Höchst Hetschbach|Höchst(Odenw)|Höchst Mümling-Grumbach|Bad König|Bad König Zell|Michelstadt|Erbach(Odenw) Nord|Erbach(Odenw)"/>
+	</s>
+	<s id="8425980936755347637-2610311924-1">
+		<tl f="N" t="p" o="8005KG" c="RE" n="4534"/>
+		<dp pt="2610311924" pp="8" l="RE50" fb="RE50" ppth="Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Langenselbold|Gelnhausen|Wächtersbach|Bad Soden-Salmünster|Steinau(Straße)|Schlüchtern|Flieden|Neuhof(Kr Fulda)|Fulda|Hünfeld|Bad Hersfeld|Bebra"/>
+	</s>
+	<s id="3700953348755924613-2610311928-1">
+		<tl f="S" t="p" o="800528" c="S" n="35765"/>
+		<dp pt="2610311928" pp="18" l="S7" fb="S7" ppth="Frankfurt-Niederrad|Frankfurt am Main - Stadion|Zeppelinheim|Walldorf(Hess)|Mörfelden|Groß Gerau-Dornberg|Groß Gerau-Dornheim|Riedstadt-Wolfskehlen|Riedstadt-Goddelau"/>
+	</s>
+	<s id="8614367859162303290-2610311928-1">
+		<tl f="N" t="p" o="800772" c="RE" n="4629"/>
+		<dp pt="2610311928" pp="5" l="RE54" fb="RE54" ppth="Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Wolfgang(Kr Hanau)|Kahl(Main)|Dettingen(Main)|Kleinostheim|Aschaffenburg Hbf|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)|Karlstadt(Main)|Retzbach-Zellingen|Würzburg Hbf|Schweinfurt Hbf|Haßfurt|Bamberg"/>
+	</s>
+	<s id="-3734919257376569162-2610311929-1">
+		<tl f="N" t="p" o="800553" c="RB" n="15284"/>
+		<dp pt="2610311929" pp="24" l="RB22" fb="RB22" ppth="Frankfurt-Höchst|Hofheim(Taunus)|Niedernhausen(Taunus)|Idstein(Taunus)|Wörsdorf|Bad Camberg|Niederselters|Oberbrechen|Niederbrechen|Lindenholzhausen|Eschhofen|Limburg(Lahn)"/>
+	</s>
+	<s id="-8714161485926205528-2610311933-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24650"/>
+		<dp pt="2610311933" pp="15" l="RB37" fb="RB37" ppth="Frankfurt(Main)West|Bad Vilbel|Friedberg(Hess)|Bad Nauheim|Ostheim(b Butzbach)|Butzbach|Kirch Göns|Lang Göns|Großen Linden|Gießen"/>
+	</s>
+	<s id="3110338756521254946-2610311934-1">
+		<tl f="N" t="p" o="800574" c="RE" n="4679"/>
+		<dp pt="2610311934" pp="10" l="RE60" fb="RE60" ppth="Langen(Hess)|Darmstadt Hbf|Bickenbach(Bergstr)|Zwingenberg(Bergstr)|Bensheim|Heppenheim(Bergstr)|Hemsbach|Weinheim(Bergstr)Hbf|Ladenburg|Neu-Edingen/Friedrichsfeld|Mannheim Hbf"/>
+	</s>
+	<s id="2576231255055476975-2610311934-1">
+		<tl f="F" t="p" o="80" c="ICE" n="120"/>
+		<dp pt="2610311934" pp="2" fb="ICE 120" ppth="Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Oberhausen Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal"/>
+	</s>
+	<s id="-4839960670520454259-2610311938-1">
+		<tl f="D" t="p" o="R4" c="VIA" n="25155"/>
+		<dp pt="2610311938" pp="11" l="RE85" fb="RE85" ppth="Frankfurt(Main)Süd"/>
+	</s>
+	<s id="-2673639474952672444-2610311943-1">
+		<tl f="F" t="p" o="80" c="ICE" n="24"/>
+		<dp pt="2610311943" pp="6" fb="ICE 24" ppth="Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="3203200605183773385-2610311947-1">
+		<tl f="N" t="p" o="RSTN" c="RB" n="21559"/>
+		<dp pt="2610311947" pp="22" l="RB12" fb="RB12" ppth="Frankfurt-Höchst|Frankfurt-Unterliederbach|Liederbach-Süd|Liederbach|Kelkheim-Münster|Kelkheim|Kelkheim-Hornau|Schneidhain|Königstein(Taunus)"/>
+	</s>
+	<s id="-3382161854896025645-2610311950-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24860"/>
+		<dp pt="2610311950" pp="12" l="RB41" fb="RB41" ppth="Frankfurt(Main)West|Friedberg(Hess)|Bad Nauheim|Butzbach|Gießen"/>
+	</s>
+	<s id="-4023325533668720220-2610311950-1">
+		<tl f="N" t="p" o="8005KG" c="RB" n="15536"/>
+		<dp pt="2610311950" pp="9" l="RB51" fb="RB51" ppth="Frankfurt(Main)Süd|Offenbach(Main)Hbf|Hanau Hbf|Wolfgang(Kr Hanau)|Rodenbach(b Hanau)|Langenselbold|Niedermittlau|Hailer-Meerholz|Gelnhausen|Haitz-Höchst|Wirtheim|Wächtersbach"/>
+	</s>
+	<s id="-2026468004269217034-2610311953-1">
+		<tl f="D" t="p" o="R4RH" c="VIA" n="25030"/>
+		<dp pt="2610311953" pp="23" l="RB10" fb="RB10" ppth="Mainz-Kastel|Wiesbaden Hbf"/>
+	</s>
+	<s id="-5318527331154564817-2610311955-1">
+		<tl f="N" t="p" o="8005ND" c="RB" n="15742"/>
+		<dp pt="2610311955" pp="14" l="RB34" fb="RB34" ppth="Frankfurt(Main)West|Bad Vilbel|Bad Vilbel-Gronau|Niederdorfelden|Schöneck-Oberdorfelden|Schöneck-Kilianstädten|Schöneck-Büdesheim|Nidderau-Windecken|Nidderau|Nidderau-Eichen|Altenstadt-Höchst|Altenstadt(Hess)|Altenstadt-Lindheim|Glauburg-Glauberg|Glauburg-Stockheim"/>
+	</s>
+	<s id="6628033942918829324-2610311958-1">
+		<tl f="S" t="p" o="800528" c="S" n="35767"/>
+		<dp pt="2610311958" pp="18" l="S7" fb="S7" ppth="Frankfurt-Niederrad|Frankfurt am Main - Stadion|Zeppelinheim|Walldorf(Hess)|Mörfelden|Groß Gerau-Dornberg|Groß Gerau-Dornheim|Riedstadt-Wolfskehlen|Riedstadt-Goddelau"/>
+	</s>
+</timetable>
