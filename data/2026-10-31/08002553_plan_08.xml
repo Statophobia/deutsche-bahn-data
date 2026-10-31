@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-7058442198521206872-2610301836-15">
+		<tl t="p" o="81" c="NJ" n="492"/>
+		<ar pt="2610310856" pp="5" fb="NJ 492" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|München-Pasing|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-8677182982400525824-2610302046-16">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2610310856" pp="5" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-1822966271854478829-2610310400-12">
+		<tl f="F" t="p" o="80" c="ICE" n="1028"/>
+		<ar pt="2610310834" pp="6" fb="ICE 1028" ppth="Köln Hbf|Köln Messe/Deutz|Düsseldorf Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-1084108855892525492-2610310519-16">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11009"/>
+		<ar pt="2610310822" pp="11" l="RE6" fb="RE6" ppth="Westerland(Sylt)|Keitum|Morsum|Klanxbüll|Niebüll|Langenhorn(Schlesw)|Bredstedt|Husum|Friedrichstadt|Lunden|Heide(Holst)|Meldorf|Itzehoe|Glückstadt|Elmshorn"/>
+	</s>
+	<s id="1235622964461153188-2610310558-8">
+		<tl f="F" t="p" o="80" c="ICE" n="808"/>
+		<ar pt="2610310824" pp="5" fb="ICE 808" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Wittenberge|Ludwigslust|Büchen|Hamburg Hbf"/>
+	</s>
+	<s id="6685217433766425145-2610310622-6">
+		<tl f="F" t="p" o="80" c="ICE" n="872"/>
+		<ar pt="2610310840" pp="8" fb="ICE 872" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-1302835903583687238-2610310753-8">
+		<tl f="D" t="p" o="O0" c="NBE" n="34965"/>
+		<ar pt="2610310835" pp="10" l="RB71" fb="RB71" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="712070015890769449-2610310829-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34968"/>
+		<dp pt="2610310829" pp="7" l="RB71" fb="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="-7766677714631325372-2610310831-5">
+		<tl f="D" t="p" o="O0" c="NBE" n="34909"/>
+		<ar pt="2610310854" pp="6" l="RB61" fb="RB61" ppth="Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-368435677948496734-2610310832-1">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11008"/>
+		<dp pt="2610310832" pp="8" l="RE6" fb="RE6" ppth="Elmshorn|Itzehoe|Heide(Holst)|Lunden|Friedrichstadt|Husum|Bredstedt|Langenhorn(Schlesw)|Niebüll|Klanxbüll|Morsum|Keitum|Westerland(Sylt)"/>
+	</s>
+	<s id="-6546677092867112126-2610310857-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34910"/>
+		<dp pt="2610310857" pp="10" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn"/>
+	</s>
+</timetable>
