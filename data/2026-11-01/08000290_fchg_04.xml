@@ -1,0 +1,1187 @@
+<?xml version="1.0" ?><timetable station="Offenburg" eva="8000290">
+
+<s id="-6780728349443800314-2611010456-9" eva="8000290">
+    <ar cp="4" ct="2611010545" l="RE2"/>
+</s>
+
+
+<s id="104706855891163603-2611010716-15" eva="8000290">
+    <ar cpth="Alpirsbach|Schenkenzell|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2611010835" l="RS1"/>
+</s>
+
+
+<s id="-7933222209613530264-2611010536-1" eva="8000290">
+    <dp cp="6" ct="2611010536" l="RE2">
+        <m id="-7930982417271279218-" t="f" c="0" ts="2611010441" ts-tts="26-11-01 04:41:29.979"/>
+        <m id="-8209910994501849802-" t="f" c="0" ts="2611010441" ts-tts="26-11-01 04:41:29.979"/>
+    </dp>
+</s>
+
+
+<s id="3344888193211045561-2611010606-8" eva="8000290">
+    <ar ct="2611010653" l="RE2"/>
+    <dp ct="2611010655" l="RE2"/>
+</s>
+
+
+<s id="5331894847185138451-2610312052-12" eva="8000290">
+    <ar ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010625" pt="2611010546" wings="-1197270886930040789-2610312052" fb="NJ 408">
+        <m id="820672791503549624--3495627474230798123" t="d" c="47" ts="2610312052" ts-tts="26-10-31 20:52:09.281"/>
+        <m id="8147226773032074195-" t="f" c="0" ts="2610312055" ts-tts="26-10-31 20:55:38.824"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010627" pt="2611010548" hi="1" wings="-1197270886930040789-2610312052" fb="NJ 408">
+        <m id="820672791503549624--3495627474230798123" t="d" c="47" ts="2610312052" ts-tts="26-10-31 20:52:09.281"/>
+        <m id="8147226773032074195-" t="f" c="0" ts="2610312055" ts-tts="26-10-31 20:55:38.824"/>
+    </dp>
+    <tl t="p" o="81" c="NJ" n="408"/>
+</s>
+
+
+<s id="-8716776747589038458-2610311831-16" eva="8000290">
+    <ar ppth="Praha hl.n.|Praha-Holesovice|Usti nad Labem hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010625" pt="2611010546" wings="5331894847185138451-2610312052|-8572647521164952896-2610311831|-1197270886930040789-2610312052" fb="EN 40458"/>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010627" pt="2611010548" hi="1" wings="5331894847185138451-2610312052|-8572647521164952896-2610311831|-1197270886930040789-2610312052" fb="EN 40458"/>
+    <tl f="F" t="p" o="81" c="EN" n="40458"/>
+</s>
+
+
+<s id="-8572647521164952896-2610311831-16" eva="8000290">
+    <ar ppth="Praha hl.n.|Praha-Holesovice|Usti nad Labem hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Dresden-Neustadt|Riesa|Leipzig Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010625" pt="2611010546" wings="5331894847185138451-2610312052|-1197270886930040789-2610312052" fb="EC 458"/>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010627" pt="2611010548" hi="1" wings="5331894847185138451-2610312052|-1197270886930040789-2610312052" fb="EC 458"/>
+    <tl f="F" t="p" o="54" c="EC" n="458"/>
+</s>
+
+
+<s id="-1197270886930040789-2610312052-12" eva="8000290">
+    <ar ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010625" pt="2611010546" fb="IC 60408">
+        <m id="6019864554838024377-7912535126109462523" t="d" c="47" ts="2610312052" ts-tts="26-10-31 20:52:09.233"/>
+        <m id="-6127333201999278193-" t="f" c="0" ts="2610312055" ts-tts="26-10-31 20:55:38.838"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010627" pt="2611010548" fb="IC 60408">
+        <m id="6019864554838024377-7912535126109462523" t="d" c="47" ts="2610312052" ts-tts="26-10-31 20:52:09.233"/>
+        <m id="-6127333201999278193-" t="f" c="0" ts="2610312055" ts-tts="26-10-31 20:55:38.838"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60408"/>
+</s>
+
+
+<s id="7582314568044505717-2610312036-17" eva="8000290">
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010530" pt="2611010450" fb="IC 60403"/>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010532" pt="2611010452" fb="IC 60403"/>
+    <tl f="F" t="p" o="NZ" c="IC" n="60403"/>
+</s>
+
+
+<s id="-5851721557238592488-2610312036-17" eva="8000290">
+    <ar ppth="Amsterdam Centraal|Utrecht Centraal|Arnhem Centraal|Emmerich|Oberhausen Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden" pp="1" ct="2611010530" pt="2611010450" wings="7582314568044505717-2610312036" fb="NJ 403"/>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" pp="1" ct="2611010532" pt="2611010452" hi="1" wings="7582314568044505717-2610312036" fb="NJ 403"/>
+    <tl t="p" o="84" c="NJ" n="403"/>
+</s>
+
+
+<s id="1263162204725572663-2611010602-11" eva="8000290">
+    <ar ct="2611011157">
+        <m id="-7761185611988329940-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.127"/>
+        <m id="-516845346120559458-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.127"/>
+    </ar>
+    <dp ct="2611011159">
+        <m id="-7761185611988329940-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.127"/>
+        <m id="-516845346120559458-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.127"/>
+    </dp>
+</s>
+
+
+<s id="-6766038432918917973-2611010602-11" eva="8000290">
+    <ar ppth="Hamburg-Harburg|Uelzen|Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf" pp="1" ct="2611011157" pt="2611011157" l="" fb="ICE 2553">
+        <m id="-2276522988573777066-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+        <m id="-5784435526881230717-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+        <m id="7203068459209139772-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="1" ct="2611011159" pt="2611011159" l="" fb="ICE 2553">
+        <m id="-2276522988573777066-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+        <m id="-5784435526881230717-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+        <m id="7203068459209139772-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.129"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2553"/>
+</s>
+
+
+<s id="208439591345516036-2611010448-17" eva="8000290">
+    <ar ct="2611010546" l="RB26"/>
+</s>
+
+
+<s id="6051841868854579259-2611010610-15" eva="8000290">
+    <ar cpth="Alpirsbach|Schenkenzell|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2611010725" l="RS1"/>
+</s>
+
+
+<s id="-1939073885227459762-2611010558-13" eva="8000290">
+    <ar ct="2611010644" l="RB26"/>
+</s>
+
+
+<s id="3207394584663061518-2611010552-1" eva="8000290">
+    <dp ct="2611010552" l="RB27">
+        <m id="8551065193179603872-" t="f" c="0" ts="2611010523" ts-tts="26-11-01 05:23:49.697"/>
+        <m id="-397009420989959999-" t="f" c="0" ts="2611010523" ts-tts="26-11-01 05:23:49.697"/>
+        <m id="-4864499119925405584-" t="f" c="0" ts="2611010523" ts-tts="26-11-01 05:23:49.697"/>
+        <m id="3583592450889602762-" t="f" c="0" ts="2611010523" ts-tts="26-11-01 05:23:49.697"/>
+    </dp>
+</s>
+
+
+<s id="-5676428147416065355-2611010548-1" eva="8000290">
+    <dp cp="4" ct="2611010548" l="RE2"/>
+</s>
+
+
+<s id="6472735087110308203-2611010716-1" eva="8000290">
+    <dp ct="2611010716" l="RS2"/>
+</s>
+
+
+<s id="-5263763658106550785-2611010639-10" eva="8000290">
+    <ar ct="2611010714" l="RS12"/>
+</s>
+
+
+<s id="-620119667045296208-2611012141-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-5282244633591912464-2611012101-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="3684057508643086493-2611010500-1" eva="8000290">
+    <dp ct="2611010515" l="RS2">
+        <m id="-8225955970374614106" t="d" c="1" ts="2611010457" ts-tts="26-11-01 04:57:44.524"/>
+    </dp>
+</s>
+
+
+<s id="6148647192284050257-2611010712-1" eva="8000290">
+    <dp ct="2611010712" l="RS12"/>
+</s>
+
+
+<s id="-6918624901946275974-2611010856-3" eva="8000290">
+    <ar ppth="Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" ct="2611011000" pt="2611010958" l="" fb="ICE 2560">
+        <m id="-351580763548206796-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="5075031546619437442-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="-2371663893190221096-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="-5632593178573396906-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.989"/>
+        <m id="4941622554237563386-" t="f" c="0" ts="2611010208" ts-tts="26-11-01 02:08:03.289"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf" pp="3" ct="2611011002" pt="2611011000" l="" fb="ICE 2560">
+        <m id="-351580763548206796-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="5075031546619437442-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="-2371663893190221096-" t="f" c="0" ts="2610311230" ts-tts="26-10-31 12:30:01.674"/>
+        <m id="-5632593178573396906-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.989"/>
+        <m id="4941622554237563386-" t="f" c="0" ts="2611010208" ts-tts="26-11-01 02:08:03.289"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2560"/>
+</s>
+
+
+<s id="-2370916932836877415-2611010634-9" eva="8000290">
+    <ar ct="2611011000">
+        <m id="4426280347248678666-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.142"/>
+        <m id="-7343624300376773900-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.142"/>
+        <m id="6872841526919424410-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:57.037"/>
+        <m id="-4942767298415640196--7585182168655559216" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.249"/>
+    </ar>
+    <dp ct="2611011002">
+        <m id="4426280347248678666-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.142"/>
+        <m id="-7343624300376773900-" t="f" c="0" ts="2610311030" ts-tts="26-10-31 10:30:01.142"/>
+        <m id="6872841526919424410-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:57.038"/>
+        <m id="-4942767298415640196--7585182168655559216" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.249"/>
+    </dp>
+</s>
+
+
+<s id="-522102261798380111-2611010447-1" eva="8000290">
+    <dp ct="2611010447" l="RE2"/>
+</s>
+
+
+<s id="-5617734048615725455-2611010516-10" eva="8000290">
+    <ar ct="2611010644" l="RE2"/>
+    <dp ct="2611010658" l="RE2"/>
+</s>
+
+
+<s id="-4919153006652872747-2611012041-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-9168045202175833605-2611012001-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="670077402452252838-2611011941-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="3673590072074484226-2611011901-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="-1357511242050771866-2611011958-13" eva="8000290">
+    <ar l="RE7">
+        <m id="-1336379146190070088-" t="f" c="2000" ts="2610312330" ts-tts="26-10-31 23:30:02.831"/>
+    </ar>
+</s>
+
+
+<s id="1116577686148397167-2611011816-4" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610312230" ts-tts="26-10-31 22:30:02.059" pr="3"/>
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf|Berlin Gesundbrunnen"/>
+</s>
+
+
+<s id="5846138654356084650-2611011841-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-5625299195161969853-2611011801-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="5365128718489033506-2611011846-4" eva="8000290">
+    <ar>
+        <m id="7718010868262448637-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.163"/>
+        <m id="644766994445638556-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.163"/>
+        <m id="-6532047790389787650-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.977"/>
+    </ar>
+    <dp>
+        <m id="7718010868262448637-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.163"/>
+        <m id="644766994445638556-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.163"/>
+        <m id="-6532047790389787650-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.977"/>
+    </dp>
+</s>
+
+
+<s id="-1837919921486433275-2611011846-4" eva="8000290">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" pt="2611011956" wings="5365128718489033506-2611011846" l="" fb="ICE 2556">
+        <m id="-9182951259166811274-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="5917321759675321387-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="5047795963105045633-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="-6547231707277319385-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:57.077"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Hbf" pp="3" pt="2611011958" wings="5365128718489033506-2611011846" l="" fb="ICE 2556">
+        <m id="-9182951259166811274-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="5917321759675321387-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="5047795963105045633-" t="f" c="0" ts="2610312230" ts-tts="26-10-31 22:30:02.162"/>
+        <m id="-6547231707277319385-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:57.077"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2556"/>
+</s>
+
+
+<s id="7999578366609119029-2611011118-10" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311530" ts-tts="26-10-31 15:30:01.994" pr="3"/>
+    <ar cpth="Brig|Visp|Spiez|Thun|Bern|Olten|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf">
+        <m id="-9015457317240143307-4632660449007672416" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.702"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf">
+        <m id="-9015457317240143307-4632660449007672416" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.702"/>
+    </dp>
+</s>
+
+
+<s id="-4554142996363352815-2611010816-4" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311230" ts-tts="26-10-31 12:30:01.512" pr="3"/>
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf">
+        <m id="-3028522016373797708-7048386844814715563" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.445"/>
+    </ar>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf">
+        <m id="-3028522016373797708-7048386844814715563" t="q" c="83" ts="2611010208" ts-tts="26-11-01 02:08:03.445"/>
+    </dp>
+</s>
+
+
+<s id="-7956047615718350819-2611011426-15" eva="8000290">
+    <ar>
+        <m id="-4951328660934122663-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.813"/>
+    </ar>
+    <dp>
+        <m id="-4951328660934122663-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.813"/>
+    </dp>
+</s>
+
+
+<s id="-5923249733352130061-2611011443-9" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311830" ts-tts="26-10-31 18:30:03.451" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf">
+        <m id="8078213375899326041-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.781"/>
+    </ar>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Liestal|Olten|Bern|Thun|Spiez|Interlaken West">
+        <m id="8078213375899326041-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.781"/>
+    </dp>
+</s>
+
+
+<s id="-3907081244664964516-2611011008-11" eva="8000290">
+    <ar>
+        <m id="-5972228638116310869-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.371"/>
+        <m id="3033710670099230482-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.371"/>
+        <m id="5044846758995878971-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.773"/>
+    </ar>
+    <dp>
+        <m id="-5972228638116310869-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.371"/>
+        <m id="3033710670099230482-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.371"/>
+        <m id="5044846758995878971-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.773"/>
+    </dp>
+</s>
+
+
+<s id="8322896296748188054-2611011008-11" eva="8000290">
+    <ar ppth="Hamburg Dammtor|Hamburg Hbf|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf" pp="1" pt="2611011556" l="" fb="ICE 2555">
+        <m id="6203494185385988452-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="7358822613817327608-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="5449514454989649381-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="5267927768696594645-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.706"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="1" pt="2611011558" l="" fb="ICE 2555">
+        <m id="6203494185385988452-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="7358822613817327608-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="5449514454989649381-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.372"/>
+        <m id="5267927768696594645-" t="f" c="0" ts="2611010139" ts-tts="26-11-01 01:39:56.706"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2555"/>
+</s>
+
+
+<s id="6084542420969462186-2611010008-12" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610310430" ts-tts="26-10-31 04:30:00.775" pr="3"/>
+    <ar cpth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Eisenach Hbf|Fulda|Hanau Hbf|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf" ct="2611010729">
+        <m id="-568448809477242618--7243212560744333237" t="d" c="47" ts="2610312345" ts-tts="26-10-31 23:45:49.734"/>
+        <m id="-4008785626173567017-" t="f" c="0" ts="2611010057" ts-tts="26-11-01 00:57:34.804"/>
+        <m id="-8398440887223997274-567528612202039935" t="d" c="5" ts="2611010121" ts-tts="26-11-01 01:21:20.569"/>
+        <m id="-5323978829998360515-" t="f" c="0" ts="2611010136" ts-tts="26-11-01 01:36:17.237"/>
+    </ar>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB" ct="2611010731">
+        <m id="-568448809477242618--7243212560744333237" t="d" c="47" ts="2610312345" ts-tts="26-10-31 23:45:49.734"/>
+        <m id="-4008785626173567017-" t="f" c="0" ts="2611010057" ts-tts="26-11-01 00:57:34.804"/>
+        <m id="-8398440887223997274-567528612202039935" t="d" c="5" ts="2611010121" ts-tts="26-11-01 01:21:20.569"/>
+        <m id="-5323978829998360515-" t="f" c="0" ts="2611010136" ts-tts="26-11-01 01:36:17.237"/>
+    </dp>
+</s>
+
+
+<s id="-4977923607611529696-2610312308-26" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.511" pr="3" del="1"/>
+    <ar ct="2611010118" l="RE7">
+        <m id="-598668427890762124--5584184171120942581" t="d" c="31" ts="2611010110" ts-tts="26-11-01 01:10:15.737"/>
+    </ar>
+</s>
+
+
+<s id="-1980731663042843565-2611011701-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="-3429241801952361343-2611011741-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-7128889695991159143-2611011738-8" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610312130" ts-tts="26-10-31 21:30:02.865" pr="3"/>
+    <ar cpth="Chur|Landquart|Sargans|Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Hbf"/>
+</s>
+
+
+<s id="-544791493060832471-2611011706-1" eva="8000290">
+    <dp l="RB26">
+        <m id="-3474762242698115110-" t="f" c="2000" ts="2610312130" ts-tts="26-10-31 21:30:03.048"/>
+    </dp>
+</s>
+
+
+<s id="5584699877300676388-2611010107-1" eva="8000290">
+    <dp cp="4" ct="2611010107" l="RE7"/>
+</s>
+
+
+<s id="5282126385438114500-2611010033-3" eva="8000290">
+    <ar cp="4" ct="2611010054" l="RE7"/>
+</s>
+
+
+<s id="4683939886229138409-2611010006-5" eva="8000290">
+    <ar ct="2611010039" l="RS4"/>
+</s>
+
+
+<s id="-4531015728927554245-2611011641-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-4632193956057513743-2611011601-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="6170002538724052342-2611011616-4" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610312030" ts-tts="26-10-31 20:30:02.111" pr="3"/>
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf"/>
+</s>
+
+
+<s id="-8394333759835531528-2611011643-10" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610312030" ts-tts="26-10-31 20:30:02.255" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf|Baden-Baden"/>
+    <dp cpth="Freiburg(Breisgau) Hbf"/>
+</s>
+
+
+<s id="4755668014738223984-2611011638-8" eva="8000290">
+    <ar l="RE7">
+        <m id="7978104709544882956-" t="f" c="2000" ts="2610312046" ts-tts="26-10-31 20:46:21.327"/>
+        <m id="4804541807181300061-" t="f" c="2000" ts="2610312047" ts-tts="26-10-31 20:47:41.575"/>
+    </ar>
+    <dp l="RE7">
+        <m id="7978104709544882956-" t="f" c="2000" ts="2610312046" ts-tts="26-10-31 20:46:21.327"/>
+        <m id="4804541807181300061-" t="f" c="2000" ts="2610312047" ts-tts="26-10-31 20:47:41.575"/>
+    </dp>
+</s>
+
+
+<s id="5020092755340026746-2610312301-15" eva="8000290">
+    <ar cpth="Alpirsbach|Schenkenzell|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2611010016" l="RS1"/>
+</s>
+
+
+<s id="8091272933772303376-2610312218-34" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2610312359" ts-tts="26-10-31 23:59:20.570" pr="3" del="1"/>
+    <m id="64af18b5-59b6-4640-9c1c-628f6b364968" t="h" from="2610311954" to="2610312359" cat="TECHNISCHES_PROBLEM_FAHRZEUG" ts="2610312359" ts-tts="26-10-31 23:59:20.570" pr="3" del="1"/>
+    <ar ct="2611010011" l="RB27">
+        <m id="-1766382491402644567--2542140050306597742" t="q" c="85" ts="2610311028" ts-tts="26-10-31 10:28:18.091"/>
+    </ar>
+</s>
+
+
+<s id="-3055916758394433045-2610312335-3" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.461" pr="3" del="1"/>
+    <ar cp="6" ct="2611010003" l="RE7"/>
+    <dp cp="6" ct="2611010007" l="RE7"/>
+</s>
+
+
+<s id="3345086324365246379-2610312237-6" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.507" pr="3" del="1"/>
+    <ar ct="2610312306" l="RE2"/>
+</s>
+
+
+<s id="-1540045298354478082-2610312317-1" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.499" pr="3" del="1"/>
+    <dp ct="2610312320" l="RB27"/>
+</s>
+
+
+<s id="-3679424201011200691-2610312158-13" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.482" pr="3" del="1"/>
+    <ar ct="2610312322" l="RE7">
+        <m id="2760651732246404287-" t="f" c="2000" ts="2610310130" ts-tts="26-10-31 01:30:04.115"/>
+    </ar>
+    <dp ct="2610312338" l="RE7">
+        <m id="2760651732246404287-" t="f" c="2000" ts="2610310130" ts-tts="26-10-31 01:30:04.115"/>
+    </dp>
+</s>
+
+
+<s id="2788133032575727405-2610312126-1" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.479" pr="3" del="1"/>
+    <dp ct="2610312126" l="RE7"/>
+</s>
+
+
+<s id="6877821871416133092-2610312050-20" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2611010000" ts-tts="26-11-01 00:00:21.454" pr="3" del="1"/>
+    <ar ct="2610312232" l="RE7"/>
+    <dp ct="2610312238" l="RE7"/>
+</s>
+
+
+<s id="297034518942030962-2610312246-1" eva="8000290">
+    <m id="6594c4a7-af93-4401-944a-c9b80487f765" t="h" from="2610221250" to="2610312359" cat="BAUARBEITEN" ts="2610312359" ts-tts="26-10-31 23:59:21.496" pr="3" del="1"/>
+    <dp ppth="Friesenheim(Baden)|Lahr(Schwarzw)|Orschweier|Ringsheim/Europa-Park|Herbolzheim(Breisg)|Kenzingen|Riegel-Malterdingen|Köndringen|Teningen-Mundingen|Emmendingen|Kollmarsreute|Denzlingen|Gundelfingen(Breisgau)|Freiburg(Breisgau) Hbf|Freiburg-St Georgen|Ebringen|Schallstadt|Norsingen|Bad Krozingen|Heitersheim|Buggingen|Müllheim im Markgräflerland|Auggen|Schliengen|Bad Bellingen|Rheinweiler|Kleinkems|Istein|Efringen-Kirchen|Eimeldingen|Haltingen|Weil am Rhein|Basel Bad Bf" cp="3" pp="2" ct="2610312317" pt="2610312246" l="RB27" fb="RB27">
+        <m id="-2127663512321383625-" t="f" c="0" ts="2610312144" ts-tts="26-10-31 21:44:52.984"/>
+        <m id="2110716316137945488-" t="f" c="0" ts="2610312144" ts-tts="26-10-31 21:44:52.984"/>
+        <m id="7226846912950564244--1022902973034794433" t="d" c="36" ts="2610312250" ts-tts="26-10-31 22:50:00.664"/>
+        <m id="-2665116571724041318-" t="f" c="2000" ts="2610312309" ts-tts="26-10-31 23:09:34.708"/>
+    </dp>
+    <tl f="N" t="p" o="8006C4" c="RB" n="17139"/>
+</s>
+
+
+<s id="-5318447715582218004-2610312341-1" eva="8000290">
+    <dp ct="2610312341" l="RS1"/>
+</s>
+
+
+<s id="-8083340628202985713-2610312328-1" eva="8000290">
+    <dp ct="2610312332" l="RS4"/>
+</s>
+
+
+<s id="1440996002430474826-2610312328-1" eva="8000290">
+    <dp ct="2610312328" l="RE2">
+        <m id="-3687332215505157506-" t="f" c="0" ts="2610312312" ts-tts="26-10-31 23:12:04.450"/>
+    </dp>
+</s>
+
+
+<s id="-5433076652617071325-2610312252-5" eva="8000290">
+    <ar ct="2610312325" l="RS4"/>
+</s>
+
+
+<s id="3959067543885629299-2610312201-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2610312317" l="RS1"/>
+</s>
+
+
+<s id="1343825642495980989-2611011501-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="5501137700133981785-2611011541-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-7918242483494735503-2610312214-14" eva="8000290">
+    <ar ct="2610312304" l="RS2"/>
+</s>
+
+
+<s id="6324605725110637871-2610312151-8" eva="8000290">
+    <ar ct="2610312301" l="RE2"/>
+</s>
+
+
+<s id="3711111789156148951-2610312241-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Schenkenzell|Alpirsbach" ct="2610312241" l="RS1"/>
+</s>
+
+
+<s id="-5677468493735331097-2610312217-4" eva="8000290">
+    <ar ct="2610312235" l="RS2"/>
+</s>
+
+
+<s id="8360556690287936120-2611010610-14" eva="8000290">
+    <ar ct="2611010659" l="RS2"/>
+</s>
+
+
+<s id="4127575714489856650-2611011401-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="4399314627509768696-2611011441-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-7115503120975052004-2611011656-3" eva="8000290">
+    <ar ppth="Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" pt="2611011756" l="" fb="ICE 2562">
+        <m id="5560689716712298443-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+        <m id="8053091135990067181-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+        <m id="-5467887914630748343-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf" pp="3" pt="2611011758" l="" fb="ICE 2562">
+        <m id="5560689716712298443-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+        <m id="8053091135990067181-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+        <m id="-5467887914630748343-" t="f" c="0" ts="2610312030" ts-tts="26-10-31 20:30:02.340"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2562"/>
+</s>
+
+
+<s id="-5521629683192553735-2611011434-9" eva="8000290">
+    <ar>
+        <m id="7607417146257438869-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.407"/>
+        <m id="-8521416186162345152-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.407"/>
+    </ar>
+    <dp>
+        <m id="7607417146257438869-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.407"/>
+        <m id="-8521416186162345152-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.407"/>
+    </dp>
+</s>
+
+
+<s id="-8215575323288146568-2611011413-11" eva="8000290">
+    <ar>
+        <m id="5534411797029117059-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.347"/>
+        <m id="3458477809747812943-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.347"/>
+    </ar>
+    <dp>
+        <m id="5534411797029117059-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.347"/>
+        <m id="3458477809747812943-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.347"/>
+    </dp>
+</s>
+
+
+<s id="-8434463561686533734-2611011413-11" eva="8000290">
+    <ar ppth="Hamburg Dammtor|Hamburg Hbf|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf" pp="1" pt="2611011956" wings="-8215575323288146568-2611011413" l="" fb="ICE 2559">
+        <m id="-6299887462607988381-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+        <m id="4876776794809574013-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+        <m id="5007751321119591699-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="1" pt="2611011958" wings="-8215575323288146568-2611011413" l="" fb="ICE 2559">
+        <m id="-6299887462607988381-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+        <m id="4876776794809574013-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+        <m id="5007751321119591699-" t="f" c="0" ts="2610311830" ts-tts="26-10-31 18:30:03.346"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2559"/>
+</s>
+
+
+<s id="-1217467400012373858-2611011450-20" eva="8000290">
+    <ar l="RE7">
+        <m id="8028128871184422203-" t="f" c="2000" ts="2610312048" ts-tts="26-10-31 20:48:29.525"/>
+    </ar>
+    <dp l="RE7">
+        <m id="8028128871184422203-" t="f" c="2000" ts="2610312048" ts-tts="26-10-31 20:48:29.525"/>
+    </dp>
+</s>
+
+
+<s id="5048412693425641989-2611011451-8" eva="8000290">
+    <ar l="RE2">
+        <m id="-2032971338209084659-" t="f" c="2000" ts="2610312038" ts-tts="26-10-31 20:38:59.506"/>
+    </ar>
+    <dp l="RE2">
+        <m id="-2032971338209084659-" t="f" c="2000" ts="2610312038" ts-tts="26-10-31 20:38:59.506"/>
+    </dp>
+</s>
+
+
+<s id="5442696905334707386-2611010841-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" ct="2611010843" l="RS1"/>
+</s>
+
+
+<s id="1360166345688248440-2611011001-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2611011116" l="RS1"/>
+</s>
+
+
+<s id="5981134875112714787-2610311959-4" eva="8000290">
+    <ar ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" pp="3" ct="2610312319" pt="2610312231" hi="1" wings="-2494453527783146128-2610311959|-32974304396741632-2610311959|1961181705396261168-2610311959" fb="EC 459">
+        <m id="6445882305342112481-6606204456684297346" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.834"/>
+        <m id="5785795588233081026-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.170"/>
+        <m id="7347312650069018850-" t="f" c="0" ts="2610312205" ts-tts="26-10-31 22:05:42.023"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf|Bad Schandau|Decin hl.n.|Usti nad Labem hl.n.|Praha-Holesovice|Praha hl.n." pp="3" ct="2610312321" pt="2610312231" wings="-2494453527783146128-2610311959|-32974304396741632-2610311959|1961181705396261168-2610311959" fb="EC 459">
+        <m id="6445882305342112481-6606204456684297346" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.834"/>
+        <m id="5785795588233081026-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.170"/>
+        <m id="7347312650069018850-" t="f" c="0" ts="2610312205" ts-tts="26-10-31 22:05:42.023"/>
+    </dp>
+    <tl f="F" t="p" o="85" c="EC" n="459"/>
+</s>
+
+
+<s id="3580503990382438116-2610312109-8" eva="8000290">
+    <ar ct="2610312158" l="RE2">
+        <m id="-3239803881323904776-" t="f" c="0" ts="2610312144" ts-tts="26-10-31 21:44:04.447"/>
+    </ar>
+    <dp ct="2610312200" l="RE2">
+        <m id="-3239803881323904776-" t="f" c="0" ts="2610312144" ts-tts="26-10-31 21:44:04.447"/>
+    </dp>
+</s>
+
+
+<s id="1961181705396261168-2610311959-4" eva="8000290">
+    <ar ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" pp="3" ct="2610312319" pt="2610312231" hi="1" fb="EN 40459"/>
+    <dp ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Riesa|Dresden-Neustadt|Dresden Hbf|Bad Schandau|Decin hl.n.|Usti nad Labem hl.n.|Praha-Holesovice|Praha hl.n." pp="3" ct="2610312321" pt="2610312231" fb="EN 40459"/>
+    <tl f="F" t="p" o="81" c="EN" n="40459"/>
+</s>
+
+
+<s id="-32974304396741632-2610311959-4" eva="8000290">
+    <ar ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" pp="3" ct="2610312319" pt="2610312231" hi="1" fb="NJ 409">
+        <m id="-7178145141809301741--7484312256604603562" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.836"/>
+        <m id="-2724293777270393359-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.305"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf" pp="3" ct="2610312321" pt="2610312231" fb="NJ 409">
+        <m id="-7178145141809301741--7484312256604603562" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.836"/>
+        <m id="-2724293777270393359-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.305"/>
+    </dp>
+    <tl t="p" o="85NZ" c="NJ" n="409"/>
+</s>
+
+
+<s id="-2494453527783146128-2610311959-4" eva="8000290">
+    <ar ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" pp="3" ct="2610312319" pt="2610312231" wings="-32974304396741632-2610311959" fb="IC 60409">
+        <m id="8346133615513158095-6444454373898695878" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.835"/>
+        <m id="-8272027062885274866-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.265"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Leipzig Hbf|Berlin Südkreuz|Berlin Hbf" pp="3" ct="2610312321" pt="2610312231" wings="-32974304396741632-2610311959" fb="IC 60409">
+        <m id="8346133615513158095-6444454373898695878" t="d" c="31" ts="2610302330" ts-tts="26-10-30 23:30:01.835"/>
+        <m id="-8272027062885274866-" t="f" c="0" ts="2610312151" ts-tts="26-10-31 21:51:26.265"/>
+    </dp>
+    <tl f="F" t="p" o="NZ" c="IC" n="60409"/>
+</s>
+
+
+<s id="-3600137003086714631-2610312223-10" eva="8000290">
+    <ar ct="2611010639">
+        <m id="7622012010854956344-" t="f" c="0" ts="2610311330" ts-tts="26-10-31 13:30:33.400"/>
+    </ar>
+    <dp ct="2611010642">
+        <m id="7622012010854956344-" t="f" c="0" ts="2610311330" ts-tts="26-10-31 13:30:33.400"/>
+    </dp>
+</s>
+
+
+<s id="-3238246615504329950-2610312223-10" eva="8000290">
+    <ar ct="2611010639">
+        <m id="9169060707111644474-" t="f" c="0" ts="2610311330" ts-tts="26-10-31 13:30:33.267"/>
+    </ar>
+    <dp ct="2611010642">
+        <m id="9169060707111644474-" t="f" c="0" ts="2610311330" ts-tts="26-10-31 13:30:33.267"/>
+    </dp>
+</s>
+
+
+<s id="-1544618039196471624-2611011301-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="-7069530338664798431-2611011341-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="2858658347339159493-2611011300-15" eva="8000290">
+    <ar l="RB26">
+        <m id="-2304493880924478820-" t="f" c="2000" ts="2610312027" ts-tts="26-10-31 20:27:35.068"/>
+    </ar>
+</s>
+
+
+<s id="5117997816741756006-2611010546-1" eva="8000290">
+    <dp ct="2611010546" cde="Alpirsbach" dc="1" l="RS1"/>
+</s>
+
+
+<s id="5584579166009026160-2611010836-1" eva="8000290">
+    <dp l="RE7">
+        <m id="5809457763496594799-" t="f" c="2000" ts="2610312051" ts-tts="26-10-31 20:51:04.081"/>
+    </dp>
+</s>
+
+
+<s id="-6224598673099114395-2611011036-1" eva="8000290">
+    <dp l="RE7">
+        <m id="2179702909461276837-" t="f" c="2000" ts="2610312050" ts-tts="26-10-31 20:50:10.797"/>
+    </dp>
+</s>
+
+
+<s id="-5923249733352130061-2610311443-9" eva="8000290">
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf" ct="2610312043">
+        <m id="2231635482644389307-" t="f" c="0" ts="2610310115" ts-tts="26-10-31 01:15:19.387"/>
+        <m id="7057507754677669070-5055494228966541429" t="q" c="83" ts="2610310157" ts-tts="26-10-31 01:57:38.244"/>
+        <m id="-5556400055823266770-5458523506361684020" t="d" c="43" ts="2610311759" ts-tts="26-10-31 17:59:17.835"/>
+        <m id="5249685576184148909-" t="f" c="0" ts="2610312021" ts-tts="26-10-31 20:21:07.633"/>
+        <m id="-5517424136966552044-" t="f" c="0" ts="2610312026" ts-tts="26-10-31 20:26:04.378"/>
+    </ar>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Liestal|Olten|Bern|Thun|Spiez|Interlaken West" ct="2610312046">
+        <m id="2231635482644389307-" t="f" c="0" ts="2610310115" ts-tts="26-10-31 01:15:19.387"/>
+        <m id="7057507754677669070-5055494228966541429" t="q" c="83" ts="2610310157" ts-tts="26-10-31 01:57:38.244"/>
+        <m id="-5556400055823266770-5458523506361684020" t="d" c="43" ts="2610311759" ts-tts="26-10-31 17:59:17.835"/>
+    </dp>
+</s>
+
+
+<s id="6661447668213276404-2611011238-8" eva="8000290">
+    <ar l="RE7">
+        <m id="-7224067074427035514-" t="f" c="2000" ts="2610312045" ts-tts="26-10-31 20:45:38.230"/>
+    </ar>
+    <dp l="RE7">
+        <m id="-7224067074427035514-" t="f" c="2000" ts="2610312045" ts-tts="26-10-31 20:45:38.230"/>
+    </dp>
+</s>
+
+
+<s id="5895291786009610865-2611011236-1" eva="8000290">
+    <dp l="RE7">
+        <m id="-1101979577019115862-" t="f" c="2000" ts="2610312045" ts-tts="26-10-31 20:45:05.459"/>
+    </dp>
+</s>
+
+
+<s id="6579848922992754509-2611010850-20" eva="8000290">
+    <ar l="RE7">
+        <m id="5061504069323270167-" t="f" c="2000" ts="2610312044" ts-tts="26-10-31 20:44:14.287"/>
+    </ar>
+</s>
+
+
+<s id="1307784265419680067-2611011209-8" eva="8000290">
+    <ar l="RE2">
+        <m id="1779302266478636462-" t="f" c="2000" ts="2610312038" ts-tts="26-10-31 20:38:09.838"/>
+    </ar>
+    <dp l="RE2">
+        <m id="1779302266478636462-" t="f" c="2000" ts="2610312038" ts-tts="26-10-31 20:38:09.838"/>
+    </dp>
+</s>
+
+
+<s id="-8874082533918601885-2611011151-8" eva="8000290">
+    <ar l="RE2">
+        <m id="8347900585414017742-" t="f" c="2000" ts="2610312037" ts-tts="26-10-31 20:37:29.283"/>
+    </ar>
+    <dp l="RE2">
+        <m id="8347900585414017742-" t="f" c="2000" ts="2610312037" ts-tts="26-10-31 20:37:29.283"/>
+    </dp>
+</s>
+
+
+<s id="1975084059771228994-2611011051-8" eva="8000290">
+    <ar l="RE2">
+        <m id="-1805804136716104511-" t="f" c="2000" ts="2610312035" ts-tts="26-10-31 20:35:54.597"/>
+        <m id="-1963805399955395452-" t="f" c="2000" ts="2610312036" ts-tts="26-10-31 20:36:41.380"/>
+    </ar>
+    <dp l="RE2">
+        <m id="-1805804136716104511-" t="f" c="2000" ts="2610312035" ts-tts="26-10-31 20:35:54.597"/>
+        <m id="-1963805399955395452-" t="f" c="2000" ts="2610312036" ts-tts="26-10-31 20:36:41.380"/>
+    </dp>
+</s>
+
+
+<s id="6166360795322660559-2611010951-8" eva="8000290">
+    <ar l="RE2">
+        <m id="-428597690514694670-" t="f" c="2000" ts="2610312033" ts-tts="26-10-31 20:33:01.302"/>
+        <m id="547542085010802309-" t="f" c="2000" ts="2610312034" ts-tts="26-10-31 20:34:17.550"/>
+        <m id="4118025480128803178-" t="f" c="2000" ts="2610312034" ts-tts="26-10-31 20:34:59.128"/>
+    </ar>
+    <dp l="RE2">
+        <m id="-428597690514694670-" t="f" c="2000" ts="2610312033" ts-tts="26-10-31 20:33:01.302"/>
+        <m id="547542085010802309-" t="f" c="2000" ts="2610312034" ts-tts="26-10-31 20:34:17.550"/>
+        <m id="4118025480128803178-" t="f" c="2000" ts="2610312034" ts-tts="26-10-31 20:34:59.128"/>
+    </dp>
+</s>
+
+
+<s id="368558988156103253-2611011100-15" eva="8000290">
+    <ar l="RB26">
+        <m id="643104792142636718-" t="f" c="2000" ts="2610312026" ts-tts="26-10-31 20:26:20.588"/>
+    </ar>
+</s>
+
+
+<s id="894680293130467686-2611011201-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" ct="2611011316" l="RS1"/>
+</s>
+
+
+<s id="3952514927742044059-2611011243-9" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311630" ts-tts="26-10-31 16:30:02.297" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB"/>
+</s>
+
+
+<s id="-8074601866515880905-2611011241-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="7450949952650033184-2611011246-4" eva="8000290">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" pt="2611011354" l="" fb="ICE 2557">
+        <m id="-628438345266606127-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+        <m id="5601564223544729705-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+        <m id="-3234668095235693258-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf" pp="3" pt="2611011356" l="" fb="ICE 2557">
+        <m id="-628438345266606127-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+        <m id="5601564223544729705-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+        <m id="-3234668095235693258-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.310"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2557"/>
+</s>
+
+
+<s id="776874307993202871-2611011246-4" eva="8000290">
+    <ar>
+        <m id="-1540787788141813404-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.309"/>
+        <m id="-1994649282215962246-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.309"/>
+    </ar>
+    <dp>
+        <m id="-1540787788141813404-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.309"/>
+        <m id="-1994649282215962246-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.309"/>
+    </dp>
+</s>
+
+
+<s id="3773975342458137261-2611011222-11" eva="8000290">
+    <ar ppth="Hamburg Dammtor|Hamburg Hbf|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf" pp="1" pt="2611011758" l="" fb="ICE 2551">
+        <m id="653096780803800233-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+        <m id="2808596957690798760-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+        <m id="-7271305014059320815-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+    </ar>
+    <dp ppth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="1" pt="2611011800" l="" fb="ICE 2551">
+        <m id="653096780803800233-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+        <m id="2808596957690798760-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+        <m id="-7271305014059320815-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.230"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2551"/>
+</s>
+
+
+<s id="1107401163985695681-2611011222-11" eva="8000290">
+    <ar>
+        <m id="-100406060623630079-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.229"/>
+        <m id="-4608334259142192039-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.229"/>
+    </ar>
+    <dp>
+        <m id="-100406060623630079-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.229"/>
+        <m id="-4608334259142192039-" t="f" c="0" ts="2610311630" ts-tts="26-10-31 16:30:02.229"/>
+    </dp>
+</s>
+
+
+<s id="-7436521749453720425-2611011101-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="8533322673007261251-2611011141-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="-1423257860279650429-2611011138-12" eva="8000290">
+    <ar l="10">
+        <m id="4502352809285437185-" t="f" c="1000" ts="2610311532" ts-tts="26-10-31 15:32:39.830"/>
+    </ar>
+    <dp l="10">
+        <m id="4502352809285437185-" t="f" c="1000" ts="2610311532" ts-tts="26-10-31 15:32:39.830"/>
+    </dp>
+</s>
+
+
+<s id="-2020970457976764734-2611011041-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" ct="2611011041" l="RS1"/>
+</s>
+
+
+<s id="8931884597179367279-2611010708-4" eva="8000290">
+    <ar>
+        <m id="-5429621224465522359-" t="f" c="0" ts="2610311840" ts-tts="26-10-31 18:40:02.170"/>
+        <m id="8561602591605829934-" t="f" c="1000" ts="2610311840" ts-tts="26-10-31 18:40:02.170"/>
+    </ar>
+    <dp>
+        <m id="-5429621224465522359-" t="f" c="0" ts="2610311840" ts-tts="26-10-31 18:40:02.170"/>
+        <m id="8561602591605829934-" t="f" c="1000" ts="2610311840" ts-tts="26-10-31 18:40:02.170"/>
+    </dp>
+</s>
+
+
+<s id="3272196155422799371-2611011059-5" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311430" ts-tts="26-10-31 14:30:02.539" pr="3"/>
+    <ar cpth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf"/>
+</s>
+
+
+<s id="1689939369114812462-2611011043-9" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311430" ts-tts="26-10-31 14:30:02.483" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+</s>
+
+
+<s id="-1480168144771175695-2611010901-13" eva="8000290">
+    <ar cpth="Alpirsbach|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="8088226351077928869-2611011046-4" eva="8000290">
+    <ar>
+        <m id="7978478115281448256-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.497"/>
+        <m id="-8027110397567856342-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.497"/>
+    </ar>
+    <dp>
+        <m id="7978478115281448256-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.497"/>
+        <m id="-8027110397567856342-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.497"/>
+    </dp>
+</s>
+
+
+<s id="-2325738944047158724-2611011046-4" eva="8000290">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" pt="2611011156" wings="8088226351077928869-2611011046" l="" fb="ICE 2552">
+        <m id="6445748822633836392-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+        <m id="5596719192258967525-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+        <m id="2946009908301970753-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Uelzen|Hamburg-Harburg" pp="3" pt="2611011158" wings="8088226351077928869-2611011046" l="" fb="ICE 2552">
+        <m id="6445748822633836392-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+        <m id="5596719192258967525-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+        <m id="2946009908301970753-" t="f" c="0" ts="2610311430" ts-tts="26-10-31 14:30:02.495"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2552"/>
+</s>
+
+
+<s id="-5521629683192553735-2610311434-9" eva="8000290">
+    <ar ct="2610311756">
+        <m id="718026004425003348-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.830"/>
+        <m id="-8249122023448835000-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.830"/>
+    </ar>
+    <dp ct="2610311758">
+        <m id="718026004425003348-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.830"/>
+        <m id="-8249122023448835000-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.830"/>
+    </dp>
+</s>
+
+
+<s id="-4766506986673081802-2610311434-9" eva="8000290">
+    <ar ppth="Interlaken West|Spiez|Thun|Bern|Olten|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf" pp="3" ct="2610311756" pt="2610311756" wings="-5521629683192553735-2610311434" l="" fb="ICE 2562">
+        <m id="-2330161292006984819-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+        <m id="4570936128945185765-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+        <m id="-5966729488319569831-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+    </ar>
+    <dp ppth="Karlsruhe Hbf|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg" pp="3" ct="2610311758" pt="2610311758" wings="-5521629683192553735-2610311434" l="" fb="ICE 2562">
+        <m id="-2330161292006984819-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+        <m id="4570936128945185765-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+        <m id="-5966729488319569831-" t="f" c="0" ts="2610301830" ts-tts="26-10-30 18:30:02.829"/>
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2562"/>
+</s>
+
+
+<s id="6170002538724052342-2610311616-4" eva="8000290">
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf" ct="2610311727"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Hanau Hbf|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf" ct="2610311730"/>
+</s>
+
+
+<s id="-6054763901642449040-2611010941-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="2893566775538183892-2611010820-15" eva="8000290">
+    <ar cpth="Alpirsbach|Schenkenzell|Schiltach Mitte|Schiltach|Halbmeil|Wolfach|Hausach|Haslach|Steinach(Baden)|Biberach(Baden)|Gengenbach|Offenburg Kreisschulzentrum" l="RS1"/>
+</s>
+
+
+<s id="-5139015614373711282-2611010906-1" eva="8000290">
+    <dp l="RB26">
+        <m id="-4069759610279523985-" t="f" c="2000" ts="2610311330" ts-tts="26-10-31 13:30:01.613"/>
+    </dp>
+</s>
+
+
+<s id="1798201548328449226-2611010843-9" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311230" ts-tts="26-10-31 12:30:01.617" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB"/>
+</s>
+
+
+<s id="-2041012609203177085-2611010804-10" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311230" ts-tts="26-10-31 12:30:01.468" pr="3"/>
+    <ar cpth="Interlaken West|Spiez|Thun|Bern|Olten|Liestal|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf"/>
+</s>
+
+
+<s id="-7006440499458533770-2611010831-5" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311230" ts-tts="26-10-31 12:30:01.544" pr="3"/>
+    <ar cpth="Frankfurt(Main)Hbf|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+</s>
+
+
+<s id="-8720823085809177771-2611010741-1" eva="8000290">
+    <dp cpth="Offenburg Kreisschulzentrum|Gengenbach|Biberach(Baden)|Steinach(Baden)|Haslach|Hausach|Wolfach|Halbmeil|Schiltach|Schiltach Mitte|Schenkenzell|Alpirsbach" l="RS1"/>
+</s>
+
+
+<s id="6024889151340737172-2611010616-4" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311030" ts-tts="26-10-31 10:30:01.046" pr="3"/>
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf"/>
+    <dp cpth="Karlsruhe Hbf|Heidelberg Hbf|Frankfurt(Main)Süd|Fulda|Erfurt Hbf|Halle(Saale)Hbf|Berlin Hbf"/>
+</s>
+
+
+<s id="-86350896511391106-2611010626-5" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311030" ts-tts="26-10-31 10:30:01.054" pr="3"/>
+    <ar cpth="Frankfurt(Main)Hbf|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+</s>
+
+
+<s id="-5071618247732831400-2611010643-9" eva="8000290">
+    <m id="b44d4390-6a28-489f-b783-1b834984c8c6" t="h" from="2610290819" to="2611012359" cat="BAUARBEITEN" ts="2610311030" ts-tts="26-10-31 10:30:01.089" pr="3"/>
+    <ar cpth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Fulda|Frankfurt(Main)Süd|Heidelberg Hbf|Karlsruhe Hbf"/>
+    <dp cpth="Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+</s>
+
+
+<s id="8868050453695511606-2610312159-4" eva="8000290">
+    <ar cpth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" cs="c" clt="2610310130">
+        <m id="1137606242416511479-3089446597524769734" t="d" c="31" ts="2610310130" ts-tts="26-10-31 01:30:04.299"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" cs="c" clt="2610310130">
+        <m id="1137606242416511479-3089446597524769734" t="d" c="31" ts="2610310130" ts-tts="26-10-31 01:30:04.299"/>
+    </dp>
+</s>
+
+
+<s id="4753870957390372842-2610312159-4" eva="8000290">
+    <ar cpth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" cs="c" clt="2610310130">
+        <m id="-8346414165649182894--5665744420764481412" t="d" c="31" ts="2610310130" ts-tts="26-10-31 01:30:04.303"/>
+    </ar>
+    <dp cpth="Mannheim Hbf|Frankfurt(Main)Hbf|Frankfurt(M) Flughafen Fernbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Arnhem Centraal|Utrecht Centraal|Amsterdam Centraal" cs="c" clt="2610310130">
+        <m id="-8346414165649182894--5665744420764481412" t="d" c="31" ts="2610310130" ts-tts="26-10-31 01:30:04.303"/>
+    </dp>
+</s>
+
+
+<s id="-5591597380485360579-2610312059-4" eva="8000290">
+    <ar cpth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" cs="c" clt="2610310030">
+        <m id="-1099393264683304924-8053743946488207967" t="d" c="31" ts="2610310030" ts-tts="26-10-31 00:30:04.502"/>
+    </ar>
+    <dp cpth="Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cs="c" clt="2610310030">
+        <m id="-1099393264683304924-8053743946488207967" t="d" c="31" ts="2610310030" ts-tts="26-10-31 00:30:04.502"/>
+    </dp>
+</s>
+
+
+<s id="1003446772902483359-2610312059-4" eva="8000290">
+    <ar cpth="Zürich HB|Schaffhausen|Singen(Hohentwiel)" cs="c" clt="2610310030">
+        <m id="-1067948095160141307-7563420611506826478" t="d" c="31" ts="2610310030" ts-tts="26-10-31 00:30:04.501"/>
+    </ar>
+    <dp cpth="Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cs="c" clt="2610310030">
+        <m id="-1067948095160141307-7563420611506826478" t="d" c="31" ts="2610310030" ts-tts="26-10-31 00:30:04.501"/>
+    </dp>
+</s>
+
+</timetable>

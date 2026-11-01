@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Dammtor">
+	<s id="-7058442198521206872-2610311836-14">
+		<tl t="p" o="81" c="NJ" n="492"/>
+		<ar pt="2611010846" pp="3" fb="NJ 492" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|München Ost|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2611010848" pp="3" fb="NJ 492" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-8677182982400525824-2610312046-15">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2611010846" pp="3" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Hbf|Augsburg Hbf|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2611010848" pp="3" fb="NJ 40420" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="1003446772902483359-2610312059-17">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2611010802" pp="3" fb="NJ 470" wings="-5591597380485360579-2610312059" ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2611010804" pp="3" fb="NJ 470" hi="1" wings="-5591597380485360579-2610312059" ppth="Hamburg-Altona"/>
+		<tra t="v" id="-5959159715836215152" ref-to="-5591597380485360579-2610312059" s="a" o="p"/>
+	</s>
+	<s id="-5591597380485360579-2610312059-17">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2611010802" pp="3" fb="IC 60470" ppth="Zürich HB|Schaffhausen|Singen(Hohentwiel)|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2611010804" pp="3" fb="IC 60470" hi="1" ppth="Hamburg-Altona"/>
+		<tra t="v" id="-5959159715836215152" ref-from="1003446772902483359-2610312059" s="a" o="p"/>
+	</s>
+	<s id="-1822966271854478829-2611010400-11">
+		<tl f="F" t="p" o="80" c="ICE" n="1028"/>
+		<ar pt="2611010825" pp="3" fb="ICE 1028" ppth="Köln Hbf|Köln Messe/Deutz|Düsseldorf Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf"/>
+		<dp pt="2611010827" pp="3" fb="ICE 1028" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-5138192615591901711-2611010617-10">
+		<tl f="N" t="p" o="800201" c="RE" n="11159"/>
+		<ar pt="2611010816" pp="4" l="RE7" fb="RE7" ppth="Flensburg|Tarp|Jübek|Schleswig|Owschlag|Rendsburg|Nortorf|Neumünster|Elmshorn"/>
+		<dp pt="2611010817" pp="4" l="RE7" fb="RE7" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="6685217433766425145-2611010622-5">
+		<tl f="F" t="p" o="80" c="ICE" n="872"/>
+		<ar pt="2611010831" pp="3" fb="ICE 872" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hamburg Hbf"/>
+		<dp pt="2611010833" pp="3" fb="ICE 872" hi="1" ppth="Hamburg-Altona"/>
+	</s>
+	<s id="-8657950163252962648-2611010705-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11259"/>
+		<ar pt="2611010816" pp="4" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn"/>
+		<dp pt="2611010817" pp="4" l="RE7" fb="RE7" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="2512226212358951491-2611010716-3">
+		<tl f="F" t="p" o="80" c="ICE" n="507"/>
+		<ar pt="2611010825" pp="4" fb="ICE 507" ppth="Kiel Hbf|Neumünster"/>
+		<dp pt="2611010827" pp="4" fb="ICE 507" ppth="Hamburg Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf|Erfurt Hbf|Bamberg|Erlangen|Nürnberg Hbf"/>
+	</s>
+	<s id="6220447137645637542-2611010737-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11209"/>
+		<ar pt="2611010848" pp="4" l="RE70" fb="RE70" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn"/>
+		<dp pt="2611010849" pp="4" l="RE70" fb="RE70" hi="1" ppth="Hamburg Hbf"/>
+	</s>
+	<s id="4419921466779868650-2611010749-8">
+		<tl f="S" t="p" o="0S" c="S" n="41562"/>
+		<ar pt="2611010804" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010806" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="2393744030300836594-2611010759-8">
+		<tl f="S" t="p" o="0S" c="S" n="41564"/>
+		<ar pt="2611010814" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010816" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="-1326792874318707216-2611010805-2">
+		<tl f="S" t="p" o="0S" c="S" n="41563"/>
+		<ar pt="2611010807" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010807" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+	<s id="5716305259432966797-2611010808-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11208"/>
+		<ar pt="2611010811" pp="3" l="RE70" fb="RE70" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2611010811" pp="3" l="RE70" fb="RE70" ppth="Elmshorn|Wrist|Brokstedt|Neumünster|Bordesholm|Kiel Hbf"/>
+	</s>
+	<s id="-5896382326815416459-2611010809-8">
+		<tl f="S" t="p" o="0S" c="S" n="41566"/>
+		<ar pt="2611010824" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010826" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="-1719468139130821784-2611010815-2">
+		<tl f="S" t="p" o="0S" c="S" n="41565"/>
+		<ar pt="2611010817" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010817" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+	<s id="8156056426062815476-2611010819-8">
+		<tl f="S" t="p" o="0S" c="S" n="41568"/>
+		<ar pt="2611010834" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010836" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="-3387026704187874513-2611010822-1">
+		<tl t="p" o="80" c="ECE" n="5"/>
+		<dp pt="2611010822" pp="4" fb="ECE 5" ppth="Hamburg Hbf|Uelzen|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Darmstadt Hbf|Heidelberg Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB"/>
+	</s>
+	<s id="1927191450858713588-2611010825-2">
+		<tl f="S" t="p" o="0S" c="S" n="41567"/>
+		<ar pt="2611010827" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010827" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+	<s id="1108514819332576244-2611010829-8">
+		<tl f="S" t="p" o="0S" c="S" n="41570"/>
+		<ar pt="2611010844" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010846" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="1156787617485406365-2611010835-2">
+		<tl f="S" t="p" o="0S" c="S" n="41569"/>
+		<ar pt="2611010837" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010837" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+	<s id="8447853311578184243-2611010839-8">
+		<tl f="S" t="p" o="0S" c="S" n="41572"/>
+		<ar pt="2611010854" pp="1" l="S1" fb="S1" ppth="Hamburg-Barmbek|Hamburg Friedrichsberg|Hamburg Wandsbeker Chaussee|Hamburg Hasselbrook|Hamburg Landwehr|Hamburg Berliner Tor|Hamburg Hbf (S-Bahn)"/>
+		<dp pt="2611010856" pp="1" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+	</s>
+	<s id="-1221851120285684798-2611010839-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11258"/>
+		<ar pt="2611010842" pp="3" l="RE7" fb="RE7" hi="1" wings="365509070552487928-2611010839" ppth="Hamburg Hbf"/>
+		<dp pt="2611010842" pp="3" l="RE7" fb="RE7" wings="365509070552487928-2611010839" ppth="Elmshorn|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+		<tra t="v" id="-2388897167615193550" ref-to="365509070552487928-2611010839" s="a" o="p"/>
+	</s>
+	<s id="365509070552487928-2611010839-2">
+		<tl f="N" t="p" o="800201" c="RE" n="11158"/>
+		<ar pt="2611010842" pp="3" l="RE7" fb="RE7" hi="1" ppth="Hamburg Hbf"/>
+		<dp pt="2611010842" pp="3" l="RE7" fb="RE7" ppth="Elmshorn|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg"/>
+		<tra t="v" id="-2388897167615193550" ref-from="-1221851120285684798-2611010839" s="a" o="p"/>
+	</s>
+	<s id="-2460802301608392090-2611010845-2">
+		<tl f="S" t="p" o="0S" c="S" n="41571"/>
+		<ar pt="2611010847" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010847" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+	<s id="4484038164788609601-2611010855-2">
+		<tl f="S" t="p" o="0S" c="S" n="41573"/>
+		<ar pt="2611010857" pp="2" l="S1" fb="S1" ppth="Hamburg-Sternschanze"/>
+		<dp pt="2611010857" pp="2" l="S1" fb="S1" ppth="Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg Landwehr|Hamburg Hasselbrook|Hamburg Wandsbeker Chaussee|Hamburg Friedrichsberg|Hamburg-Barmbek"/>
+	</s>
+</timetable>
