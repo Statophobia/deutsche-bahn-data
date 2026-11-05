@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<timetable station="Aschaffenburg Hbf">
+	<s id="2312296716933966404-2611041554-12">
+		<tl f="F" t="p" o="80" c="ICE" n="1021"/>
+		<ar pt="2611042258" pp="6" fb="ICE 1021" ppth="Hamburg-Altona|Hamburg Hbf|Duisburg Hbf|Düsseldorf Hbf|Köln Hbf|Bonn Hbf|Koblenz Hbf|Bingen(Rhein) Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Hbf"/>
+		<dp pt="2611042300" pp="6" fb="ICE 1021" ppth="Würzburg Hbf|Nürnberg Hbf"/>
+	</s>
+	<s id="8236499875790962889-2611042207-14">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24535"/>
+		<ar pt="2611042312" pp="4" l="RB75" fb="RB75" ppth="Groß Gerau|Klein Gerau|Weiterstadt|Darmstadt Hbf|Darmstadt Nord|Darmstadt-Kranichstein|Messel|Dieburg|Altheim(Hess)|Hergershausen|Babenhausen(Hess)|Stockstadt(Main)|Mainaschaff"/>
+	</s>
+	<s id="3324609306163352035-2611042222-16">
+		<tl f="N" t="p" o="800772" c="RE" n="4635"/>
+		<ar pt="2611042320" pp="6" l="RE54" fb="RE54" ppth="Frankfurt(Main)Hbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf|Wolfgang(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim"/>
+		<dp pt="2611042322" pp="6" l="RE54" fb="RE54" ppth="Hösbach|Laufach|Heigenbrücken|Wiesthal|Partenstein|Lohr Bahnhof|Langenprozelten|Gemünden(Main)"/>
+	</s>
+	<s id="-5662548839890215812-2611042233-18">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24369"/>
+		<ar pt="2611042352" pp="4" l="RB58" fb="RB58" ppth="Rüsselsheim Opelwerk|Rüsselsheim|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd|Frankfurt(Main)Ost|Frankfurt-Mainkur|Maintal West|Maintal Ost|Hanau-Wilhelmsbad|Hanau West|Hanau Hbf|Wolfgang(Kr Hanau)|Großkrotzenburg|Kahl(Main)|Dettingen(Main)|Rückersbacher Schlucht|Kleinostheim"/>
+	</s>
+	<s id="3465774440957739211-2611042309-9">
+		<tl f="N" t="p" o="800772" c="RE" n="4636"/>
+		<ar pt="2611042350" pp="8" l="RE54" fb="RE54" ppth="Gemünden(Main)|Langenprozelten|Lohr Bahnhof|Partenstein|Wiesthal|Heigenbrücken|Laufach|Hösbach"/>
+		<dp pt="2611042351" pp="8" l="RE54" fb="RE54" ppth="Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-5787702072789798988-2611042347-1">
+		<tl f="D" t="p" o="K4RB" c="HLB" n="24540"/>
+		<dp pt="2611042347" pp="4" l="RB75" fb="RB75" ppth="Mainaschaff|Stockstadt(Main)|Babenhausen(Hess)|Hergershausen|Altheim(Hess)|Dieburg|Messel|Darmstadt-Kranichstein|Darmstadt Nord|Darmstadt Hbf"/>
+	</s>
+</timetable>
