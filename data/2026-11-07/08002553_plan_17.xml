@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="5555371111259384160-2611070759-20">
+		<tl f="F" t="p" o="85" c="ICE" n="200"/>
+		<ar pt="2611071734" pp="6" fb="ICE 200" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Gelsenkirchen Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-1534222269211340528-2611071205-13">
+		<tl f="F" t="p" o="80" c="ICE" n="508"/>
+		<ar pt="2611071740" pp="5" fb="ICE 508" ppth="Nürnberg Hbf|Erlangen|Bamberg|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="8949520845491321748-2611071402-5">
+		<tl f="F" t="p" o="80" c="ICE" n="1072"/>
+		<ar pt="2611071755" pp="6" fb="ICE 1072" ppth="Frankfurt(Main)Hbf|Hannover Hbf|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-1936479811000562740-2611071419-14">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11027"/>
+		<ar pt="2611071722" pp="8" l="RE6" fb="RE6" ppth="Westerland(Sylt)|Keitum|Morsum|Klanxbüll|Niebüll|Langenhorn(Schlesw)|Bredstedt|Husum|Friedrichstadt|Lunden|Heide(Holst)|Itzehoe|Elmshorn"/>
+	</s>
+	<s id="3027779636165716798-2611071436-6">
+		<tl f="F" t="p" o="80" c="ICE" n="2075"/>
+		<ar pt="2611071739" pp="9" fb="ICE 2075" ppth="Westerland(Sylt)|Niebüll|Husum|Heide(Holst)|Itzehoe"/>
+	</s>
+	<s id="5881917166251084399-2611071653-8">
+		<tl f="D" t="p" o="O0" c="NBE" n="34983"/>
+		<ar pt="2611071735" pp="10" l="RB71" fb="RB71" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-8476102557028821258-2611071702-10">
+		<tl f="D" t="p" o="O0" c="NBE" n="34927"/>
+		<ar pt="2611071754" pp="7" l="RB61" fb="RB61" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-415169807492850952-2611071702-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34926"/>
+		<dp pt="2611071702" pp="10" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="-7911985963316050659-2611071718-1">
+		<tl t="p" o="80" c="RJ" n="179"/>
+		<dp pt="2611071718" pp="12" fb="RJ 179" ppth="Hamburg Hbf|Wittenberge|Berlin Hbf|Berlin Südkreuz|Dresden-Neustadt|Dresden Hbf|Bad Schandau|Decin hl.n.|Usti nad Labem hl.n.|Lovosice|Roudnice nad Labem|Kralupy nad Vltavou|Praha-Holesovice|Praha hl.n."/>
+	</s>
+	<s id="5204961939240584689-2611071724-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34986"/>
+		<dp pt="2611071724" pp="6" l="RB71" fb="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="6194893901306646476-2611071726-1">
+		<tl f="F" t="p" o="80" c="ICE" n="617"/>
+		<dp pt="2611071726" pp="11" fb="ICE 617" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Gelsenkirchen Hbf|Düsseldorf Hbf|Köln Messe/Deutz Gl.11-12|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+	<s id="-3805323083739529936-2611071731-1">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11026"/>
+		<dp pt="2611071731" pp="9" l="RE6" fb="RE6" ppth="Elmshorn|Itzehoe|Heide(Holst)|Lunden|Friedrichstadt|Husum|Bredstedt|Langenhorn(Schlesw)|Niebüll|Klanxbüll|Morsum|Keitum|Westerland(Sylt)"/>
+	</s>
+</timetable>
