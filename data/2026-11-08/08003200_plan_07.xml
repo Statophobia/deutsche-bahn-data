@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<timetable station="Kassel-Wilhelmshöhe">
+	<s id="1271247141507133448-2611080444-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1573"/>
+		<ar pt="2611080728" pp="2" fb="ICE 1573" ppth="Oldenburg(Oldb)Hbf|Delmenhorst|Bremen Hbf|Hannover Hbf|Göttingen"/>
+		<dp pt="2611080730" pp="2" fb="ICE 1573" ppth="Fulda|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="-121286730437505369-2611080445-5">
+		<tl f="F" t="p" o="80" c="ICE" n="78"/>
+		<ar pt="2611080711" pp="3" fb="ICE 78" ppth="Wiesbaden Hbf|Mainz Hbf|Frankfurt(M) Flughafen Fernbf|Frankfurt(Main)Süd"/>
+		<dp pt="2611080713" pp="3" fb="ICE 78" ppth="Göttingen|Hannover Hbf|Uelzen|Hamburg Hbf"/>
+	</s>
+	<s id="3280771685323636681-2611080529-6">
+		<tl f="F" t="p" o="80" c="ICE" n="573"/>
+		<ar pt="2611080746" pp="2" fb="ICE 573" ppth="Hamburg Hbf|Uelzen|Celle|Hannover Hbf|Göttingen"/>
+		<dp pt="2611080748" pp="2" fb="ICE 573" ppth="Frankfurt(Main)Süd|Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+	<s id="-577277869460880859-2611080611-3">
+		<tl f="F" t="p" o="80" c="ICE" n="996"/>
+		<ar pt="2611080746" pp="3" fb="ICE 996" ppth="Frankfurt(Main)Hbf|Fulda"/>
+		<dp pt="2611080748" pp="3" fb="ICE 996" ppth="Göttingen|Hildesheim Hbf|Braunschweig Hbf"/>
+	</s>
+	<s id="-8509772331810495564-2611080616-21">
+		<tl f="D" t="p" o="N4" c="CAN" n="24210"/>
+		<ar pt="2611080749" pp="9" l="RB5" fb="RB5" ppth="Fulda|Hünfeld|Burghaun(Hünfeld)|Haunetal-Neukirchen|Bad Hersfeld|Ludwigsau-Friedlos|Bebra|Lispenhausen|Rotenburg a.d. Fulda|Heinebach|Altmorschen|Malsfeld-Beiseförth|Malsfeld|Melsungen|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2611080750" pp="9" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+	</s>
+	<s id="858199443095725526-2611080653-8">
+		<tl f="D" t="p" o="AMRE" c="ABR" n="74700"/>
+		<ar pt="2611080755" pp="1" l="RE9" fb="RE9" ppth="Leinefelde|Heilbad Heiligenstadt|Uder|Arenshausen|Eichenberg|Witzenhausen Nord|Hann Münden"/>
+	</s>
+	<s id="7892402779741403310-2611080703-1">
+		<tl t="p" o="NXRE" c="NX" n="26708"/>
+		<dp pt="2611080703" pp="4" l="RE11" fb="RE11" ppth="Hofgeismar|Warburg(Westf)|Willebadessen|Altenbeken|Paderborn Hbf|Lippstadt|Soest|Hamm(Westf)Hbf|Kamen|Dortmund Hbf|Bochum Hbf|Wattenscheid|Essen Hbf|Mülheim(Ruhr)Hbf|Duisburg Hbf"/>
+	</s>
+	<s id="144220729631791132-2611080705-10">
+		<tl f="D" t="p" o="H4" c="RT" n="20486"/>
+		<ar pt="2611080735" pp="9" l="RT5" fb="RT5" ppth="Melsungen|Melsungen Bartenwetzerbrücke|Melsungen-Schwarzenberg|Melsungen-Röhrenfurth|Körle|Guxhagen|Baunatal-Guntershausen|Baunatal-Rengershausen|Kassel-Oberzwehren"/>
+		<dp pt="2611080735" pp="9" l="RT5" fb="RT5" ppth="Kassel Hbf (tief)|Scheidemannplatz, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Rathaus/Fünffensterstraße, Kassel|Am Weinberg, Kassel|Heinrich-Heine-Straße, Kassel|Auestadion, Kassel"/>
+	</s>
+	<s id="-9141956662086947622-2611080707-8">
+		<tl f="D" t="p" o="H4" c="RT" n="20491"/>
+		<ar pt="2611080722" pp="7" l="RT5" fb="RT5" ppth="Auestadion, Kassel|Heinrich-Heine-Straße, Kassel|Am Weinberg, Kassel|Rathaus/Fünffensterstraße, Kassel|Wilhelmsstraße/Stadtmuseum, Kassel|Scheidemannplatz, Kassel|Kassel Hbf (tief)"/>
+		<dp pt="2611080723" pp="7" l="RT5" fb="RT5" ppth="Kassel-Oberzwehren|Baunatal-Rengershausen|Baunatal-Guntershausen|Guxhagen|Körle|Melsungen-Röhrenfurth|Melsungen-Schwarzenberg|Melsungen Bartenwetzerbrücke|Melsungen"/>
+	</s>
+	<s id="-7498606295180640596-2611080707-2">
+		<tl f="D" t="p" o="N4" c="CAN" n="24217"/>
+		<ar pt="2611080711" pp="7" l="RB5" fb="RB5" ppth="Kassel Hbf"/>
+		<dp pt="2611080712" pp="7" l="RB5" fb="RB5" ppth="Guxhagen|Körle|Melsungen-Röhrenfurth|Melsungen|Malsfeld|Malsfeld-Beiseförth|Altmorschen|Heinebach|Rotenburg a.d. Fulda|Lispenhausen|Bebra|Ludwigsau-Friedlos|Bad Hersfeld|Haunetal-Neukirchen|Burghaun(Hünfeld)|Hünfeld|Fulda"/>
+	</s>
+	<s id="9004800841326658760-2611080725-2">
+		<tl f="N" t="p" o="800523" c="RB" n="23005"/>
+		<ar pt="2611080732" pp="8" l="RB4" fb="RB4" ppth="Kassel Hbf"/>
+		<dp pt="2611080739" pp="8" l="RB4" fb="RB4" ppth="Vellmar-Obervellmar|Ahnatal-Weimar|Zierenberg|Wolfhagen|Ehringen|Volkmarsen|Külte-Wetterburg|Bad Arolsen|Mengeringhausen|Twiste|Korbach Hbf"/>
+	</s>
+</timetable>

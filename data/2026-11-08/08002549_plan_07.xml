@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg Hbf">
+	<s id="8209469800275406026-2611072121-11">
+		<tl f="F" t="p" o="80" c="ICE" n="1080"/>
+		<ar pt="2611080707" pp="11" fb="ICE 1080" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Würzburg Hbf|Göttingen|Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg"/>
+	</s>
+	<s id="8503777394879306018-2611072322-12">
+		<tl f="F" t="p" o="80" c="ICE" n="920"/>
+		<ar pt="2611080707" pp="11" fb="ICE 920" ppth="Frankfurt(Main)Hbf|Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg"/>
+	</s>
+	<s id="3087725302526898449-2611080609-14">
+		<tl f="N" t="p" o="800155" c="RE" n="4330"/>
+		<ar pt="2611080738" pp="7A-D" l="RE1" fb="RE1" ppth="Schwerin Hbf|Schwerin Mitte|Schwerin Süd|Holthusen|Hagenow Land|Pritzier|Brahlstorf|Boizenburg(Elbe)|Schwanheide|Büchen|Müssen|Schwarzenbek|Hamburg-Bergedorf"/>
+	</s>
+	<s id="6885212790092918782-2611080627-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1686"/>
+		<ar pt="2611080758" pp="11" fb="ICE 1686" ppth="Hannover Hbf|Celle|Uelzen|Lüneburg|Hamburg-Harburg"/>
+	</s>
+	<s id="2129645013961779609-2611080634-10">
+		<tl f="N" t="p" o="800292" c="RE" n="11407"/>
+		<ar pt="2611080753" pp="6A-C" l="RE8" fb="RE8" ppth="Lübeck-Travemünde Strand|Lübeck-Travemünde Hafen|Lübeck-Travem. Skandinavienkai|Lübeck-Kücknitz|Lübeck-Dänischburg IKEA|Lübeck Hbf|Lübeck-Moisling|Reinfeld(Holst)|Bad Oldesloe"/>
+	</s>
+	<s id="-7403540165833005095-2611080635-9">
+		<tl f="N" t="p" o="800293" c="RB" n="11305"/>
+		<ar pt="2611080718" pp="6A-C" l="RB81" fb="RB81" ppth="Bad Oldesloe|Kupfermühle|Bargteheide|Ahrensburg-Gartenholz|Ahrensburg|Hamburg-Rahlstedt|Hamburg-Tonndorf|Hamburg Hasselbrook"/>
+	</s>
+	<s id="-1650039227630339781-2611080706-1">
+		<tl f="N" t="p" o="800292" c="RE" n="11406"/>
+		<dp pt="2611080706" pp="6A-C" l="RE8" fb="RE8" ppth="Bad Oldesloe|Reinfeld(Holst)|Lübeck-Moisling|Lübeck Hbf|Lübeck-Dänischburg IKEA|Lübeck-Kücknitz|Lübeck-Travem. Skandinavienkai|Lübeck-Travemünde Hafen|Lübeck-Travemünde Strand"/>
+	</s>
+	<s id="-2869043409415062519-2611080712-1">
+		<tl f="N" t="p" o="800293" c="RB" n="11356"/>
+		<dp pt="2611080712" pp="7A-D" l="RB81" fb="RB81" ppth="Hamburg Hasselbrook|Hamburg-Tonndorf|Hamburg-Rahlstedt|Ahrensburg|Ahrensburg-Gartenholz|Bargteheide"/>
+	</s>
+	<s id="4444191826229498762-2611080716-7">
+		<tl f="N" t="p" o="800293" c="RB" n="11357"/>
+		<ar pt="2611080748" pp="6D-F" l="RB81" fb="RB81" ppth="Bargteheide|Ahrensburg-Gartenholz|Ahrensburg|Hamburg-Rahlstedt|Hamburg-Tonndorf|Hamburg Hasselbrook"/>
+	</s>
+	<s id="-6003301370266294042-2611080722-1">
+		<tl f="N" t="p" o="800155" c="RE" n="4305"/>
+		<dp pt="2611080722" pp="8" l="RE1" fb="RE1" ppth="Hamburg-Bergedorf|Schwarzenbek|Müssen|Büchen|Schwanheide|Boizenburg(Elbe)|Brahlstorf|Pritzier|Hagenow Land|Schwerin Süd|Schwerin Mitte|Schwerin Hbf|Bad Kleinen|Ventschow|Blankenberg(Meckl)|Bützow|Schwaan|Rostock Hbf"/>
+	</s>
+	<s id="-7544419221773787313-2611080729-1">
+		<tl f="F" t="p" o="80" c="ICE" n="575"/>
+		<dp pt="2611080729" pp="14" fb="ICE 575" ppth="Celle|Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Frankfurt(Main)Süd|Mannheim Hbf|Stuttgart Hbf"/>
+	</s>
+	<s id="5528127910402130431-2611080742-1">
+		<tl f="N" t="p" o="800293" c="RB" n="11308"/>
+		<dp pt="2611080742" pp="6A-C" l="RB81" fb="RB81" ppth="Hamburg Hasselbrook|Hamburg-Tonndorf|Hamburg-Rahlstedt|Ahrensburg|Ahrensburg-Gartenholz|Bargteheide|Kupfermühle|Bad Oldesloe"/>
+	</s>
+	<s id="-8658978830291799496-2611080748-1">
+		<tl f="F" t="p" o="80" c="ICE" n="91"/>
+		<dp pt="2611080748" pp="8" fb="ICE 91" ppth="Ludwigslust|Wittenberge|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Coburg|Nürnberg Hbf"/>
+	</s>
+</timetable>

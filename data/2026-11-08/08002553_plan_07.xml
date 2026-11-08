@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-6910294061708591013-2611080605-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11447"/>
+		<ar pt="2611080711" pp="" l="RE7" fb="RE7" ppth="Kiel Hbf|Flintbek|Bordesholm|Einfeld|Neumünster|Elmshorn"/>
+	</s>
+	<s id="6154916378407280563-2611080634-4">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11007"/>
+		<ar pt="2611080722" pp="7" l="RE6" fb="RE6" ppth="Itzehoe|Glückstadt|Elmshorn"/>
+	</s>
+	<s id="7675119470051787043-2611080637-7">
+		<tl f="N" t="p" o="800201" c="RE" n="11497"/>
+		<ar pt="2611080744" pp="" l="RE70" fb="RE70" ppth="Kiel Hbf|Bordesholm|Neumünster|Brokstedt|Wrist|Elmshorn"/>
+	</s>
+	<s id="-1545592498397659931-2611080653-8">
+		<tl f="D" t="p" o="O0" c="NBE" n="34963"/>
+		<ar pt="2611080735" pp="" l="RB71" fb="RB71" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="7666321203659863070-2611080702-10">
+		<tl f="D" t="p" o="O0" c="NBE" n="34907"/>
+		<ar pt="2611080754" pp="" l="RB61" fb="RB61" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="2092013153555480627-2611080702-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34906"/>
+		<dp pt="2611080702" pp="" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="6010313272091043360-2611080726-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34966"/>
+		<dp pt="2611080726" pp="" l="RB71" fb="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="-3535085734108127560-2611080732-1">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11006"/>
+		<dp pt="2611080732" pp="8" l="RE6" fb="RE6" ppth="Elmshorn|Itzehoe|Heide(Holst)|Lunden|Friedrichstadt|Husum|Bredstedt|Langenhorn(Schlesw)|Niebüll|Klanxbüll|Morsum|Keitum|Westerland(Sylt)"/>
+	</s>
+	<s id="-7785713731975244684-2611080743-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11678"/>
+		<dp pt="2611080743" pp="" l="RE7" fb="RE7" wings="-7420675031130619753-2611080743" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Einfeld|Bordesholm|Flintbek|Kiel Hbf"/>
+		<tra t="v" id="8428143991649509700" ref-to="-7420675031130619753-2611080743" s="a" o="p" jt="j"/>
+	</s>
+	<s id="-7420675031130619753-2611080743-1">
+		<tl f="N" t="p" o="800201" c="RE" n="11196"/>
+		<dp pt="2611080743" pp="" l="RE7" fb="RE7" ppth="Pinneberg|Elmshorn|Wrist|Brokstedt|Neumünster|Nortorf|Rendsburg|Owschlag|Schleswig|Jübek|Tarp|Flensburg"/>
+		<tra t="v" id="8428143991649509700" ref-from="-7785713731975244684-2611080743" s="a" o="p" jt="j"/>
+	</s>
+	<s id="6212183100206528382-2611080756-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="19998"/>
+		<dp pt="2611080756" pp="" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+</timetable>
