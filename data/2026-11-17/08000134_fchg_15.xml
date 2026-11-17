@@ -1,0 +1,1272 @@
+<?xml version="1.0" ?><timetable station="Trier Hbf" eva="8000134">
+
+<s id="-8478497819371382420-2611171556-35" eva="8000134">
+    <ar ct="2611171801" l="RB71">
+        <m id="-2461142957537988410-2824016579821557292" t="d" c="43" ts="2611171633" ts-tts="26-11-17 16:33:57.798"/>
+    </ar>
+    <dp ct="2611171803" l="RB71">
+        <m id="-2461142957537988410-2824016579821557292" t="d" c="43" ts="2611171633" ts-tts="26-11-17 16:33:57.798"/>
+    </dp>
+</s>
+
+
+<s id="5136034541674976166-2611171733-1" eva="8000134">
+    <dp ppth="Schweich(DB)|Wittlich Hbf|Bullay(DB)|Cochem(Mosel)|Treis-Karden|Kobern-Gondorf|Koblenz Hbf" pp="13 Nord" ct="2611171904" pt="2611171831" tra="3528553064620976461-2611171733-4" l="RE11" fb="RE11"/>
+    <tl f="N" t="p" o="82" c="RE" n="5129"/>
+</s>
+
+
+<s id="3528553064620976461-2611171733-4" eva="8000134">
+    <ar ppth="Igel|Kreuz Konz|Trier Süd" pp="13 Süd" ct="2611171856" pt="2611171823" tra="5136034541674976166-2611171733-1" pde="Luxembourg" l="RE11" fb="RE11"/>
+    <tl t="p" o="82" c="DB" n="5129"/>
+</s>
+
+
+<s id="3317117431063781279-2611171539-16" eva="8000134">
+    <ar ppth="Mannheim Hbf|Ludwigshafen(Rh)Hbf|Neustadt(Weinstr)Hbf|Kaiserslautern Hbf|Landstuhl|Homburg(Saar)Hbf|St Ingbert|Saarbrücken Hbf|Völklingen|Saarlouis Hbf|Dillingen(Saar)|Merzig(Saar)|Mettlach|Saarburg(Bz Trier)|Konz" pp="13 Nord" ct="2611171827" pt="2611171827" l="RE1" fb="RE1"/>
+    <dp ppth="Schweich(DB)|Wittlich Hbf|Bullay(DB)|Cochem(Mosel)|Treis-Karden|Kobern-Gondorf|Koblenz Hbf" pp="13 Nord" ct="2611171904" pt="2611171831" wings="5136034541674976166-2611171733" l="RE1" fb="RE1"/>
+    <tl f="N" t="p" o="800640" c="RE" n="4129"/>
+</s>
+
+
+<s id="-71819561549100614-2611171506-8" eva="8000134">
+    <ar ppth="Koblenz Hbf|Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" pp="11 Süd" ct="2611171717" pt="2611171630" wings="1672939722005276167-2611171506" tra="8928634910946959587-2611171506-1" l="RE11" fb="RE11">
+        <m id="-4762444861389708928-9186838335731004817" t="d" c="48" ts="2611171515" ts-tts="26-11-17 15:15:41.672"/>
+        <m id="-7379477099672374563-4443022354244421762" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:15.602"/>
+        <m id="9196947065371042622--5566953129225735680" t="d" c="38" ts="2611171617" ts-tts="26-11-17 16:17:29.728"/>
+        <m id="-3326240953541860017-" t="f" c="2000" ts="2611171632" ts-tts="26-11-17 16:32:45.830"/>
+    </ar>
+    <tl f="N" t="p" o="800640" c="RE" n="5118"/>
+</s>
+
+
+<s id="8928634910946959587-2611171506-1" eva="8000134">
+    <dp ppth="Trier Süd|Kreuz Konz|Igel|Wasserbillig" pp="11 Süd" ct="2611171722" pt="2611171636" tra="-71819561549100614-2611171506-8" pde="Luxembourg" l="RE11" fb="RE11">
+        <m id="-4762444861389708928-9186838335731004817" t="d" c="48" ts="2611171515" ts-tts="26-11-17 15:15:41.672"/>
+        <m id="-7379477099672374563-4443022354244421762" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:15.602"/>
+        <m id="9196947065371042622--5566953129225735680" t="d" c="38" ts="2611171617" ts-tts="26-11-17 16:17:29.728"/>
+        <m id="-3326240953541860017-" t="f" c="2000" ts="2611171632" ts-tts="26-11-17 16:32:45.830"/>
+    </dp>
+    <tl t="p" o="800640" c="DB" n="5118"/>
+</s>
+
+
+<s id="1672939722005276167-2611171506-8" eva="8000134">
+    <ar ppth="Koblenz Hbf|Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" pp="11 Süd" ct="2611171717" pt="2611171630" l="RE1" fb="RE1">
+        <m id="6022981552044103712--971849124455012176" t="d" c="48" ts="2611171515" ts-tts="26-11-17 15:15:41.628"/>
+        <m id="676903151739489040-3275467594022593272" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:15.565"/>
+        <m id="-7396113135690779534--2596482299951067266" t="d" c="38" ts="2611171617" ts-tts="26-11-17 16:17:29.690"/>
+        <m id="-8025694708936190474-" t="f" c="2000" ts="2611171632" ts-tts="26-11-17 16:32:45.787"/>
+    </ar>
+    <dp ppth="Konz|Saarburg(Bz Trier)|Mettlach|Merzig(Saar)|Dillingen(Saar)|Saarlouis Hbf|Völklingen|Saarbrücken Hbf|St Ingbert|Homburg(Saar)Hbf|Landstuhl|Kaiserslautern Hbf|Neustadt(Weinstr)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" pp="11 Süd" ct="2611171719" pt="2611171633" l="RE1" fb="RE1">
+        <m id="6022981552044103712--971849124455012176" t="d" c="48" ts="2611171515" ts-tts="26-11-17 15:15:41.628"/>
+        <m id="676903151739489040-3275467594022593272" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:15.565"/>
+        <m id="-7396113135690779534--2596482299951067266" t="d" c="38" ts="2611171617" ts-tts="26-11-17 16:17:29.690"/>
+        <m id="-8025694708936190474-" t="f" c="2000" ts="2611171632" ts-tts="26-11-17 16:32:45.787"/>
+    </dp>
+    <tl f="N" t="p" o="800640" c="RE" n="4118"/>
+</s>
+
+
+<s id="-5740170862841588027-2611171641-1" eva="8000134">
+    <dp ct="2611171651" l="RB81">
+        <m id="3167537342322628943--8125918919039829259" t="d" c="38" ts="2611171632" ts-tts="26-11-17 16:32:10.124"/>
+    </dp>
+</s>
+
+
+<s id="-5284561636684227426-2611171452-11" eva="8000134">
+    <ar ct="2611171627" l="RE1">
+        <m id="-7929297902337852969-7685228111129649543" t="d" c="38" ts="2611171630" ts-tts="26-11-17 16:30:36.471"/>
+    </ar>
+    <dp ct="2611171651" l="RE1">
+        <m id="-7929297902337852969-7685228111129649543" t="d" c="38" ts="2611171630" ts-tts="26-11-17 16:30:36.471"/>
+    </dp>
+</s>
+
+
+<s id="730527940759925585-2611171533-4" eva="8000134">
+    <ar ct="2611171623" l="RE11">
+        <m id="7920225694171418638--7185109354807442865" t="d" c="38" ts="2611171630" ts-tts="26-11-17 16:30:36.385"/>
+    </ar>
+</s>
+
+
+<s id="-1901883754760969905-2611171533-1" eva="8000134">
+    <dp ct="2611171651" l="RE11">
+        <m id="7920225694171418638--7185109354807442865" t="d" c="38" ts="2611171630" ts-tts="26-11-17 16:30:36.385"/>
+    </dp>
+</s>
+
+
+<s id="1045010210136838266-2611171514-25" eva="8000134">
+    <ar ct="2611171844" l="RE22"/>
+</s>
+
+
+<s id="1824428216933054487-2611171456-35" eva="8000134">
+    <ar ct="2611171718" l="RB71">
+        <m id="-5155783187080626541-2997969982758778603" t="d" c="43" ts="2611171538" ts-tts="26-11-17 15:38:51.038"/>
+        <m id="-9212481949237899586--3357092262706896695" t="d" c="36" ts="2611171627" ts-tts="26-11-17 16:27:59.913"/>
+    </ar>
+    <dp ct="2611171721" l="RB71">
+        <m id="-5155783187080626541-2997969982758778603" t="d" c="43" ts="2611171538" ts-tts="26-11-17 15:38:51.038"/>
+        <m id="-9212481949237899586--3357092262706896695" t="d" c="36" ts="2611171627" ts-tts="26-11-17 16:27:59.913"/>
+    </dp>
+</s>
+
+
+<s id="765884255463401950-2611171439-16" eva="8000134">
+    <ar ct="2611171727" l="RE1"/>
+    <dp ct="2611171734" l="RE1"/>
+</s>
+
+
+<s id="1493404885161003160-2611171633-1" eva="8000134">
+    <dp ct="2611171734" l="RE11"/>
+</s>
+
+
+<s id="-6059680816138161173-2611171315-25" eva="8000134">
+    <ar ct="2611171627" l="RE22">
+        <m id="4651865382796473716--935828138314515693" t="d" c="48" ts="2611171159" ts-tts="26-11-17 11:59:56.372"/>
+    </ar>
+</s>
+
+
+<s id="2200714769942652603-2611171525-31" eva="8000134">
+    <ar ppth="Koblenz Hbf|Koblenz-Moselweiß|Koblenz-Güls|Winningen(Mosel)|Kobern-Gondorf|Lehmen|Kattenes|Löf|Hatzenport|Moselkern|Müden(Mosel)|Treis-Karden|Pommern(Mosel)|Klotten|Cochem(Mosel)|Ediger-Eller|Neef|Bullay(DB)|Bengel|Ürzig(DB)|Wittlich Hbf|Salmtal|Sehlem(Kr Wittlich)|Hetzerath|Föhren|Schweich(DB)|Quint|Ehrang Ort|Trier Hafenstraße|Pfalzel" pp="12 Süd" ct="2611171753" pt="2611171720" l="RB81" fb="RB81">
+        <m id="-4825345038808570041--1551888178368444420" t="d" c="38" ts="2611171609" ts-tts="26-11-17 16:09:15.406"/>
+        <m id="8088610175038349263-" t="f" c="2000" ts="2611171619" ts-tts="26-11-17 16:20:00.001"/>
+    </ar>
+    <tl f="N" t="p" o="801512" c="RB" n="12130"/>
+</s>
+
+
+<s id="5492336250993157025-2611171433-4" eva="8000134">
+    <ar ct="2611171522" l="RE11">
+        <m id="1307341052488062801-7131316742632364597" t="q" c="82" ts="2611171126" ts-tts="26-11-17 11:26:54.847"/>
+        <m id="-4831579980561336067-" t="f" c="2000" ts="2611171559" ts-tts="26-11-17 15:59:29.749"/>
+        <m id="-4551721853066372931-" t="f" c="2000" ts="2611171619" ts-tts="26-11-17 16:19:14.403"/>
+    </ar>
+</s>
+
+
+<s id="-3740203731696942774-2611171433-1" eva="8000134">
+    <dp ct="2611171532" l="RE11">
+        <m id="1307341052488062801-7131316742632364597" t="q" c="82" ts="2611171126" ts-tts="26-11-17 11:26:54.847"/>
+        <m id="-4831579980561336067-" t="f" c="2000" ts="2611171559" ts-tts="26-11-17 15:59:29.749"/>
+        <m id="-4551721853066372931-" t="f" c="2000" ts="2611171619" ts-tts="26-11-17 16:19:14.403"/>
+    </dp>
+</s>
+
+
+<s id="-4059341726586179126-2611171236-16" eva="8000134">
+    <ar ct="2611171527" l="RE1">
+        <m id="-311412720214154857-4787324165969483256" t="q" c="82" ts="2611171126" ts-tts="26-11-17 11:26:54.934"/>
+        <m id="7330753552809639083-" t="f" c="2000" ts="2611171559" ts-tts="26-11-17 15:59:29.595"/>
+        <m id="8920227023651509741-" t="f" c="2000" ts="2611171619" ts-tts="26-11-17 16:19:14.324"/>
+    </ar>
+    <dp ct="2611171532" l="RE1">
+        <m id="-311412720214154857-4787324165969483256" t="q" c="82" ts="2611171126" ts-tts="26-11-17 11:26:54.934"/>
+        <m id="7330753552809639083-" t="f" c="2000" ts="2611171559" ts-tts="26-11-17 15:59:29.595"/>
+        <m id="8920227023651509741-" t="f" c="2000" ts="2611171619" ts-tts="26-11-17 16:19:14.324"/>
+    </dp>
+</s>
+
+
+<s id="5431591336088456822-2611171521-8" eva="8000134">
+    <ar ppth="Koblenz Hbf|Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" pp="11 Süd" ct="2611171720" pt="2611171644" l="RE1" fb="RE1">
+        <m id="-2960060076798348025--562317070966934471" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:57.115"/>
+        <m id="-602736979183588392--310918747328504818" t="d" c="38" ts="2611171618" ts-tts="26-11-17 16:18:11.715"/>
+    </ar>
+    <dp ppth="Trier Süd|Kreuz Konz|Igel|Wasserbillig" pp="11 Süd" ct="2611171723" pt="2611171647" pde="Luxembourg" l="RE1" fb="RE1">
+        <m id="-2960060076798348025--562317070966934471" t="d" c="40" ts="2611171600" ts-tts="26-11-17 16:00:57.115"/>
+        <m id="-602736979183588392--310918747328504818" t="d" c="38" ts="2611171618" ts-tts="26-11-17 16:18:11.715"/>
+    </dp>
+    <tl f="N" t="p" o="800640" c="RE" n="5106"/>
+</s>
+
+
+<s id="9127058751014681615-2611171650-1" eva="8000134">
+    <dp ct="2611171650" l="RB82"/>
+</s>
+
+
+<s id="8578918399197544300-2611171425-31" eva="8000134">
+    <ar ct="2611171620" l="RB81"/>
+</s>
+
+
+<s id="3445225911708264620-2611171403-35" eva="8000134">
+    <ar ct="2611171606" l="RB71">
+        <m id="2788416343907843501--1870638168560821584" t="d" c="43" ts="2611171500" ts-tts="26-11-17 15:00:49.929"/>
+        <m id="-8922324627221096835--2820082225647514642" t="d" c="33" ts="2611171524" ts-tts="26-11-17 15:24:56.341"/>
+    </ar>
+    <dp ct="2611171615" l="RB71">
+        <m id="2788416343907843501--1870638168560821584" t="d" c="43" ts="2611171500" ts-tts="26-11-17 15:00:49.929"/>
+        <m id="-8922324627221096835--2820082225647514642" t="d" c="33" ts="2611171524" ts-tts="26-11-17 15:24:56.341"/>
+    </dp>
+</s>
+
+
+<s id="-887529702049393917-2611171526-15" eva="8000134">
+    <ar ct="2611171617" l="RB82"/>
+</s>
+
+
+<s id="-6822005230895776786-2611171646-3" eva="8000134">
+    <ar ct="2611171652" l="RB71"/>
+    <dp ct="2611171701" l="RB71"/>
+</s>
+
+
+<s id="-4770031626265252760-2611171541-1" eva="8000134">
+    <dp cp="12 Nord" ct="2611171541" l="RB81">
+        <m id="-2120352505034002900-" t="f" c="2000" ts="2611171612" ts-tts="26-11-17 16:12:57.693"/>
+    </dp>
+</s>
+
+
+<s id="4326984624908014897-2611171610-1" eva="8000134">
+    <m id="210563bc-0f0b-4284-9ae2-23feb3e05875" t="h" from="2611171503" to="2611171700" cat="URSACHE_UNSPEZIFIZIERT" ts="2611171503" ts-tts="26-11-17 15:03:46.165" pr="1"/>
+    <m id="620ed9d9-1c9d-4c67-93c8-91d4f3325a8c" t="h" from="2611130648" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:42.346" pr="3"/>
+    <m id="f8cd1680-c3a9-4956-8c55-1cc074d13300" t="h" from="2611060816" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:42.346" pr="3"/>
+    <dp ct="2611171610" l="RE22"/>
+</s>
+
+
+<s id="4852349538282285392-2611171607-1" eva="8000134">
+    <dp cp="12 Süd" ct="2611171607" l="RB82"/>
+</s>
+
+
+<s id="-7331353470684549012-2611171636-1" eva="8000134">
+    <dp ct="2611171636" l="RE22"/>
+</s>
+
+
+<s id="-1448849820925811342-2611171656-35" eva="8000134">
+    <ar ct="2611171859" l="RB71"/>
+    <dp ct="2611171903" l="RB71"/>
+</s>
+
+
+<s id="-2605317728303162575-2611171544-3" eva="8000134">
+    <ar ct="2611171551" l="RB71"/>
+    <dp ct="2611171601" l="RB71"/>
+</s>
+
+
+<s id="-6401402440685017829-2611171626-15" eva="8000134">
+    <ar ct="2611171716" l="RB82"/>
+</s>
+
+
+<s id="980228415031503884-2611171625-31" eva="8000134">
+    <ar ct="2611171818" l="RB81"/>
+</s>
+
+
+<s id="3371964485750035452-2611171621-17" eva="8000134">
+    <ar ct="2611171927" l="RE1"/>
+    <dp ct="2611171931" l="RE1"/>
+</s>
+
+
+<s id="-6656136929419372555-2611171615-25" eva="8000134">
+    <ar ct="2611171926" l="RE22"/>
+</s>
+
+
+<s id="-381831999912484537-2611171406-1" eva="8000134">
+    <dp ct="2611171537" l="RE11"/>
+</s>
+
+
+<s id="2651187003037368698-2611171606-8" eva="8000134">
+    <ar ct="2611171730" l="RE11"/>
+</s>
+
+
+<s id="2029204665843714960-2611171606-8" eva="8000134">
+    <ar ct="2611171730" l="RE1"/>
+    <dp ct="2611171733" l="RE1"/>
+</s>
+
+
+<s id="1766048654091977339-2611171606-1" eva="8000134">
+    <dp ct="2611171736" l="RE11"/>
+</s>
+
+
+<s id="3997200133294264185-2611171406-8" eva="8000134">
+    <ar ct="2611171530" l="RE1"/>
+    <dp ct="2611171533" l="RE1"/>
+</s>
+
+
+<s id="-4114947227927106524-2611171215-25" eva="8000134">
+    <ar ppth="Kall|Urft|Nettersheim|Blankenheim(Wald)|Schmidtheim|Dahlem(Eifel)|Jünkerath|Lissendorf|Oberbettingen-Hillesheim|Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pp="12 Nord" ct="2611171558" pt="2611171527" pde="Köln Messe/Deutz" l="RE22" fb="RE22">
+        <m id="-8448971690503326023--539894448690318862" t="d" c="48" ts="2611171159" ts-tts="26-11-17 11:59:39.190"/>
+        <m id="2887169591794067906--2908474368006148486" t="d" c="28" ts="2611171325" ts-tts="26-11-17 13:25:29.984"/>
+    </ar>
+    <tl f="N" t="p" o="800352" c="RB" n="10025"/>
+</s>
+
+
+<s id="6790767897411848477-2611171406-8" eva="8000134">
+    <ar ct="2611171530" l="RE11"/>
+</s>
+
+
+<s id="-8484699165458790953-2611171536-1" eva="8000134">
+    <dp ct="2611171536" l="RE22"/>
+</s>
+
+
+<s id="-7487732123977070458-2611171328-31" eva="8000134">
+    <ar cp="12 Nord" ct="2611171527" l="RB81">
+        <m id="9148295284770618202--2576964247251790769" t="d" c="38" ts="2611171317" ts-tts="26-11-17 13:17:42.897"/>
+    </ar>
+</s>
+
+
+<s id="-4519458592629293029-2611171426-15" eva="8000134">
+    <ar ct="2611171520" l="RB82">
+        <m id="-8434422280536530577-" t="f" c="2000" ts="2611171313" ts-tts="26-11-17 13:13:14.097"/>
+    </ar>
+</s>
+
+
+<s id="8664303754853672165-2611171225-31" eva="8000134">
+    <ar ppth="Koblenz Hbf|Koblenz-Moselweiß|Koblenz-Güls|Winningen(Mosel)|Kobern-Gondorf|Lehmen|Kattenes|Löf|Hatzenport|Moselkern|Müden(Mosel)|Treis-Karden|Pommern(Mosel)|Klotten|Cochem(Mosel)|Ediger-Eller|Neef|Bullay(DB)|Bengel|Ürzig(DB)|Wittlich Hbf|Salmtal|Sehlem(Kr Wittlich)|Hetzerath|Föhren|Schweich(DB)|Quint|Ehrang Ort|Trier Hafenstraße|Pfalzel" cp="11 Nord" pp="12 Süd" ct="2611171514" pt="2611171420" l="RB81" fb="RB81">
+        <m id="7090235591389778341-3227669355229275425" t="d" c="38" ts="2611171234" ts-tts="26-11-17 12:34:06.969"/>
+        <m id="2281144150874309897-" t="f" c="2000" ts="2611171236" ts-tts="26-11-17 12:36:07.127"/>
+        <m id="-1150677710255575548-" t="f" c="2000" ts="2611171301" ts-tts="26-11-17 13:01:27.780"/>
+    </ar>
+    <tl f="N" t="p" o="801512" c="RB" n="12122"/>
+</s>
+
+
+<s id="4451172557108204023-2611171256-35" eva="8000134">
+    <ar cpth="Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|Rohrbach(Saar)|St Ingbert|Rentrisch|Scheidt(Saar)|Schafbrücke|Saarbrücken Ost|Saarbrücken Hbf|Saarbrücken-Burbach|Burbach Mitte|Luisenthal(Saar)|Völklingen|Bous(Saar)|Ensdorf(Saar)|Saarlouis Hbf|Dillingen(Saar)|Beckingen(Saar)|Fremersdorf|Merzig(Saar)|Merzig(Saar) Stadtmitte|Besseringen|Mettlach|Saarhölzbach|Taben|Serrig|Saarburg(Bz Trier)|Schoden-Ockfen|Wiltingen(Saar)|Kanzem|Konz|Karthaus|Trier Süd" ct="2611171501" l="RB71">
+        <m id="2222520575568718066-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.578"/>
+        <m id="--2270269841714247848" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.578"/>
+        <m id="-1441781645423146202-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.976"/>
+    </ar>
+    <dp cpth="Pfalzel|Trier Hafenstraße" ct="2611171507" l="RB71">
+        <m id="2222520575568718066-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.579"/>
+        <m id="--2270269841714247848" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.579"/>
+        <m id="-1441781645423146202-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.976"/>
+    </dp>
+</s>
+
+
+<s id="6006235102164722534-2611171336-1" eva="8000134">
+    <dp ppth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach|Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|St Thomas|Densborn|Mürlenbach|Birresborn|Gerolstein|Oberbettingen-Hillesheim|Lissendorf|Jünkerath|Dahlem(Eifel)|Schmidtheim|Blankenheim(Wald)|Nettersheim|Urft|Kall" pp="12 Nord" ct="2611171532" pt="2611171336" pde="Köln Messe/Deutz" l="RE22" fb="RE22"/>
+    <tl f="N" t="p" o="800352" c="RB" n="10028"/>
+</s>
+
+
+<s id="-1116751992003358117-2611171015-25" eva="8000134">
+    <ar ppth="Kall|Urft|Nettersheim|Blankenheim(Wald)|Schmidtheim|Dahlem(Eifel)|Jünkerath|Lissendorf|Oberbettingen-Hillesheim|Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pp="12 Nord" ct="2611171527" pt="2611171327" pde="Köln Messe/Deutz" cde="Erftstadt" dc="1" l="RE22" fb="RE22">
+        <m id="6452915427886378802--5091181077824447650" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:24.158"/>
+        <m id="-6761998947367801393--2988510389352249497" t="d" c="44" ts="2611171138" ts-tts="26-11-17 11:38:16.813"/>
+        <m id="-6120410709959781095-5218783389427414696" t="d" c="18" ts="2611171310" ts-tts="26-11-17 13:10:44.678"/>
+    </ar>
+    <tl f="N" t="p" o="800352" c="RB" n="10019"/>
+</s>
+
+
+<s id="6147380785486490413-2611171444-3" eva="8000134">
+    <ar ct="2611171453" l="RB71"/>
+    <dp ct="2611171502" l="RB71"/>
+</s>
+
+
+<s id="7702951623564419293-2611171411-8" eva="8000134">
+    <m id="620ed9d9-1c9d-4c67-93c8-91d4f3325a8c" t="h" from="2611130648" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:38.800" pr="3"/>
+    <m id="f8cd1680-c3a9-4956-8c55-1cc074d13300" t="h" from="2611060816" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:38.800" pr="3"/>
+    <ar cpth="Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" ct="2611171459" l="RE22">
+        <m id="-8015672921225293873-3835513734788017892" t="d" c="18" ts="2611171341" ts-tts="26-11-17 13:41:15.688"/>
+    </ar>
+</s>
+
+
+<s id="2246552678385141259-2611171415-25" eva="8000134">
+    <ar ct="2611171727" cde="Erftstadt" dc="1" l="RE22">
+        <m id="-4547563820002926300--214091188665842356" t="d" c="48" ts="2611171451" ts-tts="26-11-17 14:51:14.816"/>
+    </ar>
+</s>
+
+
+<s id="7997865999412770739-2611171036-1" eva="8000134">
+    <dp ct="2611171037" cde="Erftstadt" dc="1" l="RE22">
+        <m id="-9097809799112664684-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.905"/>
+        <m id="1061029592632855642-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.905"/>
+        <m id="-2328103460390718929-" t="f" c="2000" ts="2611171255" ts-tts="26-11-17 12:55:13.529"/>
+        <m id="-4998038245744047765-" t="f" c="2000" ts="2611171303" ts-tts="26-11-17 13:03:23.661"/>
+        <m id="7239297993059385266-" t="f" c="2000" ts="2611171450" ts-tts="26-11-17 14:50:42.700"/>
+    </dp>
+</s>
+
+
+<s id="-6819604094808865513-2611171441-1" eva="8000134">
+    <dp cpth="Trier Süd|Karthaus|Konz Mitte|Wasserliesch|Oberbillig|Temmels|Wellen(Mosel)|Nittel|Wincheringen|Wehr(Mosel)|Palzem|Nennig|Besch|Perl" ct="2611171447" l="RB82">
+        <m id="5667797617165619250-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.585"/>
+        <m id="--2769988308800935329" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.585"/>
+        <m id="6881706716599629504-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.045"/>
+        <m id="530606267805468508-8829960609983107208" t="d" c="43" ts="2611171447" ts-tts="26-11-17 14:47:53.729"/>
+    </dp>
+</s>
+
+
+<s id="-3582637826797358496-2611171306-1" eva="8000134">
+    <dp ct="2611171445" l="RE11">
+        <m id="-336211193784162440-7032845019327022393" t="d" c="48" ts="2611171209" ts-tts="26-11-17 12:09:00.112"/>
+        <m id="2360019185303628765--4550730411319539952" t="d" c="38" ts="2611171241" ts-tts="26-11-17 12:41:31.624"/>
+        <m id="-1113531841454401241-" t="f" c="2000" ts="2611171241" ts-tts="26-11-17 12:41:52.310"/>
+    </dp>
+</s>
+
+
+<s id="7842371433605033713-2611171306-8" eva="8000134">
+    <ar cpth="Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" ct="2611171440" l="RE1">
+        <m id="8822846782955581244--7183769202218829032" t="d" c="48" ts="2611171209" ts-tts="26-11-17 12:09:00.128"/>
+        <m id="-806313625585474799--7565958434554091501" t="d" c="38" ts="2611171241" ts-tts="26-11-17 12:41:31.662"/>
+        <m id="7930901892440588386-" t="f" c="2000" ts="2611171241" ts-tts="26-11-17 12:41:52.181"/>
+    </ar>
+    <dp cpth="Konz|Saarburg(Bz Trier)|Mettlach|Merzig(Saar)|Dillingen(Saar)|Saarlouis Hbf|Völklingen|Saarbrücken Hbf|St Ingbert|Homburg(Saar)Hbf|Landstuhl|Kaiserslautern Hbf|Hochspeyer|Neustadt(Weinstr)Hbf|Ludwigshafen(Rhein) Mitte|Mannheim Hbf" ct="2611171442" l="RE1">
+        <m id="8822846782955581244--7183769202218829032" t="d" c="48" ts="2611171209" ts-tts="26-11-17 12:09:00.128"/>
+        <m id="-806313625585474799--7565958434554091501" t="d" c="38" ts="2611171241" ts-tts="26-11-17 12:41:31.662"/>
+        <m id="7930901892440588386-" t="f" c="2000" ts="2611171241" ts-tts="26-11-17 12:41:52.181"/>
+    </dp>
+</s>
+
+
+<s id="-1075646154307148351-2611171441-1" eva="8000134">
+    <dp ct="2611171441" l="RB81"/>
+</s>
+
+
+<s id="1333433116434512254-2611171306-8" eva="8000134">
+    <ar cpth="Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" ct="2611171440" l="RE11">
+        <m id="-336211193784162440-7032845019327022393" t="d" c="48" ts="2611171209" ts-tts="26-11-17 12:09:00.112"/>
+        <m id="2360019185303628765--4550730411319539952" t="d" c="38" ts="2611171241" ts-tts="26-11-17 12:41:31.624"/>
+        <m id="-1113531841454401241-" t="f" c="2000" ts="2611171241" ts-tts="26-11-17 12:41:52.310"/>
+    </ar>
+</s>
+
+
+<s id="6245452181756872477-2611171139-16" eva="8000134">
+    <ar ct="2611171429" l="RE1">
+        <m id="-2583415103598687660-5322237338974479880" t="d" c="43" ts="2611171202" ts-tts="26-11-17 12:02:12.946"/>
+    </ar>
+    <dp ct="2611171436" l="RE1">
+        <m id="-2583415103598687660-5322237338974479880" t="d" c="43" ts="2611171202" ts-tts="26-11-17 12:02:12.946"/>
+    </dp>
+</s>
+
+
+<s id="-1945498645981806014-2611171333-1" eva="8000134">
+    <dp ct="2611171436" l="RE11">
+        <m id="-7227361475725693013-7208266677150617215" t="d" c="43" ts="2611171202" ts-tts="26-11-17 12:02:13.203"/>
+    </dp>
+</s>
+
+
+<s id="-6044031535606612140-2611171633-4" eva="8000134">
+    <ar ct="2611171722" l="RE11"/>
+</s>
+
+
+<s id="8026072332551890821-2611171831-26" eva="8000134">
+    <ar ct="2611172001" l="RB71"/>
+</s>
+
+
+<s id="130538096233662499-2611171206-8" eva="8000134">
+    <ar ppth="Koblenz Hbf|Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" pp="11 Süd" ct="2611171421" pt="2611171330" l="RE1" fb="RE1">
+        <m id="93150443958648094--7541296964333628802" t="d" c="38" ts="2611171155" ts-tts="26-11-17 11:55:10.413"/>
+        <m id="6938452455652132136-" t="f" c="2000" ts="2611171224" ts-tts="26-11-17 12:24:45.408"/>
+        <m id="-4531395019070928179-" t="f" c="2000" ts="2611171236" ts-tts="26-11-17 12:36:17.748"/>
+    </ar>
+    <dp ppth="Konz|Saarburg(Bz Trier)|Mettlach|Merzig(Saar)|Dillingen(Saar)|Saarlouis Hbf|Völklingen|Saarbrücken Hbf" pp="11 Süd" ct="2611171425" pt="2611171333" l="RE1" fb="RE1">
+        <m id="93150443958648094--7541296964333628802" t="d" c="38" ts="2611171155" ts-tts="26-11-17 11:55:10.413"/>
+        <m id="6938452455652132136-" t="f" c="2000" ts="2611171224" ts-tts="26-11-17 12:24:45.408"/>
+        <m id="-4531395019070928179-" t="f" c="2000" ts="2611171236" ts-tts="26-11-17 12:36:17.748"/>
+    </dp>
+    <tl f="N" t="p" o="800640" c="RE" n="4112"/>
+</s>
+
+
+<s id="-5388218232073483159-2611171333-4" eva="8000134">
+    <ar ct="2611171423" l="RE11">
+        <m id="-7227361475725693013-7208266677150617215" t="d" c="43" ts="2611171202" ts-tts="26-11-17 12:02:13.203"/>
+    </ar>
+</s>
+
+
+<s id="6032332180546482871-2611171206-8" eva="8000134">
+    <ar ppth="Koblenz Hbf|Kobern-Gondorf|Treis-Karden|Cochem(Mosel)|Bullay(DB)|Wittlich Hbf|Schweich(DB)" pp="11 Süd" ct="2611171421" pt="2611171330" wings="130538096233662499-2611171206" tra="-1859093763934494198-2611171206-1" l="RE11" fb="RE11">
+        <m id="4835038083367547866-3852387487515483672" t="d" c="38" ts="2611171155" ts-tts="26-11-17 11:55:10.446"/>
+        <m id="-2079603893301844312-" t="f" c="2000" ts="2611171224" ts-tts="26-11-17 12:24:45.500"/>
+        <m id="-3067539353440855147-" t="f" c="2000" ts="2611171236" ts-tts="26-11-17 12:36:17.893"/>
+        <m id="2569670191306072943-" t="f" c="2000" ts="2611171416" ts-tts="26-11-17 14:16:27.112"/>
+    </ar>
+    <tl f="N" t="p" o="800640" c="RE" n="5112"/>
+</s>
+
+
+<s id="5953569195836478306-2611171326-15" eva="8000134">
+    <ar cpth="Perl|Besch|Nennig|Palzem|Wehr(Mosel)|Wincheringen|Nittel|Wellen(Mosel)|Temmels|Oberbillig|Wasserliesch|Konz Mitte|Karthaus|Trier Süd" ct="2611171418" l="RB82">
+        <m id="1510052937381571808-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.572"/>
+        <m id="-1473722813079964169" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.572"/>
+        <m id="-1057627252831758936-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.054"/>
+    </ar>
+</s>
+
+
+<s id="-1859093763934494198-2611171206-1" eva="8000134">
+    <dp cpth="" ppth="Trier Süd|Kreuz Konz|Igel|Wasserbillig" pp="11 Süd" ct="2611171427" pt="2611171336" cs="c" clt="2611171416" tra="6032332180546482871-2611171206-8" pde="Luxembourg" dc="1" l="RE11" fb="RE11">
+        <m id="4835038083367547866-3852387487515483672" t="d" c="38" ts="2611171155" ts-tts="26-11-17 11:55:10.446"/>
+        <m id="-2079603893301844312-" t="f" c="2000" ts="2611171224" ts-tts="26-11-17 12:24:45.500"/>
+        <m id="-3067539353440855147-" t="f" c="2000" ts="2611171236" ts-tts="26-11-17 12:36:17.893"/>
+        <m id="2569670191306072943-" t="f" c="2000" ts="2611171416" ts-tts="26-11-17 14:16:27.112"/>
+    </dp>
+    <tl t="p" o="800640" c="DB" n="5112"/>
+</s>
+
+
+<s id="8258477429080733688-2611171156-35" eva="8000134">
+    <ar cpth="Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|Rohrbach(Saar)|St Ingbert|Rentrisch|Scheidt(Saar)|Schafbrücke|Saarbrücken Ost|Saarbrücken Hbf|Saarbrücken-Burbach|Burbach Mitte|Luisenthal(Saar)|Völklingen|Bous(Saar)|Ensdorf(Saar)|Saarlouis Hbf|Dillingen(Saar)|Beckingen(Saar)|Fremersdorf|Merzig(Saar)|Merzig(Saar) Stadtmitte|Besseringen|Mettlach|Saarhölzbach|Taben|Serrig|Saarburg(Bz Trier)|Schoden-Ockfen|Wiltingen(Saar)|Kanzem|Konz|Karthaus|Trier Süd" ct="2611171401" l="RB71">
+        <m id="7996198281213612716-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:20.765"/>
+        <m id="-9121896555728687946" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:20.765"/>
+        <m id="-6156713971249941255-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.069"/>
+    </ar>
+    <dp cpth="Pfalzel|Trier Hafenstraße" ct="2611171405" l="RB71">
+        <m id="7996198281213612716-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:20.765"/>
+        <m id="-9121896555728687946" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:20.765"/>
+        <m id="-6156713971249941255-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.069"/>
+    </dp>
+</s>
+
+
+<s id="2571936664463346733-2611171344-3" eva="8000134">
+    <ar cpth="Trier Hafenstraße|Pfalzel" ct="2611171355" l="RB71">
+        <m id="8989672846931929945-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.582"/>
+        <m id="-6333332839606556697" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.582"/>
+        <m id="-3558145043392366981-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.039"/>
+    </ar>
+    <dp cpth="Trier Süd|Karthaus|Konz|Kanzem|Wiltingen(Saar)|Schoden-Ockfen|Saarburg(Bz Trier)|Serrig|Taben|Saarhölzbach|Mettlach|Besseringen|Merzig(Saar) Stadtmitte|Merzig(Saar)|Fremersdorf|Beckingen(Saar)|Dillingen(Saar)|Saarlouis Hbf|Ensdorf(Saar)|Bous(Saar)|Völklingen|Luisenthal(Saar)|Burbach Mitte|Saarbrücken-Burbach|Saarbrücken Hbf|Saarbrücken Ost|Schafbrücke|Scheidt(Saar)|Rentrisch|St Ingbert|Rohrbach(Saar)|Kirkel|Limbach(b Homburg,Saar)|Homburg(Saar)Hbf" ct="2611171401" l="RB71">
+        <m id="8989672846931929945-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.582"/>
+        <m id="-6333332839606556697" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.582"/>
+        <m id="-3558145043392366981-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.039"/>
+    </dp>
+</s>
+
+
+<s id="8985607819293845104-2611171341-1" eva="8000134">
+    <dp cpth="Trier Süd|Karthaus|Konz Mitte|Wasserliesch|Oberbillig|Temmels|Wellen(Mosel)|Nittel|Wincheringen|Wehr(Mosel)|Palzem|Nennig|Besch|Perl" ct="2611171341" l="RB82">
+        <m id="-1131720771222951591-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.573"/>
+        <m id="-5614452752729555608" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.573"/>
+        <m id="-2585584389999262770-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.075"/>
+    </dp>
+</s>
+
+
+<s id="-7567523099156521746-2611171310-1" eva="8000134">
+    <m id="620ed9d9-1c9d-4c67-93c8-91d4f3325a8c" t="h" from="2611130648" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:38.801" pr="3"/>
+    <m id="f8cd1680-c3a9-4956-8c55-1cc074d13300" t="h" from="2611060816" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:38.801" pr="3"/>
+    <dp cpth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach" ct="2611171311" l="RE22">
+        <m id="8685413221035247259-" t="f" c="2000" ts="2611171327" ts-tts="26-11-17 13:27:51.854"/>
+        <m id="-6034108621804979230-" t="f" c="2000" ts="2611171341" ts-tts="26-11-17 13:41:15.462"/>
+    </dp>
+</s>
+
+
+<s id="3980331142695603221-2611171233-1" eva="8000134">
+    <dp ct="2611171339" l="RE11">
+        <m id="6908618022123094637--2194136796496640544" t="d" c="43" ts="2611171317" ts-tts="26-11-17 13:17:59.907"/>
+    </dp>
+</s>
+
+
+<s id="-4488345611159043178-2611171036-16" eva="8000134">
+    <ar ct="2611171333" l="RE1">
+        <m id="7081949817551970111-6620033977365682749" t="d" c="43" ts="2611171317" ts-tts="26-11-17 13:17:59.794"/>
+    </ar>
+    <dp ct="2611171339" l="RE1">
+        <m id="7081949817551970111-6620033977365682749" t="d" c="43" ts="2611171317" ts-tts="26-11-17 13:17:59.794"/>
+    </dp>
+</s>
+
+
+<s id="7064772423055986710-2611171741-1" eva="8000134">
+    <dp ppth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach|Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|Usch-Zendscheid|Densborn|Mürlenbach|Birresborn|Gerolstein" pt="2611171741" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100381"/>
+</s>
+
+
+<s id="-3359596041630032468-2611171508-16" eva="8000134">
+    <ar ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pt="2611171758" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100271"/>
+</s>
+
+
+<s id="7730946584120377242-2611171641-1" eva="8000134">
+    <dp ppth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach|Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|Usch-Zendscheid|Densborn|Mürlenbach|Birresborn|Gerolstein" pt="2611171641" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100361"/>
+</s>
+
+
+<s id="7188957377947426122-2611171708-16" eva="8000134">
+    <ar ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pt="2611171958" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100331"/>
+</s>
+
+
+<s id="2745619382692998471-2611171541-1" eva="8000134">
+    <dp ppth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach|Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|Usch-Zendscheid|Densborn|Mürlenbach|Birresborn|Gerolstein" pt="2611171541" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100321"/>
+</s>
+
+
+<s id="-960237813335233596-2611171841-1" eva="8000134">
+    <dp ppth="Pfalzel|Trier Hafenstraße|Kordel|Daufenbach|Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|Usch-Zendscheid|Densborn|Mürlenbach|Birresborn|Gerolstein" pt="2611171841" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100401"/>
+</s>
+
+
+<s id="-7487838157469576962-2611171808-16" eva="8000134">
+    <ar ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pt="2611172058" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100351"/>
+</s>
+
+
+<s id="-6721526481396684346-2611171908-16" eva="8000134">
+    <ar ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pt="2611172158" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100371"/>
+</s>
+
+
+<s id="-2021198223014610530-2611171608-16" eva="8000134">
+    <ar ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|Usch-Zendscheid|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pt="2611171858" l="RE22" fb="Bus RE22"/>
+    <tl t="s" o="B2" c="Bus" n="100291"/>
+</s>
+
+
+<s id="1689927269103440289-2611171233-4" eva="8000134">
+    <ar ct="2611171328" l="RE11">
+        <m id="6908618022123094637--2194136796496640544" t="d" c="43" ts="2611171317" ts-tts="26-11-17 13:17:59.907"/>
+    </ar>
+</s>
+
+
+<s id="2202596516037259693-2611171322-1" eva="8000134">
+    <dp cpth="Trier Süd|Karthaus|Konz Mitte|Wasserliesch|Oberbillig|Temmels|Wellen(Mosel)|Nittel|Wincheringen|Wehr(Mosel)|Palzem|Nennig|Besch|Perl" cp="11 Süd" ct="2611171322" l="RB82">
+        <m id="-5099478248614042865-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.570"/>
+        <m id="--8051212973113650526" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.570"/>
+        <m id="-4495832090410574163-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.993"/>
+        <m id="-1255910641873368197-" t="f" c="2000" ts="2611171312" ts-tts="26-11-17 13:12:31.283"/>
+    </dp>
+</s>
+
+
+<s id="1577210506593217215-2611171236-1" eva="8000134">
+    <dp ct="2611171238" l="RE22">
+        <m id="-2860271897535596428-4257376616025822899" t="d" c="47" ts="2611171238" ts-tts="26-11-17 12:38:19.911"/>
+        <m id="-799263505691716972-" t="f" c="2000" ts="2611171310" ts-tts="26-11-17 13:10:29.560"/>
+        <m id="4298830190986132376-" t="f" c="2000" ts="2611171319" ts-tts="26-11-17 13:19:21.541"/>
+    </dp>
+</s>
+
+
+<s id="3978785544369186650-2611171033-4" eva="8000134">
+    <ar ct="2611171130" l="RE11">
+        <m id="6403752077099238400-" t="f" c="2000" ts="2611171154" ts-tts="26-11-17 11:54:32.883"/>
+        <m id="-1470280472488739677-" t="f" c="2000" ts="2611171240" ts-tts="26-11-17 12:40:54.955"/>
+        <m id="-5689942981072800357-" t="f" c="2000" ts="2611171251" ts-tts="26-11-17 12:51:43.811"/>
+        <m id="4048956913496509094-" t="f" c="2000" ts="2611171318" ts-tts="26-11-17 13:18:57.565"/>
+    </ar>
+</s>
+
+
+<s id="4284726871613552465-2611171033-1" eva="8000134">
+    <dp cpth="Schweich(DB)|Wittlich Hbf|Bullay(DB)|Cochem(Mosel)|Treis-Karden|Kobern-Gondorf" ct="2611171142" l="RE11">
+        <m id="6403752077099238400-" t="f" c="2000" ts="2611171154" ts-tts="26-11-17 11:54:32.883"/>
+        <m id="-1470280472488739677-" t="f" c="2000" ts="2611171240" ts-tts="26-11-17 12:40:54.955"/>
+        <m id="-5689942981072800357-" t="f" c="2000" ts="2611171251" ts-tts="26-11-17 12:51:43.811"/>
+        <m id="4048956913496509094-" t="f" c="2000" ts="2611171318" ts-tts="26-11-17 13:18:57.565"/>
+    </dp>
+</s>
+
+
+<s id="-3843099408840933019-2611170817-17" eva="8000134">
+    <ar cpth="Heidelberg Hbf|Mannheim Hbf|Ludwigshafen(Rhein) Mitte|Neustadt(Weinstr)Hbf|Kaiserslautern Hbf|Landstuhl|Homburg(Saar)Hbf|St Ingbert|Saarbrücken Hbf|Völklingen|Saarlouis Hbf|Dillingen(Saar)|Merzig(Saar)|Mettlach|Saarburg(Bz Trier)|Konz" ct="2611171134" l="RE1">
+        <m id="8128404481399485579-" t="f" c="2000" ts="2611171154" ts-tts="26-11-17 11:54:32.839"/>
+        <m id="-8924863529375446156-" t="f" c="2000" ts="2611171240" ts-tts="26-11-17 12:40:55.094"/>
+        <m id="5556349399487252078-" t="f" c="2000" ts="2611171251" ts-tts="26-11-17 12:51:43.832"/>
+        <m id="-5971208744792473273-" t="f" c="2000" ts="2611171318" ts-tts="26-11-17 13:18:57.541"/>
+    </ar>
+    <dp cpth="Schweich(DB)|Wittlich Hbf|Bullay(DB)|Cochem(Mosel)|Treis-Karden|Kobern-Gondorf" ct="2611171142" l="RE1">
+        <m id="8128404481399485579-" t="f" c="2000" ts="2611171154" ts-tts="26-11-17 11:54:32.839"/>
+        <m id="-8924863529375446156-" t="f" c="2000" ts="2611171240" ts-tts="26-11-17 12:40:55.094"/>
+        <m id="5556349399487252078-" t="f" c="2000" ts="2611171251" ts-tts="26-11-17 12:51:43.832"/>
+        <m id="-5971208744792473273-" t="f" c="2000" ts="2611171318" ts-tts="26-11-17 13:18:57.541"/>
+    </dp>
+</s>
+
+
+<s id="-5210495616381699685-2611171436-1" eva="8000134">
+    <dp cpth="Gerolstein|Oberbettingen-Hillesheim|Lissendorf|Jünkerath|Dahlem(Eifel)|Schmidtheim|Blankenheim(Wald)|Nettersheim|Urft|Kall" cs="c" clt="2611171317" l="RE22">
+        <m id="2478105941604960911--2465154525936979972" t="d" c="18" ts="2611171317" ts-tts="26-11-17 13:17:56.597"/>
+    </dp>
+</s>
+
+
+<s id="-4832994980358533352-2611171056-35" eva="8000134">
+    <ar cpth="Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|Rohrbach(Saar)|St Ingbert|Rentrisch|Scheidt(Saar)|Schafbrücke|Saarbrücken Ost|Saarbrücken Hbf|Saarbrücken-Burbach|Burbach Mitte|Luisenthal(Saar)|Völklingen|Bous(Saar)|Ensdorf(Saar)|Saarlouis Hbf|Dillingen(Saar)|Beckingen(Saar)|Fremersdorf|Merzig(Saar)|Merzig(Saar) Stadtmitte|Besseringen|Mettlach|Saarhölzbach|Taben|Serrig|Saarburg(Bz Trier)|Schoden-Ockfen|Wiltingen(Saar)|Kanzem|Konz|Karthaus|Trier Süd" ct="2611171301" l="RB71">
+        <m id="-5067608878865780483-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.995"/>
+        <m id="3000360787612893888-2545629110878039279" t="d" c="43" ts="2611171127" ts-tts="26-11-17 11:27:24.995"/>
+        <m id="9017622769864307238-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.987"/>
+    </ar>
+    <dp cpth="Pfalzel|Trier Hafenstraße" ct="2611171317" l="RB71">
+        <m id="-5067608878865780483-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.995"/>
+        <m id="3000360787612893888-2545629110878039279" t="d" c="43" ts="2611171127" ts-tts="26-11-17 11:27:24.995"/>
+        <m id="9017622769864307238-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.987"/>
+    </dp>
+</s>
+
+
+<s id="7505247124801705587-2611171316-1" eva="8000134">
+    <dp cpth="Trier Süd|Karthaus|Konz|Kanzem|Wiltingen(Saar)|Schoden-Ockfen|Saarburg(Bz Trier)" cp="10 Süd" ct="2611171316" l="RB71">
+        <m id="2150149587822665977-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.574"/>
+        <m id="--3115345058576533215" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.574"/>
+        <m id="-5259535131267433710-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.051"/>
+    </dp>
+</s>
+
+
+<s id="5418878819402014620-2611171303-16" eva="8000134">
+    <ar cpth="" ppth="Gerolstein|Birresborn|Mürlenbach|Densborn|St Thomas|Kyllburg|Bitburg-Erdorf|Hüttingen|Philippsheim|Speicher|Auw an der Kyll|Daufenbach|Kordel|Trier Hafenstraße|Pfalzel" pp="12 Nord" ct="2611171427" pt="2611171427" cs="c" clt="2611171316" l="RE22" fb="RE RE22">
+        <m id="6739016728488455548--5050704982754351318" t="d" c="18" ts="2611171253" ts-tts="26-11-17 12:53:23.949"/>
+        <m id="2277720230179618728-" t="f" c="2000" ts="2611171316" ts-tts="26-11-17 13:16:41.833"/>
+    </ar>
+    <tl f="N" t="e" o="800352" c="RE" n="70290"/>
+    <ref>
+        <tl f="N" t="p" o="800352" c="RB" n="10021"/>
+    </ref>
+</s>
+
+
+<s id="-3393687488583105929-2611171226-15" eva="8000134">
+    <ar cpth="Perl|Besch|Nennig|Palzem|Wehr(Mosel)|Wincheringen|Nittel|Wellen(Mosel)|Temmels|Oberbillig|Wasserliesch|Konz Mitte|Karthaus|Trier Süd" ct="2611171317" l="RB82">
+        <m id="7324715438611395838-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.569"/>
+        <m id="-7050216143513711574" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.569"/>
+        <m id="-6107864845429891252-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.948"/>
+    </ar>
+</s>
+
+
+<s id="-7864654119660348697-2611180505-17" eva="8000134">
+    <m id="620ed9d9-1c9d-4c67-93c8-91d4f3325a8c" t="h" from="2611130648" to="2612121700" cat="BAUARBEITEN" ts="2611171127" ts-tts="26-11-17 11:27:32.291" pr="3"/>
+    <m id="f8cd1680-c3a9-4956-8c55-1cc074d13300" t="h" from="2611060816" to="2612121700" cat="BAUARBEITEN" ts="2611171127" ts-tts="26-11-17 11:27:32.291" pr="3"/>
+</s>
+
+
+<s id="7844917713253097986-2611171116-25" eva="8000134">
+    <ar cpth="Kall|Urft|Nettersheim|Blankenheim(Wald)|Schmidtheim|Dahlem(Eifel)|Jünkerath|Lissendorf|Oberbettingen-Hillesheim|Gerolstein" ct="2611171438" cs="c" clt="2611171253" l="RE22">
+        <m id="-1814239396611363152-7047658527233049688" t="d" c="43" ts="2611171127" ts-tts="26-11-17 11:27:48.646"/>
+        <m id="-5291678466528488058--5642250791468494284" t="d" c="28" ts="2611171245" ts-tts="26-11-17 12:45:02.132"/>
+        <m id="234362960661704154--5642250791468494284" t="d" c="28" ts="2611171245" ts-tts="26-11-17 12:45:06.340"/>
+        <m id="234362960661704154-1607514139923974553" t="d" c="18" ts="2611171245" ts-tts="26-11-17 12:45:06.340"/>
+        <m id="1784222218664739220-" t="f" c="2000" ts="2611171247" ts-tts="26-11-17 12:47:56.524"/>
+        <m id="-3473593163965477453-" t="f" c="2000" ts="2611171253" ts-tts="26-11-17 12:53:25.028"/>
+        <m id="5695394815011694816-" t="f" c="2000" ts="2611171303" ts-tts="26-11-17 13:03:37.071"/>
+    </ar>
+</s>
+
+
+<s id="1506524712851699618-2611171245-3" eva="8000134">
+    <ar cpth="Trier Hafenstraße|Pfalzel" ct="2611171252" l="RB71">
+        <m id="4787837292619000686-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.580"/>
+        <m id="--4749062363393628851" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.580"/>
+        <m id="-326828386055841348-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.102"/>
+        <m id="-151093204076205099--3517043458214064356" t="d" c="43" ts="2611171302" ts-tts="26-11-17 13:02:05.221"/>
+    </ar>
+    <dp cpth="Trier Süd|Karthaus|Konz|Kanzem|Wiltingen(Saar)|Schoden-Ockfen|Saarburg(Bz Trier)|Serrig|Taben|Saarhölzbach|Mettlach|Besseringen|Merzig(Saar) Stadtmitte|Merzig(Saar)|Fremersdorf|Beckingen(Saar)|Dillingen(Saar)|Saarlouis Hbf|Ensdorf(Saar)|Bous(Saar)|Völklingen|Luisenthal(Saar)|Burbach Mitte|Saarbrücken-Burbach|Saarbrücken Hbf|Saarbrücken Ost|Schafbrücke|Scheidt(Saar)|Rentrisch|St Ingbert|Rohrbach(Saar)|Kirkel|Limbach(b Homburg,Saar)|Homburg(Saar)Hbf" ct="2611171301" l="RB71">
+        <m id="4787837292619000686-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.580"/>
+        <m id="--4749062363393628851" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.580"/>
+        <m id="-326828386055841348-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.102"/>
+        <m id="-151093204076205099--3517043458214064356" t="d" c="43" ts="2611171302" ts-tts="26-11-17 13:02:05.221"/>
+    </dp>
+</s>
+
+
+<s id="2479159331859165860-2611171141-1" eva="8000134">
+    <dp ct="2611171146" l="RB81">
+        <m id="3306288421875035579--3506551020357608415" t="d" c="43" ts="2611171145" ts-tts="26-11-17 11:45:10.806"/>
+        <m id="-5891385364949892178-" t="f" c="2000" ts="2611171253" ts-tts="26-11-17 12:53:30.505"/>
+        <m id="2066064026426614998-" t="f" c="2000" ts="2611171253" ts-tts="26-11-17 12:53:59.722"/>
+    </dp>
+</s>
+
+
+<s id="2819530159791265607-2611171125-31" eva="8000134">
+    <ar cpth="Koblenz Hbf|Koblenz-Moselweiß|Koblenz-Güls|Winningen(Mosel)|Kobern-Gondorf|Lehmen|Kattenes|Löf|Hatzenport|Moselkern|Müden(Mosel)|Treis-Karden|Pommern(Mosel)|Klotten|Cochem(Mosel)|Ediger-Eller|Neef|Bullay(DB)|Bengel|Ürzig(DB)|Wittlich Hbf" ppth="Koblenz Hbf|Koblenz-Moselweiß|Koblenz-Güls|Winningen(Mosel)|Kobern-Gondorf|Lehmen|Kattenes|Löf|Hatzenport|Moselkern|Müden(Mosel)|Treis-Karden|Pommern(Mosel)|Klotten|Cochem(Mosel)|Ediger-Eller|Neef|Bullay(DB)|Bengel|Ürzig(DB)|Wittlich Hbf|Salmtal|Sehlem(Kr Wittlich)|Hetzerath|Föhren|Schweich(DB)|Quint|Ehrang Ort|Trier Hafenstraße|Pfalzel" pp="11 Nord" ct="2611171412" pt="2611171320" cs="c" clt="2611171247" l="RB81" fb="RB81">
+        <m id="7183787753845255889-3006385804354913716" t="d" c="38" ts="2611171129" ts-tts="26-11-17 11:29:50.605"/>
+        <m id="-781324413861085022-" t="f" c="2000" ts="2611171151" ts-tts="26-11-17 11:51:11.858"/>
+        <m id="2129315464573016824-" t="f" c="2000" ts="2611171247" ts-tts="26-11-17 12:47:50.141"/>
+    </ar>
+    <tl f="N" t="p" o="801512" c="RB" n="12120"/>
+</s>
+
+
+<s id="7231307294301279921-2611171341-1" eva="8000134">
+    <dp cpth="Wittlich Hbf|Ürzig(DB)|Bengel|Bullay(DB)|Neef|Ediger-Eller|Cochem(Mosel)|Klotten|Pommern(Mosel)|Treis-Karden|Müden(Mosel)|Moselkern|Hatzenport|Löf|Kattenes|Lehmen|Kobern-Gondorf|Winningen(Mosel)|Koblenz-Güls|Koblenz-Moselweiß|Koblenz Hbf" cs="c" clt="2611171247" l="RB81">
+        <m id="-1035413239299357800--6752597290438393150" t="d" c="38" ts="2611171247" ts-tts="26-11-17 12:47:50.134"/>
+    </dp>
+</s>
+
+
+<s id="-4977889553511018811-2611171238-3" eva="8000134">
+    <ar cpth="Trier Hafenstraße|Pfalzel" ct="2611171246" l="RB71">
+        <m id="-5381605123860171280-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.575"/>
+        <m id="-7084775881351215103" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.575"/>
+        <m id="-8124930238564159622-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.991"/>
+    </ar>
+    <dp cpth="Trier Süd|Karthaus|Konz|Kanzem|Wiltingen(Saar)|Schoden-Ockfen|Saarburg(Bz Trier)" ct="2611171247" l="RB71">
+        <m id="-5381605123860171280-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.575"/>
+        <m id="-7084775881351215103" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.575"/>
+        <m id="-8124930238564159622-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:00.991"/>
+    </dp>
+</s>
+
+
+<s id="-5902078281469041861-2611171241-1" eva="8000134">
+    <dp ct="2611171243" l="RB81"/>
+</s>
+
+
+<s id="-5079958710871017114-2611171241-1" eva="8000134">
+    <dp cpth="Trier Süd|Karthaus|Konz Mitte|Wasserliesch|Oberbillig|Temmels|Wellen(Mosel)|Nittel|Wincheringen|Wehr(Mosel)|Palzem|Nennig|Besch|Perl" ct="2611171241" l="RB82">
+        <m id="-1591253225941471095-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.567"/>
+        <m id="--2062197208432672236" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:18.567"/>
+        <m id="3748950689542438926-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.063"/>
+    </dp>
+</s>
+
+
+<s id="5688157392497725746-2611171136-1" eva="8000134">
+    <dp ct="2611171138" l="RE22">
+        <m id="6195525120032232997-" t="f" c="2000" ts="2611171143" ts-tts="26-11-17 11:43:38.491"/>
+        <m id="7625330092365602679-" t="f" c="2000" ts="2611171228" ts-tts="26-11-17 12:28:17.611"/>
+        <m id="2103779686887226924-" t="f" c="2000" ts="2611171239" ts-tts="26-11-17 12:39:31.550"/>
+    </dp>
+</s>
+
+
+<s id="-2186302358037330095-2611171106-1" eva="8000134">
+    <dp ct="2611171236" l="RE11"/>
+</s>
+
+
+<s id="3651106629179155814-2611171031-13" eva="8000134">
+    <ar ct="2611171229" l="RE1"/>
+    <dp ct="2611171234" l="RE1"/>
+</s>
+
+
+<s id="-4273784519144697235-2611171133-1" eva="8000134">
+    <dp ct="2611171234" l="RE11"/>
+</s>
+
+
+<s id="4202024318670503805-2611171106-8" eva="8000134">
+    <ar ct="2611171230" l="RE1"/>
+    <dp ct="2611171233" l="RE1"/>
+</s>
+
+
+<s id="-1632562159241180535-2611171106-8" eva="8000134">
+    <ar ct="2611171230" l="RE11"/>
+</s>
+
+
+<s id="-8971092859796678544-2611171041-1" eva="8000134">
+    <dp cp="10 Nord" ct="2611171045" l="RB81">
+        <m id="5625981148646117164-1707144677861202562" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:23.750"/>
+        <m id="4222932420592924666-" t="f" c="2000" ts="2611171226" ts-tts="26-11-17 12:26:28.252"/>
+        <m id="-4430370174515003355-" t="f" c="2000" ts="2611171226" ts-tts="26-11-17 12:26:57.047"/>
+    </dp>
+</s>
+
+
+<s id="4498655074490530550-2611170915-25" eva="8000134">
+    <ar ct="2611171228" l="RE22">
+        <m id="7796262914113478925-359259916246426050" t="d" c="41" ts="2611171127" ts-tts="26-11-17 11:27:37.820"/>
+    </ar>
+</s>
+
+
+<s id="9050119639591205368-2611171133-4" eva="8000134">
+    <ar ct="2611171225" l="RE11"/>
+</s>
+
+
+<s id="2409178351453590706-2611171129-15" eva="8000134">
+    <ar cpth="Perl|Besch|Nennig|Palzem|Wehr(Mosel)|Wincheringen|Nittel|Wellen(Mosel)|Temmels|Oberbillig|Wasserliesch|Konz Mitte|Karthaus|Trier Süd" ct="2611171222" l="RB82">
+        <m id="-9153244007001493334-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:21.913"/>
+        <m id="-5786203013580012042" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:21.913"/>
+        <m id="-7497841133979098232-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.015"/>
+    </ar>
+</s>
+
+
+<s id="-2997247632734208031-2611171025-31" eva="8000134">
+    <ar ct="2611171220" l="RB81"/>
+</s>
+
+
+<s id="6883153179599596776-2611170956-35" eva="8000134">
+    <ar cpth="Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|Rohrbach(Saar)|St Ingbert|Rentrisch|Scheidt(Saar)|Schafbrücke|Saarbrücken Ost|Saarbrücken Hbf|Saarbrücken-Burbach|Burbach Mitte|Luisenthal(Saar)|Völklingen|Bous(Saar)|Ensdorf(Saar)|Saarlouis Hbf|Dillingen(Saar)|Beckingen(Saar)|Fremersdorf|Merzig(Saar)|Merzig(Saar) Stadtmitte|Besseringen|Mettlach|Saarhölzbach|Taben|Serrig|Saarburg(Bz Trier)|Schoden-Ockfen|Wiltingen(Saar)|Kanzem|Konz|Karthaus|Trier Süd" ct="2611171202" l="RB71">
+        <m id="-8155088008893608823-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:25.935"/>
+        <m id="--3590293547927237644" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:25.935"/>
+        <m id="8412684531240723051-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.061"/>
+    </ar>
+    <dp cpth="Pfalzel|Trier Hafenstraße" ct="2611171205" l="RB71">
+        <m id="-8155088008893608823-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:25.935"/>
+        <m id="--3590293547927237644" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:25.935"/>
+        <m id="8412684531240723051-" t="f" c="2000" ts="2611171135" ts-tts="26-11-17 11:35:01.061"/>
+    </dp>
+</s>
+
+
+<s id="-6931850638082361361-2611171201-1" eva="8000134">
+    <dp ct="2611171201" l="RB71"/>
+</s>
+
+
+<s id="-1353102525941060055-2611171006-1" eva="8000134">
+    <dp ct="2611171151" l="RE11">
+        <m id="5502644212962297481-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.517"/>
+        <m id="-7919388638146403275--8276306445341249574" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:24.517"/>
+    </dp>
+</s>
+
+
+<s id="-1293163428250039160-2611171006-8" eva="8000134">
+    <ar ct="2611171144" l="RE1">
+        <m id="292748365715330193-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.519"/>
+        <m id="8449786816733417114--4054031541175434731" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:24.519"/>
+    </ar>
+    <dp ct="2611171148" l="RE1">
+        <m id="292748365715330193-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.519"/>
+        <m id="8449786816733417114--4054031541175434731" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:24.519"/>
+    </dp>
+</s>
+
+
+<s id="4879439898625181368-2611170941-1" eva="8000134">
+    <dp ct="2611170955" l="RB81">
+        <m id="-6298648748774359840-7832214606000729132" t="d" c="36" ts="2611171127" ts-tts="26-11-17 11:27:24.739"/>
+        <m id="-7357793765523439944-" t="f" c="2000" ts="2611171148" ts-tts="26-11-17 11:48:39.628"/>
+    </dp>
+</s>
+
+
+<s id="-1094675012208199107-2611171006-8" eva="8000134">
+    <ar ct="2611171144" l="RE11">
+        <m id="5502644212962297481-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.517"/>
+        <m id="-7919388638146403275--8276306445341249574" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:24.517"/>
+    </ar>
+</s>
+
+
+<s id="-2277633646837208921-2611170933-4" eva="8000134">
+    <ar ct="2611171023" l="RE11">
+        <m id="5647033838887648206-" t="f" c="2000" ts="2611171141" ts-tts="26-11-17 11:41:45.479"/>
+    </ar>
+</s>
+
+
+<s id="-5823807619968083863-2611170933-1" eva="8000134">
+    <dp ct="2611171034" l="RE11">
+        <m id="5647033838887648206-" t="f" c="2000" ts="2611171141" ts-tts="26-11-17 11:41:45.479"/>
+    </dp>
+</s>
+
+
+<s id="6196943238796139869-2611170722-18" eva="8000134">
+    <ar ct="2611171028" l="RE1">
+        <m id="-2739188363626454313-" t="f" c="2000" ts="2611171141" ts-tts="26-11-17 11:41:45.445"/>
+    </ar>
+    <dp ct="2611171034" l="RE1">
+        <m id="-2739188363626454313-" t="f" c="2000" ts="2611171141" ts-tts="26-11-17 11:41:45.446"/>
+    </dp>
+</s>
+
+
+<s id="-4760617984547974189-2611171141-1" eva="8000134">
+    <dp ct="2611171141" l="RB82">
+        <m id="9137827129006008165-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:21.684"/>
+        <m id="-6997106699808879192" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:21.684"/>
+        <m id="-8265503971152432061-" t="f" c="2000" ts="2611171129" ts-tts="26-11-17 11:29:45.113"/>
+    </dp>
+</s>
+
+
+<s id="-67617804296739302-2611171101-1" eva="8000134">
+    <dp cpth="Trier Süd|Konz|Kanzem|Wiltingen(Saar)|Schoden-Ockfen|Saarburg(Bz Trier)|Serrig|Taben|Saarhölzbach|Mettlach|Besseringen|Merzig(Saar) Stadtmitte|Merzig(Saar)|Fremersdorf|Beckingen(Saar)|Dillingen(Saar)|Saarlouis Hbf|Ensdorf(Saar)|Bous(Saar)|Völklingen|Luisenthal(Saar)|Burbach Mitte|Saarbrücken-Burbach|Saarbrücken Hbf|Saarbrücken Ost|Schafbrücke|Scheidt(Saar)|Rentrisch|St Ingbert|Rohrbach(Saar)|Kirkel|Limbach(b Homburg,Saar)|Homburg(Saar)Hbf" ct="2611171101" l="RB71">
+        <m id="-3036562399283811928--914636694148898700" t="q" c="82" ts="2611171127" ts-tts="26-11-17 11:27:25.957"/>
+        <m id="-4932216081440002793-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:25.957"/>
+        <m id="-3080397567879171475" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:25.957"/>
+    </dp>
+</s>
+
+
+<s id="472803527136894195-2611171026-15" eva="8000134">
+    <ar cpth="Perl|Besch|Nennig|Palzem|Wehr(Mosel)|Wincheringen|Nittel|Wellen(Mosel)|Temmels|Oberbillig|Wasserliesch|Konz Mitte|Trier Süd" ct="2611171118" l="RB82">
+        <m id="-740302178944970307-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:23.096"/>
+        <m id="-1540987425189453890" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:23.096"/>
+    </ar>
+</s>
+
+
+<s id="8170545707600851555-2611171045-1" eva="8000134">
+    <dp cpth="Trier Süd|Konz Mitte|Wasserliesch|Oberbillig|Temmels|Wellen(Mosel)|Nittel|Wincheringen|Wehr(Mosel)|Palzem|Nennig|Besch|Perl" ct="2611171045" l="RB82">
+        <m id="-2699041435261649865-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:21.850"/>
+        <m id="--8115309593847193884" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:21.850"/>
+    </dp>
+</s>
+
+
+<s id="-4879312543129335751-2611170936-1" eva="8000134">
+    <dp cpth="Gerolstein|Oberbettingen-Hillesheim|Lissendorf|Jünkerath|Dahlem(Eifel)|Schmidtheim|Blankenheim(Wald)|Nettersheim|Urft|Kall" cs="c" clt="2611171127" l="RE22">
+        <m id="4226133260023375212-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.115"/>
+        <m id="-1297541654929206367--988661184305810161" t="d" c="47" ts="2611171127" ts-tts="26-11-17 11:27:22.115"/>
+    </dp>
+</s>
+
+
+<s id="-9152076387866814008-2611170736-1" eva="8000134">
+    <dp cpth="Auw an der Kyll|Speicher|Philippsheim|Hüttingen|Bitburg-Erdorf|Kyllburg|St Thomas|Densborn|Mürlenbach|Birresborn|Gerolstein|Oberbettingen-Hillesheim|Lissendorf|Jünkerath|Dahlem(Eifel)|Schmidtheim|Blankenheim(Wald)|Nettersheim|Urft|Kall" cs="c" clt="2611171127" l="RE22">
+        <m id="-7120211066551165744-4119265746026274901" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:18.407"/>
+        <m id="9069911129899108603-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.407"/>
+        <m id="-7774489135023983170-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:18.407"/>
+    </dp>
+</s>
+
+
+<s id="-7749792492687874530-2611170857-35" eva="8000134">
+    <ar cpth="Homburg(Saar)Hbf|Limbach(b Homburg,Saar)|Kirkel|Rohrbach(Saar)|St Ingbert|Rentrisch|Scheidt(Saar)|Schafbrücke|Saarbrücken Ost|Saarbrücken Hbf|Saarbrücken-Burbach|Burbach Mitte|Luisenthal(Saar)|Völklingen|Bous(Saar)|Ensdorf(Saar)|Saarlouis Hbf|Dillingen(Saar)|Beckingen(Saar)|Fremersdorf|Merzig(Saar)|Merzig(Saar) Stadtmitte|Besseringen|Mettlach|Saarhölzbach|Taben|Serrig|Saarburg(Bz Trier)|Schoden-Ockfen|Wiltingen(Saar)|Kanzem|Konz|Trier Süd" ct="2611171100" l="RB71">
+        <m id="-8892085993773124750-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:19.637"/>
+        <m id="--5188238914872456787" t="d" c="22" ts="2611171127" ts-tts="26-11-17 11:27:19.637"/>
+    </ar>
+</s>
+
+
+<s id="-6943877539184808270-2611172156-1" eva="8000134">
+    <dp l="RE11">
+        <m id="8269290235558385337-7738248828323443955" t="d" c="31" ts="2611171127" ts-tts="26-11-17 11:27:18.499"/>
+    </dp>
+</s>
+
+
+<s id="7925381504353356885-2611172043-1" eva="8000134">
+    <dp l="RE11">
+        <m id="-3190360319793363808--2520447527198308087" t="d" c="31" ts="2611171127" ts-tts="26-11-17 11:27:18.548"/>
+    </dp>
+</s>
+
+
+<s id="-1484979545715315284-2611172019-8" eva="8000134">
+    <ar l="RE1">
+        <m id="2222448143318341375--7945964266007224526" t="d" c="31" ts="2611171127" ts-tts="26-11-17 11:27:18.500"/>
+    </ar>
+</s>
+
+
+<s id="5262732550086015324-2611171919-8" eva="8000134">
+    <ar l="RE1">
+        <m id="1512497836281960087--371619960687593090" t="d" c="31" ts="2611171127" ts-tts="26-11-17 11:27:18.549"/>
+    </ar>
+</s>
+
+
+<s id="-260688885302847675-2611170836-1" eva="8000134">
+    <dp cp="10 Nord" ct="2611170844" l="RE22">
+        <m id="8357184015315515853-5591274430079406435" t="d" c="48" ts="2611171127" ts-tts="26-11-17 11:27:23.384"/>
+        <m id="6718995134502936442-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:23.384"/>
+        <m id="8860986290813372377-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:23.384"/>
+        <m id="2054337019392699866-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:23.384"/>
+    </dp>
+</s>
+
+
+<s id="4425874691047386393-2611170806-1" eva="8000134">
+    <dp ct="2611170949" l="RE11">
+        <m id="9197421945225507867-1411705473711640752" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:16.316"/>
+    </dp>
+</s>
+
+
+<s id="8089366398909531345-2611170806-8" eva="8000134">
+    <ar ct="2611170940" l="RE11">
+        <m id="9197421945225507867-1411705473711640752" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:16.316"/>
+    </ar>
+</s>
+
+
+<s id="794026134789998335-2611170941-1" eva="8000134">
+    <dp ct="2611170946" l="RB82">
+        <m id="3751413718804370618-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:16.674"/>
+    </dp>
+</s>
+
+
+<s id="-543847474901985685-2611170925-31" eva="8000134">
+    <ar cp="10 Nord" ct="2611171122" l="RB81">
+        <m id="-475598346823048219--5721335054616013166" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:24.061"/>
+    </ar>
+</s>
+
+
+<s id="7551728171358071385-2611170815-25" eva="8000134">
+    <ar ct="2611171134" l="RE22">
+        <m id="-173915639464835139-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.438"/>
+        <m id="-5952799327361982090--2086786670901768852" t="d" c="38" ts="2611171127" ts-tts="26-11-17 11:27:24.438"/>
+        <m id="-6248304452400863588-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:24.438"/>
+    </ar>
+</s>
+
+
+<s id="-7346013507926655293-2611170825-31" eva="8000134">
+    <ar cp="10 Nord" ct="2611171040" l="RB81">
+        <m id="8962805781237764482-5754449165255948" t="d" c="36" ts="2611171127" ts-tts="26-11-17 11:27:16.399"/>
+        <m id="5537803702756270362-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:16.399"/>
+    </ar>
+</s>
+
+
+<s id="-4037816333405578829-2611170715-25" eva="8000134">
+    <ar ct="2611171029" l="RE22">
+        <m id="7522603820124407275-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:14.839"/>
+        <m id="4108328425147111931-7723672811959362510" t="d" c="34" ts="2611171127" ts-tts="26-11-17 11:27:14.839"/>
+        <m id="5840059942908373709-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:14.839"/>
+    </ar>
+</s>
+
+
+<s id="-7603805755970291694-2611170806-8" eva="8000134">
+    <ar ct="2611170940" l="RE1">
+        <m id="5684179764218886987--1771502149567778739" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:20.945"/>
+    </ar>
+    <dp ct="2611170942" l="RE1">
+        <m id="5684179764218886987--1771502149567778739" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:20.945"/>
+    </dp>
+</s>
+
+
+<s id="-8730475397131020482-2611170725-31" eva="8000134">
+    <ar ppth="Koblenz Hbf|Koblenz-Moselweiß|Koblenz-Güls|Winningen(Mosel)|Kobern-Gondorf|Lehmen|Kattenes|Löf|Hatzenport|Moselkern|Müden(Mosel)|Treis-Karden|Pommern(Mosel)|Klotten|Cochem(Mosel)|Ediger-Eller|Neef|Bullay(DB)|Bengel|Ürzig(DB)|Wittlich Hbf|Salmtal|Sehlem(Kr Wittlich)|Hetzerath|Föhren|Schweich(DB)|Quint|Ehrang Ort|Trier Hafenstraße|Pfalzel" cp="11 Nord" pp="12 Süd" ct="2611171010" pt="2611170920" l="RB81" fb="RB81">
+        <m id="-1054549316024380967-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:12.744"/>
+        <m id="1553813068490545362-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:12.744"/>
+        <m id="6764554121224426484-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:12.744"/>
+        <m id="1656694913970789973--473391056392799911" t="d" c="36" ts="2611171127" ts-tts="26-11-17 11:27:12.744"/>
+    </ar>
+    <tl f="N" t="p" o="801512" c="RB" n="12110"/>
+</s>
+
+
+<s id="5514860715699921534-2611170706-8" eva="8000134">
+    <ar ct="2611170852" l="RE1">
+        <m id="-4498052394716859935-2562698929891772425" t="q" c="82" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="3439864216252884602-787670586527385661" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-2764319225680477847-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-7557450430063093668-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-1555022856476192881-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+    </ar>
+    <dp ct="2611170855" l="RE1">
+        <m id="-4498052394716859935-2562698929891772425" t="q" c="82" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="3439864216252884602-787670586527385661" t="d" c="64" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-2764319225680477847-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-7557450430063093668-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+        <m id="-1555022856476192881-" t="f" c="2000" ts="2611171127" ts-tts="26-11-17 11:27:22.898"/>
+    </dp>
+</s>
+
+
+<s id="-7307664698868497305-2611172119-9" eva="8000134">
+    <m id="98cab8c7-06f9-4451-b02e-01575aaf084c" t="h" from="2610220849" to="2611300536" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:33.810" pr="3"/>
+</s>
+
+
+<s id="-2515756681849594626-2611171711-8" eva="8000134">
+    <m id="620ed9d9-1c9d-4c67-93c8-91d4f3325a8c" t="h" from="2611130648" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:42.347" pr="3"/>
+    <m id="f8cd1680-c3a9-4956-8c55-1cc074d13300" t="h" from="2611060816" to="2612121700" cat="BAUARBEITEN" ts="2611171126" ts-tts="26-11-17 11:26:42.347" pr="3"/>
+</s>
+
+
+<s id="7713516422283269480-2611170833-4" eva="8000134">
+    <ar ct="2611170923" l="RE11"/>
+</s>
+
+
+<s id="7702646119450376483-2611170919-15" eva="8000134">
+    <ar ct="2611171012" l="RB82"/>
+</s>
+
+
+<s id="720949363956403902-2611170841-1" eva="8000134">
+    <dp ct="2611170841" l="RB81"/>
+</s>
+
+
+<s id="6185591012795369015-2611170831-26" eva="8000134">
+    <ar ct="2611171001" l="RB71"/>
+</s>
+
+
+<s id="543256656309527261-2611170743-3" eva="8000134">
+    <ar ct="2611170750" l="RB71"/>
+    <dp ct="2611170801" l="RB71"/>
+</s>
+
+
+<s id="4006551804816315622-2611170944-3" eva="8000134">
+    <ar ct="2611170953" l="RB71"/>
+    <dp ct="2611171001" l="RB71"/>
+</s>
+
+
+<s id="2284810572294077891-2611170833-1" eva="8000134">
+    <dp ct="2611170935" l="RE11"/>
+</s>
+
+
+<s id="1530180486559102733-2611170841-3" eva="8000134">
+    <ar cp="11 Nord" ct="2611170848" l="RB71"/>
+    <dp cp="11 Nord" ct="2611170901" l="RB71"/>
+</s>
+
+
+<s id="-8420454852952827733-2611171036-1" eva="8000134">
+    <dp ct="2611171037" l="RE11"/>
+</s>
+
+
+<s id="-5285580358782564182-2611170628-18" eva="8000134">
+    <ar ct="2611170929" l="RE1"/>
+    <dp ct="2611170935" l="RE1"/>
+</s>
+
+
+<s id="-4107415042196688967-2611170906-8" eva="8000134">
+    <ar ct="2611171032" l="RE1"/>
+    <dp ct="2611171035" l="RE1"/>
+</s>
+
+</timetable>
