@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="90472336270991128-2611180352-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21807"/>
+		<ar pt="2611180359" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611180401" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-6480598992464714368-2611180401-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21806"/>
+		<ar pt="2611180413" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2611180415" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="7056357850727682390-2611180403-11">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62040"/>
+		<ar pt="2611180452" pp="3" l="RE8" fb="RE8" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611180454" pp="3" l="RE8" fb="RE8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)|Klasdorf Glashütte|Golßen(Niederlausitz)|Drahnsdorf|Luckau-Uckro|Walddrehna|Doberlug-Kirchhain|Rückersdorf|Hohenleipisch|Elsterwerda"/>
+	</s>
+	<s id="7599273835718749703-2611180422-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21809"/>
+		<ar pt="2611180429" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611180431" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-4782954664003624221-2611180426-1">
+		<tl f="F" t="p" o="80" c="ICE" n="946"/>
+		<dp pt="2611180426" pp="7" fb="ICE 946" ppth="Berlin Hbf|Potsdam Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Duisburg Hbf|Düsseldorf Flughafen|Düsseldorf Hbf"/>
+		<tra t="v" id="2273976547172179034" ref-from="-6590078199824287896-2611180426" s="a" o="p" jt="j"/>
+	</s>
+	<s id="-6590078199824287896-2611180426-1">
+		<tl f="F" t="p" o="80" c="ICE" n="956"/>
+		<dp pt="2611180426" pp="7" fb="ICE 956" wings="-4782954664003624221-2611180426" ppth="Berlin Hbf|Potsdam Hbf|Magdeburg Hbf|Braunschweig Hbf|Hannover Hbf|Bielefeld Hbf|Hamm(Westf)Hbf|Hagen Hbf|Wuppertal Hbf|Köln Hbf"/>
+		<tra t="v" id="2273976547172179034" ref-to="-4782954664003624221-2611180426" s="a" o="p" jt="j"/>
+	</s>
+	<s id="4727925120435672791-2611180431-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21808"/>
+		<ar pt="2611180443" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2611180445" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="7498223326587269205-2611180431-3">
+		<tl f="F" t="p" o="80" c="ICE" n="277"/>
+		<ar pt="2611180446" pp="4" fb="ICE 277" hi="1" ppth="Berlin Gesundbrunnen|Berlin Hbf"/>
+		<dp pt="2611180448" pp="4" fb="ICE 277" ppth="Halle(Saale)Hbf|Erfurt Hbf|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Zürich HB|Sargans|Landquart|Chur"/>
+	</s>
+	<s id="-5605727523764142283-2611180437-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21811"/>
+		<ar pt="2611180444" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611180446" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="-8255514918493473226-2611180438-1">
+		<tl f="D" t="p" o="OWRB" c="OE" n="62094"/>
+		<dp pt="2611180438" pp="6" l="RB10" fb="RB10" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-3535961400354816440-2611180446-2">
+		<tl f="N" t="p" o="800165" c="RE" n="21810"/>
+		<ar pt="2611180458" pp="8" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+		<dp pt="2611180500" pp="8" l="FEX" fb="FEX" ppth="Berlin Potsdamer Platz|Berlin Hbf"/>
+	</s>
+	<s id="935399355253104146-2611180452-3">
+		<tl f="N" t="p" o="800165" c="RE" n="21813"/>
+		<ar pt="2611180458" pp="3" l="FEX" fb="FEX" ppth="Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611180500" pp="3" l="FEX" fb="FEX" ppth="Flughafen BER"/>
+	</s>
+	<s id="3775635315635080489-2611180457-1">
+		<tl f="F" t="p" o="80" c="ICE" n="240"/>
+		<dp pt="2611180457" pp="6" fb="ICE 240" ppth="Berlin Hbf|Berlin-Spandau|Ludwigslust|Hamburg-Bergedorf|Hamburg-Harburg|Osnabrück Altstadt|Rheine|Bad Bentheim|Hengelo|Deventer|Apeldoorn|Amersfoort Centraal|Hilversum|Amsterdam Centraal"/>
+	</s>
+</timetable>

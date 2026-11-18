@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<timetable station="Braunschweig Hbf">
+	<s id="2810195840507242816-2611172132-4">
+		<tl f="F" t="p" o="80" c="ICE" n="648"/>
+		<ar pt="2611180001" pp="6" fb="ICE 648" ppth="Berlin Hbf|Potsdam Hbf|Magdeburg Hbf"/>
+		<dp pt="2611180003" pp="6" fb="ICE 648" ppth="Hannover Hbf"/>
+	</s>
+	<s id="-6743768385420850532-2611172330-4">
+		<tl t="p" o="R0" c="Bus" n="5290"/>
+		<ar pt="2611180026" pp="" l="RE50" fb="Bus RE50" ppth="Wolfsburg Hbf|Fallersleben|Weddel(Braunschw)"/>
+	</s>
+	<s id="-430306391697164748-2611180014-7">
+		<tl f="D" t="p" o="W3" c="WFB" n="95793"/>
+		<ar pt="2611180059" pp="5" l="RE70" fb="RE70" pde="Minden(Westf)" ppth="Hannover Hbf|Lehrte|Hämelerwald|Vöhrum|Peine|Vechelde"/>
+	</s>
+</timetable>
