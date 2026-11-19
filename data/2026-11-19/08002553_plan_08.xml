@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<timetable station="Hamburg-Altona">
+	<s id="-7058442198521206872-2611181836-15">
+		<tl t="p" o="81" c="NJ" n="492"/>
+		<ar pt="2611190856" pp="5" fb="NJ 492" wings="-8677182982400525824-2611182046" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz/Donau Hbf|Salzburg Hbf|München Ost|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+		<tra t="v" id="-5678039596552325443" ref-to="-8677182982400525824-2611182046" s="a" o="p" jt="s"/>
+	</s>
+	<s id="-8677182982400525824-2611182046-16">
+		<tl t="p" o="81" c="NJ" n="40420"/>
+		<ar pt="2611190856" pp="5" fb="NJ 40420" ppth="Innsbruck Hbf|Jenbach|Wörgl Hbf|Kufstein|Rosenheim|München Ost|Ingolstadt Hbf|Treuchtlingen|Würzburg Hbf|Kassel-Wilhelmshöhe|Göttingen|Hannover Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+		<tra t="v" id="-5678039596552325443" ref-from="-7058442198521206872-2611181836" s="a" o="p" jt="s"/>
+	</s>
+	<s id="1003446772902483359-2611182059-19">
+		<tl t="p" o="85" c="NJ" n="470"/>
+		<ar pt="2611190811" pp="6" fb="NJ 470" wings="-5591597380485360579-2611182059" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+		<tra t="v" id="-4327314903616566206" ref-to="-5591597380485360579-2611182059" s="a" o="p" jt="s"/>
+	</s>
+	<s id="-5591597380485360579-2611182059-19">
+		<tl f="F" t="p" o="NZ" c="IC" n="60470"/>
+		<ar pt="2611190811" pp="6" fb="IC 60470" ppth="Zürich HB|Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Bruchsal|Heidelberg Hbf|Darmstadt Hbf|Frankfurt(Main)Süd|Hanau Hbf|Göttingen|Hannover Hbf|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+		<tra t="v" id="-4327314903616566206" ref-from="1003446772902483359-2611182059" s="a" o="p" jt="s"/>
+	</s>
+	<s id="-1822966271854478829-2611190400-16">
+		<tl f="F" t="p" o="80" c="ICE" n="1028"/>
+		<ar pt="2611190834" pp="6" fb="ICE 1028" ppth="Köln Hbf|Köln Messe/Deutz|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Münster(Westf)Hbf|Osnabrück Hbf|Diepholz|Bremen Hbf|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="1235622964461153188-2611190558-8">
+		<tl f="F" t="p" o="80" c="ICE" n="808"/>
+		<ar pt="2611190824" pp="5" fb="ICE 808" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Wittenberge|Ludwigslust|Büchen|Hamburg Hbf"/>
+	</s>
+	<s id="6685217433766425145-2611190622-6">
+		<tl f="F" t="p" o="80" c="ICE" n="872"/>
+		<ar pt="2611190840" pp="8" fb="ICE 872" ppth="Berlin Südkreuz|Berlin Hbf|Berlin-Spandau|Hamburg Hbf|Hamburg Dammtor"/>
+	</s>
+	<s id="-4316941570346786310-2611190742-5">
+		<tl f="D" t="p" o="O0" c="NBE" n="81827"/>
+		<ar pt="2611190809" pp="8" l="RB60" fb="RB60" ppth="Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-1302835903583687238-2611190753-8">
+		<tl f="D" t="p" o="O0" c="NBE" n="34965"/>
+		<ar pt="2611190833" pp="10" l="RB71" fb="RB71" ppth="Wrist|Dauenhof|Horst(Holst)|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-1915436929342745007-2611190802-10">
+		<tl f="D" t="p" o="O0" c="NBE" n="34909"/>
+		<ar pt="2611190854" pp="6" l="RB61" fb="RB61" ppth="Itzehoe|Kremperheide|Krempe|Glückstadt|Herzhorn|Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="-4905449699809739894-2611190802-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34908"/>
+		<dp pt="2611190802" pp="10" l="RB61" fb="RB61" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Herzhorn|Glückstadt|Krempe|Kremperheide|Itzehoe"/>
+	</s>
+	<s id="6930416214160212221-2611190813-5">
+		<tl f="D" t="p" o="O0" c="NBE" n="26879"/>
+		<ar pt="2611190840" pp="9" l="RB60" fb="RB60" ppth="Elmshorn|Tornesch|Prisdorf|Pinneberg"/>
+	</s>
+	<s id="712070015890769449-2611190825-1">
+		<tl f="D" t="p" o="O0" c="NBE" n="34968"/>
+		<dp pt="2611190825" pp="12" l="RB71" fb="RB71" ppth="Pinneberg|Prisdorf|Tornesch|Elmshorn|Horst(Holst)|Dauenhof|Wrist"/>
+	</s>
+	<s id="-5703640496454004355-2611190825-1">
+		<tl f="F" t="p" o="80" c="ICE" n="107"/>
+		<dp pt="2611190825" pp="9" fb="ICE 107" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Bremen Hbf|Osnabrück Hbf|Münster(Westf)Hbf|Dortmund Hbf|Bochum Hbf|Essen Hbf|Düsseldorf Hbf|Köln Hbf|Frankfurt(M) Flughafen Fernbf|Mannheim Hbf|Karlsruhe Hbf|Baden-Baden|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB|Liestal|Olten|Bern|Thun|Spiez|Interlaken West"/>
+	</s>
+	<s id="-368435677948496734-2611190832-1">
+		<tl f="N" t="p" o="8002B5" c="RE" n="11008"/>
+		<dp pt="2611190832" pp="8" l="RE6" fb="RE6" ppth="Elmshorn|Itzehoe|Heide(Holst)|Lunden|Friedrichstadt|Husum"/>
+	</s>
+</timetable>
