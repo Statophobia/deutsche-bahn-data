@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<timetable station="Solingen Hbf">
+	<s id="8570739711458019321-2611191936-9">
+		<tl f="F" t="p" o="80" c="IC" n="2347"/>
+		<ar pt="2611192332" pp="3" fb="IC 2347" ppth="Stuttgart Hbf|Wiesloch-Walldorf|Heidelberg Hbf|Mannheim Hbf|Mainz Hbf|Koblenz Hbf|Bonn Hbf|Köln Hbf"/>
+		<dp pt="2611192333" pp="3" fb="IC 2347" ppth="Wuppertal Hbf|Hagen Hbf|Dortmund Hbf"/>
+	</s>
+	<s id="-8520354875571796460-2611192230-2">
+		<tl t="p" o="M2" c="Bus" n="9440"/>
+		<ar pt="2611192305" pp="" l="RE47X" fb="Bus RE47X" ppth="Düsseldorf Hbf"/>
+	</s>
+	<s id="8032754537640110209-2611192243-17">
+		<tl t="p" o="NXRB" c="NX" n="17378"/>
+		<ar pt="2611192352" pp="3" l="RB48" fb="RB48" ppth="Bonn-Mehlem|Bonn-Bad Godesberg|Bonn UN Campus|Bonn Hbf|Roisdorf|Sechtem|Brühl|Hürth-Kalscheuren|Köln Süd|Köln West|Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen"/>
+	</s>
+	<s id="1386895924199887700-2611192252-7">
+		<tl t="p" o="NXRB" c="NX" n="17376"/>
+		<ar pt="2611192319" pp="3" l="RB48" fb="RB48" ppth="Köln Hbf|Köln Messe/Deutz|Köln-Mülheim|Leverkusen-Manfort|Opladen|Leichlingen"/>
+		<dp pt="2611192320" pp="3" l="RB48" fb="RB48" ppth="Haan|Haan-Gruiten|Wuppertal-Vohwinkel|Wuppertal Hbf|Wuppertal-Barmen|Wuppertal-Oberbarmen"/>
+	</s>
+	<s id="-3728199759878968782-2611192305-1">
+		<tl t="p" o="NXRB" c="NX" n="17379"/>
+		<dp pt="2611192305" pp="3" l="RB48" fb="RB48" ppth="Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf|Köln West|Köln Süd|Hürth-Kalscheuren|Brühl|Sechtem|Roisdorf|Bonn Hbf|Bonn UN Campus|Bonn-Bad Godesberg|Bonn-Mehlem"/>
+	</s>
+	<s id="8574534320670815176-2611192307-3">
+		<tl t="p" o="TDRR" c="Bus" n="69155"/>
+		<ar pt="2611192328" pp="" l="S7" fb="Bus S7" ppth="Solingen Mitte|Solingen Grünewald"/>
+	</s>
+	<s id="-6197616492787820814-2611192312-7">
+		<tl t="p" o="NXRB" c="NX" n="17381"/>
+		<ar pt="2611192336" pp="1" l="RB48" fb="RB48" ppth="Wuppertal-Oberbarmen|Wuppertal-Barmen|Wuppertal Hbf|Wuppertal-Vohwinkel|Haan-Gruiten|Haan"/>
+		<dp pt="2611192337" pp="1" l="RB48" fb="RB48" ppth="Leichlingen|Opladen|Leverkusen-Manfort|Köln-Mülheim|Köln Messe/Deutz|Köln Hbf"/>
+	</s>
+	<s id="-1753822033020088640-2611192315-1">
+		<tl t="p" o="M2" c="Bus" n="9441"/>
+		<dp pt="2611192315" pp="" l="RE47X" fb="Bus RE47X" ppth="Düsseldorf Hbf"/>
+	</s>
+	<s id="848080095762032422-2611192332-1">
+		<tl t="p" o="TDRR" c="Bus" n="69154"/>
+		<dp pt="2611192332" pp="" l="S7" fb="Bus S7" ppth="Solingen Grünewald|Solingen Mitte"/>
+	</s>
+</timetable>
