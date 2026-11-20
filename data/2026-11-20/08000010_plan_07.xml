@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<timetable station="Aschaffenburg Hbf">
+	<s id="-5553668971253116721-2611200556-14">
+		<tl f="N" t="p" o="800603" c="RE" n="23382"/>
+		<ar pt="2611200712" pp="4" l="RE87" fb="RE87" ppth="Wertheim|Wertheim-Bestenheid|Hasloch(Main)|Faulbach(Main)|Stadtprozelten|Dorfprozelten|Collenberg|Freudenberg-Kirschfurt|Miltenberg|Klingenberg(Main)|Erlenbach(Main)|Obernburg-Elsenfeld|Kleinwallstadt"/>
+		<tra t="v" id="2033087527362739963" ref-from="-481855443363453281-2611200555" s="a" o="p" jt="s"/>
+	</s>
+	<s id="-481855443363453281-2611200555-6">
+		<tl f="N" t="p" o="800603" c="RE" n="23502"/>
+		<ar pt="2611200712" pp="4" l="RB84" fb="RB84" wings="-5553668971253116721-2611200556" pde="Walldürn" ppth="Miltenberg|Klingenberg(Main)|Erlenbach(Main)|Obernburg-Elsenfeld|Kleinwallstadt"/>
+		<tra t="v" id="2033087527362739963" ref-to="-5553668971253116721-2611200556" s="a" o="p" jt="s"/>
+	</s>
+	<s id="7394109930998860120-2611200644-14">
+		<tl f="N" t="p" o="800603" c="RB" n="23306"/>
+		<ar pt="2611200729" pp="3" l="RB88" fb="RB88" ppth="Miltenberg|Kleinheubach|Laudenbach am Main|Klingenberg(Main)|Wörth(Main)|Erlenbach(Main)|Glanzstoffwerke|Obernburg-Elsenfeld|Kleinwallstadt|Sulzbach(Main)|Obernau|Aschaffenburg Süd|Aschaffenburg Hochschule"/>
+	</s>
+	<s id="-6911417190932144851-2611200709-14">
+		<tl f="N" t="p" o="800603" c="RB" n="23308"/>
+		<ar pt="2611200758" pp="1" l="RB88" fb="RB88" ppth="Miltenberg|Kleinheubach|Laudenbach am Main|Klingenberg(Main)|Wörth(Main)|Erlenbach(Main)|Glanzstoffwerke|Obernburg-Elsenfeld|Kleinwallstadt|Sulzbach(Main)|Obernau|Aschaffenburg Süd|Aschaffenburg Hochschule"/>
+	</s>
+	<s id="-7090828354479435673-2611200718-1">
+		<tl f="N" t="p" o="800603" c="RE" n="4383"/>
+		<dp pt="2611200718" pp="4" l="RE87" fb="RE87" ppth="Kleinwallstadt|Obernburg-Elsenfeld|Erlenbach(Main)|Klingenberg(Main)|Miltenberg|Freudenberg-Kirschfurt|Collenberg|Dorfprozelten|Stadtprozelten|Faulbach(Main)|Hasloch(Main)|Wertheim-Bestenheid|Wertheim"/>
+	</s>
+	<s id="8921383679391718308-2611200736-1">
+		<tl f="N" t="p" o="800603" c="RB" n="23339"/>
+		<dp pt="2611200736" pp="4" l="RB88" fb="RB88" ppth="Aschaffenburg Hochschule|Aschaffenburg Süd"/>
+	</s>
+	<s id="9114390335297358142-2611200746-3">
+		<tl f="N" t="p" o="800603" c="RB" n="23338"/>
+		<ar pt="2611200752" pp="4" l="RB88" fb="RB88" ppth="Aschaffenburg Süd|Aschaffenburg Hochschule"/>
+	</s>
+</timetable>
