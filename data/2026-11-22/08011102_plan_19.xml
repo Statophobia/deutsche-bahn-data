@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="2417946036128754395-2611221434-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1004"/>
+		<ar pt="2611221931" pp="8" fb="ICE 1004" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="2304107613709765019-2611221804-9">
+		<tl f="N" t="p" o="800158" c="RE" n="3355"/>
+		<ar pt="2611221921" pp="6" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)"/>
+		<dp pt="2611221924" pp="6" l="RE3" fb="RE3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde"/>
+	</s>
+	<s id="2484299137112221287-2611221808-8">
+		<tl t="p" o="NBRB63" c="NEB" n="55797"/>
+		<ar pt="2611221858" pp="5" l="RB63" fb="RB63" ppth="Joachimsthal|Joachimsthal Kaiserbahnhof|Alt Hüttendorf|Golzow(Eberswalde)|Britz|Eberswalde Hbf|Bernau(b Berlin)"/>
+		<dp pt="2611221902" pp="5" l="RB63" fb="RB63" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-3380784768615387425-2611221835-10">
+		<tl f="N" t="p" o="800158" c="RE" n="3316"/>
+		<ar pt="2611221928" pp="9" l="RE3" fb="RE3" ppth="Luckenwalde|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+		<dp pt="2611221932" pp="9" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Eberswalde Hbf|Britz|Chorin|Angermünde|Wilmersdorf(Angerm)|Warnitz(Uckermark)|Seehausen(Uckermark)|Prenzlau|Nechlin|Pasewalk|Jatznick|Ferdinandshof|Ducherow|Anklam|Klein Bünzow|Züssow|Groß Kiesow|Greifswald Süd|Greifswald|Jeeser|Miltzow|Wüstenfelde|Stralsund Hbf"/>
+	</s>
+	<s id="-2444454582694606152-2611221839-8">
+		<tl f="N" t="p" o="800165" c="RE" n="3130"/>
+		<ar pt="2611221919" pp="8" l="RE2" fb="RE2" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau"/>
+		<dp pt="2611221922" pp="8" l="RE2" fb="RE2" ppth="Berlin Ostkreuz|Berlin-Schöneweide"/>
+	</s>
+	<s id="-7944524159455826672-2611221851-2">
+		<tl f="F" t="p" o="80" c="ICE" n="836"/>
+		<ar pt="2611221855" pp="9" fb="ICE 836" hi="1" ppth="Berlin Hbf"/>
+		<dp pt="2611221904" pp="9" fb="ICE 836" ppth="Eberswalde Hbf|Prenzlau|Pasewalk|Anklam|Züssow|Greifswald|Stralsund Hbf"/>
+	</s>
+	<s id="6228365463182028347-2611221909-1">
+		<tl f="F" t="p" o="80" c="ICE" n="697"/>
+		<dp pt="2611221909" pp="7" fb="ICE 697" ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Eisenach Hbf|Fulda|Hanau Hbf|Frankfurt(Main)Hbf"/>
+	</s>
+	<s id="6254982524154510480-2611221917-3">
+		<tl f="N" t="p" o="800165" c="RE" n="3131"/>
+		<ar pt="2611221936" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2611221938" pp="7" l="RE2" fb="RE2" ppth="Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-3095351286217520651-2611221926-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1605"/>
+		<dp pt="2611221926" pp="7" fb="ICE 1605" ppth="Berlin Hbf|Berlin Südkreuz|Halle(Saale)Hbf|Erfurt Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+</timetable>
