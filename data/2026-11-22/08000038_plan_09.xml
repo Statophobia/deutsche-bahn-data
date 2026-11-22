@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Bietigheim-Bissingen">
+	<s id="2425529733629946465-2611220737-8">
+		<tl t="p" o="GARE" c="ARV" n="19059"/>
+		<ar pt="2611220930" pp="10" l="RE8" fb="RE8" ppth="Würzburg Hbf|Lauda|Osterburken|Möckmühl|Bad Friedrichshall Hbf|Neckarsulm|Heilbronn Hbf"/>
+		<dp pt="2611220932" pp="10" l="RE8" fb="RE8" ppth="Ludwigsburg|Stuttgart Hbf"/>
+	</s>
+	<s id="-6328820394968390898-2611220846-3">
+		<tl f="N" t="p" o="SBSMEX" c="RE" n="19506"/>
+		<ar pt="2611220903" pp="7" l="MEX17" fb="MEX17" ppth="Stuttgart Hbf|Ludwigsburg"/>
+		<dp pt="2611220904" pp="7" l="MEX17" fb="MEX17" ppth="Ellental|Sachsenheim|Sersheim|Vaihingen(Enz)|Illingen(Württ)|Mühlacker Rößlesweg|Mühlacker|Enzberg|Niefern|Eutingen(Baden)|Pforzheim Hbf"/>
+	</s>
+	<s id="6917320209796903914-2611220852-12">
+		<tl f="S" t="p" o="800643" c="S" n="7516"/>
+		<ar pt="2611220924" pp="6" l="S5" fb="S5" ppth="Stuttgart Schwabstr.|Stuttgart Feuersee|Stuttgart Stadtmitte|Stuttgart Hbf (tief)|Stuttgart Nordbahnhof|Stuttgart-Feuerbach|Stuttgart-Zuffenhausen|Kornwestheim Pbf|Ludwigsburg|Asperg|Tamm(Württ)"/>
+	</s>
+	<s id="-8972942860695039210-2611220907-1">
+		<tl f="S" t="p" o="800643" c="S" n="7519"/>
+		<dp pt="2611220907" pp="5" l="S5" fb="S5" ppth="Tamm(Württ)|Asperg|Ludwigsburg|Kornwestheim Pbf|Stuttgart-Zuffenhausen|Stuttgart-Feuerbach|Stuttgart Nordbahnhof|Stuttgart Hbf (tief)|Stuttgart Stadtmitte|Stuttgart Feuersee|Stuttgart Schwabstr."/>
+	</s>
+	<s id="3813404482368696274-2611220914-12">
+		<tl f="N" t="p" o="SBSMEX" c="RE" n="19511"/>
+		<ar pt="2611220949" pp="4" l="MEX17" fb="MEX17" ppth="Pforzheim Hbf|Eutingen(Baden)|Niefern|Enzberg|Mühlacker|Mühlacker Rößlesweg|Illingen(Württ)|Vaihingen(Enz)|Sersheim|Sachsenheim|Ellental"/>
+		<dp pt="2611220950" pp="4" l="MEX17" fb="MEX17" ppth="Ludwigsburg|Stuttgart Hbf"/>
+	</s>
+	<s id="-3682815568361595216-2611220922-12">
+		<tl f="S" t="p" o="800643" c="S" n="7518"/>
+		<ar pt="2611220954" pp="6" l="S5" fb="S5" ppth="Stuttgart Schwabstr.|Stuttgart Feuersee|Stuttgart Stadtmitte|Stuttgart Hbf (tief)|Stuttgart Nordbahnhof|Stuttgart-Feuerbach|Stuttgart-Zuffenhausen|Kornwestheim Pbf|Ludwigsburg|Asperg|Tamm(Württ)"/>
+	</s>
+	<s id="2383309551233687619-2611220937-1">
+		<tl f="S" t="p" o="800643" c="S" n="7521"/>
+		<dp pt="2611220937" pp="5" l="S5" fb="S5" ppth="Tamm(Württ)|Asperg|Ludwigsburg|Kornwestheim Pbf|Stuttgart-Zuffenhausen|Stuttgart-Feuerbach|Stuttgart Nordbahnhof|Stuttgart Hbf (tief)|Stuttgart Stadtmitte|Stuttgart Feuersee|Stuttgart Schwabstr."/>
+	</s>
+</timetable>

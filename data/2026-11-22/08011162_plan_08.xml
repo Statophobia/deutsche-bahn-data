@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="-2045143758051766717-2611220501-3">
+		<tl f="F" t="p" o="80" c="IC" n="2173"/>
+		<ar pt="2611220826" pp="13" fb="IC 2173" ppth="Rostock Hbf|Schwerin Hbf"/>
+		<dp pt="2611220828" pp="13" fb="IC 2173" ppth="Schönefeld(bei Berlin)|Elsterwerda|Dresden-Neustadt|Dresden Hbf"/>
+	</s>
+	<s id="-6962769014522283813-2611220804-9">
+		<tl t="p" o="NBRB25" c="NEB" n="61256"/>
+		<ar pt="2611220842" pp="8" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde|Berlin-Lichtenberg"/>
+	</s>
+	<s id="-2777167511325741194-2611220809-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18308"/>
+		<ar pt="2611220839" pp="14" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Schönefeld(bei Berlin)|Berlin-Schöneweide"/>
+		<dp pt="2611220841" pp="14" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="-3100272823306475134-2611220817-2">
+		<tl f="N" t="p" o="800165" c="RE" n="3109"/>
+		<ar pt="2611220823" pp="14" l="RE2" fb="RE2" ppth="Berlin-Schöneweide"/>
+	</s>
+	<s id="-829652362330991075-2611220817-2">
+		<tl f="N" t="p" o="800165" c="RB" n="18309"/>
+		<ar pt="2611220820" pp="13" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg"/>
+		<dp pt="2611220822" pp="13" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Schönefeld(bei Berlin)|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-7150155366054592457-2611220822-1">
+		<tl t="p" o="NBRB25" c="NEB" n="61187"/>
+		<dp pt="2611220822" pp="8" l="RB25" fb="RB25" ppth="Berlin-Lichtenberg|Ahrensfelde|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen"/>
+	</s>
+	<s id="355199333254034785-2611220840-1">
+		<tl f="N" t="p" o="800165" c="RE" n="3108"/>
+		<dp pt="2611220840" pp="13" l="RE2" fb="RE2" ppth="Berlin-Schöneweide"/>
+	</s>
+</timetable>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="4851193275654738180-2611220430-8">
+		<tl f="F" t="p" o="80" c="ICE" n="1104"/>
+		<ar pt="2611220931" pp="8" fb="ICE 1104" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="2400510846142191970-2611220804-9">
+		<tl f="N" t="p" o="800158" c="RE" n="3345"/>
+		<ar pt="2611220921" pp="6" l="RE3" fb="RE3" ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)"/>
+		<dp pt="2611220924" pp="6" l="RE3" fb="RE3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde"/>
+	</s>
+	<s id="5714525681559178841-2611220835-10">
+		<tl f="N" t="p" o="800158" c="RE" n="3306"/>
+		<ar pt="2611220928" pp="9" l="RE3" fb="RE3" ppth="Luckenwalde|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+		<dp pt="2611220932" pp="9" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Eberswalde Hbf|Britz|Chorin|Angermünde|Wilmersdorf(Angerm)|Warnitz(Uckermark)|Seehausen(Uckermark)|Prenzlau|Nechlin|Pasewalk|Jatznick|Ferdinandshof|Ducherow|Anklam|Klein Bünzow|Züssow|Groß Kiesow|Greifswald Süd|Greifswald|Jeeser|Miltzow|Wüstenfelde|Stralsund Hbf"/>
+	</s>
+	<s id="7565717004203005765-2611220849-3">
+		<tl f="F" t="p" o="80" c="ICE" n="936"/>
+		<ar pt="2611220902" pp="7" fb="ICE 936" ppth="Berlin Südkreuz|Berlin Hbf"/>
+		<dp pt="2611220903" pp="7" fb="ICE 936" ppth="Eberswalde Hbf|Pasewalk|Züssow|Greifswald|Stralsund Hbf|Bergen auf Rügen|Ostseebad Binz"/>
+	</s>
+	<s id="8090586071343947628-2611220917-3">
+		<tl f="N" t="p" o="800165" c="RE" n="3111"/>
+		<ar pt="2611220940" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2611220942" pp="7" l="RE2" fb="RE2" ppth="Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="-3446193035020279426-2611220926-1">
+		<tl f="F" t="p" o="80" c="ICE" n="1505"/>
+		<dp pt="2611220926" pp="7" fb="ICE 1505" ppth="Berlin Hbf|Halle(Saale)Hbf|Erfurt Hbf|Nürnberg Hbf|Ingolstadt Hbf|München Hbf"/>
+	</s>
+</timetable>

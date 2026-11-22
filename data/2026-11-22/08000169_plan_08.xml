@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<timetable station="Hildesheim Hbf">
+	<s id="-3361570864386216521-2611220723-7">
+		<tl t="p" o="R0" c="ENO" n="83556"/>
+		<ar pt="2611220808" pp="4" l="RE50" fb="RE50" ppth="Fallersleben|Weddel(Braunschw)|Braunschweig Hbf|Lengede-Broistedt|Woltwiesche|Hoheneggelsen"/>
+	</s>
+	<s id="3425616237654235264-2611220729-8">
+		<tl f="N" t="p" o="RSNM" c="RB" n="14555"/>
+		<ar pt="2611220820" pp="1" l="RB77" fb="RB77" ppth="Hameln|Coppenbrügge|Marienau|Osterwald|Elze(Han)|Nordstemmen|Emmerke"/>
+	</s>
+	<s id="2352141132930377893-2611220734-10">
+		<tl t="p" o="TDHS" c="SBH" n="34307"/>
+		<ar pt="2611220813" pp="5" l="S3" fb="S3" ppth="Hannover Hbf|Hannover-Kleefeld|Hannover Karl-Wiechert-Allee|Hannover Anderten-Misburg|Ahlten|Lehrte|Sehnde|Algermissen|Harsum"/>
+	</s>
+	<s id="-8125694910409443478-2611220746-7">
+		<tl f="D" t="p" o="X2" c="erx" n="83457"/>
+		<ar pt="2611220813" pp="2" l="RE10" fb="RE10" ppth="Hannover Hbf|Hannover Messe/Laatzen|Rethen(Leine)|Sarstedt|Barnten|Emmerke"/>
+		<dp pt="2611220814" pp="2" l="RE10" fb="RE10" ppth="Hildesheim Ost|Derneburg(Han)|Baddeckenstedt|Salzgitter-Ringelheim|Goslar|Bad Harzburg"/>
+	</s>
+	<s id="-4764559898130404916-2611220748-7">
+		<tl f="D" t="p" o="X2" c="erx" n="83458"/>
+		<ar pt="2611220842" pp="3" l="RE10" fb="RE10" ppth="Bad Harzburg|Goslar|Salzgitter-Ringelheim|Baddeckenstedt|Derneburg(Han)|Hildesheim Ost"/>
+		<dp pt="2611220844" pp="3" l="RE10" fb="RE10" ppth="Emmerke|Barnten|Sarstedt|Rethen(Leine)|Hannover Messe/Laatzen|Hannover Hbf"/>
+	</s>
+	<s id="7901836588506259686-2611220834-1">
+		<tl f="N" t="p" o="RSNM" c="RB" n="14455"/>
+		<dp pt="2611220834" pp="1" l="RB79" fb="RB79" ppth="Hildesheim Ost|Groß Düngen|Wesseln|Bad Salzdetfurth Solebad|Bad Salzdetfurth|Bodenburg"/>
+	</s>
+	<s id="694606934817283359-2611220834-1">
+		<tl f="N" t="p" o="RSNM" c="RB" n="14558"/>
+		<dp pt="2611220834" pp="4" l="RB77" fb="RB77" ppth="Emmerke|Nordstemmen|Elze(Han)|Osterwald|Marienau|Coppenbrügge|Hameln|Hessisch Oldendorf|Rinteln|Vlotho|Bad Oeynhausen Süd|Löhne(Westf)|Herford"/>
+	</s>
+	<s id="-6099427385403588230-2611220843-1">
+		<tl t="p" o="TDHS" c="SBH" n="34308"/>
+		<dp pt="2611220843" pp="5" l="S3" fb="S3" ppth="Harsum|Algermissen|Sehnde|Lehrte|Ahlten|Hannover Anderten-Misburg|Hannover Karl-Wiechert-Allee|Hannover-Kleefeld|Hannover Hbf"/>
+	</s>
+	<s id="-2688464849828107808-2611220850-1">
+		<tl t="p" o="R0" c="ENO" n="83559"/>
+		<dp pt="2611220850" pp="4" l="RE50" fb="RE50" ppth="Hoheneggelsen|Woltwiesche|Lengede-Broistedt|Braunschweig Hbf|Weddel(Braunschw)|Fallersleben"/>
+	</s>
+</timetable>

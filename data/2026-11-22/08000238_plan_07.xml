@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="6885212790092918782-2611220627-4">
+		<tl f="F" t="p" o="80" c="ICE" n="1686"/>
+		<ar pt="2611220725" pp="2" fb="ICE 1686" ppth="Hannover Hbf|Celle|Uelzen"/>
+		<dp pt="2611220727" pp="2" fb="ICE 1686" ppth="Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="1273081990742197177-2611220633-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81611"/>
+		<ar pt="2611220721" pp="6" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="615896162826001886-2611220651-5">
+		<tl f="D" t="p" o="X1" c="erx" n="21105"/>
+		<ar pt="2611220717" pp="5" l="RE83" fb="RE83" ppth="Büchen|Lauenburg(Elbe)|Echem|Adendorf"/>
+	</s>
+	<s id="2897765782443439104-2611220653-4">
+		<tl f="F" t="p" o="80" c="ICE" n="583"/>
+		<ar pt="2611220728" pp="1" fb="ICE 583" ppth="Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg"/>
+		<dp pt="2611220730" pp="1" fb="ICE 583" ppth="Hannover Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Würzburg Hbf|Nürnberg Hbf"/>
+	</s>
+	<s id="-4970238895119907177-2611220656-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82111"/>
+		<ar pt="2611220734" pp="1" l="RE3" fb="RE3" ppth="Hamburg Hbf|Hamburg-Harburg|Winsen(Luhe)"/>
+		<dp pt="2611220735" pp="1" l="RE3" fb="RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="4733426678694405219-2611220700-4">
+		<tl f="D" t="p" o="R1" c="ME" n="82110"/>
+		<ar pt="2611220723" pp="3" l="RE3" fb="RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+		<dp pt="2611220731" pp="3" l="RE3" fb="RE3" ppth="Winsen(Luhe)|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-1656742390364091013-2611220734-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81610"/>
+		<dp pt="2611220734" pp="6" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-2803109567097268183-2611220744-1">
+		<tl f="D" t="p" o="X1" c="erx" n="21108"/>
+		<dp pt="2611220744" pp="5" l="RE83" fb="RE83" ppth="Adendorf|Echem|Lauenburg(Elbe)|Büchen"/>
+	</s>
+</timetable>
