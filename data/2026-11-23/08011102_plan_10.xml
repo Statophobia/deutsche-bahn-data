@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="1230866361709302641-2611221745-6">
+		<tl t="p" o="5188" c="ES" n="475"/>
+		<ar pt="2611231001" pp="5" fb="ES 475" ppth="Paris Nord|Aulnoye Aymeries|Mons|Bruxelles Midi|Hamburg-Harburg"/>
+	</s>
+	<s id="6284591161410129597-2611230445-8">
+		<tl f="F" t="p" o="80" c="ICE" n="551"/>
+		<ar pt="2611231024" pp="8" fb="ICE 551" ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Bielefeld Hbf|Hannover Hbf|Magdeburg Hbf|Berlin Hbf"/>
+	</s>
+	<s id="-6417234063813327523-2611230615-9">
+		<tl f="F" t="p" o="80" c="ICE" n="696"/>
+		<ar pt="2611231043" pp="8" fb="ICE 696" ppth="Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-7368990239716967650-2611230710-25">
+		<tl f="N" t="p" o="800158" c="RE" n="3305"/>
+		<ar pt="2611231022" pp="6" l="RE3" fb="RE3" ppth="Stralsund Hbf|Wüstenfelde|Miltzow|Jeeser|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)"/>
+		<dp pt="2611231024" pp="6" l="RE3" fb="RE3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog|Niedergörsdorf|Blönsdorf|Zahna|Bülzig|Zörnigall|Lutherstadt Wittenberg Hbf"/>
+	</s>
+	<s id="-2448703785234510806-2611230807-8">
+		<tl f="F" t="p" o="80" c="ICE" n="839"/>
+		<ar pt="2611231054" pp="6" fb="ICE 839" ppth="Stralsund Hbf|Greifswald|Züssow|Anklam|Pasewalk|Prenzlau|Eberswalde Hbf"/>
+		<dp pt="2611231056" pp="6" fb="ICE 839" ppth="Berlin Hbf|Berlin Südkreuz"/>
+	</s>
+	<s id="-4616181694739111404-2611230852-18">
+		<tl f="N" t="p" o="800158" c="RE" n="3346"/>
+		<ar pt="2611231028" pp="9" l="RE3" fb="RE3" ppth="Lutherstadt Wittenberg Hbf|Zörnigall|Bülzig|Zahna|Blönsdorf|Niedergörsdorf|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf"/>
+		<dp pt="2611231032" pp="9" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Eberswalde Hbf|Britz|Chorin|Angermünde|Pinnow(Uckermark)|Schwedt(Oder)Mitte|Schwedt(Oder)"/>
+	</s>
+	<s id="7731476269399949882-2611230939-8">
+		<tl f="N" t="p" o="800165" c="RE" n="3112"/>
+		<ar pt="2611231019" pp="10" l="RE2" fb="RE2" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau"/>
+		<dp pt="2611231022" pp="10" l="RE2" fb="RE2" ppth="Berlin Ostkreuz|Berlin-Schöneweide"/>
+	</s>
+	<s id="5751097824041709293-2611231017-3">
+		<tl f="N" t="p" o="800165" c="RE" n="3113"/>
+		<ar pt="2611231036" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
+	</s>
+</timetable>
