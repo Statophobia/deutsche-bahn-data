@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Südkreuz">
+	<s id="3047105789337550475-2611231310-12">
+		<tl t="p" o="81" c="RJ" n="250"/>
+		<ar pt="2611232232" pp="7" fb="RJ 250" ppth="Wien Hbf|Breclav|Brno hl.n.|Ceska Trebova|Pardubice hl.n.|Praha-Holesovice|Usti nad Labem hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Dresden-Neustadt"/>
+		<dp pt="2611232241" pp="7" fb="RJ 250" hi="1" ppth="Berlin Hbf"/>
+	</s>
+	<s id="1140779865956290650-2611231445-13">
+		<tl f="F" t="p" o="80" c="ICE" n="594"/>
+		<ar pt="2611232222" pp="6" fb="ICE 594" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf"/>
+		<dp pt="2611232224" pp="6" fb="ICE 594" hi="1" ppth="Berlin Hbf|Berlin Gesundbrunnen"/>
+	</s>
+	<s id="-2616944828009755301-2611231614-14">
+		<tl t="p" o="FLX30" c="FLX" n="1327"/>
+		<ar pt="2611232249" pp="4" l="30" fb="FLX 1327" ppth="Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Gütersloh Hbf|Bielefeld Hbf|Hannover Hbf|Potsdam Hbf|Berlin-Wannsee|Berlin Hbf"/>
+	</s>
+	<s id="-7724390263517347378-2611231708-9">
+		<tl f="F" t="p" o="80" c="ICE" n="702"/>
+		<ar pt="2611232158" pp="6" fb="ICE 702" ppth="München Hbf|München-Pasing|Augsburg Hbf|Donauwörth|Nürnberg Hbf|Bamberg|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2611232200" pp="6" fb="ICE 702" ppth="Berlin Hbf|Berlin-Spandau|Wittenberge|Ludwigslust|Büchen|Hamburg Hbf|Hamburg-Altona"/>
+	</s>
+	<s id="-4311660409771390843-2611231734-6">
+		<tl f="F" t="p" o="80" c="ICE" n="1502"/>
+		<ar pt="2611232217" pp="6" fb="ICE 1502" ppth="München Hbf|Ingolstadt Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf"/>
+		<dp pt="2611232219" pp="6" fb="ICE 1502" hi="1" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-8196009632544207530-2611231936-8">
+		<tl f="F" t="p" o="80" c="ICE" n="807"/>
+		<ar pt="2611232205" pp="4" fb="ICE 807" ppth="Hamburg-Altona|Hamburg Hbf|Büchen|Ludwigslust|Wittenberge|Berlin-Spandau|Berlin Hbf"/>
+	</s>
+	<s id="3499338043235512572-2611232018-6">
+		<tl f="F" t="p" o="80" c="ICE" n="609"/>
+		<ar pt="2611232233" pp="5" fb="ICE 609" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Berlin-Spandau|Berlin Hbf"/>
+		<dp pt="2611232235" pp="5" fb="ICE 609" ppth="Lutherstadt Wittenberg Hbf|Bitterfeld|Leipzig Hbf"/>
+	</s>
+	<s id="-4243497460615869969-2611232105-14">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62034"/>
+		<ar pt="2611232251" pp="3" l="RE8" fb="RE8" ppth="Wittenberge|Bad Wilsnack|Glöwen|Breddin|Neustadt(Dosse)|Friesack(Mark)|Paulinenaue|Nauen|Falkensee|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz"/>
+		<dp pt="2611232254" pp="3" l="RE8" fb="RE8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)"/>
+	</s>
+	<s id="2564341677225037754-2611232120-9">
+		<tl f="D" t="p" o="OWRE" c="OE" n="62037"/>
+		<ar pt="2611232205" pp="8" l="RE8" fb="RE8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)"/>
+		<dp pt="2611232207" pp="8" l="RE8" fb="RE8" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen|Paulinenaue|Friesack(Mark)|Neustadt(Dosse)|Breddin|Glöwen|Bad Wilsnack|Wittenberge"/>
+	</s>
+	<s id="2850484104831128676-2611232204-10">
+		<tl f="N" t="p" o="800158" c="RE" n="3185"/>
+		<ar pt="2611232253" pp="6" l="RE4" fb="RE4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost"/>
+		<dp pt="2611232255" pp="6" l="RE4" fb="RE4" ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau"/>
+	</s>
+</timetable>

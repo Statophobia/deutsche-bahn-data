@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Ostkreuz">
+	<s id="-6735446267131387257-2611231925-6">
+		<tl t="p" o="NBRB26" c="NEB" n="61449"/>
+		<ar pt="2611232013" pp="8" l="RB26" fb="RB26" ppth="Müncheberg(Mark)|Rehfelde|Herrensee|Strausberg|Berlin-Lichtenberg"/>
+	</s>
+	<s id="-2676226327427821238-2611231934-9">
+		<tl t="p" o="NBRB25" c="NEB" n="61246"/>
+		<ar pt="2611232017" pp="7" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde|Berlin-Lichtenberg"/>
+	</s>
+	<s id="-8757138963653040750-2611231935-8">
+		<tl f="N" t="p" o="800165" c="RB" n="18333"/>
+		<ar pt="2611232020" pp="13" l="RB24" fb="RB24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen|Berlin-Lichtenberg"/>
+		<dp pt="2611232022" pp="13" l="RB24" fb="RB24" ppth="Berlin-Schöneweide|Schönefeld(bei Berlin)|Blankenfelde(Teltow-Fläming)"/>
+	</s>
+	<s id="-1362454304566545581-2611231939-9">
+		<tl f="N" t="p" o="800165" c="RE" n="3132"/>
+		<ar pt="2611232036" pp="13" l="RE2" fb="RE2" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau|Berlin Gesundbrunnen"/>
+		<dp pt="2611232040" pp="13" l="RE2" fb="RE2" ppth="Berlin-Schöneweide"/>
+	</s>
+	<s id="-2933132945390707241-2611232004-9">
+		<tl t="p" o="NBRB25" c="NEB" n="61212"/>
+		<ar pt="2611232048" pp="14" l="RB25" fb="RB25" ppth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Ahrensfelde|Berlin-Lichtenberg"/>
+	</s>
+	<s id="7193571171946595806-2611232009-4">
+		<tl f="N" t="p" o="800165" c="RB" n="18332"/>
+		<ar pt="2611232039" pp="14" l="RB24" fb="RB24" ppth="Blankenfelde(Teltow-Fläming)|Schönefeld(bei Berlin)|Berlin-Schöneweide"/>
+		<dp pt="2611232041" pp="14" l="RB24" fb="RB24" ppth="Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf"/>
+	</s>
+	<s id="3748841046792728610-2611232017-2">
+		<tl f="N" t="p" o="800165" c="RE" n="3133"/>
+		<ar pt="2611232023" pp="14" l="RE2" fb="RE2" ppth="Berlin-Schöneweide"/>
+		<dp pt="2611232025" pp="14" l="RE2" fb="RE2" ppth="Berlin Gesundbrunnen|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="654110932469528549-2611232022-1">
+		<tl t="p" o="NBRB25" c="NEB" n="61211"/>
+		<dp pt="2611232022" pp="7" l="RB25" fb="RB25" ppth="Berlin-Lichtenberg|Ahrensfelde|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen"/>
+	</s>
+</timetable>

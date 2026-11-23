@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<timetable station="Berlin Gesundbrunnen">
+	<s id="1140779865956290650-2611231445-15">
+		<tl f="F" t="p" o="80" c="ICE" n="594"/>
+		<ar pt="2611232243" pp="8" fb="ICE 594" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf"/>
+	</s>
+	<s id="-157208555968192668-2611231644-8">
+		<tl f="F" t="p" o="80" c="ICE" n="653"/>
+		<ar pt="2611232224" pp="8" fb="ICE 653" ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Bielefeld Hbf|Hannover Hbf|Magdeburg Hbf|Berlin Hbf"/>
+	</s>
+	<s id="410819220737616700-2611231910-25">
+		<tl f="N" t="p" o="800158" c="RE" n="93317"/>
+		<ar pt="2611232222" pp="" l="RE3" fb="RE3" ppth="Stralsund Hbf|Wüstenfelde|Miltzow|Jeeser|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)"/>
+	</s>
+	<s id="1128076412803105587-2611232155-4">
+		<tl f="N" t="p" o="800165" c="RE" n="19941"/>
+		<ar pt="2611232225" pp="" l="FEX" fb="FEX" ppth="Schönefeld(bei Berlin)|Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2611232229" pp="" l="FEX" fb="FEX" ppth="Berlin Hbf"/>
+	</s>
+	<s id="-2505510621797759722-2611232208-9">
+		<tl f="N" t="p" o="800165" c="RE" n="3136"/>
+		<ar pt="2611232248" pp="10" l="RE2" fb="RE2" ppth="Nauen|Brieselang|Finkenkrug|Falkensee|Seegefeld|Albrechtshof|Berlin-Spandau|Berlin Jungfernheide"/>
+		<dp pt="2611232250" pp="10" l="RE2" fb="RE2" ppth="Berlin Ostkreuz|Berlin-Schöneweide"/>
+	</s>
+	<s id="6777589011489729278-2611232217-3">
+		<tl f="N" t="p" o="800165" c="RE" n="3137"/>
+		<ar pt="2611232234" pp="7" l="RE2" fb="RE2" ppth="Berlin-Schöneweide|Berlin Ostkreuz"/>
+		<dp pt="2611232240" pp="7" l="RE2" fb="RE2" ppth="Berlin Jungfernheide|Berlin-Spandau|Albrechtshof|Seegefeld|Falkensee|Finkenkrug|Brieselang|Nauen"/>
+	</s>
+	<s id="2835798163509580205-2611232232-1">
+		<tl f="N" t="p" o="800158" c="RE" n="93358"/>
+		<dp pt="2611232232" pp="" l="RE3" fb="RE3" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf|Britz|Chorin|Angermünde|Pinnow(Uckermark)|Schwedt(Oder)Mitte|Schwedt(Oder)"/>
+	</s>
+</timetable>
