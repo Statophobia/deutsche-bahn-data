@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="1389824764394513899-2611270501-4">
+		<tl t="p" o="R1" c="Bus" n="6208"/>
+		<ar pt="2611270606" pp="" l="RB31" fb="Bus RB31" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+	</s>
+	<s id="-1869934760136043055-2611270521-3">
+		<tl t="p" o="R1" c="Bus" n="6808"/>
+		<ar pt="2611270626" pp="" l="RB31" fb="Bus RB31" ppth="Uelzen|Bad Bevensen"/>
+	</s>
+	<s id="6786330195269430117-2611270533-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81609"/>
+		<ar pt="2611270624" pp="6" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="3416699011799037628-2611270551-5">
+		<tl f="D" t="p" o="X1" c="erx" n="21143"/>
+		<ar pt="2611270617" pp="5" l="RE83" fb="RE83" ppth="Büchen|Lauenburg(Elbe)|Echem|Adendorf"/>
+	</s>
+	<s id="8907657918283042382-2611270551-4">
+		<tl t="p" o="R1" c="Bus" n="7262"/>
+		<ar pt="2611270656" pp="" l="RE3" fb="Bus RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+	</s>
+	<s id="3496144493444704468-2611270604-1">
+		<tl t="p" o="R1" c="Bus" n="7707"/>
+		<dp pt="2611270604" pp="" l="RB31" fb="Bus RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="-6597539225702539107-2611270626-1">
+		<tl f="D" t="p" o="X1" c="erx" n="21146"/>
+		<dp pt="2611270626" pp="5" l="RE83" fb="RE83" ppth="Adendorf|Echem|Lauenburg(Elbe)|Büchen"/>
+	</s>
+	<s id="-8254610297767882258-2611270634-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81608"/>
+		<dp pt="2611270634" pp="6" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="7050076394713894797-2611270643-1">
+		<tl t="p" o="R1" c="Bus" n="7109"/>
+		<dp pt="2611270643" pp="" l="RE3" fb="Bus RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="5394381815670541002-2611270655-1">
+		<tl t="p" o="R1" c="Bus" n="6309"/>
+		<dp pt="2611270655" pp="" l="RE3" fb="Bus RE3" ppth="Uelzen|Suderburg"/>
+	</s>
+</timetable>
