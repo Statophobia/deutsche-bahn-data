@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<timetable station="Lüneburg">
+	<s id="-7925560281057274211-2611281638-4">
+		<tl t="p" o="R1" c="Bus" n="6280"/>
+		<ar pt="2611281809" pp="" l="RE3" fb="Bus RE3" ppth="Suderburg|Uelzen|Bad Bevensen"/>
+	</s>
+	<s id="-759504216240404199-2611281721-4">
+		<tl t="p" o="R1" c="Bus" n="6880"/>
+		<ar pt="2611281826" pp="" l="RE3" fb="Bus RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+	</s>
+	<s id="-3779834972062061380-2611281733-10">
+		<tl f="D" t="p" o="R1" c="ME" n="81633"/>
+		<ar pt="2611281824" pp="6" l="RB31" fb="RB31" ppth="Hamburg Hbf|Hamburg-Harburg|Meckelfeld|Maschen|Stelle|Ashausen|Winsen(Luhe)|Radbruch|Bardowick"/>
+	</s>
+	<s id="-1550046245271010682-2611281741-4">
+		<tl t="p" o="R1" c="Bus" n="6980"/>
+		<ar pt="2611281846" pp="" l="RE3" fb="Bus RE3" ppth="Uelzen|Bad Bevensen|Bienenbüttel"/>
+	</s>
+	<s id="-1965525787223700493-2611281751-5">
+		<tl f="D" t="p" o="X1" c="erx" n="21127"/>
+		<ar pt="2611281817" pp="5" l="RE83" fb="RE83" ppth="Büchen|Lauenburg(Elbe)|Echem|Adendorf"/>
+	</s>
+	<s id="-3289665756408636788-2611281804-1">
+		<tl t="p" o="R1" c="Bus" n="6731"/>
+		<dp pt="2611281804" pp="" l="RE3" fb="Bus RE3" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="7050189253323348825-2611281829-2">
+		<tl t="p" o="R1" c="Bus" n="6733"/>
+		<ar pt="2611281854" pp="" l="RE3" fb="Bus RE3" ppth="Winsen(Luhe)"/>
+		<dp pt="2611281855" pp="" l="RE3" fb="Bus RE3" ppth="Uelzen|Suderburg"/>
+	</s>
+	<s id="-4196071307122765920-2611281834-1">
+		<tl f="D" t="p" o="R1" c="ME" n="81632"/>
+		<dp pt="2611281834" pp="6" l="RB31" fb="RB31" ppth="Bardowick|Radbruch|Winsen(Luhe)|Ashausen|Stelle|Maschen|Meckelfeld|Hamburg-Harburg|Hamburg Hbf"/>
+	</s>
+	<s id="-9117855062258479641-2611281834-1">
+		<tl t="p" o="R1" c="Bus" n="7133"/>
+		<dp pt="2611281834" pp="" l="RB31" fb="Bus RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+	<s id="-610635095744407354-2611281844-1">
+		<tl f="D" t="p" o="X1" c="erx" n="21130"/>
+		<dp pt="2611281844" pp="5" l="RE83" fb="RE83" ppth="Adendorf|Echem|Lauenburg(Elbe)|Büchen"/>
+	</s>
+	<s id="-4857374314274749202-2611281844-1">
+		<tl t="p" o="R1" c="Bus" n="6133"/>
+		<dp pt="2611281844" pp="" l="RB31" fb="Bus RB31" ppth="Bienenbüttel|Bad Bevensen|Uelzen"/>
+	</s>
+</timetable>
